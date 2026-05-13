@@ -1,7 +1,7 @@
 # Altare
 
 A Progressive Web App (PWA) companion for the Traditional Latin Mass (1962 Roman Missal).
-Features offline-first capabilities, automated liturgical calendar resolution, daily propers, and traditional devotions in multiple languages.
+Features offline-first capabilities, automated liturgical calendar resolution, daily propers, traditional devotions, and Papal meditations in multiple languages.
 
 ## Project Architecture
 - **Framework:** React 18 with TypeScript
@@ -27,6 +27,8 @@ Features offline-first capabilities, automated liturgical calendar resolution, d
    node scripts/build-ordo.js
    node scripts/translate-ordo.js
    node scripts/translate-prayers.js
+   node scripts/scrape-meditations.js
+   node scripts/translate-meditations.js
    ```
 
 3. **Start the Development Server:**
@@ -55,6 +57,8 @@ Dado que **Altare** es una aplicación PWA *completamente estática* (no requier
    node scripts/build-ordo.js
    node scripts/translate-ordo.js
    node scripts/translate-prayers.js
+   node scripts/scrape-meditations.js
+   node scripts/translate-meditations.js
    ```
 3. Genera la versión final optimizada para producción:
    ```bash

@@ -27,13 +27,14 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,json,woff2,png,svg}'],
+        maximumFileSizeToCacheInBytes: 5000000,
         runtimeCaching: [
           {
             urlPattern: /\/data\/.*/,
-            handler: 'CacheFirst',
+            handler: 'NetworkFirst',
             options: {
               cacheName: 'liturgical-data',
-              expiration: { maxEntries: 600, maxAgeSeconds: 60 * 60 * 24 * 365 }
+              expiration: { maxEntries: 800, maxAgeSeconds: 60 * 60 * 24 * 365 }
             }
           }
         ]

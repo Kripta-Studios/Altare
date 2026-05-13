@@ -1,4 +1,5 @@
 import { useEffect, useState, useMemo } from 'react';
+import { Link } from 'react-router-dom';
 import { BilingualText } from '../components/ui/BilingualText';
 import { getLiturgicalDay, getToday } from '../lib/calendar';
 
@@ -26,6 +27,19 @@ interface OrdoData {
 
 import { useSettingsStore } from '../store/useSettingsStore';
 import { useTranslation } from '../lib/i18n';
+import { Icon } from '../components/ui/Icon';
+
+const bookMap: Record<string, string> = {
+  'JUAN': 'John', 'JOHN': 'John', 'GV': 'John', 'JOH': 'John', 'JN': 'John', 'IOANNEM': 'John',
+  'LUCAS': 'Luke', 'LUKE': 'Luke', 'LC': 'Luke', 'LK': 'Luke', 'LUCAM': 'Luke',
+  'MATEO': 'Matthew', 'MATTHEW': 'Matthew', 'MT': 'Matthew', 'MATTHAEUM': 'Matthew',
+  'MARCOS': 'Mark', 'MARK': 'Mark', 'MC': 'Mark', 'MK': 'Mark', 'MARCUM': 'Mark'
+};
+
+function normalizeBook(name: string): string {
+  const n = name.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toUpperCase().replace(/\s/g, '');
+  return bookMap[n] || name;
+}
 
 export default function Mass() {
   const today = useMemo(() => getToday(), []);
@@ -35,6 +49,7 @@ export default function Mass() {
   
   const [proper, setProper] = useState<ProperData | null>(null);
   const [ordo, setOrdo] = useState<OrdoData | null>(null);
+  const [meditations, setMeditations] = useState<Record<string, Record<string, string>>>({});
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [showOrdinary, setShowOrdinary] = useState(true);
@@ -43,21 +58,20 @@ export default function Mass() {
     async function loadMass() {
       try {
         setLoading(true);
-        // The parser lowercased the IDs
         const properId = litDay.properId.toLowerCase();
         
-        // Fetch the proper for today
-        const properRes = await fetch(`/data/propers/${properId}.json`);
-        if (!properRes.ok) {
-          throw new Error(`Could not load proper for ${litDay.properId}`);
-        }
-        const properData = await properRes.json();
-        setProper(properData);
+        const [properRes, ordoRes, medRes] = await Promise.all([
+          fetch(`/data/propers/${properId}.json`),
+          fetch(`/data/ordinary/ordo.json`),
+          fetch(`/data/meditations.json?v=${Date.now()}`).catch(() => null)
+        ]);
 
-        const ordoRes = await fetch(`/data/ordinary/ordo.json`);
-        if (ordoRes.ok) {
-          const ordoData = await ordoRes.json();
-          setOrdo(ordoData);
+        if (properRes.ok) setProper(await properRes.json());
+        if (ordoRes.ok) setOrdo(await ordoRes.json());
+        if (medRes && medRes.ok) {
+          const medData = await medRes.json();
+          console.log('Meditations loaded:', Object.keys(medData).length);
+          setMeditations(medData);
         }
 
       } catch (err: any) {
@@ -69,6 +83,32 @@ export default function Mass() {
 
     loadMass();
   }, [litDay.properId]);
+
+  // Helper to find matching meditation
+  const getMeditation = (proper: ProperData | null) => {
+    if (!proper || !meditations) return null;
+    
+    const allText = JSON.stringify(proper);
+    // Find all markers globally
+    const markers = allText.matchAll(/!((?:\d\s*)?[A-Za-z]+)\s*(\d+):(\d+)(?:-(\d+))?/g);
+    
+    for (const match of markers) {
+      const book = normalizeBook(match[1].trim());
+      const chapter = match[2];
+      const startVerse = match[3];
+      const endVerse = match[4] ? `-${match[4]}` : '';
+      const key = `${book} ${chapter}:${startVerse}${endVerse}`;
+      
+      const entry = meditations[key];
+      if (entry) {
+        console.log('Meditation found for:', key);
+        return entry[vernacularLang] || entry['en'] || entry['it'] || entry['es'] || entry['de'] || entry['fr'] || null;
+      }
+    }
+    return null;
+  };
+
+  const meditation = getMeditation(proper);
 
   if (loading) {
     return (
@@ -246,6 +286,32 @@ export default function Mass() {
           </div>
         )}
       </div>
+
+      {meditation ? (
+        <div className="card animate-slide-up" style={{ marginBottom: 16, borderLeft: '4px solid var(--accent)', backgroundColor: 'rgba(var(--accent-rgb), 0.05)' }}>
+          <h2 style={{ fontSize: '1rem', marginBottom: '0.8rem', color: 'var(--accent)', fontFamily: 'var(--font-display)', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+            <Icon name="scroll" size={18} /> {t("Words of the Popes")}
+          </h2>
+          <p style={{ fontFamily: 'var(--font-body)', fontSize: '0.95rem', lineHeight: '1.6', color: 'var(--text-main)', fontStyle: 'italic', whiteSpace: 'pre-wrap' }}>
+            {meditation}
+          </p>
+          <p style={{ marginTop: '0.5rem', fontSize: '0.75rem', color: 'var(--text-muted)', textAlign: 'right' }}>
+            — Vatican News
+          </p>
+        </div>
+      ) : (
+        <div className="card animate-slide-up" style={{ marginBottom: 16, borderLeft: '4px solid var(--accent-soft)', backgroundColor: 'rgba(var(--accent-rgb), 0.02)', padding: '0.75rem 1rem' }}>
+          <Link to="/meditations" style={{ textDecoration: 'none', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+              <Icon name="book" size={16} color="var(--accent-soft)" />
+              <span style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', fontFamily: 'var(--font-ui)' }}>
+                {t("Search Papal meditation manually...")}
+              </span>
+            </div>
+            <span style={{ color: 'var(--accent)', fontSize: '1.2rem' }}>→</span>
+          </Link>
+        </div>
+      )}
 
       {showOrdinary && ordo && proper.hasCredo && (
         <div className="card animate-slide-up" style={{ marginBottom: 16 }}>

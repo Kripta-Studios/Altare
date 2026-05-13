@@ -1,6 +1,7 @@
 import { useState, useEffect, useMemo } from 'react';
 import { BilingualText } from '../components/ui/BilingualText';
 import { getToday } from '../lib/calendar';
+import { Icon } from '../components/ui/Icon';
 
 interface Mystery {
   num: number;
@@ -176,9 +177,10 @@ export default function Rosary() {
           <div className={`rosary-bead active ${beadType === 'large' ? 'large' : beadType === 'cross' ? 'cross' : ''}`} 
                style={{ background: beadType === 'cross' ? 'transparent' : 'var(--accent)', 
                         border: beadType === 'cross' ? 'none' : '',
-                        fontSize: beadType === 'cross' ? '2.5rem' : '' }}>
-            {beadType === 'cross' ? '✝' : ''}
-            {beadType === 'announce' ? '📖' : ''}
+                        fontSize: beadType === 'cross' ? '2.5rem' : '',
+                        display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+            {beadType === 'cross' && <Icon name="cross" size={32} color="var(--accent)" />}
+            {beadType === 'announce' && <Icon name="book" size={24} color="#fff" />}
           </div>
           {step < 78 && <div className="rosary-bead" style={{ opacity: 0.5, transform: 'scale(0.8)' }}></div>}
         </div>

@@ -1,6 +1,7 @@
 import { useSettingsStore } from '../store/useSettingsStore';
 
 const translations: Record<string, Record<string, string>> = {
+  "Search Papal meditation manually...": { es: "Buscar meditación papal manualmente...", fr: "Rechercher une méditation manuellement...", de: "Päpstliche Meditation manuell suchen...", it: "Cerca meditazione papale manualmente..." },
   "Settings": { es: "Ajustes", fr: "Paramètres", de: "Einstellungen", it: "Impostazioni" },
   "Preferences & Configuration": { es: "Preferencias y Configuración", fr: "Préférences et Configuration", de: "Einstellungen & Konfiguration", it: "Preferenze e Configurazione" },
   "Appearance": { es: "Apariencia", fr: "Apparence", de: "Aussehen", it: "Aspetto" },
@@ -12,6 +13,12 @@ const translations: Record<string, Record<string, string>> = {
   "Follow the Propers": { es: "Sigue los Propios", fr: "Suivez les Propres", de: "Folgen Sie den Proprien", it: "Segui i Propri" },
   "Daily Prayers": { es: "Oraciones Diarias", fr: "Prières Quotidiennes", de: "Tägliche Gebete", it: "Preghiere Quotidiane" },
   "Start your rule": { es: "Comienza tu regla", fr: "Commencez votre règle", de: "Beginnen Sie Ihre Regel", it: "Inizia la tua regola" },
+  "Library": { es: "Biblioteca", fr: "Bibliothèque", de: "Bibliothek", it: "Biblioteca" },
+  "Papal Meditations": { es: "Meditaciones Papales", fr: "Méditations Papales", de: "Päpstliche Meditationen", it: "Meditazioni Papali" },
+  "Words of the Popes Library": { es: "Biblioteca Palabras de los Papas", fr: "Bibliothèque Paroles des Papes", de: "Bibliothek Worte der Päpste", it: "Biblioteca Parole dei Papi" },
+  "Search by book, verse or text...": { es: "Busca por libro, versículo o texto...", fr: "Rechercher par livre, verset ou texte...", de: "Nach Buch, Vers oder Text suchen...", it: "Cerca per libro, versetto o testo..." },
+  "No meditations found for this search.": { es: "No se han encontrado meditaciones para esta búsqueda.", fr: "Aucune méditation trouvée pour cette recherche.", de: "Keine Meditationen für diese Suche gefunden.", it: "Nessuna meditazione trovata per questa ricerca." },
+  "Loading Library...": { es: "Cargando Biblioteca...", fr: "Chargement de la bibliothèque...", de: "Bibliothek wird geladen...", it: "Caricamento libreria..." },
   "Holy Rosary": { es: "Santo Rosario", fr: "Saint Rosaire", de: "Heiliger Rosenkranz", it: "Santo Rosario" },
   "Tap to view prayers": { es: "Toca para ver oraciones", fr: "Appuyez pour voir les prières", de: "Tippen, um Gebete anzuzeigen", it: "Tocca per vedere le preghiere" },
   "Tap to view today's Mass": { es: "Toca para ver la Misa de hoy", fr: "Appuyez pour voir la messe", de: "Tippen, um die Messe anzuzeigen", it: "Tocca per vedere la Messa" },
@@ -95,7 +102,8 @@ const translations: Record<string, Record<string, string>> = {
   "Sanctus": { es: "Sanctus", fr: "Sanctus", de: "Heilig", it: "Sanctus" },
   "Canon Missae": { es: "Canon Missae", fr: "Canon Missae", de: "Messkanon", it: "Canone della Messa" },
   "Pater Noster & Agnus Dei": { es: "Pater Noster y Agnus Dei", fr: "Pater Noster & Agnus Dei", de: "Vater unser & Lamm Gottes", it: "Padre Nostro e Agnus Dei" },
-  "Conclusion": { es: "Conclusión", fr: "Conclusion", de: "Schluss", it: "Conclusione" }
+  "Conclusion": { es: "Conclusión", fr: "Conclusion", de: "Schluss", it: "Conclusione" },
+  "Words of the Popes": { es: "Palabras de los Papas", fr: "Paroles des Papes", de: "Worte der Päpste", it: "Parole dei Papi" }
 };
 
 export function useTranslation() {

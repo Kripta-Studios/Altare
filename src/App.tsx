@@ -5,6 +5,7 @@ import Mass from './pages/Mass';
 import Prayers from './pages/Prayers';
 import Rosary from './pages/Rosary';
 import Settings from './pages/Settings';
+import Meditations from './pages/Meditations';
 
 export default function App() {
   return (
@@ -15,6 +16,7 @@ export default function App() {
           <Route path="/mass" element={<Mass />} />
           <Route path="/prayers" element={<Prayers />} />
           <Route path="/rosary" element={<Rosary />} />
+          <Route path="/meditations" element={<Meditations />} />
           <Route path="/settings" element={<Settings />} />
         </Route>
       </Routes>

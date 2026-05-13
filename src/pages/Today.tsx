@@ -4,6 +4,7 @@ import { getLiturgicalDay, formatLiturgicalDate, getToday } from '../lib/calenda
 import { SeasonBadge } from '../components/ui/SeasonBadge';
 import { ProgressRing } from '../components/ui/ProgressRing';
 import { useTranslation } from '../lib/i18n';
+import { Icon } from '../components/ui/Icon';
 
 const antiphonNames: Record<string, [string, string]> = {
   Alma: ['Alma Redémptoris Mater', 'Loving Mother of the Redeemer'],
@@ -44,9 +45,9 @@ export default function Today() {
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 8 }}>
           <SeasonBadge season={lit.season} color={lit.color} />
           <span style={{ fontFamily: 'var(--font-ui)', fontSize: '0.7rem', color: 'var(--text-muted)', fontWeight: 600 }}>
-            {lit.isFirstFriday && '🔴 First Friday'}
-            {lit.isFirstSaturday && '💙 First Saturday'}
-            {lit.isEmberDay && '🔸 Ember Day'}
+            {lit.isFirstFriday && <span style={{display:'flex', alignItems:'center', gap:4}}><Icon name="info" size={10} color="var(--season-red)" /> First Friday</span>}
+            {lit.isFirstSaturday && <span style={{display:'flex', alignItems:'center', gap:4}}><Icon name="info" size={10} color="#3498db" /> First Saturday</span>}
+            {lit.isEmberDay && <span style={{display:'flex', alignItems:'center', gap:4}}><Icon name="info" size={10} color="#e67e22" /> Ember Day</span>}
           </span>
         </div>
         <h1 style={{ marginBottom: 4 }}>{lit.titleEnglish} {/* Ideally we'd map this to vernacular too, but the calendar engine outputs English titles currently */}</h1>
@@ -57,7 +58,9 @@ export default function Today() {
       <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 12, marginBottom: 16 }}>
         <Link to="/mass" style={{ textDecoration: 'none' }}>
           <div className="card animate-slide-up" style={{ cursor: 'pointer', minHeight: 120 }}>
-            <div style={{ width: 36, height: 36, borderRadius: 10, background: getColorVar(lit.color), display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: 10, color: '#fff', fontSize: '1.1rem' }}>✝</div>
+            <div style={{ width: 36, height: 36, borderRadius: 10, background: getColorVar(lit.color), display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: 10, color: '#fff' }}>
+              <Icon name="cross" size={20} />
+            </div>
             <h3 style={{ fontSize: '0.85rem', margin: '0 0 4px', color: 'var(--text-primary)' }}>{t("Today's Mass")}</h3>
             <p style={{ fontFamily: 'var(--font-ui)', fontSize: '0.7rem', color: 'var(--text-muted)', margin: 0 }}>{t("Follow the Propers")}</p>
           </div>
@@ -65,7 +68,9 @@ export default function Today() {
         <Link to="/prayers" style={{ textDecoration: 'none' }}>
           <div className="card animate-slide-up" style={{ cursor: 'pointer', minHeight: 120 }}>
             <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between' }}>
-              <div style={{ width: 36, height: 36, borderRadius: 10, background: 'var(--accent-gold)', display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: 10, color: '#fff', fontSize: '1.1rem' }}>🕯</div>
+              <div style={{ width: 36, height: 36, borderRadius: 10, background: 'var(--accent-gold)', display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: 10, color: '#fff' }}>
+                <Icon name="candle" size={20} />
+              </div>
               <ProgressRing progress={0} size={36} strokeWidth={3} />
             </div>
             <h3 style={{ fontSize: '0.85rem', margin: '0 0 4px', color: 'var(--text-primary)' }}>{t("Daily Prayers")}</h3>
@@ -74,13 +79,17 @@ export default function Today() {
         </Link>
         <Link to="/rosary" style={{ textDecoration: 'none' }}>
           <div className="card animate-slide-up" style={{ cursor: 'pointer', minHeight: 120 }}>
-            <div style={{ width: 36, height: 36, borderRadius: 10, background: 'var(--accent-soft)', display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: 10, color: '#fff', fontSize: '1.1rem' }}>📿</div>
+            <div style={{ width: 36, height: 36, borderRadius: 10, background: 'var(--accent-soft)', display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: 10, color: '#fff' }}>
+              <Icon name="rosary" size={20} />
+            </div>
             <h3 style={{ fontSize: '0.85rem', margin: '0 0 4px', color: 'var(--text-primary)' }}>{t("Holy Rosary")}</h3>
             <p style={{ fontFamily: 'var(--font-ui)', fontSize: '0.7rem', color: 'var(--text-muted)', margin: 0 }}>{t(getMysterySet(today))}</p>
           </div>
         </Link>
         <div className="card animate-slide-up" onClick={() => navigate('/prayers')} style={{ minHeight: 120, cursor: 'pointer' }}>
-          <div style={{ width: 36, height: 36, borderRadius: 10, background: 'var(--accent)', display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: 10, color: '#fff', fontSize: '1rem' }}>♛</div>
+          <div style={{ width: 36, height: 36, borderRadius: 10, background: 'var(--accent)', display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: 10, color: '#fff' }}>
+            <Icon name="crown" size={20} />
+          </div>
           <h3 style={{ fontSize: '0.85rem', margin: '0 0 4px', color: 'var(--text-primary)' }}>{aName?.[0]}</h3>
           <p style={{ fontFamily: 'var(--font-ui)', fontSize: '0.7rem', color: 'var(--text-muted)', margin: 0 }}>{t("Tap to view prayers")}</p>
         </div>
