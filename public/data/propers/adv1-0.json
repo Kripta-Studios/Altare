@@ -1,0 +1,93 @@
+{
+  "id": "Adv1-0",
+  "titleLatin": "Dominica I Adventus",
+  "titleVernacular": {
+    "en": "Dominica I Adventus",
+    "es": "Dominica I Adventus",
+    "de": "Erster Adventssonntag",
+    "fr": "Dominica I Adventus",
+    "it": "Dominica I Adventus"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps 24:1-3\nv. Ad te levávi ánimam meam: Deus meus, in te confído, non erubéscam: neque irrídeant me inimíci mei: étenim univérsi, qui te exspéctant, non confundéntur.\n!Ps 24:4\nVias tuas, Dómine, demónstra mihi: et sémitas tuas édoce me.\n&Gloria\nv. Ad te levávi ánimam meam: Deus meus, in te confído, non erubéscam: neque irrídeant me inimíci mei: étenim univérsi, qui te exspéctant, non confundéntur.",
+    "en": "!Ps 24:1-3\nv. To You I lift up my soul: in You, O my God, I trust; let me not be put to shame; let not my enemies exult over me. No one who waits for You shall be put to shame.\n!Ps 24:4\nYour ways, O Lord, make known to me; teach me Your paths.\n&Gloria\nv. To You I lift up my soul: in You, O my God, I trust; let me not be put to shame; let not my enemies exult over me. No one who waits for You shall be put to shame.",
+    "es": "!Ps 24:1-3\nv. A ti, Señor, levanto mi alma; Dios mío, en ti confío; no sea avergonzado, ni se burlen de mí mis enemigos; pues cuantos en ti esperan, no quedarán confundidos.\n!Ps 24:4\nMuéstrame, Señor, tus caminos, y enséñame tus sendas.\n&Gloria\nv. A ti, Señor, levanto mi alma; Dios mío, en ti confío; no sea avergonzado, ni se burlen de mí mis enemigos; pues cuantos en ti esperan, no quedarán confundidos.",
+    "de": "",
+    "fr": "!Ps 24:1-3.\nv. Vers vous j'élève mon âme ; mon Dieu, en vous je me confie, je n'aurai pas à rougir. Que je ne sois pas la risée de mes ennemis ! Car tous ceux qui vous attendent ne seront pas confondus.\n!Ps 24:4\nSeigneur, enseignez-moi vos voies, apprenez-moi vos chemins.\n&Gloria\nv. Vers vous j'élève mon âme ; mon Dieu, en vous je me confie, je n'aurai pas à rougir. Que je ne sois pas la risée de mes ennemis ! Car tous ceux qui vous attendent ne seront pas confondus.",
+    "it": "!Ps 24:1-3\nv. A Te ho innalzato l'ànima mia: Dio mio, in Te confido, che io non abbia ad arrossire, né abbiano a deridermi i miei nemici: poiché quelli che confidano in Te non saranno confusi.\n!Ps 24:4\nMostrami le tue vie, o Signore, e insegnami i tuoi sentieri.\n&Gloria\nv. A Te ho innalzato l'ànima mia: Dio mio, in Te confido, che io non abbia ad arrossire, né abbiano a deridermi i miei nemici: poiché quelli che confidano in Te non saranno confusi."
+  },
+  "collect": [
+    {
+      "la": "Excita, quǽsumus, Dómine, poténtiam tuam, et veni: ut ab imminéntibus peccatórum nostrórum perículis, te mereámur protegénte éripi, te liberánte salvári:\n$Qui vivis",
+      "en": "Put forth Your power, O Lord, we beseech You, and come, that with You as our protector we may be rescued from the impending danger of our sins; and with You as our deliverer, may we obtain our salvation.\n$Qui vivis",
+      "es": "Despierta, Señor, tu potencia y ven; para que con tu protección merezcamos ser libres de los peligros que nos amenazan por nuestros pecados, y ser salvos con tu gracia.\n$Qui vivis",
+      "de": "",
+      "fr": "Réveillez, Seigneur, votre puissance, et venez, afin que, dans les périls imminents où nous mettent nos péchés, vous soyez le protecteur qui nous défend, le libérateur qui nous sauve.\n$Qui vivis",
+      "it": "Súscita, o Signore, Te ne preghiamo, la tua potenza, e vieni: affinché dai pericoli che ci incombono per i nostri peccati, possiamo essere sottratti dalla tua protezione e salvati dalla tua mano liberatrice.\n$Qui vivis"
+    }
+  ],
+  "epistle": {
+    "la": "Lectio Epístolæ beáti Pauli Apóstoli ad Romános\n!Rom 13:11-14.\nFratres: Sciéntes, quia hora est jam nos de somno súrgere. Nunc enim própior est nostra salus, quam cum credídimus. Nox præcéssit, dies autem appropinquávit. Abjiciámus ergo ópera tenebrárum, et induámur arma lucis. Sicut in die honéste ambulémus: non in comessatiónibus et ebrietátibus, non in cubílibus et impudicítiis, non in contentióne et æmulatióne: sed induímini Dóminum Jesum Christum.",
+    "en": "Lesson from the letter of St. Paul the Apostle to the Romans\n!Rom 13:11-14\nBrethren: Understand, for it is now the hour for us to rise from sleep, because now our salvation is nearer than when we came to believe. The night is far advanced; the day is at hand. Let us therefore lay aside the works of darkness, and put on the armor of light. Let us walk becomingly as in the day, not in revelry and drunkenness, not in debauchery and wantonness, not in strife and jealousy. But put on the Lord Jesus Christ.",
+    "es": "Lección de la carta del Apóstol san Pablo a los Romanos.\n!Rom 13:11-14\nHermanos: Reconociendo el momento en que vivís, ya es hora de despertaros del sueño, porque ahora la salvación está más cerca de nosotros que cuando abrazamos la fe. La noche está avanzada, el día está cerca: dejemos, pues, las obras de las tinieblas y pongámonos las armas de la luz. Andemos como en pleno día, con dignidad. Nada de comilonas y borracheras, nada de lujuria y desenfreno, nada de riñas y envidias. Revestíos más bien del Señor Jesucristo.",
+    "de": "",
+    "fr": "Lectio Epístolæ beati Pauli Apostoli ad Romános\n!Rom 13:11-14.\nFrères, vous le savez : l'heure est désormais venue de sortir du sommeil. Car notre salut est maintenant plus proche que quand nous avons commencé à croire. La nuit s'en va, le jour approche. Rejetons donc les œuvres des ténèbres, et revêtons-nous des armes de la lumière. Marchons donc avec décence, comme en plein jour, non dans les orgies et les enivrements, non dans la luxure et les débauches, non dans les disputes et les jalousies, mais revêtez-vous du Seigneur Jésus Christ.",
+    "it": "Lettura della lettera del Beato Paolo Apostoli ai Romani\n!Rom 13:11-14.\nFratelli: Sapete che è ormai tempo di risvegliarsi. Poiché adesso la salvezza è piú vicina a noi di quando venimmo alla fede. La notte è inoltrata e si appressa il giorno. Spogliamoci dunque delle opere delle tenebre e indossiamo le armi della luce. Portiamoci con decoro, come di giorno, non tra i banchetti e le ubriachezze, non nei piaceri e nelle impudicizie, non con discordia e invidia: ma rivestendoci del Signore Gesú Cristo."
+  },
+  "gradual": {
+    "la": "!Ps 24:3; 24:4\nUnivérsi, qui te exspéctant, non confundéntur, Dómine.\nV. Vias tuas, Dómine, notas fac mihi: et sémitas tuas édoce me. Allelúja, allelúja.\n!Ps 84:8.\nV. Osténde nobis, Dómine, misericórdiam tuam: et salutáre tuum da nobis. Allelúja.",
+    "en": "!Ps 24:3-4\nNo one who waits for You shall be put to shame.\nV. Your ways, O Lord, make known to me; teach me Your paths. Alleluia, alleluia.\n!Ps 84:8\nV. Show us, O Lord, Your kindness, and grant us Your salvation. Alleluia.",
+    "es": "!Ps 24:3-4\nCuantos en ti esperan no quedarán confundidos, Señor.\nV.  Muéstrame, Señor, tus caminos, y enséñame tus sendas. Aleluya, aleluya.\n!Ps 84:8\nV. Muéstranos, Señor, tu miseri­cordia y danos tu Salvador. Aleluya.",
+    "de": "",
+    "fr": "!Ps 24:3; 24:4\nAucun de ceux qui vous attendent ne sera confondu, Seigneur.\nV. Seigneur, enseignez-moi vos voies, apprenez-moi vos chemins. Alléluia, alléluia.\n!Ps 84:8.\nV. Montrez-nous, Seigneur, votre miséricorde, donnez-nous votre salut. Alléluia.",
+    "it": "!Ps 24:3; 24:4\nTutti quelli che Ti aspettano, o Signore, non saranno confusi.\nV. Mostrami le tue vie, o Signore, e insegnami i tuoi sentieri. Alleluia, alleluia.\n!Ps 84:8.\nV. Mostraci, o Signore, la tua misericordia: e dacci la tua salvezza. Allelúia."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secundum Lucam\n!Luc 21:25-33.\nIn illo témpore: Dixit Jesus discípulis suis: Erunt signa in sole et luna et stellis, et in terris pressúra géntium præ confusióne sónitus maris et flúctuum: arescéntibus homínibus præ timóre et exspectatióne, quæ supervénient univérso orbi: nam virtútes cœlórum movebúntur. Et tunc vidébunt Fílium hóminis veniéntem in nube cum potestáte magna et majestáte. His autem fíeri incipiéntibus, respícite et leváte cápita vestra: quóniam appropínquat redémptio vestra. Et dixit illis similitúdinem: Vidéte ficúlneam et omnes árbores: cum prodúcunt jam ex se fructum, scitis, quóniam prope est æstas. Ita et vos, cum vidéritis hæc fíeri, scitóte, quóniam prope est regnum Dei. Amen, dico vobis, quia non præteríbit generátio hæc, donec ómnia fiant. Cœlum et terra transíbunt: verba autem mea non transíbunt.",
+    "en": "Continuation + of the Holy Gospel according to Luke\n!Luke 21:25-33\nAt that time, Jesus said to His disciples: There will be signs in the sun and moon and stars, and upon the earth distress of nations bewildered by the roaring of sea and waves; men fainting for fear and for expectation of the things that are coming on the world; for the powers of heaven will be shaken. And then they will see the son of Man coming upon a cloud with great power and majesty. but when these things begin to come to pass, look up, and lift up your heads, because your redemption is at hand. And He spoke to them a parable. Behold the fig tree, and all the trees. When they now put forth their buds, you know that summer is near. Even so, when you see these things coming to pass, know that the kingdom of God is near. Amen I say to you, this generation will not pass away till all things have been accomplished. Heaven and earth will pass away, but My words will not pass away.",
+    "es": "Continuación + del Santo Evangelio según San Lucas\n!Lc 21:25-33\nEn aquel tiempo, dijo Jesús a sus discípulos: Habrá signos en el sol y la luna y las estrellas, y en la tierra angustia de las gentes, perplejas por el estruendo del mar y el oleaje, desfalleciendo los hombres por el miedo y la ansiedad ante lo que se le viene encima al mundo, pues las potencias del cielo serán sacudidas. Entonces verán al Hijo del hombre venir en una nube, con gran poder y gloria. Cuando empiece a suceder esto, levantaos, alzad la cabeza; se acerca vuestra liberación». Y les dijo una parábola: «Fijaos en la higuera y en todos los demás árboles: cuando veis que ya echan brotes, conocéis por vosotros mismos que ya está llegando el verano. Igualmente vosotros, cuando veáis que suceden estas cosas, sabed que está cerca el reino de Dios. En verdad os digo que no pasará esta generación sin que todo suceda. El cielo y la tierra pasarán, pero mis palabras no pasarán.",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secundum Lucam.\n!Luc 21:25-33.\nEn ce temps-là, Jésus disait à ses disciples : « Il y aura des signes dans le soleil, dans la lune et dans les astres, et, sur la terre, une angoisse des nations inquiètes du fracas de la mer et de son agitation, les hommes se desséchant de frayeur et d'anxiété pour ce qui doit arriver à l'univers, car les puissances des cieux seront ébranlées. Alors on verra le Fils de l'homme venant dans une nuée avec grande puissance et grande gloire. Quand ces choses commenceront à arriver, redressez-vous et relevez la tête, parce que votre délivrance approche. » Et il leur dit une parabole : « Voyez le figuier et tous les arbres : quand déjà ils bourgeonnent, à cette vue vous savez de vous-mêmes que déjà l'été est proche. Ainsi, quand vous verrez ces choses arriver, sachez que le royaume de Dieu est proche. Je vous le dis, en vérité, cette génération ne passera point que toutes ces choses ne soient arrivées. Le ciel et la terre passeront, mais mes paroles ne passeront point. »",
+    "it": "Séguito ++ del S.Vangelo secondo Luca.\n!Luc 21:25-33\nIn quel tempo: Gesú disse ai suoi discepoli: Ci saranno segni nel sole, nella luna e nelle stelle, e nella terra costernazioni di genti sbigottite dal rimbombo delle onde e dall'agitazione del mare, mentre gli uomini tramortiranno dalla paura e dall'attesa di quello che starà per accadere alla terra: perché anche le potenze dei cieli saranno sconvolte. Allora si vedrà il Figlio dell'uomo venire sulle nubi in gran potenza e maestà. Quando ciò incomincerà ad accadere, sorgete ed alzate il capo, perché s'avvicina la vostra redenzione. E disse loro una similitudine: Osservate il fico e tutti gli alberi: quando germogliano, sapete che l'estate è vicina. Cosí quando vedrete accadere tali cose, sappiate che il regno di Dio è prossimo. In verità vi dico non passerà questa generazione prima che tutto ciò sia avvenuto. Il cielo e la terra passeranno, ma le mie parole non passeranno."
+  },
+  "offertory": {
+    "la": "!Ps 24:1-3.\nAd te levávi ánimam meam: Deus meus, in te confído, non erubéscam: neque irrídeant me inimíci mei: étenim univérsi, qui te exspéctant, non confundéntur.",
+    "en": "!Ps 24:1-3\nTo You I lift up my soul: in You, O my God, I trust; let me not be put to shame; let not my enemies exult over me. No one who waits for You shall be put to shame.",
+    "es": "!Ps 24:1-3\nA ti levanto mi alma; Dios mío, en ti confío; no sea avergonzado, ni se burlen de mi mis enemigos; pues ninguno de los que en ti esperan, quedará confundido.",
+    "de": "",
+    "fr": "!Ps 24:1-3.\nVers vous j'élève mon âme ; mon Dieu, en vous je me confie, je n'aurai pas à rougir. Que je ne sois pas la risée de mes ennemis ! Car tous ceux qui vous attendent ne seront pas confondus.",
+    "it": "!Ps 24:1-3.\nA Te ho innalzato l'ànima mia: Dio mio, in Te confido, che io non abbia ad arrossire, né abbiano a deridermi i miei nemici: poiché quelli che confidano in Te non saranno confusi."
+  },
+  "secret": [
+    {
+      "la": "Hæc sacra nos, Dómine, poténti virtúte mundátos ad suum fáciant purióres veníre princípium.\n$Per Dominum",
+      "en": "May these offerings, O Lord, cleanse us by their mighty power and thus make us come purer before You Who are their author.\n$Per Dominum",
+      "es": "Que estos sagrados misterios, a nosotros, purificados por poderosa virtud, nos hagan llegar más puros, Señor, a ti, que eres su principio.\n$Per Dominum",
+      "de": "",
+      "fr": "Que ces saints mystères, Seigneur, dont la puissante vertu nous purifie, nous mènent plus purs à vous qui en êtes le principe.\n$Per Dominum",
+      "it": "Questi misteri, o Signore, purificandoci con la loro potente virtú, ci facciano pervenire piú mondi a Te che ne sei l'autore.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Ps 84:13.\nDóminus dabit benignitátem: et terra nostra dabit fructum suum.",
+    "en": "!Ps 84:13\nThe Lord will give His benefits: and our land shall yield its increase.",
+    "es": "!Ps 84:13\nEl Señor nos colmará de su benignidad, y nuestra tierra dará su fruto.",
+    "de": "",
+    "fr": "!Ps 84:13.\nLe Seigneur donnera la bonté, et notre terre donnera son fruit.",
+    "it": "!Ps 84:13.\nIl Signore ci sarà benigno e la nostra terra darà il suo frutto."
+  },
+  "postcommunion": [
+    {
+      "la": "Suscipiámus, Dómine, misericórdiam tuam in médio templi tui: ut reparatiónis nostræ ventúra sollémnia cóngruis honóribus præcedámus.\n$Per Dominum",
+      "en": "May we receive Your mercy, O Lord, in the midst of Your temple, and thus prepare with due observance for the coming festal season of our redemption.\n$Per Dominum",
+      "es": "Recibamos, Señor, tu misericordia en medio de tu templo, para que preparemos con los debidos honores la solemnidad venidera de nuestra redención.\n$Per Dominum",
+      "de": "",
+      "fr": "Puissions-nous, Seigneur, recevoir votre miséricorde au mileu de votre temple, afin de devancer par de plus dignes hommages les solennités prochaines de notre rédemption.\n$Per Dominum",
+      "it": "Fa, o Signore, che (per mezzo di questo divino mistero) in mezzo al tuo tempio sperimentiamo la tua misericordia, al fine di prepararci convenientemente alle prossime solennità della nostra redenzione.\n$Per Dominum"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "Pasc3-3",
+  "titleLatin": "Die Octava Patrocinii St Joseph",
+  "titleVernacular": {
+    "en": "Die Octava Patrocinii St Joseph",
+    "es": "Die Octava Patrocinii St Joseph",
+    "de": "Oktavtag des Schutzfestes des Hl. Joseph",
+    "fr": "Die Octava Patrocinii St Joseph",
+    "it": "Die Octava Patrocinii St Joseph"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "collect": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ],
+  "epistle": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gradual": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gospel": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "offertory": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "secret": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ],
+  "communionAntiphon": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "postcommunion": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ]
+}

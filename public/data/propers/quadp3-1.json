@@ -1,0 +1,93 @@
+{
+  "id": "Quadp3-1",
+  "titleLatin": "Feria II infra Hebdomadam Quinquagesimæ",
+  "titleVernacular": {
+    "en": "Feria II infra Hebdomadam Quinquagesimae",
+    "es": "",
+    "de": "Montag nach dem Sonntag Quinquagesima",
+    "fr": "Feria II infra Hebdomadam Quinquagesimae",
+    "it": "Feria II infra Hebdomadam Quinquagesimae"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": false,
+  "introit": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "collect": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ],
+  "epistle": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gradual": {
+    "la": "@Tempora/Quadp3-0:GradualeF",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gospel": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "offertory": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "secret": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ],
+  "communionAntiphon": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "postcommunion": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ]
+}

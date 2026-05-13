@@ -1,0 +1,93 @@
+{
+  "id": "Pasc4-6",
+  "titleLatin": "Sabbato infra Hebdomadam IV post Octavam Paschæ",
+  "titleVernacular": {
+    "en": "Sabbato infra Hebdomadam IV post Octavam Paschae",
+    "es": "Sabbato infra Hebdomadam IV post Octavam Paschae",
+    "de": "Samstag der vierten Woche nach der Osteroktav",
+    "fr": "Sabbato infra Hebdomadam IV post Octavam Paschae",
+    "it": "Sabbato infra Hebdomadam IV post Octavam Paschae"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "collect": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ],
+  "epistle": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gradual": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gospel": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "offertory": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "secret": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ],
+  "communionAntiphon": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "postcommunion": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ]
+}

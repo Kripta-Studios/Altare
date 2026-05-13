@@ -1,0 +1,14 @@
+[
+  {
+    "id": "calendar",
+    "title": "The Liturgical Calendar",
+    "category": "Calendar",
+    "content": "The traditional Roman calendar is structured around two overlapping cycles: the Temporal cycle (Temporale), which centers on the life of Christ and the seasons of the year, and the Sanctoral cycle (Sanctorale), which commemorates the saints."
+  },
+  {
+    "id": "sacraments",
+    "title": "The Sacraments",
+    "category": "Sacraments",
+    "content": "The seven sacraments instituted by Christ are Baptism, Confirmation, Holy Eucharist, Penance, Extreme Unction, Holy Orders, and Matrimony."
+  }
+]

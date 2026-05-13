@@ -1,0 +1,93 @@
+{
+  "id": "Epi4-0",
+  "titleLatin": "Dominica IV Post Epiphaniam",
+  "titleVernacular": {
+    "en": "Dominica IV Post Epiphaniam",
+    "es": "Dominica IV Post Epiphaniam",
+    "de": "Vierter Sonntag nach Erscheinung",
+    "fr": "Dominica IV Post Epiphaniam",
+    "it": "Dominica IV Post Epiphaniam"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "@Tempora/Epi3-0:Introitus",
+    "en": "!Ps 96:7-8\nv. Adore God, all you His angels: Sion hears and is glad, and the cities of Juda rejoice.\n!Ps 96:1\nThe Lord is King; let the earth rejoice; let the many isles be glad.\n&Gloria\nv. Adore God, all you His angels: Sion hears and is glad, and the cities of Juda rejoice.",
+    "es": "!Ps 96:7-8\nv. Adorad a Dios, todos sus Ángeles: lo oyó y se alborozó Sión, y se regocijaron las hijas de Judá.\n!Ps 96:1\nEl Señor reina, exulte la tierra: llénense de júbilo todas las islas.\n&Gloria\nv. Adorad a Dios, todos sus Ángeles: lo oyó y se alborozó Sión, y se regocijaron las hijas de Judá.",
+    "de": "",
+    "fr": "!Ps 96:7-8\nv. Adorez Dieu, tous ses anges ; Sion l'apprend et se réjouit, et les filles de Juda sont dans l'allégresse.\n!Ps 96:1\nLe Seigneur règne, exulte la terre ; que se réjouissent les îles nombreuses.\n&Gloria\nv. Adorez Dieu, tous ses anges ; Sion l'apprend et se réjouit, et les filles de Juda sont dans l'allégresse.",
+    "it": "!Ps 96:7-8\nv. Adorate Dio, voi tutti Angeli suoi: Sion ha udito e se ne è rallegrata: ed hanno esultato le figlie di Giuda.\n!Ps 96:1\nIl Signore regna, esulti la terra: si rallegrino le molte genti.\n&Gloria\nv. Adorate Dio, voi tutti Angeli suoi: Sion ha udito e se ne è rallegrata: ed hanno esultato le figlie di Giuda."
+  },
+  "collect": [
+    {
+      "la": "Deus, qui nos, in tantis perículis constitútos, pro humána scis fragilitáte non posse subsístere: da nobis salútem mentis et córporis; ut ea, quæ pro peccátis nostris pátimur, te adjuvánte vincámus.\n$Per Dominum",
+      "en": "O God, You Who know that our human frailty cannot stand fast against the great dangers that beset us, grant us health of mind and body, that with your help we may overcome what we suffer on account of our sins.\n$Per Dominum",
+      "es": "Oh Dios, que conoces nuestra fragilidad y sabes que no podemos resistir entre tantos peligros como nos cercan; concédenos la salud de alma y cuerpo, para que venzamos, con tu asistencia, los males que padecemos por nuestros pecados.\n$Per Dominum",
+      "de": "",
+      "fr": "Ô Dieu, qui savez bien qu'au milieu de si grands périls notre faiblesse humaine ne nous permet pas de subsister, donnez-nous la santé de l'âme et du corps, pour triompher, avec votre secours, des souffrances que nous avons à subir pour nos péchés.\n$Per Dominum",
+      "it": "O Dio, che sai come noi, per l’umana fragilità, non possiamo sussistere fra tanti pericoli, concédici la salute dell’ànima e del corpo, affinché, col tuo aiuto, superiamo quanto ci tocca patire per i nostri peccati.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános.\n!Rom 13:8-10\nFratres: Némini quidquam debeátis, nisi ut ínvicem diligátis: qui enim díligit próximum, legem implévit. Nam: Non adulterábis, Non occídes, Non furáberis, Non falsum testimónium dices, Non concupísces: et si quod est áliud mandátum, in hoc verbo instaurátur: Díliges próximum tuum sicut teípsum. Diléctio próximi malum non operátur. Plenitúdo ergo legis est diléctio.",
+    "en": "Lesson from the letter of St. Paul the Apostle to the Romans\n!Rom 13:8-10\nBrethren: Owe no man anything except to love one another; for he who loves his neighbor has fulfilled the Law. For You shall not commit adultery. You shall not kill. You shall not steal. You shall not bear false witness. You shall not covet; and if there is any other commandment, it is summed up in this saying, You shall love your neighbor as yourself. Love does no evil to a neighbor. Love therefore is the fulfillment of the Law.",
+    "es": "Lección de la carta del Apóstol San Pablo a los Romanos\n!Rom 13:8-10\nHermanos: A nadie le debáis nada, más que el amor mutuo; porque el que ama ha cumplido el resto de la ley. De hecho, el no cometerás adulterio, no matarás, no robarás, no codiciarás, y cualquiera de los otros mandamientos, se resume en esto: Amarás a tu prójimo como a ti mismo. El amor no hace mal a su prójimo; por eso la plenitud de la ley es el amor.",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános.\n!Rom 13:8-10\nFrères, ne soyez en dette avec personne, si ce n'est de l'amour mutuel ; car celui qui aime son prochain a accompli la loi. En effet, ces commandements: « Tu ne commettras point d'adultère ; tu ne tueras point ; tu ne déroberas point ; tu ne diras point de faux témoignage ; tu ne convoiteras point », et ceux qu'on pourrait citer encore, se résument dans cette parole : « Tu aimeras ton prochain comme toi-même. » L'amour ne fait point de mal au prochain ; l'amour est donc la plénitude de la loi.",
+    "it": "Lettura della Lettera del B. Paolo Ap. ai Romani.\n!Rom 13:8-10\nFratelli: Non abbiate con alcuno altro debito che quello dell’amore reciproco: poiché chi ama il prossimo ha adempiuta la legge. Infatti: non commettere adulterio, non ammazzare, non rubare, non dire falsa testimonianza, non desiderare, e qualunque altro comandamento, si riassumono in questo: Amerai il tuo prossimo come te stesso. L’amore del prossimo non fa alcun male. Dunque l’amore è il compimento della legge."
+  },
+  "gradual": {
+    "la": "@Tempora/Epi3-0:Graduale",
+    "en": "!Ps 101:16-17\nThe nations shall revere Your name, O Lord, and all the kings of the earth Your glory.\nV. For the Lord has rebuilt Sion, and He shall appear in His glory. Alleluia, alleluia.\n!Ps 96:1\nThe Lord is King; let the earth rejoice; let the many isles be glad.  Alleluia.",
+    "es": "!Ps 101:16-17\nTemerán las naciones tu nombre, oh Señor y todos los reyes de la tierra tu gloria.\nV. Porque el Señor edificó Sión, y allí será visto en su majestad. Aleluya, aleluya.\n!Ps 96:1\nEl Señor reina, se regocija la tierra: llénense de júbilo todas las islas. Aleluya.",
+    "de": "",
+    "fr": "!Ps 101:16-17\nLes peuples craindront votre Nom, Seigneur, et tous les rois de la terre, votre gloire.\nV. Car le Seigneur a édifié Sion, et il sera vu dans sa majesté. Alléluia, alléluia.\n!Ps 96:1\nLe Seigneur règne, exulte la terre ; que se réjouissent les îles nombreuses. Alléluia.",
+    "it": "!Ps 101:16-17\nLe genti temeranno il tuo nome, o Signore: tutti i re della terra la tua gloria.\nV. Poiché il Signore ha edificato Sion: e si è mostrato nella sua potenza. Allelúia, allelúia.\n!Ps 96:1\nIl Signore regna, esulti la terra: si rallegrino le molte genti. Allelúia."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum.\n!Matt 8:23-27\nIn illo témpore: Ascendénte Jesu in navículam, secúti sunt eum discípuli ejus: et ecce, motus magnus factus est in mari, ita ut navícula operirétur flúctibus, ipse vero dormiébat. Et accessérunt ad eum discípuli ejus, et suscitavérunt eum, dicéntes: Dómine, salva nos, perímus. Et dicit eis Jesus: Quid tímidi estis, módicæ fídei? Tunc surgens, imperávit ventis et mari, et facta est tranquíllitas magna. Porro hómines miráti sunt, dicéntes: Qualis est hic, quia venti et mare obœ́diunt ei?",
+    "en": "Continuation of the Holy Gospel according to St. Matthew\n!Matt 8:23-27\nAt that time, Jesus got into a boat, and His disciples followed Him. And behold, there arose a great storm on the sea, so that the boat was covered by the waves; but He was asleep. So they came and woke Him, saying, Lord, save us! we are perishing! But He said to them, Why are you fearful, O you of little faith? Then He arose and rebuked the wind and the sea, and there came a great calm. And the men marvelled, saying, What manner of Man is this, that even the wind and the sea obey Him?",
+    "es": "Continuación + del Santo Evangelio según San Mateo\n!Mt 8:23-27\nEn aquel tiempo: Subió Jesús a la barca, y sus discípulos lo siguieron. En esto se produjo una tempestad tan fuerte, que la barca desaparecía entre las olas; él dormía. Se acercaron y lo despertaron gritándole: «¡Señor, sálvanos, que perecemos!». Él les dice: «¿Por qué tenéis miedo, hombres de poca fe?». Se puso en pie, increpó a los vientos y al mar y vino una gran calma. Los hombres se decían asombrados: «¿Quién es este, que hasta el viento y el mar lo obedecen?».",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Matthaeum.\n!Matt 8:23-27\nEn ce temps-là, Jésus étant monté dans une barque, ses disciples le suivirent. Et voici que la mer devint très agitée, au point que la barque était couverte par les vagues : lui cependant dormait. Ses disciples s'approchèrent, le réveillèrent et lui dirent : « Seigneur, sauvez-nous, nous périssons ! » Il leur dit : « Pourquoi êtes-vous peureux, hommes de peu de foi ? » Alors il se dressa et commanda avec force aux vents et à la mer, et il se fit un grand calme. Et les hommes, saisis d'admiration, disaient : « Qui est-il donc, que même les vents et la mer lui obéissent ? »",
+    "it": "Séguito ++ del S. Vangelo secondo Matteo.\n!Matt 8:23-27\nIn quel tempo: Gesù montò in barca, seguito dai suoi discepoli: ed ecco che una grande tempesta si levò sul mare, tanto che la barca era quasi sommersa dai flutti. Gesù intanto dormiva. Gli si accostarono i suoi discepoli e lo svegliarono, dicendogli: Signore, salvaci, siamo perduti. E Gesù rispose: Perché temete, o uomini di poca fede? Allora, alzatosi, comandò ai venti e al mare, e si fece gran bonaccia. Onde gli uomini ne furono ammirati e dicevano: Chi è costui al quale obbediscono i venti e il mare?"
+  },
+  "offertory": {
+    "la": "@Tempora/Epi3-0:Offertorium",
+    "en": "!Ps 117:16-17\nThe right hand of the Lord has struck with power: the right hand of the Lord has exalted me; I shall not die, but live, and declare the works of the Lord.",
+    "es": "!Ps 117:16-17\nLa diestra del Señor ha hecho maravillas: la diestra del Señor me ha ensalzado; ya no moriré, sino que viviré y publicaré las obras del Señor.",
+    "de": "",
+    "fr": "!Ps 117:16; 117:17\nLa droite du Seigneur a agi avec force, la droite du Seigneur m'a élevé ; je ne mourrai point, mais je vivrai, et je raconterai les œuvres du Seigneur.",
+    "it": "!Ps 117:16; 117:17\nLa destra del Signore ha fatto prodigi, la destra del Signore mi ha esaltato: non morirò, ma vivrò e narrerò le opere del Signore."
+  },
+  "secret": [
+    {
+      "la": "Concéde, quǽsumus, omnípotens Deus: ut hujus sacrifícii munus oblátum fragilitátem nostram ab omni malo purget semper et múniat.\n$Per Dominum",
+      "en": "Grant, we beseech You, almighty God, that the offering of this sacrifice may always cleanse and strengthen the weakness of our nature.\n$Per Dominum",
+      "es": "Oh Dios omnipotente, te rogamos nos concedas que el don de este sacrificio que te presentamos, nos purifique siempre de toda mancha y proteja nuestra debilidad.\n$Per Dominum",
+      "de": "",
+      "fr": "Faites, Dieu tout-puissant, que l'offrande de ce sacrifice nous purifie sans cesse et préserve de tout mal notre humaine faiblesse.\n$Per Dominum",
+      "it": "O Dio onnipotente, concedici, Te ne preghiamo, che questa offerta a Te presentata, difenda e purifichi sempre da ogni male la nostra fragilità.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "@Tempora/Epi3-0:Communio",
+    "en": "!Luke 4:22\nAll marvelled at the words that came from the mouth of God.",
+    "es": "!Lc 4:22\nSe maravillaban todos de las palabras que salían de la boca de Dios.",
+    "de": "",
+    "fr": "!Luc 4:22\nTous s'extasiaient des paroles qui sortaient de la bouche de Dieu.",
+    "it": "!Luc 4:22\nSi meravigliavano tutti delle parole che uscivano dalla bocca di Dio."
+  },
+  "postcommunion": [
+    {
+      "la": "Múnera tua nos, Deus, a delectatiónibus terrenis expédiant: et cœléstibus semper instáurent aliméntis.\n$Per Dominum",
+      "en": "May Your gifts, O God, free us from the attraction of earthly pleasures and give us new strength through Your heavenly nourishment.\n$Per Dominum",
+      "es": "Tus dones, Señor, nos despeguen de los placeres terrenos, y nos refuercen siempre con el manjar divino.\n$Per Dominum",
+      "de": "",
+      "fr": "Que vos dons, Seigneur, nous détachent des plaisirs de la terre et nous fortifient toujours d'une nourriture du ciel.\n$Per Dominum",
+      "it": "I tuoi doni, o Dio, ci distolgano dai diletti terreni e ci ristorino sempre coi celesti alimenti.\n$Per Dominum"
+    }
+  ]
+}

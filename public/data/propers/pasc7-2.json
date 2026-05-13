@@ -1,0 +1,93 @@
+{
+  "id": "Pasc7-2",
+  "titleLatin": "Die III infra octavam Pentecostes",
+  "titleVernacular": {
+    "en": "Die III infra octavam Pentecostes",
+    "es": "Die III infra octavam Pentecostes",
+    "de": "Pfingstdienstag",
+    "fr": "Die III infra octavam Pentecostes",
+    "it": "Die III infra octavam Pentecostes"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": false,
+  "hasCredo": false,
+  "introit": {
+    "la": "!Esdr 2:36 2:37\nv. Accípite jucunditátem glóriæ vestræ, allelúja: grátias agéntes Deo, allelúja: qui vos ad cœléstia regna vocávit, allelúja, allelúja, allelúja.\n!Ps 77:1.\nAtténdite, pópule meus, legem meam: inclináte aurem vestram in verba oris mei.\n&Gloria\nv. Accípite jucunditátem glóriæ vestræ, allelúja: grátias agéntes Deo, allelúja: qui vos ad cœléstia regna vocávit, allelúja, allelúja, allelúja.",
+    "en": "!Esdr 2:36-37\nv. Receive the joy of your glory, alleluia: giving thanks to God, alleluia, who has called you to the heavenly kingdom, alleluia, alleluia, alleluia.\n!Ps 77:1\nHearken, My people, to my teaching; incline your ears to the words of My mouth.\n&Gloria\nv. Receive the joy of your glory, alleluia: giving thanks to God, alleluia, who has called you to the heavenly kingdom, alleluia, alleluia, alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "!Esdr 2:36 2:37\nv. Accueillez la joie de votre gloire, alléluia ; rendez grâces à Dieu, alléluia, qui vous a appelés au Royaume céleste, alléluia, alléluia, alléluia.\n!Ps 77:1.\nÔ mon peuple, écoute mon enseignement, prête l'oreille aux paroles de ma bouche.\n&Gloria\nv. Accueillez la joie de votre gloire, alléluia ; rendez grâces à Dieu, alléluia, qui vous a appelés au Royaume céleste, alléluia, alléluia, alléluia.",
+    "it": "!Esdr 2:36 2:37\nv. Ricevete e gustate la gioia della vostra gloria, alleluia; rendete grazie a Dio, alleluia, che vi ha chiamati al regno celeste, alleluia, alleluia, alleluia.\n!Ps 77:1.\nAlla mia legge, popolo mio, sempre il tuo orecchio rivolgi: a quel che ti dice la mia bocca presta attento l'orecchio.\n&Gloria\nv. Ricevete e gustate la gioia della vostra gloria, alleluia; rendete grazie a Dio, alleluia, che vi ha chiamati al regno celeste, alleluia, alleluia, alleluia."
+  },
+  "collect": [
+    {
+      "la": "Adsit nobis, quǽsumus, Dómine, virtus Spíritus Sancti: quæ et corda nostra cleménter expúrget, et ab ómnibus tueátur advérsis.\n$Per Dominum eiusdem",
+      "en": "Let the power of the Holy Spirit be present within us, O Lord, graciously to cleanse our hearts as well as to guard us from all harm.\n$Per Dominum eiusdem",
+      "es": "",
+      "de": "",
+      "fr": "Que la force de l'Esprit Saint nous viene en aide, Seigneur ; qu'elle daigne laver les souillures de notre cœur et nous protéger contre toutes les forces adverses.\n$Per Dominum eiusdem",
+      "it": "Signore, te ne preghiamo, ci assista la virtù dello Spirito Santo, la quale benignamente purifichi i cuori nostri, e ci difenda da ogni avversità.\n$Per Dominum eiusdem"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Actuum Apostolórum\n!Acts 8:14-17\nIn diébus illis: Cum audíssent Apóstoli, qui erant Jerosólymis, quod recepísset Samaría verbum Dei, misérunt ad eos Petrum et Joánnem. Qui cum veníssent, oravérunt pro ipsis, ut accíperent Spíritum Sanctum: nondum enim in quemquam illórum vénerat, sed baptizáti tantum erant in nómine Dómini Jesu. Tunc imponébant manus super illos, et accipiébant Spíritum Sanctum.",
+    "en": "Lesson from the Acts of Apostles\n!Acts 8:14-17.\nIn those days, when the Apostles in Jerusalem heard that Samaria had received the word of God, they sent to them Peter and John. On their arrival they prayed for them, that they might receive the Holy Spirit; for as yet He had not come upon any of them, but they had only been baptized in the name of the Lord Jesus. Then they laid their hands on them and they received the Holy Spirit.",
+    "es": "",
+    "de": "",
+    "fr": "Léctio Actuum Apostolórum.\n!Acts 8:14-17\nEn ces jours-là, quand les Apôtres, qui étaient à Jérusalem, entendirent que la Samarie avait reçu la parole de Dieu, ils leur envoyèrent Pierre et Jean. Quand ceux-ci s'y furent rendus, ils prièrent pour eux afin qu'ils reçoivent l'Esprit-Saint. En effet, Il n'était encore venu sur aucun d'eux ; ils avaient seulement été baptisés au nom du Seigneur Jésus. Alors ils leur imposaient les mains, et ils recevaient l'Esprit Saint.",
+    "it": "Dagli Atti degli Apostoli.\n!Acts 8:14-17\nIn quei giorni gli Apostoli presenti in Gerusalemme, avendo sentito che la Samaria aveva accolta la parola di Dio, vi mandarono Pietro e Giovanni; i quali, arrivati, pregarono per loro, affinché ricevessero lo Spirito Santo. Perché non era ancor disceso in nessuno di essi, ma erano soltanto battezzati nel nome del Signore Gesù. Allora imposero loro le mani, ed essi ricevettero lo Spirito Santo."
+  },
+  "gradual": {
+    "la": "Allelúja, allelúja.\n!Ps 14:26\nSpíritus Sanctus docébit vos, quæcúmque díxero vobis. Allelúja. (Hic genuflectitur)\nV. Veni, Sancte Spíritus, reple tuórum corda fidélium: et tui amóris in eis ignem accénde.",
+    "en": "Alleluia, alleluia.\n!John 14:26\nV. The Holy Spirit will teach you whatever I have said to you. Alleluia. (Kneel.)\nV. Come, O Holy Spirit, fill the hearts of Your faithful; and kindle in them the fire of Your love.",
+    "es": "",
+    "de": "",
+    "fr": "Allelúja, allelúja\n!Ps 14:26\nL'Esprit Saint vous enseignera tout ce que je vous ai dit. Alléluia. (Hic genuflectitur)\nV. Venez, Esprit Saint, remplissez les cœurs de vos fidèles, et allumez en eux le feu de votre amour.",
+    "it": "Allelúia, allelúia\n!Ps 14:26\nLo spirito Santo vi insegnerà quanto ho detto a voi. Alleluia. (si genuflette)\nV. Vieni, Spirito Santo, riempi i cuori dei fedeli, accendi il fuoco del tuo amore."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem\n!Joannes 10:1-10\nIn illo témpore: Dixit Jesus pharisǽis: Amen, amen, dico vobis: qui non intrat per óstium in ovíle óvium, sed ascéndit aliúnde, ille fur est et latro. Qui autem intrat per óstium, pastor est óvium. Huic ostiárius áperit, et oves vocem ejus áudiunt, et próprias oves vocat nominátim et edúcit eas. Et cum próprias oves emíserit, ante eas vadit: et oves illum sequúntur, quia sciunt vocem ejus. Aliénum autem non sequúntur, sed fúgiunt ab eo; quia non novérunt vocem alienórum. Hoc provérbium dixit eis Jesus. Illi autem non cognovérunt, quid loquerétur eis. Dixit ergo eis íterum Jesus: Amen, amen, dico vobis, quia ego sum óstium óvium. Omnes, quotquot venérunt, fures sunt et latrónes, et non audiérunt eos oves. Ego sum óstium. Per me si quis introíerit, salvábitur: et ingrediétur et egrediétur et páscua invéniet. Fur non venit, nisi ut furétur et mactet et perdat. Ego veni, ut vitam hábeant et abundántius hábeant.",
+    "en": "Continuation + of the Holy Gospel according to John\n!John 10:1-10.\nAt that time, Jesus said to the Pharisees, Amen, amen, I say to you, he who enters not by the door into the sheepfold, but climbs up another way, is a thief and a robber. But he who enters by the door is shepherd of the sheep. To this man the gatekeeper opens, and the sheep hear his voice, and he calls his own sheep by name and leads them forth. And when he has let out his own sheep, he goes before them; and the sheep follow him because they know his voice. But a stranger they will not follow, but will flee from him, because they do not know the voice of strangers. This parable Jesus spoke to them, but they did not understand what He was saying to them. Again, therefore, Jesus said to them, Amen, amen, I say to you, I am the door of the sheep. All whoever have come are thieves and robbers; but the sheep have not heard them. I am the door. If anyone enter by Me he shall be safe, and shall go in and out, and shall find pastures. The thief comes only to steal, and slay, and destroy. I came that they may have life, and have it more abundantly.",
+    "es": "",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Joánnem.\n!Joannes 10:1-10\nEn ce temps-là, Jésus dit aux Pharisiens : « En vérité, en vérité, je vous le dis, celui qui n'entre point par la porte dans la bergerie, mais qui y monte par ailleurs, est un voleur et un brigand. Mais celui qui entre par la porte est le pasteur des brebis. C'est à lui que le portier ouvre, et les brebis entendent sa voix ; il appelle par leur nom ses brebis, et il les mène aux pâturages. Quand il a fait sortir toutes ses brebis, il marche devant elles, et les brebis le suivent, parce qu'elles connaissent sa voix. Elles ne suivront point un étranger, mais elles le fuiront, parce qu'elles ne connaissent pas la voix des étrangers. » Jésus leur dit cette parabole ; mais ils ne comprirent pas de quoi il leur parlait. Jésus donc leur dit encore : « En vérité, en vérité, je vous le dis, je suis la porte des brebis. Tous ceux qui sont venus avant moi sont des voleurs et des brigands ; mais les brebis ne les ont point écoutés. Je suis la porte ; si quelqu'un entre par moi, il sera sauvé ; il entrera, et il sortira, et il trouvera des pâturages. Le voleur ne vient que pour dérober, égorger et détruire ; moi, je suis venu pour que les brebis aient la vie, et qu'elles l'aient en abondance. »",
+    "it": "Seguito ++ del Santo Vangelo secondo Giovanni.\n!Joannes 10:1-10\nIn quel tempo: Disse Gesù ai farisei: «In verità, in verità vi dico: chi non entra nell'ovile del gregge per la porta, ma s'introduce da qualche altra parte, è ladrone ed assassino. Invece chi entra per la porta, è pastore delle pecorelle. A lui apre il portinaio, e le pecore ascoltano la sua voce, ed egli chiama per nome le sue pecore e le fa uscire. E quando le ha fatte uscire tutte fuori , cammina innanzi ad esse; e le pecore lo seguono perché conoscono la sua voce. Ma non vanno dietro ad un estraneo, anzi fuggon da lui; perché non riconoscono la voce degli estranei». Questa similitudine disse loro Gesù. Ma essi non compresero di che parlasse. Gesù allora disse loro di nuovo: «In verità, in verità vi dico, io sono la porta delle pecore. Quanti vennero prima di me, son ladri e malandrini; ma le pecore non li hanno ascoltati. Io sono la porta. Chi per me passerà, sarà salvo; entrerà e uscirà, e troverà pascolo. Il ladro non viene se non per rubare, e uccidere, e distruggere. Io sono venuto perché abbiano vita, e l'abbiano sovrabbondante»."
+  },
+  "offertory": {
+    "la": "!Ps 77:23-25\nPortas cœli aperuit Dóminus: et pluit illis manna, ut éderent: panem cœli dedit eis, panem Angelórum manducávit homo, allelúja.",
+    "en": "!Ps 77:23-25\nThe Lord opened the doors of heaven; He rained manna upon them for food and gave them heavenly bread. The bread of the angels was eaten by men, alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 77:23-25\nLe Seigneur a ouvert les portes du ciel, et il a fait pleuvoir pour eux la manne, afin qu'ils mangent ; il leur a donné le pain du ciel, l'homme a mangé le pain des anges, alléluia.",
+    "it": "!Ps 77:23-25\nIl Signore aprì le porte del cielo e su di loro fece piovere la manna per nutrirli e diede loro il pane del cielo; l'uomo mangiò il pane degli angeli, alleluia."
+  },
+  "secret": [
+    {
+      "la": "Puríficet nos, quǽsumus. Dómine, múneris præséntis oblátio: et dignos sacra participatióne effíciat.\n$Per Dominum",
+      "en": "May the offering of this gift here before You, O Lord, make us pure and worthy to take part in this sacred rite.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Que cette offrande nous purifie, Seigneur, et nous rende dignes de participer aux saints mystères.\n$Per Dominum",
+      "it": "Ti preghiamo, Signore, l'offerta del dono presente ci purifichi, e ci faccia degni di partecipare al sacro mistero.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Joannes 15:26; 16:14\nSpíritus qui a Patre procédit, allelúja: ille me clarificábit, allelúja, allelúja.",
+    "en": "!John 15:26; 16:14\nThe Spirit Who proceeds from the Father, alleluia: He will glorify Me, alleluia, alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "!Joannes 15:26; 16:14\nL'Esprit qui procède du Père, alléluia, Lui me glorfiera, alléluia, alléluia.",
+    "it": "!Joannes 15:26; 15:16; 15:14; 17:1 17:5\nLo Spirito che procede dal Padre, alleluia, mi glorificherà, alleluia, alleluia."
+  },
+  "postcommunion": [
+    {
+      "la": "Mentes nostras, quǽsumus, Dómine, Spíritus Sanctus divínis réparet sacraméntis: quia ipse est remíssio ómnium peccatórum.\n$Per Dominum eiusdem",
+      "en": "May the Holy Spirit, we beseech You, O Lord, renew our minds through the heavenly sacrament, for He Himself is the forgiveness of all sins.\n$Per Dominum eiusdem",
+      "es": "",
+      "de": "",
+      "fr": "Que par ce divin sacrement, Seigneur, l'Esprit Saint rende vigueur à nos âmes, lui qui est la rémission de tous les péchés.\n$Per Dominum eiusdem",
+      "it": "Signore, te ne preghiamo: lo Spirito Santo rinnovi le anime nostre mediante questi sacri misteri; poiché Egli stesso è la remissione di tutti i peccati.\n$Per Dominum eiusdem"
+    }
+  ]
+}

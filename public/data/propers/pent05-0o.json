@@ -1,0 +1,93 @@
+{
+  "id": "Pent05-0o",
+  "titleLatin": "Dominica V Post Pentecosten",
+  "titleVernacular": {
+    "en": "Dominica V Post Pentecosten",
+    "es": "",
+    "de": "Fünfter Sonntag nach Pfingsten",
+    "fr": "Dominica V Post Pentecosten",
+    "it": "Dominica V Post Pentecosten"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps 26:7; 62:9\nv. Exáudi, Dómine, vocem meam, qua clamávi ad te: adjútor meus esto, ne derelínquas me neque despícias me, Deus, salutáris meus.\n!Ps 26:1\nDóminus illuminátio mea et salus mea, quem timébo?\n&Gloria\nv. Exáudi, Dómine, vocem meam, qua clamávi ad te: adjútor meus esto, ne derelínquas me neque despícias me, Deus, salutáris meus.",
+    "en": "!Ps. 26:7, 9\nv. Hear, O Lord, the sound of my call; be my helper: forsake me not: despise me not, O God my Saviour.\n!Ps 26:1\nThe Lord is my light and my salvation; whom should I fear?\n&Gloria\nv. Hear, O Lord, the sound of my call; be my helper: forsake me not: despise me not, O God my Saviour.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 26:7; 62:9\nv. Exaucez ma voix, Seigneur, quand je crie vers vous ; soyez mon secours, ne m'abandonnez pas, ne me méprisez pas, ô Dieu mon salut.\n!Ps 26:1\nLe Seigneur est ma lumière et mon salut, qui craindrais-je ?\n&Gloria\nv. Exaucez ma voix, Seigneur, quand je crie vers vous ; soyez mon secours, ne m'abandonnez pas, ne me méprisez pas, ô Dieu mon salut.",
+    "it": "!Ps 26:7; 62:9\nv. Esaudisci, o Signore, l’invocazione con cui a Te mi rivolgo, sii il mio aiuto, non abbandonarmi, non disprezzarmi, o Dio mia salvezza..\n!Ps 26:1\nIl Signore è mia luce e mia salvezza, chi temerò?\n&Gloria\nv. Esaudisci, o Signore, l’invocazione con cui a Te mi rivolgo, sii il mio aiuto, non abbandonarmi, non disprezzarmi, o Dio mia salvezza.."
+  },
+  "collect": [
+    {
+      "la": "Deus, qui diligéntibus te bona invisibília præparásti: infúnde córdibus nostris tui amóris afféctum; ut te in ómnibus et super ómnia diligéntes, promissiónes tuas, quæ omne desidérium súperant, consequámur.\n$Per Dominum",
+      "en": "O God, You Who have prepared good things as yet unseen for those who love You, pour a burning love into our hearts, so that we, loving You in and above all things, may obtain Your promises which surpass all desire.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Ô Dieu qui avez préparé pour ceux qui vous aiment des biens que nul œil ne peut voir, versez en nos cœurs la tendresse de votre amour, afin que, vous aimant en toutes choses et par-dessus tout, nous ayons part à vos promesses qui surpassent tout désir.\n$Per Dominum",
+      "it": "O Dio, che a quanti Ti amano preparasti beni invisibili, infondi nel nostro cuore la tenerezza del tuo amore, affinché, amandoti in tutto e sopra tutto, conseguiamo quei beni da Te promessi, che sorpassano ogni desiderio.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Petri Apóstoli.\n!1 Pet 3:8-15\nCaríssimi: Omnes unánimes in oratióne estóte, compatiéntes, fraternitátis amatóres, misericórdes, modésti, húmiles: non reddéntes malum pro malo, nec maledíctum pro maledícto, sed e contrário benedicéntes: quia in hoc vocáti estis, ut benedictiónem hereditáte possideátis. Qui enim vult vitam dilígere et dies vidére bonos, coérceat linguam suam a malo, et lábia ejus ne loquántur dolum. Declínet a malo, et fáciat bonum: inquírat pacem, et sequátur eam. Quia óculi Dómini super justos, et aures ejus in preces eórum: vultus autem Dómini super faciéntes mala. Et quis est, qui vobis nóceat, si boni æmulatóres fuéritis? Sed et si quid patímini propter justítiam, beáti. Timórem autem eórum ne timuéritis: et non conturbémini. Dóminum autem Christum sanctificáte in córdibus vestris.",
+    "en": "Lesson from the first letter of St. Peter the Apostle\n!1 Pet 3:8-15.\nBeloved: Be all like-minded in prayer, compassionate, lovers of the brethren, merciful, reserved, humble; not rendering evil for evil, or abuse for abuse, but contrariwise, blessing; for unto this were you called that you might inherit a blessing. For, 'He who would love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no deceit. Let him turn away from evil and do good, let him seek after peace and pursue it. For the eyes of the Lord are upon the just, and His ears unto their prayers; but the face of the lord is against those who do evil.' And who is there to harm you, if you are zealous for what is good? But even if you suffer anything for justice’ sake, blessed are you. So have no fear of their fear and do not be troubled. But hallow the Lord Christ in your hearts.",
+    "es": "",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Petri Apóstoli.\n!1 Pet 3:8-15\nBien-aimés, soyez tous unanimes dans la prière, compatissants, amis de la vie fraternelle, miséricordieux, modestes, humbles. Ne rendez point le mal pour le mal, ni l'injure pour l'injure ; bénissez, au contraire, car c'est à cela que vous avez été appelés, afin de devenir héritiers de la bénédiction. Celui qui veut aimer la vie et voir des jours heureux, qu'il garde sa langue du mal, et ses lèvres des paroles trompeuses ; qu'il se détourne du mal, et fasse le bien ; qu'il cherche la paix et la poursuive. Car le Seigneur a les yeux sur les justes, et ses oreilles sont attentives à leurs prières ; mais la face du Seigneur est contre ceux qui font le mal. Et qui pourra vous faire du mal, si vous êtes appliqués à faire le bien ? Que si pourtant vous souffrez pour la justice, heureux êtes-vous ! Ne craignez point leurs menaces et ne vous laissez point troubler ; mais sanctifiez dans vos cœurs le Seigneur Christ.",
+    "it": "Lettura della Lettera del B. Pietro Ap.\n!1 Pet 3:8-15\nCarissimi: Siate tutti uniti nella preghiera, siate compassionevoli, animati da amore fraterno, misericordiosi, modesti, umili: non rendete male per male, né offesa per offesa, ma piuttosto benedizione, poiché a ciò siete stati chiamati, al fine di ereditare la benedizione. Chi infatti vuole amare la vita e vedere giorni felici, preservi la sua lingua dal male e le sue labbra dalla menzogna, éviti il male e faccia il bene, ricerchi la pace e la segua. Poiché gli occhi del Signore sono rivolti sui giusti e le sue orecchie alle loro preghiere: mentre il volto del Signore è contro coloro che fanno il male. E chi vi potrà nuocere se sarete stati emulatori del bene? Del resto, se avrete sofferto qualche cosa per la giustizia, sarete beati. Non temete coloro che vi nuociono, e non turbatevi: ma glorificate nei vostri cuori il Cristo Signore."
+  },
+  "gradual": {
+    "la": "!Ps 83:10; 83:9\nProtéctor noster, áspice, Deus, et réspice super servos tuos,\nV. Dómine, Deus virtútum, exáudi preces servórum tuórum. Allelúja, allelúja\n!Ps 20:1\nDómine, in virtúte tua lætábitur rex: et super salutáre tuum exsultábit veheménter. Allelúja.",
+    "en": "!Ps. 83:10, 9\nBehold, O God, our protector, and look on Your servants.\nV. O Lord God of Hosts, hear the prayers of Your servants. Alleluia, alleluia.\n!Ps. 20:1\nV. O Lord, in Your strength the king is glad; in Your victory how greatly he rejoices! Alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 83:10; 83:9\nRegardez, ô Dieu, notre protecteur, et tournez les yeux vers vos serviteurs.\nV. Seigneur, Dieu des armées, exaucez les prières de vos serviteurs. Alléluia, alléluia.\n!Ps 20:1\nSeigneur, en votre force se réjouira le roi, et à cause de votre salut il débordera de joie. Alléluia.",
+    "it": "!Ps 83:10; 83:9\nO Dio, nostro protettore, volgi il tuo sguardo a noi, tuoi servi,\nV. O Signore, Dio degli eserciti, esaudisci le preghiere dei tuoi servi. Allelúia, allelúia\n!Ps 20:1\nO Signore, nella tua potenza si allieta il re; e quanto esulta per i l tuo soccorso! Allelúia."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum.\n!Matt 5:20-24\nIn illo témpore: Dixit Jesus discípulis suis: Nisi abundáverit justítia vestra plus quam scribárum et pharisæórum, non intrábitis in regnum cœlórum. Audístis, quia dictum est antíquis: Non occídes: qui autem occíderit, reus erit judício. Ego autem dico vobis: quia omnis, qui iráscitur fratri suo, reus erit judício. Qui autem díxerit fratri suo, raca: reus erit concílio. Qui autem díxerit, fátue: reus erit gehénnæ ignis. Si ergo offers munus tuum ad altáre, et ibi recordátus fúeris, quia frater tuus habet áliquid advérsum te: relínque ibi munus tuum ante altáre et vade prius reconciliári fratri tuo: et tunc véniens ófferes munus tuum.",
+    "en": "Continuation + of the Holy Gospel according to Matthew\n!Matt 5:20-24.\nAt that time, Jesus said to His disciples: Unless your justice exceeds that of the Scribes and Pharisees, you shall not enter the kingdom of heaven. You have heard that it was said to the ancients, ‘You shall not kill’; and that whoever shall kill shall be liable to judgment. But I say to you that everyone who is angry with his brother shall be liable to judgment; and whoever says to his brother, ‘Raca,’ shall be liable to the Sanhedrin; and whoever says, ‘You fool!’, shall be liable to the fire of Gehenna. Therefore, if you are offering your gift at the altar, and there remember that your brother has anything against you, leave your gift before the altar and go first to be reconciled to your brother; and then come and offer your gift.",
+    "es": "",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Matthaeum.\n!Matt 5:20-24\nEn ce temps-là, Jésus dit à ses disciples : « Si votre justice ne surpasse celle des Scribes et des Pharisiens, vous n'entrerez point dans le royaume des cieux. Vous avez appris qu'il a été dit aux anciens : Tu ne tueras point ; mais qui tuera sera justiciable du tribunal. Et moi, je vous dis : Quiconque se met en colère contre son frère sera justiciable du tribunal ; et qui dira à son frère : Raca ! sera justiciable de l'assemblée ; et qui lui dira : Fou ! sera justiciable pour la géhenne du feu. Si donc tu viens présenter ton offrande à l'autel et que là tu te souviennes que ton frère a quelque chose contre toi, laisse là ton offrande, devant l'autel, et va d'abord te réconcilier avec ton frère ; et alors viens présenter ton offrande.",
+    "it": "Séguito ++ del S. Vangelo secondo Matteo.\n!Matt 5:20-24\nIn quel tempo: Gesú disse ai suoi discepoli: Se la vostra giustizia non sarà stata più grande di quella degli scribi e dei farisei, non entrerete nel Regno dei Cieli. Avete sentito che è stato detto agli antichi: Non uccidere; chi infatti avrà ucciso sarà condannato in giudizio. Ma io vi dico che chiunque si adira col fratello sarà condannato in giudizio. Chi avrà detto a suo fratello: raca, imbecille, sarà condannato nel Sinedrio. E chi gli avrà detto: pazzo; sarà condannato al fuoco della geenna. Se dunque porti la tua offerta all’altare e allora ti ricordi che tuo fratello ha qualcosa contro di te, lascia la tua offerta all’altare e va prima a riconciliarti con tuo fratello, e poi, ritornato, fa la tua offerta."
+  },
+  "offertory": {
+    "la": "!Ps 15:7 et 8.\nBenedícam Dóminum, qui tríbuit mihi intelléctum: providébam Deum in conspéctu meo semper: quóniam a dextris est mihi, ne commóvear.",
+    "en": "!Ps. 15:7-8.\nI bless the Lord Who counsels me; I set God ever before me; with Him at my right hand I shall not be disturbed.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 15:7 et 8.\nJe bénirai le Seigneur qui m'a donné l'intelligence. Je voyais Dieu toujours en ma présence, car il est à ma droite pour que je ne sois pas ébranlé.",
+    "it": "!Ps 15:7 et 8.\nBenedirò il Signore che mi dato senno: tengo Dio sempre a me presente, con lui alla mia destra non sarò smosso."
+  },
+  "secret": [
+    {
+      "la": "Propitiáre, Dómine, supplicatiónibus nostris: et has oblatiónes famulórum famularúmque tuárum benígnus assúme; ut, quod sínguli obtulérunt ad honórem nóminis tui, cunctis profíciat ad salútem.\n$Per Dominum",
+      "en": "Be propitious to our supplications, O Lord, and graciously receive these oblations of Your servants and handmaids, that what each one offered to the glory of Your name, may profit all to salvatlon.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Cédant à nos supplications, Seigneur, accueillez, dans votre bonté, ces offrandes de vos serviteurs et de vos servantes, afin que, présentées par chacun en votre honneur, elles servent au salut de tous.\n$Per Dominum",
+      "it": "Sii propizio, o Signore, alle nostre suppliche, e accogli benigno queste oblazioni dei tuoi servi e delle tue serve, affinché ciò che i singoli offersero a gloria del tuo nome, giovi a tutti per la loro salvezza.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Ps 26:4\nUnam pétii a Dómino, hanc requíram: ut inhábitem in domo Dómini ómnibus diébus vitæ meæ.",
+    "en": "!Ps. 26:4.\nOne thing I ask of the Lord; this I seek: to dwell in the house of the Lord all the days of my life.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 26:4\nJ'ai demandé au Seigneur une seule chose, que je recherche : c'est d'habiter dans la maison du Seigneur tous les jours de ma vie.",
+    "it": "!Ps 26:4\nUna cosa sola chiedo e chiederò al Signore: di abitare nella casa del Signore tutti i giorni della mia vita."
+  },
+  "postcommunion": [
+    {
+      "la": "Quos cœlésti, Dómine, dono satiásti: præsta, quǽsumus; ut a nostris mundémur occúltis et ab hóstium liberémur insídiis.\n$Per Dominum",
+      "en": "Grant us, we beseech You, O Lord, that we whom You have filled with the heavenly gift may be cleansed of our hidden sins and delivered from the snares of our enemies.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Seigneur, qui nous avez rassasiés du don céleste, accordez-nous d'être à la fois purifiés de nos fautes cachées et délivrés des embûches de nos ennemis.\n$Per Dominum",
+      "it": "O Signore, che ci hai saziato col dono celeste; fa che siamo mondati dalle nostre occulte mancanze, e liberati dalle insidie dei nemici.\n$Per Dominum"
+    }
+  ]
+}

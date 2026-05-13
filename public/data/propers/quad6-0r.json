@@ -1,0 +1,93 @@
+{
+  "id": "Quad6-0r",
+  "titleLatin": "Dominica II Passionis seu in Palmis",
+  "titleVernacular": {
+    "en": "Dominica II Passionis seu in Palmis",
+    "es": "",
+    "de": "Zweiter Passions- und Palmsonntag",
+    "fr": "Dominica II Passionis seu in Palmis",
+    "it": "Dominica II Passionis seu in Palmis"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps 21:20 et 22.\nv. Dómine, ne longe fácias auxílium tuum a me, ad defensiónem meam áspice: líbera me de ore leónis, et a córnibus unicórnium humilitátem meam.\n!Ps 21:2\nDeus, Deus meus, réspice in me: quare me dereliquísti? longe a salúte mea verba delictórum meórum.\nv. Dómine, ne longe fácias auxílium tuum a me, ad defensiónem meam áspice: líbera me de ore leónis, et a córnibus unicórnium humilitátem meam.",
+    "en": "!Ps 21:20, 22\nv. O Lord, be not far from me; O my help, hasten to aid me. Save me from the lions mouth; form the horns of the wild bulls, my wretched life.\n!Ps 21:2\nMy God, my God, look upon me, why have You forsaken me? Far from my salvation are the words of my sins.\nv. O Lord, be not far from me; O my help, hasten to aid me. Save me from the lions mouth; form the horns of the wild bulls, my wretched life.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 21:20 et 22.\nv. Seigneur, n’éloignez pas de moi votre secours : soyez attentif à me défendre ; délivrez-moi de la gueule du lion et des cornes des buffles, car je suis bien faible et humilié.\n!Ps 21:2\nÔ Dieu, mon Dieu, tournez vers moi votre regard ; pourquoi m’avez-vous abandonné ? La voix de mes péchés éloigne de moi le salut.\nv. Seigneur, n’éloignez pas de moi votre secours : soyez attentif à me défendre ; délivrez-moi de la gueule du lion et des cornes des buffles, car je suis bien faible et humilié.",
+    "it": "!Ps 21:20 et 22.\nv. Tu, o Signore, non allontanare da me il tuo soccorso, prendi cura della mia difesa: salvami dalla bocca del leone, e salva la mia debolezza dalle corna dei bufali.\n!Ps 21:2\nDio mio, Dio mio, guardami: perché mi hai abbandonato? La salvezza si allontana da me alla voce dei miei delitti.\nv. Tu, o Signore, non allontanare da me il tuo soccorso, prendi cura della mia difesa: salvami dalla bocca del leone, e salva la mia debolezza dalle corna dei bufali."
+  },
+  "collect": [
+    {
+      "la": "Omnípotens sempitérne Deus, qui humáno géneri, ad imitándum humilitátis exémplum, Salvatórem nostrum carnem súmere et crucem subíre fecísti: concéde propítius; ut et patiéntiæ ipsíus habére documénta et resurrectiónis consórtia mereámur.\n$Per eumdem",
+      "en": "Almighty, eternal God, Who, to provide mankind an example of humility for it to imitate, willed that the Saviour should assume our flesh and suffer death upon the Cross, mercifully grant that we may be found worthy of the lesson of His endurance and the fellowship of His resurrection.\n$Per eumdem",
+      "es": "",
+      "de": "",
+      "fr": "Dieu tout-puissant et éternel, qui avez voulu que notre Sauveur prît la chair humaine et supportât les tourments de la croix, afin de servir de modèle d’humilité au genre humain, accordez-nous, dans votre bonté, d’être, à son exemple, toujours courageux dans les épreuves et de mériter par là d’avoir part à sa résurrection.\n$Per eundem",
+      "it": "Onnipotente eterno Dio, che per dare al genere umano un esempio d'umiltà da imitare, volesti che il Salvatore nostro s'incarnasse e subisse la morte di Croce: propizio concedi a noi il merito di accogliere gli insegnamenti della sua pazienza, e di partecipare alla sua risurrezione.\n$Per eundem"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Philippénses\n!Phil 2:5-11\nFratres: Hoc enim sentíte in vobis, quod et in Christo Jesu: qui, cum in forma Dei esset, non rapínam arbitrátus est esse se æquálem Deo: sed semetípsum exinanívit, formam servi accípiens, in similitúdinem hóminum factus, et hábitu invéntus ut homo. Humiliávit semetípsum, factus obédiens usque ad mortem, mortem autem crucis. Propter quod et Deus exaltávit illum: et donávit illi nomen, quod est super omne nomen: (hic genuflectitur) ut in nómine Jesu omne genu flectátur cœléstium, terréstrium et infernórum: et omnis lingua confiteátur, quia Dóminus Jesus Christus in glória est Dei Patris.",
+    "en": "Lesson from the letter of St. Paul to the Philippians\n!Phil 2:5-11\nBrethren: Have this in mind in you which was also in Christ Jesus, Who, though He was by nature God, did not consider being equal to God a thing to be clung to, but emptied Himself, taking the nature of a slave and being made like unto men. And appearing in the form of man, He humbled Himself, becoming obedient to death, even to death on a cross. Therefore God also has exalted Him and has bestowed upon Him the Name that is above every name, (Kneel) so that at the Name of Jesus every knee should bend of those in heaven, on earth and under the earth and every tongue should confess that the Lord Jesus Christ is in the glory of God the Father.",
+    "es": "",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Pauli Apóstoli ad Philippénses.\n!Phil 2:5-11\nMes frères : Ayez en vous les mêmes sentiments dont était animé le Christ Jésus : bien qu’il fût Dieu par nature, il n’a pas retenu avidement son égalité avec Dieu, mais il s’est anéanti lui-même en prenant la condition d’esclave, en devenant semblable aux hommes, à l’extérieur absolument comme un homme. Il s’est abaissé lui-même, se faisant obéissant jusqu’à la mort de la croix. C’est pourquoi Dieu l’a souverainement élevé et lui a donné le nom qui est au-dessus de tout nom (ici on fléchit le genou), afin qu’au nom de Jésus tout genou fléchisse, au ciel, sur la terre et dans les enfers, et que toute langue proclame, à la gloire de Dieu le Père, que Jésus-Christ est Dieu.",
+    "it": "Lettura dell'Epistola del beato Paolo Apostoli ai Filippesi.\n!Phil 2:5-11\nFratelli: Abbiate in voi gli stessi sentimenti dai quali era animato Cristo Gesù: il quale, essendo nella forma di Dio, non reputò che fosse una rapina quel suo essere uguale a Dio, ma annichilò se stesso, prese la forma di servo, fatto simile agli uomini, e per condizione riconosciuto quale uomo. Egli umiliò se stesso, facendosi ubbidiente sino alla morte e morte di croce. Perciò Dio stesso lo esaltò e gli donò un nome che è sopra qualunque nome: (qui si genuflette) onde nel nome di Gesù si pieghi ogni ginocchio in cielo, in terra e negli abissi; e affinché ogni lingua confessi che il Signore Gesù Cristo è nella gloria di Dio Padre."
+  },
+  "gradual": {
+    "la": "!Ps 72:24 et 1-3\nTenuísti manum déxteram meam: et in voluntáte tua deduxísti me: et cum glória assumpsísti me.\nV. Quam bonus Israël Deus rectis corde! mei autem pæne moti sunt pedes: pæne effúsi sunt gressus mei: quia zelávi in peccatóribus, pacem peccatórum videns.\n_\n!Tractus 21:2-9, 18, 19, 22, 24, 32\nDeus, Deus meus, réspice in me: quare me dereliquísti?\nV. Longe a salúte mea verba delictórum meórum.\nV. Deus meus, clamábo per diem, nec exáudies: in nocte, et non ad insipiéntiam mihi.\nV. Tu autem in sancto hábitas, laus Israël.\nV. In te speravérunt patres nostri: speravérunt, et liberásti eos.\nV. Ad te clamavérunt, et salvi facti sunt: in te speravérunt, et non sunt confúsi.\nV. Ego autem sum vermis, et non homo: oppróbrium hóminum et abjéctio plebis.\nV. Omnes, qui vidébant me, aspernabántur me: locúti sunt lábiis et movérunt caput.\nV. Sperávit in Dómino, erípiat eum: salvum fáciat eum, quóniam vult eum.\nV. Ipsi vero consideravérunt et conspexérunt me: divisérunt sibi vestiménta mea, et super vestem meam misérunt sortem.\nV. Líbera me de ore leónis: et a córnibus unicórnium humilitátem meam.\nV. Qui timétis Dóminum, laudáte eum: univérsum semen Jacob, magnificáte eum.\nV. Annuntiábitur Dómino generátio ventúra: et annuntiábunt cœli justítiam ejus.\nV. Pópulo, qui nascétur, quem fecit Dóminus.",
+    "en": "!Ps 72:24, 1-3\nYou have hold of my right hand; with Your counsel You guide me; and in the end You will receive me in glory.\nV. How good God is to Israel, to those who are clean of heart! But, as for me, I almost lost my balance; my feet all but slipped, because I was envious of sinners when I saw them prosper though they were wicked.\n_\n!Tractus\n!Ps 21:2-9, 18-19, 22, 24, 32\nMy God, my God, look upon me: why have You forsaken me?\nV. Far from my salvation, are the words of my sins.\nV. O my God, I cry out by day and You answer not; by night, and there is no relief.\nV. But You are enthroned in the holy place, O glory of Israel!\nV. In You our fathers trusted; they trusted and You delivered them.\nV. To You they cried, and they escaped; in You they trusted, and they were not put to shame.\nV. But I am a worm, not a man; the scorn of men, despised by the people.\nV. All who see me, scoff at me; they mock me with parted lips, they wag their heads.\nV. He relied on the Lord; let Him deliver him, let Him rescue him, if He loves him.\nV. But they look on and gloat over me; they divide my garments among them, and for my vesture they cast lots.\nV. Save me from the lions mouth; from the horns of the wild bulls, my wretched life.\nV. You who fear the Lord, praise Him: all you descendants of Jacob, give glory to Him.\nV. There shall be declared to the Lord a generation to come: and the heavens shall show forth His justice.\nV. To a people that shall be born, which the Lord has made.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 72:24 et 1-3\nMon Dieu, vous m’avez pris la main droite ; vous m’avez conduit selon votre volonté et vous m’avez glorifié.\nV. Qu’il est bon, le Dieu d’Israël, pour tous ceux qui ont le cœur droit. J’étais sur le point de fléchir, mon pied a presque glissé, car je portais envie aux impies en voyant le bonheur de ces méchants.\n_\n!Tractus 21:2-9, 18, 19, 22, 24, 32\nMon Dieu, mon Dieu, tournez vers moi votre regard, pourquoi m’avez-vous abandonné ?\nV. La voix de mes péchés éloigne de moi le salut.\nV. Mon Dieu, je crie pendant le jour et vous ne m’écoutez pas ; la nuit, et je n’obtiens pas de soulagement.\nV. Pourtant vous habitez dans votre sanctuaire et vers vous montent les louanges d’Israël.\nV. Nos pères ont espéré en vous et vous les avez délivrés.\nV. Ils ont mis en vous leur confiance et ils n’ont pas été trompés.\nV. Mais moi, je suis un ver de terre et non un homme, l’opprobre des hommes et le rebut du peuple.\nV. Tous ceux qui me voient me méprisent. Ils ouvrent les lèvres et branlent la tête, en disant\nV. « Il a mis sa confiance dans le Seigneur, qu’il le sauve, puisqu’il l’aime. »\nV. Ils m’observent et me regardent. Ils se partagent mes vêtements, ils tirent au sort ma tunique.\nV. « Seigneur, délivrez-moi de la gueule du lion et des cornes des buffles. »\nV. Vous qui craignez le Seigneur, louez-le, vous tous, descendants de Jacob, chantez ses louanges.\nV. On parlera du Seigneur à la génération future. Ils viendront et ils annonceront ce qu’il a accompli.\nV. Au peuple qui naîtra, ils diront ce qu’il a fait.",
+    "it": "!Ps 72:24 et 1-3\nTu mi hai preso per la destra, mi hai guidato col tuo consiglio, e mi 'hai accolto in trionfo.\nV. Com'è buono, o Israele, Iddio con chi è retto di cuore. Per poco i miei piedi non vacillarono; per poco i miei passi non sdrucciolarono; perché io ho invidiato i peccatori, vedendo la prosperità degli empi.\n_\n!Tractus 21:2-9, 18, 19, 22, 24, 32\nDio, Dio mio, volgiti a me: perché mi hai abbandonato?\nV. La voce dei miei delitti allontana da me la mia salvezza.\nV. Dio mio, grido il giorno, e non rispondi: la notte, e non c'è requie per me.\nV. Eppure tu abiti nel santuario, o gloria d'Israele.\nV. In te confidavano i nostri padri: confidavano, e tu li liberavi.\nV. A te gridavano, ed erano salvati: in te confidavano, e non avevano da arrossire.\nV. Ma io sono un verme, e non un uomo: lo zimbello della gente, e il rifiuto della plebe.\nV. Tutti quelli che mi vedevano, si facevano beffe di me: storcevano la bocca e scrollavano il capo.\nV. Ha confidato nel Signore, lo salvi, giacché gli vuol bene.\nV. Essi mi osservarono e tennero gli occhi su di me: si spartirono le mie vesti, e tirarono a sorte la mia tunica.\nV. Salvami dalle zanne del leone: dalle corna degli unicorni salva la mia pochezza.\nV. Voi che temete il Signore, lodatelo: voi tutti, o prole di Giacobbe. glorificatelo.\nV. Sarà chiamata col nome del Signore la generazione che verrà; e i cieli annunzieranno la giustizia di lui.\nV. Al popolo che sorgerà, e che sarà opera del Signore."
+  },
+  "gospel": {
+    "la": "@:Munda Cor Passionis\n_\nv.~\n@:Evangelium1\n@Tempora/Quad6-0:Evangelium3",
+    "en": "@:Munda Cor Passionis\n_\nv.~\n@:Evangelium1\n@Tempora/Quad6-0:Evangelium3",
+    "es": "",
+    "de": "",
+    "fr": "@:Munda Cor Passionis\n_\nv.~\n@:Evangelium1\n@Tempora/Quad6-0:Evangelium3",
+    "it": "@:Munda Cor Passionis\n_\nv.~\n@:Evangelium1\n@Tempora/Quad6-0:Evangelium3"
+  },
+  "offertory": {
+    "la": "!Ps 68:21-22\nImpropérium exspectávit cor meum et misériam: et sustínui, qui simul mecum contristarétur, et non fuit: consolántem me quæsívi, et non invéni: et dedérunt in escam meam fel, et in siti mea potavérunt me acéto.",
+    "en": "!Ps 68:21-22\nInsult has broken my heart, and I am weak; I looked for sympathy, but there was none; for comforters, and I found none. Rather they put gall in My food and in My thirst they gave Me vinegar to drink.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 68:21-22.\nMon cœur est dans l’attente des humiliations et des souffrances. Je cherche quelqu’un qui s’attriste avec moi, mais en vain ; un consolateur, et je n’en trouve pas. Pour nourriture, ils me donnent du fiel ; et dans ma soif, ils m’abreuvent de vinaigre.",
+    "it": "!Ps 68:21-22.\nOltraggio e dolore mi spezzano il cuore; attendevo compassione da qualcuno, e non ci fu; qualcuno che mi consolasse e non lo trovai: per cibo mi diedero del fiele e assetato mi hanno dato da bere dell'aceto."
+  },
+  "secret": [
+    {
+      "la": "Concéde, quǽsumus, Dómine: ut óculis tuæ majestátis munus oblátum, et grátiam nobis devotiónis obtíneat, et efféctum beátæ perennitátis acquírat.\n$Per Dominum",
+      "en": "Grant, we beseech You, almighty God, that the gift offered in the sight of Your majesty may obtain for us the grace of reverent devotion and assure us eternal happiness.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Faites, Seigneur, nous vous en prions, que ce sacrifice que nous offrons à votre divine Majesté nous obtienne la grâce de la dévotion et nous acquière la récompense du bonheur éternel.\n$Per Dominum",
+      "it": "Concedi, te ne preghiamo, o Signore, che quest'ostia offerta alla presenza della tua Maestà, ci ottenga la grazia della devozione e ci acquisti il possesso della Eternità beata.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Matt 26:42\nPater, si non potest hic calix transíre, nisi bibam illum: fiat volúntas tua.",
+    "en": "!Matt 26:42\nFather, if this cup cannot pass away, unless I drink it, Your will be done.",
+    "es": "",
+    "de": "",
+    "fr": "!Matt 26:42.\nPère, si ce calice de souffrances ne peut passer sans que je le boive, que votre volonté soit faite.",
+    "it": "!Matt 26:42.\nPadre mio, se non è possibile che questo calice passi senza che io lo beva, sia fatta la tua volontà."
+  },
+  "postcommunion": [
+    {
+      "la": "Per hujus, Dómine, operatiónem mystérii: et vitia nostra purgéntur, et justa desidéria compleántur.\n$Per Dominum",
+      "en": "By the working of this sacred rite, O Lord, may our sins be erased and our just desires fulfilled.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Seigneur, que, par l’action de ce divin sacrement, nous soyons délivrés de nos vices et que nos désirs légitimes soient comblés.\n$Per Dominum",
+      "it": "O Signore, per l’efficacia di questo sacramento, siano purgati i nostri vizi e appagati i nostri giusti desideri.\n$Per Dominum"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "Adv4-2",
+  "titleLatin": "Feria III infra Hebdomadam IV Adventus",
+  "titleVernacular": {
+    "en": "Feria III infra Hebdomadam IV Adventus",
+    "es": "Feria III infra Hebdomadam IV Adventus",
+    "de": "Dienstag nach dem vierten Sonntag im Advent",
+    "fr": "Feria III infra Hebdomadam IV Adventus",
+    "it": "Feria III infra Hebdomadam IV Adventus"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "collect": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ],
+  "epistle": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gradual": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gospel": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "offertory": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "secret": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ],
+  "communionAntiphon": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "postcommunion": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ]
+}

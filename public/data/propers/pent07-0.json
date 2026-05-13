@@ -1,0 +1,93 @@
+{
+  "id": "Pent07-0",
+  "titleLatin": "Dominica VII Post Pentecosten",
+  "titleVernacular": {
+    "en": "Dominica VII Post Pentecosten",
+    "es": "Dominica VII Post Pentecosten",
+    "de": "Siebter Sonntag nach Pfingsten",
+    "fr": "Dominica VII Post Pentecosten",
+    "it": "Dominica VII Post Pentecosten"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps 46:2\nv. Omnes gentes, pláudite mánibus: jubiláte Deo in voce exsultatiónis.\n!Ps 46:3\nQuóniam Dóminus excélsus, terríbilis: Rex magnus super omnem terram.\n&Gloria\nv. Omnes gentes, pláudite mánibus: jubiláte Deo in voce exsultatiónis.",
+    "en": "!Ps 46:2\nv. All you peoples clap your hands, shout to God with cries of gladness.\n!Ps 46:3\nFor the Lord, the Most High, the awesome, is the great King over all the earth.\n&Gloria\nv. All you peoples clap your hands, shout to God with cries of gladness.",
+    "es": "!Ps 46:2\nv. Batid palmas todas las gentes; vitoread a Dios con voces de júbilo.\n!Ps 46:3\nPorque el Señor es el Altísimo, el terrible; es el rey grande de toda la tierra.\n&Gloria\nv. Batid palmas todas las gentes; vitoread a Dios con voces de júbilo.",
+    "de": "",
+    "fr": "!Ps 46:2.\nv. Tous les peuples, applaudissez ; jubilez pour Dieu avec des cris de joie.\n!Ps 46:3\nCar le Seigneur est élevé et redoutable, Roi grand sur toute la terre.\n&Gloria\nv. Tous les peuples, applaudissez ; jubilez pour Dieu avec des cris de joie.",
+    "it": "!Ps 46:2.\nv. O popoli tutti, applaudite: lodate Iddio con voce di giubilo.\n!Ps 46:3\nPoiché il Signore è l’Altissimo, il Terribile, il sommo Re, potente su tutta la terra.\n&Gloria\nv. O popoli tutti, applaudite: lodate Iddio con voce di giubilo."
+  },
+  "collect": [
+    {
+      "la": "Deus, cujus providéntia in sui dispositióne non fállitur: te súpplices exorámus; ut nóxia cuncta submóveas, et ómnia nobis profutúra concédas.\n$Per Dominum.",
+      "en": "O God, Whose providence never fails to set things in order, we humbly beseech You to remove from us whatever is harmful and grant whatever is for our benefit.\n$Per Dominum",
+      "es": "Oh Dios, cuya providencia no se engaña en sus disposiciones; te suplicamos apartes de nosotros todo lo dañoso, y nos concedas todo lo saludable.\n$Per Dominum",
+      "de": "",
+      "fr": "Ô Dieu, dont la Providence ne s'égare jamais dans ce qu'elle réalise, nous vous supplions d'écarter tout ce qui nous nuit et de nous accorder tout ce qui nous est utile.\n$Per Dominum.",
+      "it": "O Dio, la cui provvidenza non fallisce mai nelle sue disposizioni, Ti supplichiamo di allontanare da noi quanto ci nuoce, e di concederci quanto ci giova.\n$Per Dominum."
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános\n!Rom 6:19-23\nFratres: Humánum dico, propter infirmitátem carnis vestræ: sicut enim exhibuístis membra vestra servíre immundítiæ et iniquitáti ad iniquitátem, ita nunc exhibéte membra vestra servíre justítiæ in sanctificatiónem. Cum enim servi essétis peccáti, líberi fuístis justítiæ. Quem ergo fructum habuístis tunc in illis, in quibus nunc erubéscitis? Nam finis illórum mors est. Nunc vero liberáti a peccáto, servi autem facti Deo, habétis fructum vestrum in sanctificatiónem, finem vero vitam ætérnam. Stipéndia enim peccáti mors. Grátia autem Dei vita ætérna, in Christo Jesu, Dómino nostro.",
+    "en": "Lesson from the letter of St. Paul the Apostle to the Romans\n!Rom 6:19-23\nBrethren: I speak in a human way because of the weakness of your flesh; for as you yielded your members as slaves of uncleanness and iniquity unto iniquity, so now yield your members as slaves of justice unto sanctification. For when you were slaves of sin, you were free as regards justice. But what fruit had you then from those things of which you are now ashamed? For the end of these things is death. But now set free from sin and become slaves to God, you have your fruit unto sanctification, and as your end, life everlasting. For the wages of sin is death, but the gift of God is life everlasting in Christ Jesus our Lord.",
+    "es": "Lección de la carta del Apóstol san Pablo a los Romanos\n!Rom 6:19-23\nHermanos: Hablo al modo humano, adaptándome a vuestra debilidad natural: lo mismo que antes ofrecisteis vuestros miembros a la impureza y a la maldad, como esclavos suyos, para que obrasen la maldad, ofreced ahora vuestros miembros a la justicia, como esclavos suyos, para vuestra santificación. Pues cuando erais esclavos del pecado, erais libres en lo que toca a la justicia. ¿Y qué fruto obteníais entonces? Cosas de las que ahora os avergonzáis, porque conducen a la muerte. Ahora, en cambio, liberados del pecado y hechos esclavos de Dios, dais frutos para la santidad que conducen a la vida eterna. Porque la paga del pecado es la muerte, mientras que el don de Dios es la vida eterna en Cristo Jesús, Señor nuestro.",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános.\n!Rom 6:19-23\nFrères, je parle à la manière des hommes, à cause de la faiblesse de votre chair : de même que vous avez livré vos membres comme esclaves à l'impureté et à l'injustice, pour arriver à l'injustice, de même livrez maintenant vos membres comme esclaves à la justice, pour arriver à la sainteté. Car, lorsque vous étiez les esclaves du péché, vous étiez libres à l'égard de la justice. Quel fruit aviez-vous alors des choses dont vous rougissez aujourd'hui ? Car la fin de ces choses, c'est la mort. Mais maintenant, affranchis du péché et devenus les esclaves de Dieu, vous avez pour fruit la sainteté, et pour fin la vie éternelle. Car le salaire du péché, c'est la mort ; mais le don de Dieu c'est la vie éternelle en Jésus-Christ Notre-Seigneur.",
+    "it": "Lettura della Lettera del B. Paolo Ap. ai Romani.\n!Rom 6:19-23\nFratelli: Vi parlo alla maniera umana a causa della debolezza della vostra carne: come infatti avete messo le vostre membra a servizio dell’impurità e dell’iniquità a scopo di malizia, cosí ora offrite le vostre membra per servire alla giustizia a scopo di santificazione. Infatti, quando eravate schiavi del peccato, non potevate servire alla giustizia. Ma che vantaggio avete avuto da quelle cose delle quali ora vi vergognate? Poiché il fine di essi è la morte. Ora, invece, liberati dal peccato, e fatti servi di Dio, avete per vostro vantaggio la santificazione e per fine la vita eterna. Infatti, mercede del peccato è la morte: ma dono di Dio è la vita eterna nel Cristo Gesú nostro Signore."
+  },
+  "gradual": {
+    "la": "!Ps 33:12; 33:6\nVeníte, fílii, audíte me: timórem Dómini docébo vos.\nV. Accédite ad eum, et illuminámini: et fácies vestræ non confundéntur.\nAllelúja, allelúja.\n!Ps 46:2\nOmnes gentes, pláudite mánibus: jubiláte Deo in voce exsultatiónis. Allelúja.",
+    "en": "!Ps 33:12, 6\nCome, children, hear me; I will teach you the fear of the Lord.\nV. Look to Him that you may be radiant with joy, and your faces may not blush with shame. Alleluia, alleluia.\n!Ps 46:2\nV. All you peoples, clap your hands, shout to God with cries of gladness. Alleluia.",
+    "es": "!Ps 33:12, 6\nVenid, hijos, y oídme; os enseñaré el temor del Señor.\nV. Acercaos a él y seréis iluminados, y vuestros rostros no serán confundidos. Aleluya, aleluya.\n!Ps 46:2\nV. Batid palmas todas las gentes; vitoread a Dios con voces de júbilo. Aleluya.",
+    "de": "",
+    "fr": "!Ps 33:12; 33:6\nVenez, fils, écoutez-moi, je vous enseignerai la crainte du Seigneur.\nV. Approchez-vous de lui, afin d'être illuminés, et vos visages ne connaîtront point la honte. Alléluia, alléluia.\n!Ps 46:2\nTous les peuples, applaudissez ; jubilez pour Dieu avec des cris de joie. Alléluia.",
+    "it": "!Ps 33:12; 33:6\nVenite, o figli, e ascoltatemi: vi insegnerò il timore di Dio.\nV. Accostatevi a Lui e sarete illuminati: e le vostre facce non saranno confuse. Allelúia, allelúia\n!Ps 46:2\nO popoli tutti, applaudite: lodate Iddio con voce di giubilo. Allelúia."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum\n!Matt 7:15-21\nIn illo témpore: Dixit Jesus discípulis suis: Atténdite a falsis prophétis, qui véniunt ad vos in vestiméntis óvium, intrínsecus autem sunt lupi rapáces: a frúctibus eórum cognoscétis eos. Numquid cólligunt de spinis uvas, aut de tríbulis ficus? Sic omnis arbor bona fructus bonos facit: mala autem arbor malos fructus facit. Non potest arbor bona malos fructus fácere: neque arbor mala bonos fructus fácere. Omnis arbor, quæ non facit fructum bonum, excidétur et in ignem mittétur. Igitur ex frúctibus eórum cognoscétis eos. Non omnis, qui dicit mihi, Dómine, Dómine, intrábit in regnum cœlórum: sed qui facit voluntátem Patris mei, qui in cœlis est, ipse intrábit in regnum cœlórum.~",
+    "en": "Continuation + of the Holy Gospel according to Matthew\n!Matt 7:15-21\nAt that time, Jesus said to His disciples: Beware of false prophets, who come to you in sheep’s clothing, but inwardly are ravenous wolves. By their fruits you will know them. Do men gather grapes from thorns, or figs from thistles? Even so, every good tree bears good fruit, but the bad tree bears bad fruit. A good tree cannot bear bad fruit, nor can a bad tree bear good fruit. Every tree that does not bear good fruit is cut down and thrown into the fire. Therefore, by their fruits you will know them. Not everyone who says to Me, ‘Lord, Lord,’ shall enter the kingdom of heaven; but he who does the will of My Father in heaven shall enter the kingdom of heaven.",
+    "es": "Continuación + del Santo Evangelio según San Mateo.\n!Mt 7:15-21\nEn aquel tiempo: Dijo Jesús a sus discípulos: Cuidado con los profetas falsos; se acercan con piel de oveja, pero por dentro son lobos rapaces. Por sus frutos los conoceréis. ¿Acaso se cosechan uvas de las zarzas o higos de los cardos? Así, todo árbol sano da frutos buenos; pero el árbol dañado da frutos malos. Un árbol sano no puede dar frutos malos, ni un árbol dañado dar frutos buenos. El árbol que no da fruto bueno se tala y se echa al fuego. Es decir, que por sus frutos los conoceréis. No todo el que me dice “Señor, Señor” entrará en el reino de los cielos, sino el que hace la voluntad de mi Padre que está en los cielos.",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Matthaeum.\n!Matt 7:15-21\nEn ce temps-là, Jésus dit à ses disciples : « Gardez-vous des faux prophètes qui viennent à vous sous des vêtements de brebis, mais au dedans sont des loups rapaces. C'est à leurs fruits que vous les reconnaîtrez : cueille-t-on du raisin sur les épines, ou des figues sur les ronces ? Ainsi tout arbre bon porte de bons fruits, et tout arbre mauvais porte de mauvais fruits. Un arbre bon ne peut porter de mauvais fruits, ni un arbre mauvais porter de bons fruits. Tout arbre qui ne porte pas de bons fruits, on le coupe et on le jette au feu. Donc, c'est à leurs fruits que vous les reconnaîtrez. Ce n'est pas celui qui m'aura dit : « Seigneur, Seigneur !» qui entrera dans le royaume des cieux ; mais celui qui aura fait la volonté de mon Père qui est dans les cieux, c'est celui-là qui entrera dans le royaume des cieux. »",
+    "it": "Séguito ++ del S. Vangelo secondo Matteo.\n!Matt 7:15-21\nIn quel tempo: Gesú disse ai suoi discepoli: Guardatevi dai falsi profeti, che vengono a voi sotto l’aspetto di pecore, ma che nell’intimo sono lupi rapaci: li riconoscerete dai loro frutti. Forse che alcuno raccoglie l’uva dalle spine o il fico dai rovi? Cosí ogni albero buono dà buoni frutti; mentre l’albero cattivo dà frutti cattivi. Non può l’albero buono produrre frutti cattivi, né l’albero cattivo produrre frutti buoni. Ogni albero che dà frutti cattivi sarà tagliato e gettato nel fuoco. Dunque, dai loro frutti li riconoscerete. Non chiunque mi dirà: Signore, Signore, entrerà nel regno dei cieli, ma chi fa la volontà del Padre mio, che è nei cieli, questi entrerà nel regno dei cieli.~"
+  },
+  "offertory": {
+    "la": "!Dan 3:40\nv. Sicut in holocáustis aríetum et taurórum, et sicut in mílibus agnórum pínguium: sic fiat sacrifícium nostrum in conspéctu tuo hódie, ut pláceat tibi: quia non est confúsio confidéntibus in te, Dómine.",
+    "en": "!Dan 3:40\nAs though it were holocausts of rams and bullocks, or thousands of fat lambs, so let our sacrifice be in Your presence today, that it may please You; for those who trust in You cannot be put to shame, O Lord.",
+    "es": "!Dan 3:40\nComo el holocausto de carneros y de toros, y los sacrificios de millares de corderos gordales, así sea hoy grato nuestro sacrificio en tu acatamiento, pues no son confundidos los que en ti confían, Señor.",
+    "de": "",
+    "fr": "!Dan 3:40\nv. Comme des holocaustes de béliers, de taureaux et d'agneaux gras par milliers, qu'ainsi soit notre sacrifice en votre présence aujourd'hui, afin qu'il vous soit agréable ; car il n'y a point de confusion pour ceux qui espèrent en vous, Seigneur.",
+    "it": "!Dan 3:40\nv. Il nostro sacrificio, o Signore, Ti torni oggi gradito come l’olocausto di arieti, di tori e di migliaia di pingui agnelli; perché non vi è confusione per quelli che confidano in Te."
+  },
+  "secret": [
+    {
+      "la": "Deus, qui legálium differéntiam hostiárum unius sacrifícii perfectione sanxísti: accipe sacrifícium a devótis tibi fámulis, et pari benedictióne, sicut múnera Abel, sanctífica; ut, quod sínguli obtulérunt ad majestátis tuæ honórem, cunctis profíciat ad salútem.\n$Per Dominum",
+      "en": "O God, You Who have given us in one perfect sacrifice the fulfillment of the various sacrifices made under the Old Law, accept these sacrificial gifts offered You by Your devoted servants, and make them holy as You did the gifts of Abel, so that what each one of us has offered in praise of Your majesty may profit for the salvation of all.\n$Per Dominum",
+      "es": "Oh Dios, que quisiste reemplazar las diferentes hostias de la antigua ley por un solo perfecto sacrificio; recibe el que te ofrecen tus devotos siervos y santifícalo con la misma bendición con que bendijiste el de Abel; y lo que cada cual ha ofrecido en honor de tu majestad, aproveche a todos para su salvación.\n$Per Dominum",
+      "de": "",
+      "fr": "Ô Dieu qui, en un seul sacrifice parfait, avez résumé la mutitude de ceux qu'imposait l'ancienne Loi, recevez celui qeue vous offrent vos fidèles et, comme jadis l'offrande d'Abel, bénissez-le et sanctifiez-le, afin qu'offert par chacun en l'honneur de votre majesté, il serve au salut de tous.\n$Per Dominum",
+      "it": "O Dio, che hai perfezionato i molti sacrifici dell’antica legge con l’istituzione del solo sacrificio, gradisci l’offerta dei tuoi servi devoti e benedicila non meno che i doni di Abele; affinché, ciò che i singoli offrono in tuo onore, a tutti giovi a salvezza.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Ps 30:3\nInclína aurem tuam, accélera, ut erípias me.",
+    "en": "!Ps 30:3\nIncline Your ear to me, make haste to deliver me.",
+    "es": "!Ps 30:3\nInclina a mí tu oído; apresúrate a salvarme.",
+    "de": "",
+    "fr": "!Ps 30:3.\nInclinez votre oreille, hâtez-vous de me délivrer.",
+    "it": "!Ps 30:3.\nPorgi a me il tuo orecchio, e affrettati a liberarmi."
+  },
+  "postcommunion": [
+    {
+      "la": "Tua nos, Dómine, medicinális operátio, et a nostris perversitátibus cleménter expédiat, et ad ea, quæ sunt recta, perdúcat.\n$Per Dominum",
+      "en": "May Your healing action, O Lord, mercifully rid us of our evil inclinations and lead us to do good.\n$Per Dominum",
+      "es": "Señor, que tu acción curativa nos libre de nuestras perversas tendencias y nos guíe a obrar lo que es recto.\n$Per Dominum",
+      "de": "",
+      "fr": "Que votre action guérissante, Seigneur, nous délivre avec miséricorde de nos tendances perverses et nous mène à ce qui est droit.\n$Per Dominum",
+      "it": "O Signore, l’opera medicinale (del tuo sacramento), ci liberi misericordiosamente dalle nostre perversità e ci conduca a tutto ciò che è retto.\n$Per Dominum"
+    }
+  ]
+}

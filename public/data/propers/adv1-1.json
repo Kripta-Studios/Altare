@@ -1,0 +1,93 @@
+{
+  "id": "Adv1-1",
+  "titleLatin": "Feria II infra Hebdomadam I Adventus",
+  "titleVernacular": {
+    "en": "Feria II infra Hebdomadam I Adventus",
+    "es": "Feria II infra Hebdomadam I Adventus",
+    "de": "Montag nach dem ersten Sonntag im Advent",
+    "fr": "Feria II infra Hebdomadam I Adventus",
+    "it": "Feria II infra Hebdomadam I Adventus"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "collect": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ],
+  "epistle": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gradual": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gospel": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "offertory": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "secret": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ],
+  "communionAntiphon": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "postcommunion": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ]
+}

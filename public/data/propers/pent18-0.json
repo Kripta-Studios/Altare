@@ -1,0 +1,93 @@
+{
+  "id": "Pent18-0",
+  "titleLatin": "Dominica XVIII Post Pentecosten",
+  "titleVernacular": {
+    "en": "Dominica XVIII Post Pentecosten",
+    "es": "Dominica XVIII Post Pentecosten",
+    "de": "18. Sonntag nach Pfingsten",
+    "fr": "Dominica XVIII Post Pentecosten",
+    "it": "Dominica XVIII Post Pentecosten"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Eccli 36:18\nv. Da pacem, Dómine, sustinéntibus te, ut prophétæ tui fidéles inveniántur: exáudi preces servi tui et plebis tuæ Israël\n!Ps 121:1\nLætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus.\n&Gloria\nv. Da pacem, Dómine, sustinéntibus te, ut prophétæ tui fidéles inveniántur: exáudi preces servi tui et plebis tuæ Israël",
+    "en": "!Eccli 36:18\nv. Give peace, O Lord, to those who have hoped in You, and let Your Prophets be proved true. Hear the prayers of Your servant, and of Your people Israel.\n!Ps 121:1\nI rejoiced because they said to me, We will go up to the house of the Lord.\n&Gloria\nv. Give peace, O Lord, to those who have hoped in You, and let Your Prophets be proved true. Hear the prayers of Your servant, and of Your people Israel.",
+    "es": "!Eccli 36:18\nv. Dad, Señor, la paz a los que en Vos confían, para que se vea la veracidad de vuestros Profetas; oíd las oraciones de vuestro siervo y de vuestro pueblo Israel.\n!Ps 121:1\nMe he alegrado en lo que me han dicho: iremos a la casa del Señor.\n&Gloria\nv. Dad, Señor, la paz a los que en Vos confían, para que se vea la veracidad de vuestros Profetas; oíd las oraciones de vuestro siervo y de vuestro pueblo Israel.",
+    "de": "",
+    "fr": "!Eccli 36:18\nv. Donnez la paix, Seigneur, à ceux qui espèrent en vous, afin que vos prophètes soient trouvés dignes de foi ; exaucez les prières de votre serviteur et de votre peuple Israël.\n!Ps 121:1\nJe me suis réjoui lorsqu'on m'a dit : Nous irons à la maison du Seigneur.\n&Gloria\nv. Donnez la paix, Seigneur, à ceux qui espèrent en vous, afin que vos prophètes soient trouvés dignes de foi ; exaucez les prières de votre serviteur et de votre peuple Israël.",
+    "it": "!Eccli 36:18\nv. O Signore, dà pace a coloro che sperano in Te, e i tuoi profeti siano riconosciuti fedeli: ascolta la preghiera del tuo servo e del popolo tuo Israele.\n!Ps 121:1\nMi rallegrai per ciò che mi fu detto: andremo alla casa del Signore.\n&Gloria\nv. O Signore, dà pace a coloro che sperano in Te, e i tuoi profeti siano riconosciuti fedeli: ascolta la preghiera del tuo servo e del popolo tuo Israele."
+  },
+  "collect": [
+    {
+      "la": "Dírigat corda nostra, quǽsumus, Dómine, tuæ miseratiónis operátio: quia tibi sine te placére non póssumus.\n$Per Dominum",
+      "en": "May the working of Your mercy, we beseech You, O Lord, guide our hearts, for without You, we cannot please You.\n$Per Dominum",
+      "es": "Os rogamos, Señor, que la acción de vuestra misericordia dirija nuestros corazones; porque sin vuestra gracia no podemos agradaros.\n$Per Dominum",
+      "de": "",
+      "fr": "Soyez vous-même, Seigneur, le guide compatissant de nos cœurs, puisque sans vous il nous est impossible de vous plaire.\n$Per Dominum",
+      "it": "Te ne preghiamo, o Signore, l’azione della tua misericordia diriga i nostri cuori: poiché senza di Te non possiamo piacerti.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios\n!1 Cor 1:4-8\nFratres: Grátias ago Deo meo semper pro vobis in grátia Dei, quæ data est vobis in Christo Jesu: quod in ómnibus dívites facti estis in illo, in omni verbo et in omni sciéntia: sicut testimónium Christi confirmátum est in vobis: ita ut nihil vobis desit in ulla grátia, exspectántibus revelatiónem Dómini nostri Jesu Christi, qui et confirmábit vos usque in finem sine crímine, in die advéntus Dómini nostri Jesu Christi.",
+    "en": "Lesson from the first letter of St. Paul the Apostle to the Corinthians\n!1 Cor. 1:4-8\nBrethren: I give thanks to my God always concerning you for the grace of God which was given you in Christ Jesus, because in everything you have been enriched in Him, in all utterance and in all knowledge; even as the witness to the Christ has been made so firm in you that you lack no grace, while awaiting the appearance of our Lord Jesus Christ, Who will also keep you secure unto the end, unimpeachable in the day of the coming of our Lord Jesus Christ.",
+    "es": "Lectura de la carta del Apóstol san Pablo a los Corintios\n!1 Cor 1:4-8\nHermanos: En mi Acción de Gracias a Dios os tengo siempre presentes, por la gracia que Dios os ha dado en Cristo Jesús. Pues por Él habéis sido enriquecidos en todo: en el hablar y en el saber; porque en vosotros se ha probado el testimonio de Cristo. De hecho, no carecéis de ningún don, vosotros que aguardáis la manifestación de nuestro Señor Jesucristo. Él os mantendrá firmes hasta el final, para que no tengan de qué acusaros, en el tribunal de Jesucristo Señor Nuestro.",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios\n!1 Cor 1:4-8\nFrères, je rends à mon Dieu de continuelles actions de grâces à votre sujet, pour la grâce de Dieu qui vous a été faite en Jésus-Christ. Car par votre union avec lui, vous avez été comblés de toute sorte de richesses, en toute parole et en toute connaissance, le témoignage du Christ ayant été solidement établi parmi vous, de sorte que vous ne le cédez à personne en aucun don de grâce, attendant avec confiance la révélation de Notre-Seigneur Jésus-Christ. Il vous affermira aussi jusqu'à la fin, pour que vous soyez irréprochables, au jour de Notre-Seigneur Jésus-Christ.",
+    "it": "Lettura della Lettera del B. Paolo Ap. ai Corinti.\n!1 Cor 1:4-8\nFratelli: Ringrazio continuamente il mio Dio a vostro riguardo per la grazia divina che vi è stata concessa in Gesú Cristo. In Lui, infatti, siete stati colmati d’ogni ricchezza sia in fatto di parola, sia in fatto di scienza, essendo la testimonianza di Cristo cosí bene confermata tra di voi da non mancarvi alcuna grazia, mentre attendete con fiducia la venuta di nostro Signore Gesú Cristo. Egli vi confermerà fino alla fine onde siate irreprensibili per il giorno della venuta del Signore nostro Gesú Cristo."
+  },
+  "gradual": {
+    "la": "!Ps 121:1; 121:7\nLætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus.\nV. Fiat pax in virtúte tua: et abundántia in túrribus tuis. Allelúja, allelúja\n!Ps 101:16\nTimébunt gentes nomen tuum, Dómine, et omnes reges terræ glóriam tuam. Allelúja.",
+    "en": "!Ps 121:1, 7\nI rejoiced because they said to me, We will go up to the house of the Lord.\nV. May peace be within your walls, prosperity in your buildings. Alleluia, alleluia.\n!Ps 101:16\nV. The nations shall revere Your name, O Lord, and all the kings of the earth Your glory. Alleluia.",
+    "es": "!Ps 121:1, 7\nQué alegría cuando me dijeron: vamos a la casa del Señor.\nV. Haya paz dentro de tus muros, seguridad en tus palacios. Aleluya,\naleluya.\n!Ps 101:16\nV. Los pueblos temerán tu nombre, los reyes del mundo, tu gloria. Aleluya.",
+    "de": "",
+    "fr": "!Ps 121:1; 121:7\nJe me suis réjoui lorsqu'on m'a dit : Nous irons à la maison du Seigneur.\nV. Que la paix soit dans tes fortifications, et l'abondance dans tes tours. Alléluia, alléluia.\n!Ps 101:16\nLes peuples craindront votre Nom, Seigneur, et tous les rois de la terre votre gloire. Alléluia.",
+    "it": "!Ps 121:1; 121:7\nMi rallegrai di ciò che mi fu detto: andremo alla casa del Signore.\nV. Regni la pace nelle tue mura e la sicurezza nelle tue torri. Allelúa, allelúa\n!Ps 101:16\nLe genti temeranno il tuo nome, o Signore: e tutti i re della terra la tua gloria. Allelúia."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum\n!Matt 9:1-8\nIn illo témpore: Ascéndens Jesus in navículam, transfretávit et venit in civitátem suam. Et ecce, offerébant ei paralýticum jacéntem in lecto. Et videns Jesus fidem illórum, dixit paralýtico: Confíde, fili, remittúntur tibi peccáta tua. Et ecce, quidam de scribis dixérunt intra se: Hic blasphémat. Et cum vidísset Jesus cogitatiónes eórum, dixit: Ut quid cogitátis mala in córdibus vestris? Quid est facílius dícere: Dimittúntur tibi peccáta tua; an dícere: Surge et ámbula? Ut autem sciátis, quia Fílius hóminis habet potestátem in terra dimitténdi peccáta, tunc ait paralýtico: Surge, tolle lectum tuum, et vade in domum tuam. Et surréxit et ábiit in domum suam. Vidéntes autem turbæ timuérunt, et glorificavérunt Deum, qui dedit potestátem talem homínibus.",
+    "en": "Continuation + of the Holy Gospel according to Matthew\n!Matt 9:1-8\nAt that time, Jesus, getting into a boat, crossed over and came to his own town. And behold, they brought to Him a paralytic lying on a pallet. And Jesus, seeing their faith, said to the paralytic, Take courage, son; your sins are forgiven you. And behold, some of the scribes said within themselves, This man blasphemes. And Jesus, knowing their thoughts, said, Why do you harbor evil thoughts in your hearts? For which is easier, to say, ‘Your sins are forgiven you,’ or to say, ‘Arise, and walk’? But that you may know that the Son of Man has power on earth to forgive sins, - then He said to the paralytic - Arise, take up your pallet and go to your house. And he arose, and went away to his house. But when the crowds saw it, they were struck with fear, and glorified God Who had given such power to men.",
+    "es": "Lectura + del Santo Evangelio según san Mateo\n!Mt 9:1-8\nEn aquel tiempo subió Jesús a una barca, cruzó a la otra orilla y fue a su ciudad. y le presentaron un paralítico, acostado en una camilla. Jesús, al ver la fe que tenía, dijo al paralítico: ¡Ánimo, hijo!, tus pecados quedan perdonados. A esto algunos de los letrados se dijeron: Éste blasfema. Pero Jesús, leyendo sus pensamientos, les dijo: ¿Por qué pensáis mal en vuestro corazón? ¿Qué es más fácil: decir “tus pecados quedan perdonados”, o decir “levántate y anda”? Pues, para que veáis que el Hijo del Hombre tiene en la tierra potestad para perdonar pecados dijo dirigiéndose al paralítico: Levántate, coge tu camilla, y vete a tu casa. Y él, levantándose, se fue a su casa. El pueblo, al ver esto, quedó sobrecogido y glorificaba a Dios, que da tal potestad a los hombres.",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Matthǽum.\n!Matt 9:1-8\nEn ce temps-là, étant monté dans la barque, Jésus fit la traversée et revint dans sa ville. Et voilà qu'on lui présentait un paralytique, étendu sur un lit. Jésus, voyant leur foi, dit au paralytique : « Aie confiance, mon fils, tes péchés te sont remis. » Et voici que quelques scribes se dirent en eux-mêmes : « Cet homme blasphème. » Jésus, ayant connaissance de leurs pensées, leur dit : « Pourquoi pensez-vous au mal dans vos cœurs ? Lequel est le plus aisé de dire : Tes péchés te sont remis; ou de dire : Lève-toi et marche ? Mais pour que vous sachiez que le Fils de l'homme a, sur la terre, le pouvoir de remettre les péchés : Lève-toi, dit-il alors au paralytique, prends ton lit, et va dans ta maison. » Et il se dressa et s'en retourna dans sa maison. À cette vue les foules furent saisies de crainte et glorifièrent Dieu d'avoir donné une telle puissance aux hommes.",
+    "it": "Séguito ++ del S. Vangelo secondo Matteo.\n!Matt 9:1-8\nIn quel tempo: Gesú, salito su una barca, ripassò il lago, e andò nella sua città. Quand’ecco gli presentarono un paralitico giacente nel letto. Veduta la loro fede, Gesú disse al paralitico: Figlio, confida: ti sono perdonati i tuoi peccati. Súbito alcuni scribi dissero in cuor loro: Costui bestemmia. E Gesú, avendo visto i loro pensieri, rispose: Perché pensate male in cuor vostro? Cos’è piú facile dire: Ti sono perdonati i tuoi peccati, o dire: Alzati e cammina? Ora, onde sappiate che il Figlio dell’uomo ha il potere sopra la terra di rimettere i peccati: Sorgi, disse al paralitico, piglia il tuo letto e vattene a casa tua. E quegli si alzò e se ne andò a casa sua. Vedendo ciò le turbe si intimorirono e glorificarono Iddio che diede agli uomini tanto potere."
+  },
+  "offertory": {
+    "la": "!Exodi 24:4; 24:5\nSanctificávit Móyses altáre Dómino, ófferens super illud holocáusta et ímmolans víctimas: fecit sacrifícium vespertínum in odórem suavitátis Dómino Deo, in conspéctu filiórum Israël.",
+    "en": "!Ex 24:4-5\nMoses consecrated an altar to the Lord, offering upon it holocausts, and sacrificing victims: he made an evening sacrifice to the Lord God for an odor of sweetness, in the sight of the Israelites.",
+    "es": "!Ex 24:4-5\nConsagró Moisés el altar al Señor, ofreciendo sobre él sacrificios e inmolando víctimas. Ofreció el sacrificio de la tarde para aplacar al Señor delante de todos los hijos de Israel.",
+    "de": "",
+    "fr": "!Exodi 24:4; 24:5\nMoïse consacra un autel au Seigneur, offrant sur lui des holocaustes et immolant des victimes. Il fit le sacrifice du soir en odeur de suavité pour le Seigneur Dieu, en présence des fils d'Israël.",
+    "it": "!Exodi 24:4; 24:5\nMosè edificò un altare al Signore, offrendo su di esso olocausti e immolando vittime: fece un sacrificio della sera, gradevole al Signore Iddio, alla presenza dei figli di Israele."
+  },
+  "secret": [
+    {
+      "la": "Deus, qui nos, per hujus sacrifícii veneránda commércia, uníus summæ divinitátis partícipes éfficis: præsta, quǽsumus; ut, sicut tuam cognóscimus veritátem, sic eam dignis móribus assequámur.\n$Per Dominum",
+      "en": "O God, Who, through the gifts we have exchanged with You in this sacrament, have made us partakers of the supreme Godhead, grant, we beseech You, that, as we have knowledge of Your truth, so we may fully live up to it.\n$Per Dominum",
+      "es": "Oh Dios, que nos habéis hecho participantes de vuestra sola y única Divinidad por medio de este sacr1flclo; os rogamos nos concedáis que, así como conocemos la verdad de vuestros dogmas, así vivamos santamente.\n$Per Dominum",
+      "de": "",
+      "fr": "Ô Dieu qui, par les admirables échanges réalisés en ce sacrifice, nous rendez participants de votre unique et souveraine divinité, faites que, connaissant votre vérité, nous puissions aussi l'atteindre par une conduite digne d'elle.\n$Per Dominum",
+      "it": "O Dio, che per mezzo dei venerandi scambii di questo sacrificio, ci rendi partecipi della tua sovrana e unica divinità, concedi, Te ne preghiamo, che, come conosciamo la verità, cosí la conseguiamo con degna condotta.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Ps 95:8-9\nTóllite hóstias, et introíte in átria ejus: adoráte Dóminum in aula sancta ejus.",
+    "en": "!Ps 95:8-9\nBring gifts and enter His courts; worship the Lord in His holy court.",
+    "es": "!Ps 95:8-9\nTomad ofrendas y entrad en su templo; adorad al Señor en su santa morada.",
+    "de": "",
+    "fr": "!Ps 95:8-9\nPrenez des hosties et entrez dans ses parvis ; adorez le Seigneur dans son temple saint.",
+    "it": "!Ps 95:8-9\nPrendete le vittime ed entrate nel suo atrio: adorate il Signore nel suo santo tempio."
+  },
+  "postcommunion": [
+    {
+      "la": "Grátias tibi reférimus, Dómine, sacro múnere vegetáti: tuam misericórdiam deprecántes; ut dignos nos ejus participatióne perfícias.\n$Per Dominum",
+      "en": "Strengthened by Your sacred gift, we thank You, O Lord, beseeching Your mercy to make us receive it worthily.\n$Per Dominum",
+      "es": "Os damos gracias, Señor, después de alimentarnos con vuestros sagrados dones; y suplicamos a vuestra misericordia que nos perfeccionéis con su participación.\n$Per Dominum",
+      "de": "",
+      "fr": "Nourris du don sacré, nous vous rendons grâces, Seigneur, vous suppliant, dans votre bonté, de nous rendre pleinement dignes d'en recueillir tout le fruit.\n$Per Dominum",
+      "it": "Nutriti del tuo sacro dono, o Signore, Te ne rendiamo grazie, supplicando la Tua misericordia di renderci degni di raccoglierne il frutto.\n$Per Dominum"
+    }
+  ]
+}

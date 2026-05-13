@@ -1,0 +1,93 @@
+{
+  "id": "Pent01-0t",
+  "titleLatin": "Festum Sanctissimæ Trinitatis",
+  "titleVernacular": {
+    "en": "Festum Sanctissimæ Trinitatis",
+    "es": "",
+    "de": "Fest der allerheiligsten Dreifaltigkeit",
+    "fr": "Festum Sanctissimæ Trinitatis",
+    "it": "Festum Sanctissimæ Trinitatis"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "@Tempora/Pent01-0:Introitus",
+    "en": "!Tob 12:6\nv. Blessed be the Holy Trinity and undivided Unity: we will give glory to Him, because He has shown His mercy to us.\n!Ps 8:2\nO Lord, our Lord, how glorious is Your Name over all the earth!\n&Gloria\nv. Blessed be the Holy Trinity and undivided Unity: we will give glory to Him, because He has shown His mercy to us.",
+    "es": "",
+    "de": "",
+    "fr": "!Tob 12:6.\nv. Bénie soit la Sainte Trinité, l'indivisible Unité ; louons-la, parce qu'elle nous a fait miséricorde.\n!Ps 8:2\nSeigneur, notre Dieu, que votre Nom est admirable sur toute la terre !\n&Gloria\nv. Bénie soit la Sainte Trinité, l'indivisible Unité ; louons-la, parce qu'elle nous a fait miséricorde.",
+    "it": "!Tob 12:6.\nv. Sia benedetta la Santa Trinità e indivisa Unità: glorifichiamola, perché ha fatto brillare in noi la sua misericordia.\n!Ps 8:2\nO Signore, Signore nostro, quanto è mirabile il tuo nome su tutta la terra!\n&Gloria\nv. Sia benedetta la Santa Trinità e indivisa Unità: glorifichiamola, perché ha fatto brillare in noi la sua misericordia."
+  },
+  "collect": [
+    {
+      "la": "Omnípotens sempitérne Deus, qui dedísti fámulis tuis in confessióne veræ fídei, ætérnæ Trinitátis glóriam agnóscere, et in poténtia majestátis adoráre Unitátem: quǽsumus; ut, ejúsdem fídei firmitáte, ab ómnibus semper muniámur advérsis.\n$Per Dominum",
+      "en": "Almighty, eternal God, You Who have given Your servants, in the confession of the true faith, to acknowledge the glory of the eternal Trinity, and in the power of that majesty to adore its unity, grant, we beseech You, that in the firmness of this faith we may ever be protected from all harm.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Dieu éternel et tout-puissant, qui, dans la profession de la vraie foi, nous faites proclamer la gloire de l'éternelle Trinité et adorer sa triomphante et souveraine Unité, accordez-nous de trouver dans la fermeté de cette foi une constante protection contre toutes les forces adverses.\n$Per Dominum",
+      "it": "O Dio onnipotente e sempiterno, che concedesti ai tuoi servi, mediante la vera fede, di conoscere la gloria dell’eterna Trinità e di adorarne l’Unità nella sovrana potenza, Ti preghiamo, affinché rimanendo fermi nella stessa fede, siamo tetragoni contro ogni avversità.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános\n!Rom 11:33-36.\nO altitúdo divitiárum sapiéntiæ et sciéntiæ Dei: quam incomprehensibília sunt judícia ejus, et investigábiles viæ ejus! Quis enim cognovit sensum Dómini? Aut quis consiliárius ejus fuit? Aut quis prior dedit illi, et retribuétur ei? Quóniam ex ipso et per ipsum et in ipso sunt ómnia: ipsi glória in sǽcula. Amen.",
+    "en": "Lesson from the letter of St. Paul the Apostle to the Romans\n!Rom 11:33-36.\nOh, the depth of the riches of the wisdom and of the knowledge of God! How incomprehensible and His judgments and how unsearchable His ways! For Who has known the mind of the Lord, or who has been His counselor? Or who has first given to Him, that recompense should be made him? For from Him and through Him and unto Him are all things. To Him be the glory forever, amen.",
+    "es": "",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános.\n!Rom 11:33-36.\nÔ profondeur inépuisable de la sagesse et de la science de Dieu ! Que ses jugements sont insondables et ses voies incompréhensibles ! Car qui a connu la pensée du Seigneur ou qui a été son conseiller ? Ou bien qui lui a donné le premier, pour qu'il ait à recevoir en retour ? De Lui, par Lui et pour Lui sont toutes choses. À lui la gloire dans tous les siècles ! Amen !",
+    "it": "Lettura della Lettera del B. Paolo Ap. ai Romani.\n!Rom 11:33-36.\nO incommensurabile ricchezza della sapienza e della scienza di Dio: come imperscrutabili sono i suoi giudizii e come nascoste le sue vie! Chi infatti ha conosciuto il pensiero del Signore? O chi gli fu mai consigliere? O chi per primo dette a lui, sí da meritarne ricompensa? Poiché da Lui, per mezzo di Lui e in Lui sono tutte le cose: a Lui gloria nei secoli. Amen."
+  },
+  "gradual": {
+    "la": "!Dan 3:55-56\nBenedíctus es, Dómine, qui intuéris abýssos, et sedes super Chérubim,\nV. Benedíctus es, Dómine, in firmaménto cæli, et laudábilis in sǽcula. Allelúja, allelúja.\n!Dan 3:52\nV. Benedíctus es, Dómine, Deus patrum nostrórum, et laudábilis in sǽcula. Allelúja.",
+    "en": "!Dan 3:55-56\nBlessed are You, O Lord, Who look into the depths from Your throne upon the Cherubim.\nV. Blessed are You, O Lord, in the firmament of heaven, and praiseworthy forever. Alleluia, alleluia.\n!Dan 3:52\nBlessed are You, O Lord, the God of our fathers, and praiseworthy forever. Alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "!Dan 3:55-56.\nVous êtes béni, Seigneur, vous qui contemplez les abîmes, et trônez sur les Chérubins.\nV. Vous êtes béni, Seigneur, dans le firmament du ciel, et digne de louange à jamais. Allelúja, allelúja.\n!Dan 3:52\nV. Vous êtes béni, Seigneur, Dieu de nos pères, et digne de louange à jamais. Allelúja.",
+    "it": "!Dan 3:55-56.\nBenedetto sei\nTu, o Signore, che scruti gli abissi e hai per trono i Cherubini.\nV. Benedetto sei Tu, o Signore, nel firmamento del cielo, e degno di lode nei secoli. Allelúia, allelúia.\n!Dan 3:52\nV. Benedetto sei Tu, o Signore, nel firmamento del cielo, e degno di lode nei secoli."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum\n!Matt 28:18-20\nIn illo témpore: Dixit Jesus discípulis suis: Data est mihi omnis potéstas in cœlo et in terra. Eúntes ergo docéte omnes gentes, baptizántes eos in nómine Patris, et Fílii, et Spíritus Sancti: docéntes eos serváre ómnia, quæcúmque mandávi vobis. Et ecce, ego vobíscum sum ómnibus diébus usque ad consummatiónem sǽculi.",
+    "en": "Continuation + of the Holy Gospel according to Matthew\n!Matt 28:18-20\nAt that time, Jesus said to His disciples: All power in heaven and on earth has been given to Me. Go, therefore, and make disciples of all nations, baptizing them in the Name of the Father, and of the Son, and of the Holy Spirit, teaching them to observe all that I have commanded you; and behold, I am with you all days, even unto the consummation of the world.",
+    "es": "",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Matthaeum.\n!Matt 28:18-20\nEn ce temps-là, Jésus dit à ses disciples : « Toute puissance m'a été donnée dans le ciel et sur la terre. Allez donc, enseignez toutes les nations, les baptisant au nom du Père, du Fils et du Saint-Esprit, leur apprenant à observer tout ce que je vous ai commandé. Et moi, je suis avec vous toujours jusqu'à la fin du monde. »",
+    "it": "Séguito ++ del S. Vangelo secondo Matteo.\n!Matt 28:18-20\nIn quel tempo: Gesú disse ai suoi discepoli: Mi è dato ogni potere in cielo e in terra. Andate, dunque, e istruite tutte le genti, battezzandole nel nome del Padre, del Figlio, e dello Spirito Santo, e insegnando loro ad osservare tutto quello che vi ho comandato. Ed ecco che io sarò con voi tutti i giorni fino alla consumazione dei secoli."
+  },
+  "offertory": {
+    "la": "!Tob 12:6.\nBenedíctus sit Deus Pater, unigenitúsque Dei Fílius, Sanctus quoque Spíritus: quia fecit nobíscum misericórdiam suam.",
+    "en": "!Tob. 12:6.\nBlessed be God the Father, and the only-begotten Son of God, and also the Holy Spirit: because He has shown His mercy to us.",
+    "es": "",
+    "de": "",
+    "fr": "!Tob 12:6.\nBéni soit Dieu le Père, et le Fils unique de Dieu, et le Saint-Esprit, car Il nous a fait miséricorde.",
+    "it": "!Tob 12:6.\nBenedetto sia Dio Padre, e l’unigenito Figlio di Dio, e lo Spirito Santo: poiché fece brillare su di noi la sua misericordia."
+  },
+  "secret": [
+    {
+      "la": "Sanctífica, quǽsumus, Dómine, Deus noster, per tui sancti nóminis invocatiónem, hujus oblatiónis hóstiam: et per eam nosmetípsos tibi pérfice munus ætérnum.\n$Per Dominum",
+      "en": "We call upon Your Name, O Lord, and beseech You to hallow this sacrificial offering and through it to make us an eternal offering to You.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Sanctifiez, Seigneur notre Dieu, par l'invocation de votre Nom, ce sacrifice que nous vous offrons, et par lui, achevez de nous transformer nous-mêmes en offrande éternelle à votre gloire.\n$Per Dominum",
+      "it": "Santífica, Te ne preghiamo, o Signore Dio nostro, per l’invocazione del tuo santo nome, l’ostia che Ti offriamo: e per mezzo di essa fai che noi stessi Ti siamo eterna oblazione.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Tob 12:6\nBenedícimus Deum cœli et coram ómnibus vivéntibus confitébimur ei: quia fecit nobíscum misericórdiam suam.",
+    "en": "!Tob 12:6\nWe bless the God of heaven, and before all living we will praise Him; because He has shown His mercy to us.",
+    "es": "",
+    "de": "",
+    "fr": "!Tob 12:6.\nNous bénissons le Dieu du ciel, et devant tous les vivants nous le louons, car Il nous a fait miséricorde.",
+    "it": "!Tob 12:6.\nBenediciamo il Dio dei cieli e confessiamolo davanti a tutti i viventi: poiché fece brillare su di noi la sua misericordia."
+  },
+  "postcommunion": [
+    {
+      "la": "Profíciat nobis ad salútem córporis et ánimæ, Dómine, Deus noster, hujus sacraménti suscéptio: et sempitérnæ sanctæ Trinitátis ejusdémque indivíduæ Unitátis conféssio.\n$Per Dominum",
+      "en": "May the reception of this sacrament, O Lord our God, and the profession of our faith in the eternal holy Trinity and undivided Unity, benefit us for the salvation of body and soul.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Faites, Seigneur notre Dieu, que nous soient profitables, pour le salut de l'âme et du corps, ce sacrement que nous avons reçu, ainsi que la foi que nous professons en l'éternelle et sainte Trinité dans son indivisible Unité.\n$Per Dominum",
+      "it": "O Signore Dio nostro, giòvino alla salute del corpo e dell’ànima il sacramento ricevuto e la professione\ndella tua Santa Trinità e Unità.\n$Per Dominum"
+    }
+  ]
+}

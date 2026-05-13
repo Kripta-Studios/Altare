@@ -1,0 +1,93 @@
+{
+  "id": "Pent01-3",
+  "titleLatin": "Feria Quarta infra Hebdomadam I post Octavam Pentecostes",
+  "titleVernacular": {
+    "en": "Feria Quarta infra Hebdomadam I post Octavam Pentecostes",
+    "es": "Feria Quarta infra Hebdomadam I post Octavam Pentecostes",
+    "de": "Mittwoch der ersten Woche nach der Pfingsoktav",
+    "fr": "Feria Quarta infra Hebdomadam I post Octavam Pentecostes",
+    "it": "Feria Quarta infra Hebdomadam I post Octavam Pentecostes"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "collect": [
+    {
+      "la": "@Tempora/Pent01-1:Oratio",
+      "en": "O God, the Strength of all them that put their trust in thee, mercifully accept our prayers, and because through the weakness of our mortal nature we can do no good thing without thee, grant us the help of thy grace, that in keeping of thy commandments we may please thee, both in will and deed.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "@Tempora/Pent01-1:Oratio",
+      "it": "O Dio, fortezza di quelli che sperano in te, ascolta propizio le nostre preghiere: e siccome senza di te nulla può l'umana debolezza, concedici l'aiuto della tua grazia; affinché nell'eseguire i tuoi comandamenti, ti piacciamo e colla volontà e coll'opera.\n$Per Dominum."
+    }
+  ],
+  "epistle": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gradual": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gospel": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "offertory": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "secret": [
+    {
+      "la": "@Tempora/Pent01-1:Secreta",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "@Tempora/Pent01-1:Secreta",
+      "it": ""
+    }
+  ],
+  "communionAntiphon": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "postcommunion": [
+    {
+      "la": "@Tempora/Pent01-1:Postcommunio",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "@Tempora/Pent01-1:Postcommunio",
+      "it": ""
+    }
+  ]
+}

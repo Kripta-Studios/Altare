@@ -1,0 +1,93 @@
+{
+  "id": "Pent03-0",
+  "titleLatin": "Dominica III Post Pentecosten infra Octavam SSmi Cordis D.N.J.C",
+  "titleVernacular": {
+    "en": "Dominica III Post Pentecosten infra Octavam SSmi Cordis D.N.J.C",
+    "es": "Dominica III Post Pentecosten infra Octavam SSmi Cordis D.N.J.C",
+    "de": "Dritter Sonntag nach Pfingsten in der Herz-Jesu-Oktav",
+    "fr": "Dominica III Post Pentecosten infra Octavam SSmi Cordis D.N.J.C",
+    "it": "Dominica III Post Pentecosten infra Octavam SSmi Cordis D.N.J.C"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "collect": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ],
+  "epistle": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gradual": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gospel": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "offertory": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "secret": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ],
+  "communionAntiphon": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "postcommunion": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "Pasc0-0",
+  "titleLatin": "Dominica Resurrectionis",
+  "titleVernacular": {
+    "en": "Dominica Resurrectionis",
+    "es": "Dominica Resurrectionis",
+    "de": "Sonntag der Auferstehung des Herrn",
+    "fr": "Dominica Resurrectionis",
+    "it": "Dominica Resurrectionis"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": false,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps 138:18; 138:5-6.\nv. Resurréxi, et adhuc tecum sum, allelúja: posuísti super me manum tuam, allelúja: mirábilis facta est sciéntia tua, allelúja, allelúja.\n!Ps 138:1-2.\nDómine, probásti me et cognovísti me: tu cognovísti sessiónem meam et resurrectiónem meam.\n&Gloria\nv. Resurréxi, et adhuc tecum sum, allelúja: posuísti super me manum tuam, allelúja: mirábilis facta est sciéntia tua, allelúja, allelúja.",
+    "en": "!Ps 138:18; 138:5-6\nv. I arose, and am still with Thee, alleluia; Thou hast laid Thy hand upon me, alleluia; Thy knowledge is become wonderful, alleluia, alleluia.\n!Ps. 138. 1, 2\nLord, Thou hast searched Me and known Me; Thou knowest my sitting down and My rising up.\n&Gloria\nv. I arose, and am still with Thee, alleluia; Thou hast laid Thy hand upon me, alleluia; Thy knowledge is become wonderful, alleluia, alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 138:18; 138:5-6.\nv. Je suis ressuscité, et je suis de nouveau avec vous, alléluia ; vous avez placé sur moi votre main, alléluia ; votre science est admirable, alléluia, alléluia.\n!Ps 138:1-2.\nSeigneur, vous m'avez éprouvé et vous m'avez connu ; vous savez quand je m'asseois et quand je me lève.\n&Gloria\nv. Je suis ressuscité, et je suis de nouveau avec vous, alléluia ; vous avez placé sur moi votre main, alléluia ; votre science est admirable, alléluia, alléluia.",
+    "it": "!Ps. 1:38; 1:18; 1:5-6\nv. Son risorto e sono ancora con te, allelúia: ponesti la tua mano su di me, allelúia: miràbile si è dimostrata la tua scienza, allelúia, allelúia.\n!Ps 1:1-2.\nO Signore, tu mi provi e mi conosci: conosci il mio riposo e il mio sòrgere.\n&Gloria\nSon risorto e sono ancora con te, allelúia: ponesti la tua mano su di me, allelúia: miràbile si è dimostrata la tua scienza, allelúia, allelúia."
+  },
+  "collect": [
+    {
+      "la": "Deus, qui hodiérna die per Unigénitum tuum æternitátis nobis áditum, devícta morte, reserásti: vota nostra, quæ præveniéndo aspíras, étiam adjuvándo proséquere.\n$Per eumdem",
+      "en": "O God, who, on this day, through Thine only-begotten Son, hast conquered death, and thrown open to us the gate of everlasting life, give effect by thine aid to our desires, which Thou dost anticipate and inspire\n$Per eumdem",
+      "es": "",
+      "de": "",
+      "fr": "Ô Dieu qui, en ce jour, par votre Fils unique, vainqueur de la mort, nous avez ouvert les portes de l'éternité, daignez seconder de votre aide les vœux que d'avance vous nous inspirez.\n$Per eundem",
+      "it": "O Dio, che in questo giorno, per mezzo del tuo Figlio Unigénito, vinta la morte, riapristi a noi le porte dell’eternità, accompagna i nostri voti aiutàndoci, Tu che li ispiri prevenendoli.\n$Per eundem"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios.\n!1 Cor 5:7-8\nFratres: Expurgáte vetus ferméntum, ut sitis nova conspérsio, sicut estis ázymi. Etenim Pascha nostrum immolátus est Christus. Itaque epulémur: non in ferménto véteri, neque in ferménto malítiæ et nequítiæ: sed in ázymis sinceritátis et veritátis.",
+    "en": "Lesson from the first letter of St. Paul the Apostle to the Corinthians\n!1 Cor 5:7-8\nBrethren, purge out the old leaven, that you may be a new paste, as you are unleavened: for Christ our Pasch is sacrificed. Therefore let us feast, not with the old leaven, nor with the leaven of malice and wickedness, but with the unleavened bread of sincerity and truth.",
+    "es": "",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios.\n!1 Cor 5:7-8\nFrères, débarrassez-vous du vieux levain, afin d'être une nouvelle pâte, puisque vous êtes des azymes. En effet, le Christ, notre Pâque, a été immolé. Festoyons donc, non avec l'ancien levain, ni avec le levain de la méchanceté et du mal, mais avec les azymes de la sincérité et de la vérité.",
+    "it": "Lettura della Lettera del B. Paolo Ap. ai Corinti.\n!1 Cor 5:7-8\nFratelli: Purificàtevi dal vecchio liévito per essere nuova pasta, come già siete degli àzzimi. Infatti, il Cristo, nostra Pasqua, è stato immolato. Banchettiamo dunque: non col vecchio liévito, né col liévito della malízia e della perversità, ma con gli àzzimi della purezza e della verità."
+  },
+  "gradual": {
+    "la": "Allelúja, allelúja.\n!Ps. 117:24; 117:1\nHæc dies, quam fecit Dóminus: exsultémus et lætémur in ea.\nV. Confitémini Dómino, quóniam bonus: quóniam in sǽculum misericórdia ejus. Allelúja, allelúja.\n!1 Cor 5:7\nV. Pascha nostrum immolátus est Christus.",
+    "en": "Alleluia, alleluia\n!Ps. 117:24; 117:1\nThis is the day which the Lord hath made: let us rejoice and be glad in it.\nV. Give praise unto the Lord, for He is good: for His mercy endureth for ever. Alleluia, alleluia.\n!1 Cor. 5. 7\nChrist our Pasch is immolated.",
+    "es": "",
+    "de": "",
+    "fr": "Allelúja, allelúja.\n!Ps. 117:24; 117:1\nVoici le jour que fit le Seigneur : exultons et réjouissons-nous.\nV. Célébrez le Seigneur car il est bon, car sa miséricorde est à jamais. Alléluia, alléluia.\n!1 Cor 5:7\nV. Le Christ, notre Pâque, a été immolé.",
+    "it": "Alleluia, alleluia\n!Ps. 117:24; 117:1\nQuesto è il giorno che fece il Signore: esultiamo e rallegriàmoci in esso.\nV. Lodate il Signore, poiché è buono: eterna è la sua misericòrdia. Allelúia, allelúia.\n!1: Cor 5:7\nV. Il Cristo, Pasqua nostra, è stato immolato."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Marcum.\n!Marc 16:1-7.\nIn illo témpore: María Magdaléne et María Jacóbi et Salóme emérunt arómata, ut veniéntes úngerent Jesum. Et valde mane una sabbatórum, véniunt ad monuméntum, orto jam sole. Et dicébant ad ínvicem: Quis revólvet nobis lápidem ab óstio monuménti? Et respiciéntes vidérunt revolútum lápidem. Erat quippe magnus valde. Et introëúntes in monuméntum vidérunt júvenem sedéntem in dextris, coopértum stola cándida, et obstupuérunt. Qui dicit illis: Nolíte expavéscere: Jesum quǽritis Nazarénum, crucifíxum: surréxit, non est hic, ecce locus, ubi posuérunt eum. Sed ite, dícite discípulis ejus et Petro, quia præcédit vos in Galilǽam: ibi eum vidébitis, sicut dixit vobis.",
+    "en": "Continuation + of the Holy Gospel according to Mark\n!Mark 16:1-7\nAt that time, Mary Magdalen, and Mary the mother of James, and Salome bought sweet spices, that coming they might anoint Jesus. And very early in the morning, the first day of the week, they came to the sepulchre, the sun being now risen. And they said one to another: Who shall roll us back the stone from the door of the sepulchre? And looking, they saw the stone rolled back. For it was very great. And entering into the sepulchre, they saw a young man sitting on the right side, clothed with a white robe, and they were astonished. Who saith to them, Be not affrighted; ye seek Jesus of Nazareth, who was crucified: He is risen, He is not here; behold the place where they laid Him. But go, tell His disciples, and Peter, that He goeth before you into Galilee; there you shall see Him, as He told you.",
+    "es": "",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Marcum.\n!Marc 16:1-7.\nEn ce temps-là, Marie-Madeleine, Marie, mère de Jacques, et Salomé achetèrent des aromates afin d'aller embaumer Jésus. Et de grand matin, le premier jour de la semaine, elles vinrent au sépulcre, le soleil venant de se lever. Elles se disaient entre elles : « Qui nous roulera la pierre de l'entrée du sépulcre ? » Elles regardèrent et observèrent que la pierre avait été roulée de côté ; or elle était fort grande. Entrant dans le sépulcre, elles virent un jeune homme assis à droite, vêtu d'une robe blanche, et elles furent saisies de frayeur. Mais il leur dit : « N'ayez pas de frayeur ! Vous cherchez Jésus de Nazareth, le crucifié : il est ressuscité, il n'est pont ici. Voici la place où on l'avait déposé. Mais allez dire à ses disciples et à Pierre qu'il vous précède en Galilée ; c'est là que vous le verrez, comme il vous l'a dit. »",
+    "it": "Séguito ++ del S. Vangelo secondo Marco.\n!Marc 16:1-7.\nIn quel tempo: Maria Maddalena, Maria di Giacomo, e Salòme, comperàrono degli aromi per andare ad úngere Gesú. E di buon mattino, il primo giorno dopo il sàbato, arrivàrono al sepolcro, che il sole era già sorto. Ora, dicévano tra loro: Chi mai ci sposterà la pietra dall’ingresso del sepolcro? E guardando, vídero che la pietra era stata spostata: ed era molto grande. Entrate nel sepolcro, vídero un giòvane seduto sul lato destro, rivestito di càndida veste, e sbalordírono. Egli disse loro: Non vi spaventate, voi cercate Gesú Nazareno, il crocifisso: è risorto, non è qui: ecco il luogo dove lo avévano posto. Ma andate, e dite ai suoi discépoli, e a Pietro, che egli vi precede in Galilea: là lo vedrete, come vi disse."
+  },
+  "offertory": {
+    "la": "!Ps. 75:9-10.\nTerra trémuit, et quiévit, dum resúrgeret in judício Deus, allelúja.",
+    "en": "!Ps. 75:9-10.\nThe earth trembled and was still when God arose in judgment, alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps. 75:9-10.\nLa terre a tremblé et s'est apaisée, quand le Seigneur s'est levé pour le jugement, alléluia.",
+    "it": "!Ps. 75:9-10.\nLa terra tremò e ristette, quando sorse Dio a fare giustizia, allelúia."
+  },
+  "secret": [
+    {
+      "la": "Súscipe, quǽsumus, Dómine, preces pópuli tui cum oblatiónibus hostiárum: ut, Paschálibus initiáta mystériis, ad æternitátis nobis medélam, te operánte, profíciant.\n$Per Dominum",
+      "en": "We beseech Thee, O Lord, accept the prayers of Thy people together with the Sacrifice they offer, that what has been begun by the Paschal Mysteries, by Thy working may profit us unto eternal healing.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Accueillez, Seigneur, les prières de votre peuple avec l'offrande de ce sacrifice, afin que ce qui a trouvé un commencement dans les mystères de Pâques devienne pour nous, sous l'action de votre grâce, remède d'éternité.\n$Per Dominum",
+      "it": "O Signore, Ti supplichiamo, accogli le preghiere del pòpolo tuo, in uno con l’offerta di questi doni, affinché i medésimi, consacrati dai misteri pasquali, ci sérvano, per òpera tua, di rimédio per l’eternità.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!1 Cor 5:7-8\nPascha nostrum immolátus est Christus, allelúja: itaque epulémur in ázymis sinceritátis et veritátis, allelúja, allelúja, allelúja.",
+    "en": "!1 Cor 5:7-8\nChrist our Pasch is immolated, alleluia: therefore let us feast with the unleavened bread of sincerity and truth, alleluia, alleluia, alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "!1 Cor 5:7-8\nLe Christ, notre Pâque, a été immolé, alléluia. Festoyons donc avec les azymes de sincérité et de vérité, alléluia, alléluia, alléluia.",
+    "it": "!1 Cor 5:7-8\nIl Cristo, nostra Pasqua, è stato immolato, allelúia: banchettiamo dunque con gli àzzimi della purezza e della verità, allelúia, allelúia, allelúia."
+  },
+  "postcommunion": [
+    {
+      "la": "Spíritum nobis, Dómine, tuæ caritátis infúnde: ut, quos sacraméntis paschálibus satiásti, tua fácias pietáte concordes.\n$Per Dominum eiusdem",
+      "en": "Pour forth upon us, O Lord, the spirit of Thy love, that, by Thy loving kindness, Thou mayest make to be of one mind those whom Thou hast satisfied with the Paschal Sacraments.\n$Per Dominum eiusdem",
+      "es": "",
+      "de": "",
+      "fr": "Pénétrez-nous, Seigneur, de votre Esprit d'amour ; et de vos fidèles, que vous avez rassasiés du sacrement de Pâques, faites, par votre bonté, un seul corps uni dans la charité.\n$Per Dominum eiusdem",
+      "it": "Infondi in noi, o Signore, lo Spírito della tua carità: affinché coloro che saziasti coi sacramenti pasquali, li renda unànimi con la tua pietà.\n$Per Dominum eiusdem"
+    }
+  ]
+}

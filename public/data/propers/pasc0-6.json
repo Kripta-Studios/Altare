@@ -1,0 +1,93 @@
+{
+  "id": "Pasc0-6",
+  "titleLatin": "Sabbato in Albis",
+  "titleVernacular": {
+    "en": "Sabbato in Albis",
+    "es": "Sabbato in Albis",
+    "de": "Weißer Samstag",
+    "fr": "Sabbato in Albis",
+    "it": "Sabbato in Albis"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": false,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps 104:43.\nv. Edúxit Dóminus pópulum suum in exsultatióne, allelúja: et eléctos suos in lætítia, allelúja, allelúja.\n!Ps 104:1\nConfitémini Dómino et invocáte nomen ejus: annuntiáte inter gentes ópera ejus.\n&Gloria\nv. Edúxit Dóminus pópulum suum in exsultatióne, allelúja: et eléctos suos in lætítia, allelúja, allelúja.",
+    "en": "!Ps 104:43\nv. He brought forth his people with joy, and his chosen with gladness, allelúja, allelúja.\n!Ps 4:1\nv. Give glory to the Lord, and call upon his name: declare his deeds among the Gentiles.\n&Gloria\nv. He brought forth his people with joy, and his chosen with gladness, allelúja, allelúja.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 4:43.\nv. Le Seigneur a fait sortir son peuple dans la joie, alléluia, et ses élus dans l'allégresse, alléluia, alléluia.\n!Ps 4:1\nCélébrez le Seigneur et invoquez son nom, annoncez ses œuvres parmi les peuples.\n&Gloria\nv. Le Seigneur a fait sortir son peuple dans la joie, alléluia, et ses élus dans l'allégresse, alléluia, alléluia.",
+    "it": "!Ps 4:43.\nv. Il Signore liberò il suo popolo nella gioia, alleluia, ed i suoi eletti nella letizia, alleluia, alleluia.\n!Ps 4:1\nRendete grazie a Dio, gridate il suo nome, fate conoscere tra i popoli le sue imprese.\n&Gloria\nIl Signore liberò il suo popolo nella gioia, alleluia, ed i suoi eletti nella letizia, alleluia, alleluia."
+  },
+  "collect": [
+    {
+      "la": "Concéde, quǽsumus, omnípotens Deus: ut, qui festa paschália venerándo égimus, per hæc contíngere ad gáudia ætérna mereámur.\n$Per Dominum",
+      "en": "Grant, we beseech thee, O Almighty God, that we who have kept worshipfully the Easter solemnities, may at last worthily pass from keeping Feasts unto thee here to the everlasting jubilation hereafter.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Faites, Dieu tout-puissant, qu'après avoir célébré avec ferveur les fêtes pascales, nous méritions, par elles, d'atteindre aux joies de l'éternité.\n$Per Dominum",
+      "it": "Concedici, o Dio onnipotente, che per mezzo di queste feste pasquali da noi celebrate, possiamo arrivare agli eterni gaudi.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Petri Apóstoli\n!1 Pet 2:1-10\nCaríssimi: Deponéntes ígitur omnem malítiam, et omnem dolum, et simulatiónes, et invídias, et omnes detractiónes, sicut modo géniti infántes, rationábile, sine dolo lac concupíscite: ut in eo crescátis in salútem: si tamen gustástis, quóniam dulcis est Dóminus. Ad quem accedéntes lápidem vivum, ab homínibus quidem reprobátum, a Deo autem eléctum et honorificátum: et ipsi tamquam lápides vivi superædificámini, domus spirituális, sacerdótium sanctum, offérre spirituáles hóstias, acceptábiles Deo per Jesum Christum. Propter quod cóntinet Scriptúra: Ecce, pono in Sion lápidem summum angulárem, eléctum, pretiósum: et qui credíderit in eum, non confundátur. Vobis ígitur honor credéntibus: non credéntibus autem lapis, quem reprobavérunt ædificántes, hic factus est in caput ánguli, et lapis offensiónis, et petra scándali his, qui offéndunt verbo, nec credunt in quo et pósiti sunt. Vos autem genus eléctum, regále sacerdótium, gens sancta, pópulus acquisitiónis: ut virtútes annuntiétis ejus, qui de ténebris vos vocávit in admirábile lumen suum. Qui aliquándo non pópulus, nunc autem pópulus Dei: qui non consecúti misericórdiam, nunc autem misericórdiam consecúti.",
+    "en": "Lesson from the first letter of St. Peter the Apostle\n!1 Pet 2:1-10\nv. Beloved: Wherefore laying away all malice, and all guile, and dissimulations, and envies, and all detractions, As newborn babes, desire the rational milk without guile, that thereby you may grow unto salvation: If so be you have tasted that the Lord is sweet. Unto whom coming, as to a living stone, rejected indeed by men, but chosen and made honourable by God: Be you also as living stones built up, a spiritual house, a holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ. Wherefore it is said in the scripture: Behold, I lay in Sion a chief corner stone, elect, precious. And he that shall believe in him, shall not be confounded. To you therefore that believe, he is honour: but to them that believe not, the stone which the builders rejected, the same is made the head of the corner: And a stone of stumbling, and a rock of scandal, to them who stumble at the word, neither do believe, whereunto also they are set. But you are a chosen generation, a kingly priesthood, a holy nation, a purchased people: that you may declare his virtues, who hath called you out of darkness into his marvellous light: Who in time past were not a people: but are now the people of God. Who had not obtained mercy; but now have obtained mercy.",
+    "es": "",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Petri Apóstoli.\n!1 Pet 2:1-10\nBien-aimés, ayant donc dépouillé toute malice et toute fausseté, la dissimulation, l'envie et toute sorte de médisance, comme des enfants nouvellement nés, désirez ardemment le pur lait spirituel, afin qu'il vous fasse grandir pour le salut, si cependant vous avez goûté que le Seigneur est bon. Approchez-vous de lui, la Pierre vivante, rejetée des hommes, il est vrai, mais choisie et précieuse devant Dieu ; et, vous-mêmes comme des pierres vivantes, entrez dans la structure de l'édifice, pour former un temple spirituel, un sacerdoce saint, afin d'offrir des sacrifices spirituels, agréables à Dieu, par Jésus-Christ. Car il est dit dans l'Écriture : « Voici que je pose en Sion une pierre angulaire, choisie, précieuse, et celui qui met en elle sa confiance ne sera pas confondu. » À vous donc l'honneur, vous qui croyez ; mais pour les incrédules, la pierre qu'ont rejetée ceux qui bâtissaient, c'est elle qui est devenue une pierre d'angle, une pierre d'achoppement et un rocher de scandale : eux qui vont se heurter contre la parole parce qu'ils n'ont pas obéi ; aussi bien, c'est à cela qu'ils sont destinés. Mais vous, vous êtes une race choisie, un sacerdoce royal, une nation sainte, un peuple que Dieu s'est acquis afin que vous annonciez les perfections de Celui qui vous a appelés des ténèbres à son admirable lumière ; vous qui autrefois n'étiez pas son peuple, et qui êtes maintenant le peuple de Dieu ; vous qui n'aviez pas obtenu miséricorde, et qui maintenant avez obtenu miséricorde.",
+    "it": "Dalla lettera di San Pietro Apostolo\n!1 Pet 2:1-10\nCarissimi: Spogliando il vostro animo di ogni malizia e frode, delle finzioni e delle invidie, e di ogni sorta di maldicenza, come bambini di fresco nati, bramate il latte spirituale sincero affinché per esso cresciate in salute, se avete gustato davvero com’è dolce il Signore. Accostatevi a Lui, la pietra viva, scartata dagli uomini, ma eletta e onorata da Dio; e voi pure, come pietre vive, entrate a far parte dell'Edificio per formare un Tempio spirituale, sacerdozio santo, per offrire vittime spirituali, gradite a Dio per Gesù Cristo. Perciò è detto nella Scrittura: «Ecco, io pongo in Sion una pietra principale, angolare, eletta, preziosa, e chi crederà in lei non resterà confuso». Essa, dunque, per voi che credete è di onore, ma per quelli che non credono «la pietra scartata dai costruttori è divenuta testata d'angolo» e «pietra d'inciampo, pietra di scandalo»; perché urtano nella parola e non credono, mentre a questo eran destinati. Ma voi siete la stirpe eletta, il regale sacerdozio, la nazione santa, il popolo che Dio si è acquistato, affinché esaltiate le virtù di Colui che dalle tenebre vi chiamò nell'ammirabile sua luce; voi, che un tempo non eravate un popolo, ora siete popolo di Dio; voi, che non avevate ottenuto misericordia, ora invece avete ottenuto misericordia."
+  },
+  "gradual": {
+    "la": "Allelúja, allelúja.\n!Ps 117:24\nHæc dies, quam fecit Dóminus: exsultémus et lætémur in ea. Allelúja.\n!Ps 112:1\nLaudáte, púeri, Dóminum, laudáte nomen Dómini.\n! Ab hoc die usque ad Sabbatum Quatuor Temporum Pentecostes inclusive, in omnibus Missis, non dicitur Graduale sed quatuor Allelúja cum duobus Versibus, ordine infrascripto; in Missa tamen Rogationum, in Vigilia Pentecostes et post quamlibet Lectionem in Sabbato Quatuor Temporum ejusdem, unum Allelúja dicitur cum unico Versu.",
+    "en": "Alleluia, alleluia\n!Ps 117:24\nThis is the day the Lord has made; let us be glad and rejoice in it. Allelúja,\n!Ps 112:1\nv.  Praise the Lord, ye children: praise ye the name of the Lord.",
+    "es": "",
+    "de": "",
+    "fr": "Allelúja, allelúja.\n! 7:24.\nVoici le jour que fit le Seigneur : exultons et réjouissons-nous.\n!Ps 112:1\nLouez, enfants, le Seigneur, louez le Nom du Seigneur.\n! Ab hac die usque ad Sabbatum Quatuor Temporum Pentecostes inclusive, in omnibus Missis, non dicitur Graduale sed quatuor Allelúja cum duobus Versibus, ordine infrascripto; in Missa tamen Rogationum, in Vigilia Pentecostes et post quamlibet Lectionem in Sabbato Quatuor Temporum ejusdem, unum Allelúja dicitur cum unico Versu. Allelúja, allelúja",
+    "it": "Alleluia, alleluia\n! 7:24.\nQuesto è il giorno che il Signore ha fatto: rallegriamoci ed esultiamo. Alleluia,\n!Ps 112:1\nServi di Dio, lodate il Signore,\nlodate il suo nome.\n! Da questo giorno fino al Sabato delle Quattro Tempora di Pentecoste incluso, in tutte le Messe non si dice il Graduale ma quattro Alleluia con due Versi,  nell’ordine scritto di seguito, tuttavia nella Messa delle Rogazioni, nella Vigilia di Pentecoste e dopo qualsiasi Lettura nel Sabato delle quattro Tempora della medesima, si dice un solo Alleluia con un unico Verso, Alleluia, Alleluia."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem.\n!Joannes 20:1-9\nIn illo témpore: Una sábbati, María Magdaléne venit mane, cum adhuc ténebræ essent, ad monuméntum: et vidit lápidem sublátum a monuménto. Cucúrrit ergo, et venit ad Simónem Petrum, et ad álium discípulum, quem amábat Jesus, et dicit illis: Tulérunt Dóminum de monuménto, et nescímus, ubi posuérunt eum. Exiit ergo Petrus et ille álius discípulus, et venérunt ad monuméntum. Currébant autem duo simul, et ille álius discípulus præcucúrrit cítius Petro, et venit primus ad monuméntum. Et cum se inclinásset, vidit pósita linteámina, non tamen introívit. Venit ergo Simon Petrus sequens eum, et introívit in monuméntum, et vidit linteámina pósita, et sudárium, quod fúerat super caput ejus, non cum linteamínibus pósitum, sed separátim involútum in unum locum. Tunc ergo introívit et ille discípulus, qui vénerat primus ad monuméntum: et vidit et crédidit: nondum enim sciébant Scriptúram, quia oportébat eum a mórtuis resúrgere.",
+    "en": "Continuation + of the Holy Gospel according to John\n!John 20:1-9\nv.  In that time, on the first day of the week, Mary Magdalen cometh early, when it was yet dark, unto the sepulchre; and she saw the stone taken away from the sepulchre. She ran, therefore, and cometh to Simon Peter, and to the other disciple whom Jesus loved, and saith to them: They have taken away the Lord out of the sepulchre, and we know not where they have laid him. Peter therefore went out, and that other disciple, and they came to the sepulchre. And they both ran together, and that other disciple did outrun Peter, and came first to the sepulchre. And when he stooped down, he saw the linen cloths lying; but yet he went not in. Then cometh Simon Peter, following him, and went into the sepulchre, and saw the linen cloths lying, and the napkin that had been about his head, not lying with the linen cloths, but apart, wrapped up into one place. Then that other disciple also went in, who came first to the sepulchre: and he saw, and believed. For as yet they knew not the scripture, that he must rise again from the dead.",
+    "es": "",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Joánnem.\n!Joannes 20:1-9\nEn ce temps-là, le premier jour de la semaine, Marie-Madeleine se rendit au sépulcre, dès le matin, avant que les ténèbres fussent dissipées, et elle vit la pierre enlevée du sépulcre. Elle courut donc, et vint trouver Simon-Pierre et l'autre disciple que Jésus aimait, et leur dit : « Ils ont enlevé du sépulcre le Seigneur, et nous ne savons où ils l'ont mis. » Pierre sortit avec l'autre disciple, et ils allèrent au sépulcre. Ils couraient tous deux ensemble, mais l'autre disciple courut plus vite que Pierre, et arriva au sépulcre. Et, s'étant penché, il vit les linceuls posés à terre ; mais il n'entra pas. Simon-Pierre, qui le suivait, arriva à son tour et entra dans le sépulcre. Il vit les linges posés à terre, et le suaire qui couvrait la tête de Jésus, non pas posé avec les linges, mais roulé dans un autre endroit. Alors, l'autre disciple qui était arrivé le premier au sépulcre, entra aussi ; il vit, et il crut. Car ils ne comprenaient pas encore l'Écriture, d'après laquelle il devait ressusciter d'entre les morts.",
+    "it": "Seguito ++ del Santo Vangelo secondo Giovanni.\n!Joannes 20:1-9\nIn quel tempo: Il primo giorno dopo il sabato, la mattina, ch'era ancor buio, Maria Maddalena se ne va al sepolcro; e vede che era stata tolta la pietra dal Sepolcro. Corre perciò e va da Simon Pietro e da quell'altro discepolo che Gesù prediligeva, e dice loro: «Han portato via dalla tomba il Signore, e non sappiamo dove l'abbiano posto». Allora Pietro uscì con quell'altro discepolo e andarono al sepolcro. E correvano tutt'e due insieme: ma l'altro discepolo fece più presto di Pietro; e arrivò primo al sepolcro. E chinatosi, vide posati i lenzuoli, ma non v'entrò. Dietro a lui arrivò Simon Pietro che entrò nel sepolcro e vide i lenzuoli posati e il fazzoletto ch'era stato sul capo di lui, non posato insieme con le fasce, ma ben rivoltato in luogo a parte. Allora entrò anche l'altro discepolo che era giunto prima al sepolcro; e vide e credette: poiché non avevano ancora capita la Scrittura, com'egli dovesse risuscitare da morte."
+  },
+  "offertory": {
+    "la": "!Ps 7:26-27\nBenedíctus, qui venit in nómine Dómini: benedíximus vobis de domo Dómini: Deus Dóminus, et illúxit nobis, allelúja, allelúja.",
+    "en": "!Ps 117:26-27\nv.  Blessed be he that cometh in the name of the Lord. We have blessed you out of the house of the Lord. The Lord is God, and he hath shone upon us, allelúja, allelúja.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 7:26-27\nBéni soit Celui qui vient au nom du Seigneur ; nous vous avons bénis depuis la maison du Seigneur. Dieu est Seigneur et il nous a illuminés, alléluia, alléluia.",
+    "it": "!Ps 7:26-27\nBenedetto colui che viene nel nome del Signore: noi vi abbiamo benedetti dalla casa di Dio:. il Signore Dio che ha sparso la sua luce su di noi, alleluia, alleluia."
+  },
+  "secret": [
+    {
+      "la": "Concéde, quǽsumus, Dómine, semper nos per hæc mystéria paschália gratulári: ut contínua nostræ reparatiónis operátio perpétuæ nobis fiat causa lætítiæ.\n$Per Dominum",
+      "en": "Grant us O Lord, we beseech thee, ever to rejoyce in these Paschal mysteries, that, by the continual application of our redemption we may come to endless happiness.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Inspirez-nous, Seigneur, de constantes actions de grâce pour ces mystères de Pâques, afin que ce perpétuel renouvellement de l'œuvre rédemptrice soit pour nous une cause de joie sans fin.\n$Per Dominum",
+      "it": "Ti supplichiamo, O Signore: fa' che ci rallegriamo sempre in questi misteri pasquali, sì che il continuo perfezionamento della nostra redenzione ci sia di perenne gioia.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Gal 3:27\nOmnes, qui in Christo baptizáti estis, Christum induístis, allelúja.",
+    "en": "!Gal 3:27\nv.  For as many of you as have been baptized in Christ, have put on Christ, allelúja.",
+    "es": "",
+    "de": "",
+    "fr": "!Gal 3:27\nVous tous qui avez été baptisés dans le Christ, vous avez revêtu le Christ, alléluia.",
+    "it": "!Gal 3:27\nVoi tutti che foste battezzati nel Cristo, siete stati rivestiti del Cristo stesso, alleluia."
+  },
+  "postcommunion": [
+    {
+      "la": "Redemptiónis nostræ múnere vegetáti, quǽsumus, Dómine: ut, hoc perpétuæ salútis auxílio, fides semper vera profíciat.\n$Per Dominum",
+      "en": "Invigorated by the gift of redemption, we beseech thee, O Lord, that by this means of eternal salvation, the true faith may prosper evermore.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Nourris du don-même de notre rédemption, nous demandons, Seigneur, que sous l'action de ce sacrement qui communique le salut éternel, la vraie foi ne cesse de se propager.\n$Per Dominum",
+      "it": "Rinvigoriti dal dono della nostra redenzione, fa' o Signore, te ne supplichiamo, che questo aiuto d'eterna salvezza sempre accresca in noi la vera fede.\n$Per Dominum"
+    }
+  ]
+}

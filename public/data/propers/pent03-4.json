@@ -1,0 +1,93 @@
+{
+  "id": "Pent03-4",
+  "titleLatin": "Die VII infra Octavam SSmi Cordis Jesu",
+  "titleVernacular": {
+    "en": "Die VII infra Octavam SSmi Cordis Jesu",
+    "es": "Die VII infra Octavam SSmi Cordis Jesu",
+    "de": "Siebter Tag der Herz-Jesu-Oktav",
+    "fr": "Die VII infra Octavam SSmi Cordis Jesu",
+    "it": "Die VII infra Octavam SSmi Cordis Jesu"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": false,
+  "hasCredo": false,
+  "introit": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "collect": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ],
+  "epistle": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gradual": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gospel": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "offertory": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "secret": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ],
+  "communionAntiphon": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "postcommunion": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ]
+}

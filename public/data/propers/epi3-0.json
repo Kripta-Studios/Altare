@@ -1,0 +1,93 @@
+{
+  "id": "Epi3-0",
+  "titleLatin": "Dominica III Post Epiphaniam",
+  "titleVernacular": {
+    "en": "Dominica III Post Epiphaniam",
+    "es": "Dominica III Post Epiphaniam",
+    "de": "Dritter Sonntag nach Erscheinung",
+    "fr": "Dominica III Post Epiphaniam",
+    "it": "Dominica III Post Epiphaniam"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps 96:7-8\nv. Adoráte Deum, omnes Angeli ejus: audívit, et lætáta est Sion: et exsultavérunt fíliæ Judæ.\n!Ps 96:1\nDóminus regnávit, exsúltet terra: læténtur ínsulæ multæ.\n&Gloria\nv. Adoráte Deum, omnes Angeli ejus: audívit, et lætáta est Sion: et exsultavérunt fíliæ Judæ.",
+    "en": "!Ps 96:7-8\nv. Adore God, all you His angels: Sion hears and is glad, and the cities of Juda rejoice.\n!Ps 96:1\nThe Lord is King; let the earth rejoice; let the many isles be glad.\n&Gloria\nv. Adore God, all you His angels: Sion hears and is glad, and the cities of Juda rejoice.",
+    "es": "!Ps 96:7-8\nv. Adorad a Dios, sus ángeles todos; lo oyó y se alborozó Sión, y se regocijaron las hijas de Judá.\n!Ps 96:1\nReina el Señor; regocíjese la tierra, alégrense todas las islas.\n&Gloria\nv. Adorad a Dios, sus ángeles todos; lo oyó y se alborozó Sión, y se regocijaron las hijas de Judá.",
+    "de": "",
+    "fr": "!Ps 96:7-8\nv. Adorez Dieu, tous ses anges ; Sion l'apprend et se réjouit, et les filles de Juda sont dans l'allégresse.\n!Ps 96:1\nLe Seigneur règne, exulte la terre ; que se réjouissent les îles nombreuses.\n&Gloria\nv. Adorez Dieu, tous ses anges ; Sion l'apprend et se réjouit, et les filles de Juda sont dans l'allégresse.",
+    "it": "!Ps 96:7-8\nv. Adorate Dio, voi tutti Angeli suoi: Sion ha udito e se ne è rallegrata: ed hanno esultato le figlie di Giuda.\n!Ps 96:1\nIl Signore regna, esulti la terra: si rallegrino le molte genti.\n&Gloria\nv. Adorate Dio, voi tutti Angeli suoi: Sion ha udito e se ne è rallegrata: ed hanno esultato le figlie di Giuda."
+  },
+  "collect": [
+    {
+      "la": "Omnípotens sempitérne Deus, infirmitatem nostram propítius réspice: atque, ad protegéndum nos, déxteram tuæ majestátis exténde.\n$Per Dominum",
+      "en": "Almighty and everlasting God, look with favor upon our weakness, and stretch forth the right hand of Your majesty to help and defend us.\n$Per Dominum",
+      "es": "Omnipotente y sempiterno Dios, mira propicio nuestra flaqueza y extiende, para protegernos, la diestra de tu majestad.\n$Per Dominum",
+      "de": "",
+      "fr": "Dieu éternel et tout-puissant, considérez avec bonté notre faiblesse, et pour nous protéger, déployez la force de votre bras.\n$Per Dominum",
+      "it": "Onnipotente e sempiterno Iddio, volgi pietoso lo sguardo alla nostra debolezza, e a nostra protezione stendi il braccio della tua potenza.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános.\n!Rom 12:16-21\nFratres: Nolíte esse prudéntes apud vosmetípsos: nulli malum pro malo reddéntes: providéntes bona non tantum coram Deo, sed étiam coram ómnibus homínibus. Si fíeri potest, quod ex vobis est, cum ómnibus homínibus pacem habéntes: Non vosmetípsos defendéntes, caríssimi, sed date locum iræ. Scriptum est enim: Mihi vindícta: ego retríbuam, dicit Dóminus. Sed si esuríerit inimícus tuus, ciba illum: si sitit, potum da illi: hoc enim fáciens, carbónes ignis cóngeres super caput ejus. Noli vinci a malo, sed vince in bono malum.",
+    "en": "Lesson from the letter of St. Paul the Apostle to the Romans\n!Rom 12:16-21\nBrethren: Be not wise in your own conceits. To no man render evil for evil, but provide good things not only in the sight of God, but also in the sight of all men. If it be possible, as far as in you lies, be at peace with all men. Do not avenge yourselves, beloved, but give place to the wrath, for it is written, Vengeance is Mine: I will repay, says the Lord. But, If your enemy is hungry, give him food; if he is thirsty, give him drink; for by so doing you will heap coals of fire upon his head. Be not overcome by evil, but overcome evil with good.",
+    "es": "Lección de la carta del Apóstol San Pablo a los Romanos\n!Rom 12:16-21\nHermanos: No os tengáis por sabios. A nadie devolváis mal por mal. Procurad lo bueno no solo ante Dios sino ante toda la gente. En la medida de lo posible y en lo que dependa de vosotros, manteneos en paz con todo el mundo. No os toméis la venganza por vuestra cuenta, queridos; dejad más bien lugar a la justicia, pues está escrito: Mía es la venganza, yo daré lo merecido, dice el Señor. Por el contrario, si tu enemigo tiene hambre, dale de comer; si tiene sed, dale de beber: actuando así amontonarás ascuas sobre su cabeza. No te dejes vencer por el mal, antes bien vence al mal con el bien.",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános.\n!Rom 12:16-21\nFrères, ne soyez point sages à vos propres yeux ; ne rendez à personne le mal pour le mal; veillez à faire ce qui est bien devant tous les hommes. S'il est possible, autant qu'il dépend de vous, soyez en paix avec tous. Ne vous vengez point vous-mêmes, bien-aimés ; mais laissez agir la colère de Dieu ; car il est écrit : « À moi la vengeance ; c'est moi qui rétribuerai, dit le Seigneur. » Si ton ennemi a faim, donne-lui à manger ; s'il a soif, donne-lui à boire ; car en agissant ainsi, tu amasseras des charbons de feu sur sa tête. Ne te laisse pas vaincre par le mal, mais triomphe du mal par le bien.",
+    "it": "Lettura della Lettera del B. Paolo Ap. ai Romani.\n!Rom 12:16-21\nFratelli: Non vogliate essere sapienti ai vostri occhi: non rendete male per male: abbiate cura di fare bene non solo agli occhi di Dio, ma anche davanti agli uomini. Se è possibile, per quanto sta da voi, siate in pace con tutti: non difendete voi stessi, carissimi, ma date luogo all’ira. Sta scritto infatti: Mia è la vendetta: io farò ragione, dice il Signore. Se il tuo nemico ha fame, dagli da mangiare, se ha sete, dagli da bere: poiché, così facendo, radunerai carboni ardenti sopra la sua testa. Non voler esser vinto dal male, ma vinci il male col bene."
+  },
+  "gradual": {
+    "la": "!Ps 101:16-17\nTimébunt gentes nomen tuum, Dómine, et omnes reges terræ glóriam tuam.\nV. Quóniam ædificávit Dóminus Sion, et vidébitur in majestáte sua. Allelúja, allelúja.\n!Ps 96:1\nDóminus regnávit, exsúltet terra: læténtur ínsulæ multæ. Allelúja.",
+    "en": "!Ps 101:16-17\nThe nations shall revere Your name, O Lord, and all the kings of the earth Your glory.\nV. For the Lord has rebuilt Sion, and He shall appear in His glory. Alleluia, alleluia.\n!Ps 96:1\nThe Lord is King; let the earth rejoice; let the many isles be glad. Alleluia.",
+    "es": "!Ps 101:16-17\nLos pueblos venerarán tu nombre, Señor, y todos los reyes de la tierra tu gloria.\nV. Porque el Señor reedificará Sión y en ella será visto en su majestad. Aleluya, aleluya.\n!Ps 96:1\nReina el Señor, regocíjese la tierra, alégrense todas las islas. Aleluya.",
+    "de": "",
+    "fr": "!Ps 101:16-17\nLes peuples craindront votre Nom, Seigneur, et tous les rois de la terre, votre gloire.\nV. Car le Seigneur a édifié Sion, et il sera vu dans sa majesté. Alléluia, alléluia.\n!Ps 96:1\nLe Seigneur règne, exulte la terre ; que se réjouissent les îles nombreuses. Alléluia.",
+    "it": "!Ps 101:16-17\nLe genti temeranno il tuo nome, o Signore: tutti i re della terra la tua gloria.\nV. Poiché il Signore ha edificato Sion: e si è mostrato nella sua potenza. Allelúia, allelúia.\n!Ps 96:1\nIl Signore regna, esulti la terra: si rallegrino le molte genti.\nAllelúia.."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum.\n!Matt 8:1-13\nIn illo témpore: Cum descendísset Jesus de monte, secútæ sunt eum turbæ multæ: et ecce, leprósus véniens adorábat eum, dicens: Dómine, si vis, potes me mundáre. Et exténdens Jesus manum, tétigit eum, dicens: Volo. Mundáre. Et conféstim mundáta est lepra ejus. Et ait illi Jesus: Vide, némini díxeris: sed vade, osténde te sacerdóti, et offer munus, quod præcépit Móyses, in testimónium illis. Cum autem introísset Caphárnaum, accéssit ad eum centúrio, rogans eum et dicens: Dómine, puer meus jacet in domo paralýticus, et male torquetur. Et ait illi Jesus: Ego véniam, et curábo eum. Et respóndens centúrio, ait: Dómine, non sum dignus, ut intres sub tectum meum: sed tantum dic verbo, et sanábitur puer meus. Nam et ego homo sum sub potestáte constitútus, habens sub me mílites, et dico huic: Vade, et vadit; et alii: Veni, et venit; et servo meo: Fac hoc, et facit. Audiens autem Jesus, mirátus est, et sequéntibus se dixit: Amen, dico vobis, non inveni tantam fidem in Israël. Dico autem vobis, quod multi ab Oriénte et Occidénte vénient, et recúmbent cum Abraham et Isaac et Jacob in regno cœlórum: fílii autem regni ejiciéntur in ténebras exterióres: ibi erit fletus et stridor déntium. Et dixit Jesus centurióni: Vade et, sicut credidísti, fiat tibi. Et sanátus est puer in illa hora.",
+    "en": "Continuation of the Holy Gospel according to Matthew\n!Matt 8:1-13\nAt that time, when Jesus had come down from the mountain, great crowds followed Him. And behold, a leper came up and worshipped Him, saying, Lord, if You will, You can make me clean. And stretching forth His hand Jesus touched him, saying, I will; be made clean. And immediately his leprosy was cleansed. And Jesus said to him, See that you tell no one; but go, show yourself to the priest, and offer the gift that Moses commanded, for a witness to them. Now when He had entered Capharnaum, there came to Him a centurion who entreated Him, saying, Lord, my servant is lying sick in the house, paralyzed, and is grievously afflicted. Jesus said to him, I will come and cure him. But in answer the centurion said, Lord, I am not worthy that You should come under my roof; but only say the word, and my servant will be healed. For I too am a man subject to authority, and have soldiers subject to me; and I say to one, ‘Go,’ and he goes; and to another, ‘Come,’ and he comes; and to my servant, ‘Do this,’ and he does it. And when Jesus heard this, He marveled, and said to those who were following Him, Amen I say to you, I have not found such great faith in Israel. And I tell you that many will come from the east and from the west and will feast with Abraham and Isaac and Jacob in the kingdom of heaven, but the children of the kingdom will be put forth into the darkness outside; there will be the weeping, and the gnashing of teeth. Then Jesus said to the centurion, Go your way; as you have believed, so be it done to you. And the servant was healed in that hour.",
+    "es": "Continuación + del Santo Evangelio según San Mateo\n!Mt 8:1-13\nEn aquel tiempo: Al bajar Jesús del monte, lo siguió mucha gente. En esto, se le acercó un leproso, se arrodilló y le dijo: «Señor, si quieres, puedes limpiarme». Extendió la mano y lo tocó diciendo: «Quiero, queda limpio». Y enseguida quedó limpio de la lepra. Jesús le dijo: «No se lo digas a nadie, pero ve a presentarte al sacerdote y entrega la ofrenda que mandó Moisés, para que les sirva de testimonio». Al entrar Jesús en Cafarnaún, un centurión se le acercó rogándole: «Señor, tengo en casa un criado que está en cama paralítico y sufre mucho». Le contestó: «Voy yo a curarlo». Pero el centurión le replicó: «Señor, no soy digno de que entres bajo mi techo. Basta que lo digas de palabra, y mi criado quedará sano. Porque yo también vivo bajo disciplina y tengo soldados a mis órdenes; y le digo a uno: “Ve”, y va; al otro: “Ven”, y viene; a mi criado: “Haz esto”, y lo hace». Al oírlo, Jesús quedó admirado y dijo a los que lo seguían: «En verdad os digo que en Israel no he encontrado en nadie tanta fe. Os digo que vendrán muchos de oriente y occidente y se sentarán con Abrahán, Isaac y Jacob en el reino de los cielos; en cambio, a los hijos del reino los echarán fuera, a las tinieblas. Allí será el llanto y el rechinar de dientes». Y dijo Jesús al centurión: «Vete; que te suceda según has creído». Y en aquel momento se puso bueno el criado.",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Matthǽum.\n!Matt 8:1-13\nEn ce temps-là, quand Jésus descendit de la montagne, des foules nombreuses le suivirent. Et voici qu'un lépreux s'approcha, se prosterna devant lui et dit : « Seigneur, si tu le veux, tu peux me purifier. » Il étendit la main, le toucha et dit : « Je le veux, sois purifié. » Et à l'instant sa lèpre fut purifiée. Alors Jésus lui dit : « Garde-toi d'en parler à personne ; mais va te montrer au prêtre, et offre le don prescrit par Moïse, en attestation pour eux. » Comme Jésus était entré à Capharnaüm, un centurion l'aborda et lui fit cette prière : « Seigneur, mon serviteur est couché dans ma maison, paralysé, et il souffre cruellement. » Il lui dit : « Je vais aller le guérir. » Le centurion reprit : « Seigneur, je ne suis pas digne que tu entres sous mon toit ; mais dis seulement un mot, et mon serviteur sera guéri. Car moi qui suis sous des chefs, j'ai des soldats sous mes ordres, et je dis à l'un : « Va,» et il va ; et à un autre : « Viens» , et il vient ; et à mon serviteur : « Fais ceci» , et il le fait. » Ce qu'entendant, Jésus fut dans l'admiration, et il dit à ceux qui le suivaient : « Je vous le dis en vérité : dans Israël, chez personne je n'ai trouvé une si grande foi. Or je vous le dis : beaucoup viendront de l'Orient et de l'Occident, et prendront place au festin avec Abraham, Isaac et Jacob, dans le royaume des cieux, tandis que les fils du royaume seront jetés dans les ténèbres extérieures : là seront les pleurs et les grincements de dents. » Et Jésus dit au centurion : « Va, et qu'il te soit fait selon ta foi ! » Et à l'heure même le serviteur se trouva guéri.",
+    "it": "Séguito ++ del S. Vangelo secondo Matteo.\n!Matt 8:1-13\nIn quel tempo: Essendo Gesù disceso dal monte, lo seguirono molte turbe: ed ecco un lebbroso che, accostatosi, lo adorava, dicendo: Signore, se vuoi, puoi mondarmi. Gesù, stesa la mano, lo toccò, dicendo: Lo voglio. Sii Mondato. E tosto la sua lebbra fu guarita. E Gesù gli disse: Guarda di non dirlo ad alcuno: ma va, mòstrati ai sacerdoti, e offri quanto prescritto da Mosè, onde serva a loro di testimonianza. Entrato poi in Cafàrnao, andò a trovarlo un centurione, raccomandandosi e dicendo: Signore, il mio servo giace in casa, paralitico, ed è malamente tormentato. E Gesù gli rispose: Verrò, e lo guarirò. E il centurione disse: Signore, non son degno che tu entri sotto il mio tetto, ma di’ solo una parola e il mio servo sarà guarito. Perché anch’io, sebbene soggetto ad altri, ho sotto di me dei soldati, e dico a uno: Va, ed egli va; e all’altro: Vieni, ed egli viene; e al mio servo: Fai questo, ed egli lo fa. Gesù, udite queste parole, ne restò ammirato, e a coloro che lo seguivano, disse: Non ho trovato fede così grande in Israele. Vi dico perciò che molti verranno da Oriente e da Occidente e siederanno con Abramo, Isacco e Giacobbe nel regno dei cieli, ma i figli del regno saranno gettati nelle tenebre esteriori: ove sarà pianto e stridore di denti. Allora Gesù disse al centurione: Va, e ti sia fatto come hai creduto. E in quel momento il servo fu guarito."
+  },
+  "offertory": {
+    "la": "!Ps 117:16; 117:17\nDéxtera Dómini fecit virtutem, déxtera Dómini exaltávit me: non móriar, sed vivam, et narrábo ópera Dómini.",
+    "en": "!Ps 117:16-17\nThe right hand of the Lord has struck with power: the right hand of the Lord has exalted me; I shall not die, but live, and declare the works of the Lord.",
+    "es": "!Ps 117:16-17\nLa diestra del Señor ha obrado proezas; la diestra del Señor me ha salvado» No moriré, sino viviré y pregonaré las obras del Señor.",
+    "de": "",
+    "fr": "!Ps 117:16; 117:17\nLa droite du Seigneur a agi avec force, la droite du Seigneur m'a élevé ; je ne mourrai point, mais je vivrai, et je raconterai les œuvres du Seigneur.",
+    "it": "!Ps 117:16; 117:17\nLa destra del Signore ha fatto prodigi, la destra del Signore mi ha esaltato: non morirò, ma vivrò e narrerò le opere del Signore."
+  },
+  "secret": [
+    {
+      "la": "Hæc hóstia, Dómine, quǽsumus, emúndet nostra delícta: et, ad sacrifícium celebrándum, subditórum tibi córpora mentésque sanctíficet.\n$Per Dominum",
+      "en": "May this offering, O Lord, we beseech You, wipe away our transgressions, and make holy the minds and bodies of Your servants for celebrating this sacrifice.\n$Per Dominum",
+      "es": "Te rogamos, Señor, limpie esta hostia nuestros pecados, y santifique los cuerpos y almas de tus siervos, para celebrar dignamente el sacrificio.\n$Per Dominum",
+      "de": "",
+      "fr": "Que cette offrande, Seigneur, nous purifie de nos péchés, et pour une digne célébration de ce sacrifice, qu'elle sanctifie le corps et l'âme de vos fidèles.\n$Per Dominum",
+      "it": "Quest’ostia, o Signore, Te ne preghiamo, ci mondi dai nostri delitti e, santificando i corpi e le ànime dei tuoi servi, li disponga alla celebrazione del sacrificio.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Luc 4:22\nMirabántur omnes de his, quæ procedébant de ore Dei.",
+    "en": "!Luke 4:22\nAll marvelled at the words that came from the mouth of God.",
+    "es": "!Lc 4:22\nTodos se maravillan de las palabras que salían de la boca de Dios.",
+    "de": "",
+    "fr": "!Luc 4:22\nTous s'extasiaient des paroles qui sortaient de la bouche de Dieu.",
+    "it": "!Luc 4:22\nSi meravigliavano tutti delle parole che uscivano dalla bocca di Dio."
+  },
+  "postcommunion": [
+    {
+      "la": "Quos tantis, Dómine, largíris uti mystériis: quǽsumus; ut efféctibus nos eórum veráciter aptáre dignéris.\n$Per Dominum",
+      "en": "O Lord, as You grant us to use this great sacrament, deign, we beseech You, to make us truly worthy of its fruits.\n$Per Dominum",
+      "es": "Señor, a quienes nos concedes gozar de tan altos misterios, dígnate hacernos capaces de asimilarnos sus efectos.\n$Per Dominum",
+      "de": "",
+      "fr": "Seigneur, qui nous accordez de faire usage d'aussi grands mystères, daignez nous rendre vraiment dignes de leurs effets.\n$Per Dominum",
+      "it": "O Signore, che ci concedi di partecipare a tanto mistero, dégnati, Te ne preghiamo, di renderci atti a riceverne realmente gli effetti.\n$Per Dominum"
+    }
+  ]
+}

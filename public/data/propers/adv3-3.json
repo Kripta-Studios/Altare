@@ -1,0 +1,93 @@
+{
+  "id": "Adv3-3",
+  "titleLatin": "Feria IV Quattuor Temporum in Adventu",
+  "titleVernacular": {
+    "en": "Feria IV Quattuor Temporum in Adventu",
+    "es": "Feria IV Quattuor Temporum in Adventu",
+    "de": "Quatembermittwoch im Advent",
+    "fr": "Feria IV Quattuor Temporum in Adventu",
+    "it": "Feria IV Quattuor Temporum in Adventu"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Is 45:8\nv. Roráte, cœli, désuper, et nubes pluant justum: aperiátur terra, et gérminet Salvatórem\n!Ps 18:2.\nCœli enárrant glóriam Dei: et ópera mánuum ejus annúntiat firmaméntum.\n&Gloria\nv. Roráte, cœli, désuper, et nubes pluant justum: aperiátur terra, et gérminet Salvatórem",
+    "en": "!Isa 45:8\nv. Drop down dew, you heavens, from above, and let the clouds rain the just: let the earth be opened and bud forth a Saviour.\n!Ps 18:2\nThe heavens declare the glory of God, and the firmament proclaims His handiwork.\n&Gloria\nv. Drop down dew, you heavens, from above, and let the clouds rain the just: let the earth be opened and bud forth a Saviour.",
+    "es": "!Isa 45:8\nv. Oh cielos, derramad desde arriba vuestro rocio, y lluevan las nubes al Justo: ábrase la tierra y brote al Salvador.\n!Ps 18:2\nLos cielos publican la gloria de Dios y el firmamento anuncia la grandeza de las obras de sus manos.\n&Gloria\nv. Oh cielos, derramad desde arriba vuestro rocio, y lluevan las nubes al Justo: ábrase la tierra y brote al Salvador.",
+    "de": "",
+    "fr": "!Is 45:8.\nv. Cieux, répandez d'en-haut votre rosée, et que les nuées fassent pleuvoir le Juste ; que la terre s'ouvre, et qu'ele fasse germer le Sauveur.\n!Ps 18:2.\nLes cieux racontent la gloire de Dieu, et le firmament annonce les œuvres de ses mains.\n&Gloria\nv. Cieux, répandez d'en-haut votre rosée, et que les nuées fassent pleuvoir le Juste ; que la terre s'ouvre, et qu'ele fasse germer le Sauveur.",
+    "it": "!Is 45:8.\nv. Piovete dall'alto, o cieli, e mandateci il giusto, o nubi: si apra la terra e dia frutti di salvezza.\n!Ps 18:2.\nI cieli narrano la gloria di Dio, e il firmamento narra l'opera delle sue mani.\n&Gloria\nv. Piovete dall'alto, o cieli, e mandateci il giusto, o nubi: si apra la terra e dia frutti di salvezza."
+  },
+  "collect": [
+    {
+      "la": "Præsta, quǽsumus, omnípotens Deus: ut redemptiónis nostræ ventúra sollémnitas et præséntis nobis vitæ subsídia cónferat, et ætérnæ beatitúdinis prǽmia largiátur.\n$Per Dominum",
+      "en": "Grant us, we beseech You, almighty God, that the coming feast of our redemption may bring us both help for our present life, and the reward of everlasting happiness.\n$Per Dominum",
+      "es": "Te suplicamos, Dios todopoderoso, nos concedas que la solemnidad venidera de nuestra redención, nos confiera los consuelos de la vida presente y nos conceda el premio de la eterna bienaventuranza.\n$Per Dominum",
+      "de": "",
+      "fr": "Faites, Dieu tout-puissant, que les proches solennités de notre rédemption nous procurent un soutien dans la vie présente, et nous octroient la récompense de l'éternelle béatitude.\n$Per Dominum",
+      "it": "Fa', o Signore, te ne preghiamo, che la vicina solennità della nostra redenzione, ci porti aiuto per la vita presente e ci dia il premio della beatitudine eterna.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Lectio Isaíæ Prophétæ\n!Is 7:10-15\nIn diébus illis: Locútus est Dóminus ad Achaz, dicens: Pete tibi signum a Dómino, Deo tuo, in profúndum inférni, sive in excélsum supra. Et dixit Achaz: Non petam et non tentábo Dóminum. Et dixit: Audíte ergo, domus David: Numquid parum vobis est, moléstos esse homínibus, quia molesti estis et Deo meo? Propter hoc dabit Dóminus ipse vobis signum. Ecce, Virgo concípiet et páriet fílium, et vocábitur nomen ejus Emmánuel. Butýrum et mel cómedet, ut sciat reprobare malum et elígere bonum.",
+    "en": "Lesson from the book of Isaias\n!Isa 7:10-15\nIn those days, the Lord spoke to Achaz: Ask for a sign from the Lord, your God; let it be deep as the nether world, or high as the sky! But Achaz answered, I will not ask! I will not tempt the Lord! Then he said, Listen, O house of David! Is it not enough for you to weary men, must you also weary my God? Therefore the Lord Himself will give you this sign: the virgin shall be with child, and bear a Son, and shall name Him Emmanuel. He shall be living on curds and honey by the time He learns to reject the bad and choose the good.",
+    "es": "Lección del profeta Isaías\n!Isa 7:10-15\nEl Señor volvió a hablar a Ajaz y le dijo: «Pide un signo al Señor, tu Dios: en lo hondo del abismo o en lo alto del cielo». Respondió Ajaz: «No lo pido, no quiero tentar al Señor». Entonces dijo Isaías: «Escucha, casa de David: ¿no os basta cansar a los hombres, que cansáis incluso a mi Dios? Pues el Señor, por su cuenta, os dará un signo. Mirad: la virgen está encinta y da a luz un hijo, y le pondrá por nombre Emmanuel. Comerá requesón con miel, para que aprenda a  rechazar el mal y a escoger el bien.",
+    "de": "",
+    "fr": "Lecture du Prophète Isaïe.\n!Is 7:10-15\nEn ces jours-là, le Seigneur parla à Achaz en disant : « Demande un signe au Seigneur ton Dieu, demande-le dans les profondeurs de l'enfer, ou dans les hauteurs du ciel. » Mais Achaz dit : « Je ne le demanderai pas, je ne tenterai pas le Seigneur. » Et Isaïe dit : « Écoutez, maison de David : Est-ce trop peu pour vous de fatiguer les hommes, que vous fatiguiez aussi mon Dieu ? C'est pourquoi le Seigneur lui-même vous donnera un signe : Voici que la Vierge a conçu, et elle enfante un fils, et on lui donne le nom d'Emmanuel. Il mangera de la crème et du miel, jusqu'à ce qu'il sache rejeter le mal et choisir le bien. »",
+    "it": "Dal libro del profeta Isaia.\n!Is 7:10-15\nIn quei giorni, il Signore parlò ad Achaz, dicendo: «Chiedi per te un segno al Signore tuo Dio, o nella profondità dell'abisso, o nell'alto dei cieli». E rispose Achaz: «Non lo chiederò: non tenterò il Signore». E Isaia disse: «Ascoltate, dunque, casa di Davide: non vi basta stancare gli uomini, che stancate anche il mio Dio? Per questo, il Signore stesso darà a voi un segno: ecco, la Vergine concepirà e partorirà un figlio, e sarà chiamato Emmanuele. Panna e miele egli mangerà, fino a che non sappia riprovare il male e scegliere il bene»."
+  },
+  "gradual": {
+    "la": "!Ps 144:18; 144:21\nPrope est Dóminus ómnibus invocántibus eum: ómnibus qui ínvocant eum in veritáte.\nV. Laudem Dómini loquétur os meum: et benedícat omnis caro nomen sanctum ejus.",
+    "en": "!Ps 144:18, 21\nThe Lord is near to all who call upon Him, to all who call upon Him in truth.\nV. May my mouth speak the praise of the Lord, and may all flesh bless His holy name.",
+    "es": "!Ps 144:18, 21\nEl Señor esta cerca de los que le invocan; de los que le imploran con sinceridad.\nV. Mi boca publique las alabanzas del Señor; y toda carne bendiga su nombre.",
+    "de": "",
+    "fr": "!Ps 144:18; 144:21\nLe Seigneur est proche de tous ceux qui l'invoquent, de tous ceux qui l'invoquent en vérité.\nV. Ma bouche annoncera la louange du Seigneur ; que toute chair bénisse son saint Nom.",
+    "it": "!Ps 144:18; 144:21\nDio è vicino a tutti quelli che lo chiamano, a chiunque lo chiama in verità.\nV. La mia bocca parli la lode del Signore, e ogni carne benedica il suo santo nome."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secundum Lucam\n!Luc 1:26-38\nIn illo tempore: Missus est Angelus Gábriel a Deo in civitatem Galilǽæ, cui nomen Názareth, ad Vírginem desponsátam viro, cui nomen erat Joseph, de domo David, et nomen Vírginis María. Et ingréssus Angelus ad eam, dixit: Ave, grátia plena; Dóminus tecum: benedícta tu in muliéribus. Quæ cum audísset, turbáta est in sermóne ejus: et cogitábat, qualis esset ista salutátio. Et ait Angelus ei: Ne tímeas, María, invenísti enim grátiam apud Deum: ecce, concípies in útero, et páries fílium, et vocábis nomen ejus Jesum. Hic erit magnus, et Fílius Altíssimi vocábitur, et dabit illi Dóminus Deus sedem David, patris ejus: et regnábit in domo Jacob in ætérnum, et regni ejus non erit finis. Dixit autem María ad Angelum: Quómodo fiet istud, quóniam virum non cognósco? Et respóndens Angelus, dixit ei: Spíritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi. Ideóque et quod nascétur ex te Sanctum, vocábitur Fílius Dei. Et ecce, Elísabeth, cognáta tua, et ipsa concépit fílium in senectúte sua: et hic mensis sextus est illi, quæ vocátur stérilis: quia non erit impossíbile apud Deum omne verbum. Dixit autem María: Ecce ancílla Dómini, fiat mihi secúndum verbum tuum.",
+    "en": "Continuation + of the Holy Gospel according to Luke\n!Luke 1:26-38\nAt that time, the angel Gabriel was sent from God to a town of Galilee called Nazareth, to a virgin betrothed to a man named Joseph, of the house of David, and the virgin’s name was Mary. And when the angel had come to her, he said, Hail, full of grace, the Lord is with you. Blessed are you among women. When she had heard him she was troubled at his word, and kept pondering what manner of greeting this might be. And the angel said to her, Do not be afraid, Mary, for you have found grace with God. Behold, you shall conceive in your womb and shall bring forth a son; and you shall call His name Jesus. He shall be great, and shall be called the Son of the most High; and the Lord God will give Him the throne of David His father, and He shall be king over the house of Jacob forever; and of His kingdom there shall be no end. But Mary said to the angel, How shall this happen, since I do not know man? And the angel answered and said to her, The Holy Spirit shall come upon you, and the power of the Most High shall overshadow you, and therefore the Holy One to be born shall be called the Son of God. And, behold, Elizabeth your kinswoman also has conceived a son in her old age, and she who was called barren is now in her sixth month; for nothing shall be impossible with God. But Mary said: Behold the handmaid of the Lord; be it done to me according to your word.",
+    "es": "Continuación + del Santo Evangelio según San Lucas\n!Lc 1:26-38\nEn aquel tiempo, en el mes sexto, el ángel Gabriel fue enviado por Dios a una ciudad de Galilea llamada Nazaret, a una virgen desposada con un hombre llamado José, de la casa de David; el nombre de la virgen era María. El ángel, entrando en su presencia, dijo: «Alégrate, llena de gracia, el Señor está contigo».  Ella se turbó grandemente ante estas palabras y se preguntaba qué saludo era aquel. El ángel le dijo: «No temas, María, porque has encontrado gracia ante Dios. Concebirás en tu vientre y darás a luz un hijo, y le pondrás por nombre Jesús. Será grande, se llamará Hijo del Altísimo, el Señor Dios le dará el trono de David, su padre; reinará sobre la casa de Jacob para siempre, y su reino no tendrá fin». Y María dijo al ángel: «¿Cómo será eso, pues no conozco varón?». El ángel le contestó: «El Espíritu Santo vendrá sobre ti, y la fuerza del Altísimo te cubrirá con su sombra; por eso el Santo que va a nacer será llamado Hijo de Dios. También tu pariente Isabel ha concebido un hijo en su vejez, y ya está de seis meses la que llamaban estéril, porque para Dios nada hay imposible». María contestó: «He aquí la esclava del Señor; hágase en mí según tu palabra».",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secundum Lucam.\n!Luc 1:26-38\nEn ce temps-là, l'ange Gabriel fut envoyé par Dieu dans une ville de Galilée appelée Nazareth, à une vierge qui était fiancée à un homme de la maison de David, nommé Joseph ; et le nom de la vierge était Marie. Étant entré où elle était, il lui dit : « Je te salue, pleine de grâce ! Le Seigneur est avec toi ; tu es bénie entre les femmes. » Mais à cette parole elle fut fort troublée, et elle se demandait ce que pouvait être cette salutation. L'ange lui dit : « Ne crains point, Marie, car tu as trouvé grâce devant Dieu. Voici que tu vas concevoir et enfanter un fils, et tu lui donneras le nom de Jésus. Il sera grand et sera appelé fils du Très-Haut ; le Seigneur Dieu lui donnera le trône de David son père ; il régnera éternellement sur la maison de Jacob, et son règne n'aura point de fin. » Marie dit à l'ange : « Comment cela sera-t-il, puisque je ne connais point d'homme ? » L'ange lui répondit : « L'Esprit-Saint viendra sur toi, et la vertu du Très-Haut te couvrira de son ombre. C'est pourquoi l'être saint qui naîtra sera appelé Fils de Dieu. Et voici qu'Élisabeth, ta parente, a conçu, elle aussi, un fils dans sa vieillesse, et ce mois-ci est le sixième pour elle, que l'on appelait stérile, car rien ne sera impossible pour Dieu. » Marie dit alors : « Voici la servante du Seigneur : qu'il me soit fait selon ta parole ! » Et l'ange la quitta.",
+    "it": "Seguito ++ del S. Vangelo secondo Luca.\n!Luc 1:26-38\nIn quel tempo, l'angelo Gabriele fu inviato da Dio in una città della Galilea, di nome Nazareth, ad una vergine sposa di un uomo di nome Giuseppe, della stirpe di Davide; e il nome della vergine era Maria. L'angelo, entrando da lei, disse: «Ave, piena di grazia; il Signore è con te; tu sei benedetta fra le donne». Mentre l'udiva, fu turbata alle sue parole, e si domandava cosa significasse quel saluto. E l'angelo le disse: «Non temere, Maria, poiché hai trovato grazia presso Dio. Ecco, concepirai nel tuo seno e partorirai un figlio, e gli porrai nome Gesù. Egli sarà grande e sarà chiamato Figlio dell'Altissimo, e il Signore Iddio gli darà il trono di Davide, suo padre: e regnerà sulla casa di Giacobbe in eterno, e il suo regno non avrà fine». Allora Maria disse all'angelo: «Come avverrà questo, poiché non conosco uomo?». L'angelo le rispose, dicendo: «Lo Spirito Santo scenderà su di te e la potenza dell'Altissimo ti coprirà della sua ombra. Per questo il Santo, che nascerà da te, sarà chiamato Figlio di Dio. Ed ecco, Elisabetta, tua parente, ha concepito anch'essa un figlio nella sua vecchiaia ed è già al sesto mese, lei che era detta sterile: poiché niente è impossibile a Dio». Allora Maria disse: «Ecco la serva del Signore: sia fatto a me secondo la tua parola»."
+  },
+  "offertory": {
+    "la": "!Is 35:4.\nConfortámini, et jam nolite timére: ecce enim, Deus noster retríbuet judícium: ipse véniet, et salvos nos fáciet.",
+    "en": "!Isa 35:4\nBe strong, fear no longer! For, behold, our God will bring judgment. He Himself will come to save us.",
+    "es": "!Isa 35:4\nEa, buen ánimo, y no temáis: mirad a vuestro dios que viene a ejecutar una justa venganza: el mismo vendrá y os salvara.",
+    "de": "",
+    "fr": "!Is 35:4.\nFortifiez-vous, et désormais ne craignez point ; car voici que notre Dieu va exercer le jugement. Il va venir et nous sauver.",
+    "it": "!Is 35:4.\nFatevi coraggio; non abbiate più timore: ecco che il nostro Dio farà giustizia. Egli verrà e ci salverà."
+  },
+  "secret": [
+    {
+      "la": "Acépta tibi sint, quǽsumus, Dómine, nostra jejúnia: quæ et expiándo nos tua grátia dignos effíciant, et ad sempiterna promíssa perdúcant.\n$Per Dominum",
+      "en": "May our fasting, we beseech You, O Lord, be acceptable to You, and by its purifying power make us worthy of Your grace and bring us to the eternal bliss You have promised us.\n$Per Dominum",
+      "es": "Te pedimos, Señor, que te sean gratos nuestros ayunos: los cuales, expiándonos, nos hagan dignos de tu gracia y de las promesas eternas.\n$Per Dominum",
+      "de": "",
+      "fr": "Que nos jeûnes, Seigneur, vous soient agréables ; que par leur vertu d'expiation ils nous rendent dignes de votre grâce et nous conduisent aux biens éternels que vous nous avez promis.\n$Per Dominum",
+      "it": "O Signore, ti siano accetti i nostri digiuni, e, espiando i peccati, ci rendano degni della tua grazia e ci facciano conseguire le promesse eterne.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "@Commune/C10a:Communio",
+    "en": "!Isa 7:14\nBehold, the virgin shall be with child and bear a Son, and shall name Him Emmanuel.",
+    "es": "!Isa 7:14\nSabed que una Virgen concebirá y dará a luz un Hijo, y su nombre será Emmanuel.",
+    "de": "",
+    "fr": "!Is 7:14\nVoici que la Vierge concevra, elle enfantera un fils, et on l'appellera Emmanuel.",
+    "it": "!Is 7:14\nEcco, una Vergine concepirà e darà alla luce un Figlio: che sarà chiamato Emanuele."
+  },
+  "postcommunion": [
+    {
+      "la": "Salutáris tui, Dómine, munere satiáti, súpplices deprecámur: ut, cujus lætámur gustu, renovémur efféctu.\n$Per Dominum",
+      "en": "Refreshed by the sacramental gift of Your salvation, we humbly beseech You, O Lord, that enjoying its savor we may be made new by its action.\n$Per Dominum",
+      "es": "Satisfechos, Señor, con el don de tu salvación, te rogamos humildemente que quienes nos alegramos de haberle recibido y nos renovemos por efecto de él.\n$Per Dominum",
+      "de": "",
+      "fr": "Rassasiés du sacrement qui nous apporte votre salut, nous demandons humblement, Seigneur, qu'heureux de le recevoir, nous soyons transformés par le renouveau qu'il opère.\n$Per Dominum",
+      "it": "O Signore, saziati del tuo salutare dono, ti supplichiamo che il mistero, della cui soavità ci siamo rallegrati, ci rinnovi.\n$Per Dominum"
+    }
+  ]
+}

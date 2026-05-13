@@ -1,0 +1,93 @@
+{
+  "id": "Adv4-0",
+  "titleLatin": "Dominica IV Adventus",
+  "titleVernacular": {
+    "en": "Dominica IV Adventus",
+    "es": "Dominica IV Adventus",
+    "de": "Vierter Sonntag im Advent",
+    "fr": "Dominica IV Adventus",
+    "it": "Dominica IV Adventus"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Isa 45:8\nv. Roráte, cœli, désuper, et nubes pluant justum: aperiátur terra, et gérminet Salvatórem\n!Ps 18:2\nCœli enárrant glóriam Dei: et ópera mánuum ejus annúntiat firmaméntum.\n&Gloria\nv. Roráte, cœli, désuper, et nubes pluant justum: aperiátur terra, et gérminet Salvatórem",
+    "en": "!Isa 45:8\nv. Let the Just One descend, O heavens, like dew from above, like gentle rain let the skies drop Him down. Let the earth open and a Saviour bud forth.\n!Ps 18:2\nThe heavens declare the glory of God, and the firmament proclaims His handiwork.\n&Gloria\nv. Let the Just One descend, O heavens, like dew from above, like gentle rain let the skies drop Him down. Let the earth open and a Saviour bud forth.",
+    "es": "!Isa 45:8\nv. Cielos, enviad rocío de lo alto, y nubes, lloved al Justo; ábrase la tierra, y brote al Salvador.\n!Ps 18:2\nLos cielos cantan la gloria de Dios, y pregona el firmamento las obras de sus manos.\n&Gloria\nv. Cielos, enviad rocío de lo alto, y nubes, lloved al Justo; ábrase la tierra, y brote al Salvador.",
+    "de": "",
+    "fr": "!Isa 45:8\nv. Cieux, répandez d'en-haut votre rosée, et que les nuées fasssent pleuvoir le Juste ; que la terre s'ouvre, et qu'elle fasse germer le Sauveur.\n!Ps 18:2\nLes cieux racontent la gloire de Dieu, et le firmament annonce l'œuvre de ses mains.\n&Gloria\nv. Cieux, répandez d'en-haut votre rosée, et que les nuées fasssent pleuvoir le Juste ; que la terre s'ouvre, et qu'elle fasse germer le Sauveur.",
+    "it": "!Isa 45:8\nv. Stillate, o cieli, dall’alto la vostra rugiada e le nuvole piòvano il giusto: si apra la terra e germogli il Salvatore.\n!Ps 18:2\nI cieli narrano la gloria di Dio: e il firmamento proclama l’òpera della sue mani.\n&Gloria\nv. Stillate, o cieli, dall’alto la vostra rugiada e le nuvole piòvano il giusto: si apra la terra e germogli il Salvatore."
+  },
+  "collect": [
+    {
+      "la": "Excita, quǽsumus, Dómine, poténtiam tuam, et veni: et magna nobis virtúte succúrre; ut per auxílium grátiæ tuæ, quod nostra peccáta præpédiunt, indulgéntia tuæ propitiatiónis accéleret:\n$Qui vivis",
+      "en": "Put forth Your power, O Lord, we beseech You, and delay not: and with Your great might come to our aid, so that what is hindered by our sins may be hastened by Your merciful goodness.\n$Qui vivis",
+      "es": "Muestra, Señor, tu poder y ven, y socórrenos con tu gran fortaleza; para que tu misericordia, siempre propicia, se apresure a darnos graciosamente los auxilios que nuestros pecados nos retardan.\n$Qui vivis",
+      "de": "",
+      "fr": "Réveillez, Seigneur, votre puissance, et venez ; mettez à nous secourir toute votre force, et que votre indulgente bonté hâte, par l'action de votre grâce, le salut qu'entravent nos péchés.\n$Qui vivis",
+      "it": "O Signore, Te ne preghiamo, súscita la tua potenza e vieni: soccòrrici con la tua grande virtú: affinché con l’aiuto della tua grazia, ciò che allontanarono i nostri peccati, la tua misericordia lo affretti.\n$Qui vivis"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios\n!1 Cor 4:1-5\nFratres: Sic nos exístimet homo ut minístros Christi, et dispensatóres mysteriórum Dei. Hic jam quǽritur inter dispensatóres, ut fidélis quis inveniátur. Mihi autem pro mínimo est, ut a vobis júdicer aut ab humáno die: sed neque meípsum júdico. Nihil enim mihi cónscius sum: sed non in hoc justificátus sum: qui autem júdicat me, Dóminus est. Ítaque nolíte ante tempus judicáre, quoadúsque véniat Dóminus: qui et illuminábit abscóndita tenebrárum, et manifestábit consília córdium: et tunc laus erit unicúique a Deo.",
+    "en": "Lesson from the first letter of St. Paul the Apostle to the Corinthians\n!1 Cor. 4:1-5\nBrethren: Let a man so account us, as servants of Christ and stewards of the mysteries of God. Now here it is required in stewards that a man be found trustworthy. But with me it is a very small matter to be judged by you or by man’s tribunal. Nay I do not even judge my own self. For I have nothing on my conscience, yet I am not thereby justified; but he who judges me is the Lord. Therefore, pass no judgment before the time, until the Lord comes, Who will both bring to light the things hidden in darkness and make manifest the counsels of hearts; and then everyone will have his praise from God.",
+    "es": "Lección de la carta del Apóstol san Pablo a los Corintios\n!1 Cor 4:1-5\nHermanos: Que la gente solo vea en nosotros servidores de Cristo y administradores de los misterios de Dios. Ahora, lo que se busca en los administradores es que sean fieles. Para mí lo de menos es que me pidáis cuentas vosotros o un tribunal humano; ni siquiera yo me pido cuentas. La conciencia, es verdad, no me remuerde; pero tampoco por eso quedo absuelto: mi juez es el Señor. Así, pues, no juzguéis antes de tiempo, dejad que venga el Señor. Él iluminará lo que esconden las tinieblas y pondrá al descubierto los designios del corazón; entonces cada uno recibirá de Dios lo que merece.",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios\n!1 Cor 4:1-5\nFrères, qu'on nous regarde bien comme des serviteurs du Christ et des dispensateurs des mystères de Dieu. Ce que l'on cherche dans les dispensateurs, c'est que chacun soit trouvé fidèle. Pour moi, il m'importe fort peu d'être jugé par vous ou par un tribunal humain ; je ne me juge pas moi-même ; car, quoique je ne me sente coupable de rien, je ne suis pas pour cela justifié : mon juge, c'est le Seigneur. C'est pourquoi ne jugez de rien avant le temps jusqu'à ce que vienne le Seigneur : il mettra en lumière ce qui est caché dans les ténèbres et manifestera les desseins des cœurs, et alors chacun recevra de Dieu la louange qui lui est due.",
+    "it": "Lettura della Lettera del B. Paolo Ap. ai Corinti\n!1 Cor 4:1-5\nFratelli: Gli uomini ci devono considerare come ministri di Cristo, e amministratori dei misteri di Dio. Orbene, ecco ciò che si chiede agli amministratori: che siano fedeli. Poco importa a me d’essere giudicato da voi o da un tribunale di uomini, anzi neppure mi giudico da me stesso. Anche se non ho coscienza di alcuna colpa: non per questo sono giustificato: chi invece mi giudica è il Signore. Perciò non giudicate prima del tempo, fino a che venga il Signore, che illuminerà i segreti occulti e farà conoscere i disegni dei cuori: ed allora ognuno avrà da Dio la sua lode."
+  },
+  "gradual": {
+    "la": "!Ps 144:18; 144:21\nPrope est Dóminus ómnibus invocántibus eum: ómnibus, qui ínvocant eum in veritáte.\nV. Laudem Dómini loquétur os meum: et benedícat omnis caro nomen sanctum ejus. Allelúja, allelúja,\nV. Veni, Dómine, et noli tardáre: reláxa facínora plebis tuæ Israël. Allelúja.",
+    "en": "!Ps 144:18, 21\nThe Lord is near to all who call upon Him, to all who call upon Him in truth.\nV. May my mouth speak the praise of the Lord, and may all flesh bless His holy name. Alleluia, alleluia.\nV. Come, O Lord, and delay not; forgive the sins of Your people Israel. Alleluia.",
+    "es": "!Ps 144:18, 21\nCerca está el Señor de todos los que le invocan, de verdad.\nV. Mi boca hablará la alabanza del Señor, y bendecirá toda criatura su santo nombre. Aleluya, aleluya.\nV. Ven, Señor, y no tardes; perdona los pecados de tu pueblo Israel. Aleluya.",
+    "de": "",
+    "fr": "!Ps 144:18; 144:21\nLe Seigneur est proche de tous ceux qui l'invoquent, de tous ceux qui l'invoquent en vérité.\nV. Ma bouche annoncera la louange du Seigneur ; que toute chair bénisse son saint Nom. Alléluia, alléluia.\nV. Venez, Seigneur, et ne tardez point ; pardonnez les péchés de votre peuple Israël. Alléluia.",
+    "it": "!Ps 144:18; 144:21\nIl Signore è vicino a quanti lo invocano: a quanti lo invocano sinceramente.\nV. Signore: e ogni mortale benedica il suo santo nome. Allelúia, allelúia,\nV. Vieni, o Signore, non tardare: perdona le colpe di Israele tuo popolo. Allelúia."
+  },
+  "gospel": {
+    "la": "@Tempora/Adv3-6",
+    "en": "Continuation + of the Holy Gospel according to Luke\n!Luke 3:1-6\nNow in the fifteenth year of the reign of Tiberius Caesar, when Pontius Pilate was procurator of Judea, and Herod tetrarch of Galilee, and Philip his brother tetrarch of the district of Iturea and Trachonitis, and Lysanias tetrarch of Abilene, during the high priesthood of Annas and Caiphas, the word of God came to John, the son of Zachary, in the desert. And he went into all the region about the Jordan, preaching a baptism of repentance for the forgiveness of sins, as it is written in the book of the words of Isaiah the prophet, The voice of one crying in the desert, ‘Make ready the way of the Lord, make straight His paths. Every valley shall be filled, and every mountain and hill shall be brought low, and the crooked ways shall be made straight, and the rough ways smooth; and all mankind shall see the salvation of God.’",
+    "es": "Continuación + del Santo Evangelio según San Lucas\n!Lc 3:1-6\nEn el año decimoquinto del imperio del emperador Tiberio, siendo Poncio Pilato gobernador de Judea, y Herodes tetrarca de Galilea, y su hermano Filipo tetrarca de Iturea y Traconítide, y Lisanio tetrarca de Abilene, bajo el sumo sacerdocio de Anás y Caifás, vino la palabra de Dios sobre Juan, hijo de Zacarías, en el desierto. Y recorrió toda la comarca del Jordán, predicando un bautismo de conversión para perdón de los pecados, como está escrito en el libro de los oráculos del profeta Isaías: «Voz del que grita en el desierto: Preparad el camino del Señor, allanad sus senderos; los valles serán rellenados, los montes y colinas serán rebajados; lo torcido será enderezado, lo escabroso será camino llano. Y toda carne verá la salvación de Dios».",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secundum Lucam.\n!Luc 3:1-6\nLa quinzième année du règne de Tibère César, Ponce Pilate étant gouverneur de la Judée ; Hérode, tétrarque de la Galilée ; Philippe, son frère, tétrarque de l'Iturée et du pays de la Trachonitide, et Lysanias, tétrarque de l'Abilène ; au temps des grands prêtres Anne et Caïphe, la parole de Dieu fut sur Jean, fils de Zacharie, dans le désert. Et il vint dans toute la région du Jourdain, prêchant un baptême de repentir pour la rémission des péchés, ainsi qu'il est écrit au livre des oracles du prophète Isaïe : Voix de celui qui crie dans le désert : Préparez le chemin du Seigneur, aplanissez ses sentiers. Toute vallée sera comblée, toute montagne et colline seront abaissées; les chemins tortueux deviendront droits, et les raboteux unis. Et toute chair verra le salut de Dieu.",
+    "it": "Séguito ++ del S. Vangelo secondo Luca.\n!Luc 3:1-6\nNell’anno decimoquinto dell’impero di Tiberio Cesare, essendo governatore della Giudea Ponzio Pilato, Erode tetrarca della Galilea, e Filippo, suo fratello, tetrarca dell’Iturea e della regione Traconítide, e Lisània tetrarca di Abilene, essendo sommi sacerdoti Anna e Càifa: la parola del Signore venne nel deserto su Giovanni, figlio di Zaccaria. E costui andò nelle terre intorno al Giordano, predicando il battesimo di penitenza in remissione dei peccati, come sta scritto nel libro del profeta Isaia: Voce di uno che grida nel deserto: preparate la via del Signore: appianate i suoi sentieri: saranno colmate tutte le valli, e i monti e i colli saranno abbassati: i sentieri tortuosi saranno rettificati e quelli scabrosi appianati: e ogni uomo vedrà la salvezza di Dio."
+  },
+  "offertory": {
+    "la": "!Luc 1:28\nAve, María, gratia plena; Dóminus tecum: benedícta tu in muliéribus, et benedíctus fructus ventris tui.",
+    "en": "!Luke 1:28\nHail, Mary, full of grace, the Lord is with you, blessed are you among women, and blessed is the fruit of your womb.",
+    "es": "!Lc 1:28\nDios te salve, María, llena de gracia, el Señor es contigo; bendita tú entre todas las mujeres, y bendito el fruto de tu vientre.",
+    "de": "",
+    "fr": "!Luc 1:28\nJe vous salue, Marie, pleine de grâce, le Seigneur est avec vous. Vous êtes bénie parmi les femmes, et béni est le fruit de votre ventre.",
+    "it": "!Luc 1:28\nAve, Maria, piena di grazia: il Signore è con te: tu sei benedetta tra le donne, e benedetto è il frutto del ventre tuo."
+  },
+  "secret": [
+    {
+      "la": "@Tempora/Adv3-6:Secreta",
+      "en": "Look with favor, O Lord, we beseech You, upon the offerings here present, that they may be profitable for our devotion and for our salvation.\n$Per Dominum",
+      "es": "Te rogamos, Señor, mires benigno a los presentes sacrificios, para que aprovechen a nuestra devoción y salud.\n$Per Dominum",
+      "de": "",
+      "fr": "Jetez, Seigneur, un regard bienveillant sur ce sacrifice, afin que notre dévotion s'en trouve accrue et notre salut mieux assuré.\n$Per Dominum",
+      "it": "O Signore, Te ne preghiamo, guarda benigno alle presenti offerte: affinché giovino alla nostra devozione e alla nostra salvezza.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "@Commune/C10a:Communio",
+    "en": "!Isa 7:14\nBehold, a virgin shall be with child and bear a son, and shall name Him Emmanuel.",
+    "es": "!Isa 7:14\nHe aquí que una Virgen concebirá y dará a luz un hijo que se llamará Emmanuel.",
+    "de": "",
+    "fr": "!Is 7:14\nVoici que la Vierge concevra et enfantera un fils, et on l'appellera Emmanuel.",
+    "it": "!Is 7:14\nEcco la Vergine concepirà e partorirà un figlio: e si chiamerà Emanuele."
+  },
+  "postcommunion": [
+    {
+      "la": "Sumptis munéribus, quǽsumus, Dómine: ut, cum frequentatióne mystérii, crescat nostræ salútis efféctus.\n$Per Dominum",
+      "en": "Having received Your gifts, we beseech You, O Lord, that each partaking of this sacrament may increase within us its saving effect.\n$Per Dominum",
+      "es": "Te rogamos, Señor, recibidos estos dones, que la frecuencia del misterio, acreciente el efecto de nuestra salvación.\n$Per Dominum",
+      "de": "",
+      "fr": "Nourris de vos dons, puissions-nous, Seigneur, par la fréquentation de votre sacrement, voir se développer en nous votre œuvre de salut.\n$Per Dominum",
+      "it": "Assunti i tuoi doni, o Signore, Ti preghiamo, affinché frequentando questi misteri cresca l’effetto della nostra salvezza.\n$Per Dominum"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "Adv3-6",
+  "titleLatin": "Sabbato Quattuor Temporum in Adventu",
+  "titleVernacular": {
+    "en": "Sabbato Quattuor Temporum in Adventu",
+    "es": "Sabbato Quattuor Temporum in Adventu",
+    "de": "Quatembersamstag im Advent",
+    "fr": "Sabbato Quattuor Temporum in Adventu",
+    "it": "Sabbato Quattuor Temporum in Adventu"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps 79:4; 79:2\nv. Veni, et osténde nobis fáciem tuam, Dómine, qui sedes super Chérubim: et salvi érimus.\n!Ps 79:2\nQui regis Israël, inténde: qui dedúcis, velut ovem, Joseph.\n&Gloria\nv. Veni, et osténde nobis fáciem tuam, Dómine, qui sedes super Chérubim: et salvi érimus.",
+    "en": "!Ps 79:4, 2\nv. Come, O Lord, from Your throne upon the Cherubim; if Your face shine upon us, then we shall be safe.\n!Ps 79:2\nO Shepherd of Israel, hearken, O Guide of the flock of Joseph!\n&Gloria\nv. Come, O Lord, from Your throne upon the Cherubim; if Your face shine upon us, then we shall be safe.",
+    "es": "!Ps 79:4, 2\nv. Ven y muéstranos tu rostro, oh Señor, tú que estas sentado sobre los Querubines, y seremos salvos.\n!Ps 79:2\nPastor de Israel, presta tu oído; tú que conduces a José como una oveja.\n&Gloria\nv. Ven y muéstranos tu rostro, oh Señor, tú que estas sentado sobre los Querubines, y seremos salvos.",
+    "de": "",
+    "fr": "!Ps 79:4; 79:2\nv. Venez, et montrez-nous votre face, Seigneur, vous qui siégez sur les Chérubins, et nous serons sauvés.\n!Ps 79:2\nVous qui guidez Israël, soyez attentif ; vous qui conduisez Joseph comme une brebis.\n&Gloria\nv. Venez, et montrez-nous votre face, Seigneur, vous qui siégez sur les Chérubins, et nous serons sauvés.",
+    "it": "!Ps 79:4; 79:2\nv. Vieni, o Signore, e mostraci il tuo volto benigno, Tu che sei assiso fra i Cherubini;  e saremo salvi.\n!Ps 79:2\nAscolta, o pastore d'Israele, che guidi Giuseppe come un gregge.\n&Gloria\nv. Vieni, o Signore, e mostraci il tuo volto benigno, Tu che sei assiso fra i Cherubini; e saremo salvi."
+  },
+  "collect": [
+    {
+      "la": "Deus, qui cónspicis, quia ex nostra pravitáte afflígimur: concéde propítius; ut ex tua visitatióne consolémur:\n$Qui vivis",
+      "en": "O God, You Who see how we are troubled by our evil tendencies, mercifully grant that we may find consolation in Your coming.\n$Qui vivis",
+      "es": "Oh Dios, que conoces que nuestra aflicción proviene de nuestras maldades; concédenos propicio: que con tu venida quedemos consolados.\n$Qui vivis",
+      "de": "",
+      "fr": "Ô Dieu, qui voyez l'affliction que nous vaut notre perversité, donnez nous de trouver la consolation dans la grâce de votre venue.\n$Qui vivis",
+      "it": "O Signore, che ci vedi umiliati dalle nostre iniquità; concedici benigno di essere consolati dalla tua venuta:\n$Qui vivis"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Thessalonicénses\n!2 Thess 2:1-8\nFratres: Rogámus vos per advéntum Dómini nostri Jesu Christi, et nostræ congregatiónis in ipsum: ut non cito moveámini a vestro sensu, neque terreámini, neque per spíritum, neque per sermónem, neque per epístolam tamquam per nos missam, quasi instet dies Dómini. Ne quis vos sedúcat ullo modo: quóniam nisi vénerit discéssio primum, et revelátus fuerit homo peccáti, fílius perditiónis, qui adversátur, et extóllitur supra omne, quod dícitur Deus aut quod cólitur, ita ut in templo Dei sédeat osténdens se, tamquam sit Deus. Non retinétis, quod, cum adhuc essem apud vos, hæc dicébam vobis? Et nunc quid detíneat, scitis, ut revelétur in suo témpore. Nam mystérium jam operátur iniquitátis: tantum ut, qui tenet nunc, téneat, donec de médio fiat. Et tunc revelábitur ille iníquus, quem Dóminus Jesus interfíciet spíritu oris sui, et déstruet illustratióne advéntus sui.",
+    "en": "Lesson from the second letter of St. Paul the Apostle to the Thessalonians\n!2 Thess. 2:1-8\nWe beseech you, brethren, by the coming of our Lord Jesus Christ and our being gathered together unto Him, not to be hastily shaken from your right mind, nor terrified, whether by spirit, or by utterance, or by letter attributed to us, as though the day of the Lord were near at hand. Let no one deceive you in any way, for the day of the Lord will not come unless the apostasy comes first, and the man of sin is revealed, the son of perdition, who opposes and is exalted above all that is called God, or that is worshipped, so that he sits in the temple of God and gives himself out as if he were God. Do you not remember that when I was still with you, I used to tell you these things? And now you know what restrains him, that he may be revealed in his proper time. For the mystery of iniquity is already at work; provided only that he who is at present restraining it, does still restrain, until he is gotten out of the way. And then the wicked one will be revealed, whom the Lord Jesus will slay with the breath of His mouth and will destroy with the brightness of His coming.",
+    "es": "Lectura de la epístola de San Pablo a los Tesalonicenses\n!2 Tes 2:1-8\nA propósito de la venida de nuestro Señor Jesucristo y de nuestra reunión con él, os rogamos, hermanos, que no perdáis fácilmente la cabeza ni os alarméis por alguna revelación, rumor o supuesta carta nuestra, como si el día del Señor estuviera encima. Que nadie en modo alguno os engañe. Primero tiene que llegar la apostasía y manifestarse el hombre de la impiedad, el hijo de la perdición, el que se enfrenta y se pone por encima de todo lo que se llama Dios o es objeto de culto, hasta instalarse en el templo de Dios, proclamándose él mismo Dios. ¿No recordáis que, estando aún con vosotros, os hablaba de esto? Sabéis lo que ahora lo retiene, para que se manifieste a su debido tiempo. Porque el misterio de la iniquidad está ya en acción; apenas se quite de en medio el que por el momento lo retiene, entonces se manifestará el impío, a quien el Señor Jesús destruirá con el soplo de su boca y aniquilará con su venida majestuosa.",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Pauli Apóstoli ad Thessalonicénses.\n!2 Thess 2:1-8\nFrères, nous vous prions, par l'avènement de Notre Seigneur Jésus-Christ et de notre réunion avec Lui, de ne pas vous laisser ébranler facilement dans vos sentiments, ni alarmer, soit par quelque esprit, soit par quelque parole ou lettre supposées venir de nous, comme si le jour du Seigneur était imminent. Que personne ne vous égare d'aucune manière ; car auparavant viendra l'apostasie, et se manifestera l'homme de péché, le fils de la perdition, l'adversaire qui s'élève contre tout ce qui est appelé Dieu ou honoré d'un culte, jusqu'à s'asseoir dans le sanctuaire de Dieu, et à se présenter comme s'il était Dieu. Ne vous souvenez-vous pas que je vous disais ces choses, lorsque j'étais encore chez vous ? Et maintenant vous savez ce qui le retient, pour qu'il se manifeste en son temps. Car le mystère d'iniquité s'opère déjà, mais seulement jusqu'à ce que celui qui le retient encore paraisse au grand jour. Et alors se découvrira l'impie, que le Seigneur Jésus exterminera par le souffle de sa bouche, et anéantira par l'éclat de son avènement.",
+    "it": "Dalla seconda lettera di san Paolo apostolo ai Tessalonicesi.\n!2 Thess 2:1-8\nFratelli: Or riguardo alla venuta del Signore nostro e alla nostra riunione per muovergli incontro, vi preghiamo di non lasciarvi smuovere né atterrire da false ispirazioni, o da discorso, o da lettera spacciata per nostra, per l'idea che sia imminente il giorno del Signore. Che nessuno v'inganni in alcun modo, poiché quel giorno non verrà se prima non sia avvenuta l'apostasia e non si sia manifestato l'uomo del peccato, il figlio della perdizione, l'avversario che si innalza sopra tutto quello che dicesi Dio, od è oggetto di venerazione, fino ad assidersi nel tempio di Dio proclamandosi Dio. Non vi ricordate come, quando ero ancor presso di voi, vi dicevo queste cose? E voi ben sapete chi or lo trattiene, perché non si manifesti che a suo tempo. Già il mistero dell'iniquità è in azione; solamente v'è chi lo tratterrà finché non sia tolto di mezzo. E allora sarà manifestato l'empio, che il Signore Gesù ucciderà col fiato della sua bocca e annienterà con lo splendore della sua venuta.."
+  },
+  "gradual": {
+    "la": "!Ps:79:2-3\nQui regis Israël, inténde: qui dedúcis, velut ovem, Joseph.\nV. Qui sedes super Chérubim, appáre coram Ephraim, Bénjamin, et Manásse.\nV. Excita, Dómine, poténtiam tuam, et veni: ut salvos fácias nos.",
+    "en": "!Ps 79:2-3\nO Shepherd of Israel, hearken, O Guide of the flock of Joseph!\nV. From Your throne upon the Cherubim, shine forth before Ephraim, Benjamin and Manasse.\nV. Rouse Your power, O Lord, and come to save us.",
+    "es": "!Ps 79:2-3\nPastor de Israel, presta tu oído; tu que conduces a José como una oveja.\nV. Tú que estas sentado sobre los querubines, manifiéstate delante de Efraím, de Benjamín y de Manasés.\nV. Ostenta tu poder y ven a salvarnos.",
+    "de": "",
+    "fr": "!Ps:79:2-3\nVous qui guidez Israël, soyez attentif ; vous qui conduisez Joseph comme une brebis.\nV. Vous qui siégez sur les Chérubins, apparaissez devant Éphraïm, Benjamin et Manassé.\nV. Réveillez, Seigneur, votre puissance, et venez, afin de nous sauver.",
+    "it": "!Ps:79:2-3\nO Pastore re d'Israele, ascoltaci; Tu che guidi Giuseppe come una pecorella.\nV. Tu che sei assiso tra i Cherubini, mostrati a Efraim, Beniamino e Manasse.\nV. Suscita, Signore, la tua potenza, e vieni a salvarci."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secundum Lucam\n!Luc 3:1-6\nAnno quintodécimo impérii Tibérii Cǽsaris, procuránte Póntio Piláto Judǽam, tetrárcha autem Galilǽæ Heróde, Philíppo autem fratre ejus tetrárcha Iturǽæ et Trachonítidis regionis, et Lysánia Abilínæ tetrárcha, sub princípibus sacerdotum Anna et Cáipha: factum est verbum Domini super Joannem, Zacharíæ filium, in deserto. Et venit in omnem regiónem Jordánis, prǽdicans baptísmum pæniténtiæ in remissiónem peccatórum, sicut scriptum est in libro sermónum Isaíæ Prophétæ: Vox clamántis in desérto: Paráte viam Dómini: rectas fácite sémitas ejus: omnis vallis implébitur: et omnis mons et collis humiliábitur: et erunt prava in dirécta, et áspera in vias planas: et vidébit omnis caro salutáre Dei.",
+    "en": "Continuation + of the Holy Gospel according to Luke\n!Luke 3:1-6\nNow in the fifteenth year of the reign of Tiberius Caesar, when Pontius Pilate was procurator of Judea, and Herod tetrarch of Galilee, and Philip his brother tetrarch of the district of Abilene, during the high priesthood of Annas and Caiphas, the word of God came to John, the son of Zachary, in the desert. And he went into all the region about the Jordan, preaching a baptism of repentance for the forgiveness of sins, as it is written in the book of the words of Isaias the prophet. The voice of one crying in the desert, ‘Make ready the way of the Lord, make straight His paths. Every valley shall be filled, and every mountain and hill shall be brought low, and the crooked ways shall be made straight, and the rough ways smooth; and all mankind shall see the salvation of God.’",
+    "es": "Continuación + del Santo Evangelio según San Lucas\n!Lc 3:1-6\nEn el año decimoquinto del imperio del emperador Tiberio, siendo Poncio Pilato gobernador de Judea, y Herodes tetrarca de Galilea, y su hermano Filipo tetrarca de Iturea y Traconítide, y Lisanio tetrarca de Abilene, bajo el sumo sacerdocio de Anás y Caifás, vino la palabra de Dios sobre Juan, hijo de Zacarías, en el desierto. Y recorrió toda la comarca del Jordán, predicando un bautismo de conversión para perdón de los pecados, como está escrito en el libro de los oráculos del profeta Isaías: «Voz del que grita en el desierto: Preparad el camino del Señor, allanad sus senderos; los valles serán rellenados, los montes y colinas serán rebajados; lo torcido será enderezado, lo escabroso será camino llano. Y toda carne verá la salvación de Dios».",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secundum Lucam.\n!Luc 3:1-6\nLa quinzième année du règne de Tibère César, Ponce Pilate étant gouverneur de la Judée ; Hérode, tétrarque de la Galilée ; Philippe, son frère, tétrarque de l'Iturée et du pays de la Trachonitide, et Lysanias, tétrarque de l'Abilène ; au temps des grands prêtres Anne et Caïphe, la parole de Dieu fut sur Jean, fils de Zacharie, dans le désert. Et il vint dans toute la région du Jourdain, prêchant un baptême de repentir pour la rémission des péchés, ainsi qu'il est écrit au livre des oracles du prophète Isaïe : Voix de celui qui crie dans le désert : Préparez le chemin du Seigneur, aplanissez ses sentiers. Toute vallée sera comblée, toute montagne et colline seront abaissées; les chemins tortueux deviendront droits, et les raboteux unis. Et toute chair verra le salut de Dieu.",
+    "it": "Seguito ++ del S. Vangelo secondo Luca.\n!Luc 3:1-6\nL’anno quindicesimo dell'impero di Tiberio Cesare, essendo Ponzio Pilato procuratore della Giudea, Erode tetrarca della Galilea, suo fratello Filippo tetrarca dell' Iturea e della Traconítide, e Lisania tetrarca dell'Abiléne, sotto i gran sacerdoti Anna e Caifa, la parola del Signore si fece udire a Giovanni, figlio di Zaccaria, nel deserto. Egli andò in tutta la regione del Giordano, predicando un battesimo di penitenza per la remissione dei peccati, come sta scritto nel libro dei discorsi del profeta Isaia: «Voce di colui che grida nel deserto: preparate la via del Signore, raddrizzate i suoi sentieri. Ogni valle sarà colmata, ogni monte, ogni colle sarà abbassato; le vie tortuose diventeranno diritte, le vie scabrose diventeranno piane; e ogni uomo vedrà la salvezza di Dio»."
+  },
+  "offertory": {
+    "la": "!Zach 9:9\nExsúlta satis, fília Sion, prǽdica, fília Jerúsalem: ecce, Rex tuus venit tibi sanctus et Salvátor.",
+    "en": "!Zach 9:9\nRejoice heartily, O daughter of Sion, shout for joy, O daughter of Jerusalem! See, your King shall come to you, a just Saviour is He.",
+    "es": "!Zach 9:9\nOh hija de Sion, regocíjate en gran manera, salta de júbilo, hija de Jerusalén: he aquí que a ti vendrá tú Rey, el Justo, el Salvador.",
+    "de": "",
+    "fr": "!Zach 9:9\nTressaille d'allégresse, fille de Sion ; pousse des cris de joie, fille de Jérusalem : voici que ton Roi vient à toi, Saint et Sauveur.",
+    "it": "!Zach 9:9\nEsulta con tutte le tue forze, o figlia di Gerusalemme; ecco, viene a te il tuo santo Re e Salvatore."
+  },
+  "secret": [
+    {
+      "la": "Sacrifíciis præséntibus, quǽsumus, Dómine, placátus inténde: ut et devotióni nostræ profíciant et salúti.\n$Per Dominum",
+      "en": "Look with favor, we beseech You, O Lord, upon the offerings here before You, that they may be beneficial for our devotion and for our salvation.\n$Per Dominum",
+      "es": "Te pedimos, Señor, que mires benigno nuestros sacrificios presentes, a fin de que provechen a nuestra devoción y a nuestra salvación.\n$Per Dominum",
+      "de": "",
+      "fr": "Jetez, Seigneur, un regard bienveillant sur ce sacrifice, afin que notre dévotion s'en trouve accrue, et notre salut mieux assuré.\n$Per Dominum",
+      "it": "O Signore, guarda benigno queste offerte; affinché giovino alla nostra pietà e alla nostra salvezza.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Ps 18:6-7\nExsultávit ut gigas ad curréndam viam: a summo cœlo egréssio ejus, et occúrsus ejus usque ad summum ejus.",
+    "en": "!Ps 18:6-7\nHe has rejoiced as a giant to run the way: at one end of the heavens He comes forth, and His course is to their other end.",
+    "es": "!Ps 18:6-7\nSalta como gigante a corres su carrera: sale de una extremidad del cielo, y corre hasta la otra extremidad del mismo.",
+    "de": "",
+    "fr": "!Ps 18:6-7\nIl se fait une joie, tel un géant, de courir sa carrière ; il part d'une extrémité des cieux, et sa course le mène à l'autre extrémité.",
+    "it": "!Ps 18:6-7\nEsultò come atleta che si accinge alla corsa; da un estremo dei cieli è il suo sorgere e fino all'altro estremo il suo giro."
+  },
+  "postcommunion": [
+    {
+      "la": "Quǽsumus, Dómine, Deus noster: ut sacrosáncta mystéria, quæ pro reparatiónis nostræ munímine contulísti; et præsens nobis remédium esse fácias et futúrum.\n$Per Dominum",
+      "en": "We beseech You, O Lord our God, that the sacrament You have given as the bulwark of our atonement may be made a saving remedy for us in this life and in the life to come.\n$Per Dominum",
+      "es": "Te suplicamos, oh Señor, Dios nuestro que los sacrosantos misterios que en apoyo de nuestra reparación instituiste, nos sirvan de remedio de los males presentes y futuros.\n$Per Dominum",
+      "de": "",
+      "fr": "Puissions-nous, Seigneur notre Dieu, trouver dans les saints mystères que vous avez établis pour affermir l'œuvre de notre rédemption, un remède à nos maux présents et à venir.\n$Per Dominum",
+      "it": "O Signore Dio nostro, ti preghiamo perché questi sacri doni che tu ci hai elargito per la nostra redenzione, ci siano di rimedio nel presente e nel futuro.\n$Per Dominum"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "Pasc4-0t",
+  "titleLatin": "Dominica IV Post Pascha",
+  "titleVernacular": {
+    "en": "Dominica IV Post Pascha",
+    "es": "Dominica IV Post Pascha",
+    "de": "Vierter Sonntag nach Ostern",
+    "fr": "Dominica IV Post Pascha",
+    "it": "Dominica IV Post Pascha"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps 97:1; 97:2\nv. Cantáte Dómino cánticum novum, allelúja: quia mirabília fecit Dóminus, allelúja: ante conspéctum géntium revelávit justítiam suam, allelúja, allelúja, allelúja.\n!Ps 97:1\nSalvávit sibi déxtera ejus: et bráchium sanctum ejus.\n&Gloria\nv. Cantáte Dómino cánticum novum, allelúja: quia mirabília fecit Dóminus, allelúja: ante conspéctum géntium revelávit justítiam suam, allelúja, allelúja, allelúja.",
+    "en": "!Ps 97:1; 97:2\nv.  Sing ye to the Lord a new canticle, alleluia: because the Lord hath done wonderful things, alleluia. He hath revealed his justice in the sight of the Gentiles,  allelúja, allelúja, allelúja.\n!Ps 97:1\nv. His right hand hath wrought for him salvation, and his arm is holy.\n&Gloria\nv.  Sing ye to the Lord a new canticle, alleluia: because the Lord hath done wonderful things, alleluia. He hath revealed his justice in the sight of the Gentiles,  allelúja, allelúja, allelúja.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 97:1; 97:2\nv. Chantez au Seigneur un cantique nouveau, alléluia ; car le Seigneur a fait des merveilles, alléluia ; devant la face des peuples il a révélé sa justice, alléluia, alléluia, alléluia.\n!Ps 97:1\nSa droite lui a donné la victoire, ainsi que la sainteté de son bras.\n&Gloria\nv. Chantez au Seigneur un cantique nouveau, alléluia ; car le Seigneur a fait des merveilles, alléluia ; devant la face des peuples il a révélé sa justice, alléluia, alléluia, alléluia.",
+    "it": "!Ps 97:1; 97:2\nv. Cantate al Signore un cantico nuovo, allelúia: perché il Signore ha fatto meraviglie, allelúia: ha rivelato la sua giustizia agli occhi delle genti, allelúia, allelúia, allelúia.\n!Ps 97:1\nGli diedero la vittoria la sua destra e il suo santo braccio.\n&Gloria\nv. Cantate al Signore un cantico nuovo, allelúia: perché il Signore ha fatto meraviglie, allelúia: ha rivelato la sua giustizia agli occhi delle genti, allelúia, allelúia, allelúia."
+  },
+  "collect": [
+    {
+      "la": "Deus, qui fidélium mentes uníus éfficis voluntátis: da pópulis tuis id amáre quod prǽcipis, id desideráre quod promíttis; ut inter mundánas varietátes ibi nostra fixa sint corda, ubi vera sunt gáudia.\n$Per Dominum",
+      "en": "O God, of Whom it cometh that the minds of thy faithful people be all of one will, grant unto the same thy people that they may love the thing which Thou commandest, and desire that which Thou dost promise, that so, amid the sundry and manifold changes of the world, our hearts may surely there be fixed, where true joys are to be found.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Ô Dieu qui unissez les âmes de vos fidèles dans une commune volonté, inspirez à vos peuples l'amour de vos commandements, l'attachement à vos promesses, pour qu'au sein des multiples attraits du monde, nos cœurs soient fixés là où sont les vraies joies.\n$Per Dominum",
+      "it": "O Dio, che rendi di un sol volere gli ànimi dei fedeli: concedi ai tuoi pòpoli di amare ciò che comandi e desiderare ciò che prometti; affinché, in mezzo al fluttuare delle umane vicende, i nostri cuori siano fissi laddove sono le vere gioie.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Jacóbi Apóstoli.\n!Jas 1:17-21.\nCaríssimi: Omne datum óptimum, et omne donum perféctum desúrsum est, descéndens a Patre lúminum, apud quem non est transmutátio nec vicissitúdinis obumbrátio. Voluntárie enim génuit nos verbo veritátis, ut simus inítium áliquod creatúræ ejus. Scitis, fratres mei dilectíssimi. Sit autem omnis homo velox ad audiéndum: tardus autem ad loquéndum et tardus ad iram. Ira enim viri justítiam Dei non operátur. Propter quod abjiciéntes omnem immundítiam et abundántiam malítiæ, in mansuetúdine suscípite ínsitum verbum, quod potest salváre ánimas vestras.",
+    "en": "Lesson from the letter of St James the Apostle\n!Jas 1:17-21\nv. Dearly beloved: Every best gift, and every perfect gift, is from above, coming down from the Father of lights, with whom there is no change, nor shadow of alteration. For of his own will hath he begotten us by the word of truth, that we might be some beginning of his creatures. You know, my dearest brethren. And let every man be swift to hear, but slow to speak, and slow to anger. For the anger of man worketh not the justice of God. Wherefore casting away all uncleanness, and abundance of naughtiness, with meekness receive the ingrafted word, which is able to save your souls.",
+    "es": "",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Jacóbi Apóstoli.\n!Jas 1:17-21.\nBien-aimés, tout don excellent, toute grâce parfaite, descend d'en haut, du Père des lumières, en qui n'existe aucune vicissitude, ni ombre de changement. De sa propre volonté, il nous a engendrés par la parole de la vérité, afin que nous soyons comme les prémices de ses créatures. Mes frères bien-aimés, vous le savez, que l'homme soit prompt à écouter, lent à parler, lent à se mettre en colère. Car la colère de l'homme n'opère point la justice de Dieu. C'est pourquoi, rejetant toute souillure et toute excroissance de méchanceté, recevez avec douceur la parole qui a été entée en vous, et qui peut sauver vos âmes.",
+    "it": "Lettura della Lettera del B. Giacomo Apostolo.\n!Jas 1:17-21.\nCaríssimi: Ogni liberalità benéfica e ogni dono perfetto viene dall’alto, scendendo da quel Padre dei lumi in cui non è mutamento, né ombra di vicissitudine. Egli infatti ci generò di sua volontà mediante una parola di verità, affinché noi siamo quali primizie delle sue creature. Questo voi lo sapete, miei cari fratelli. Ogni uomo sia pronto ad ascoltare, lento a parlare e lento all’ira. Poiché l’uomo iracondo non fa quel che è giusto davanti a Dio. Per la qual cosa, rigettando ogni immondezza e ogni resto di malizia, abbracciate con ànimo mansueto la parola innestata in voi, la quale può salvare le vostre ànime."
+  },
+  "gradual": {
+    "la": "Allelúja, allelúja\n!Ps 117:16.\nDéxtera Dómini fecit virtútem: déxtera Dómini exaltávit me. Allelúja\n!Rom 6:9\nChristus resúrgens ex mórtuis jam non móritur: mors illi ultra non dominábitur. Allelúja.",
+    "en": "Alleluia, alleluia\n!Ps 117:16\nv.  The right hand of the Lord hath wrought strength: the right hand of the Lord hath exalted me: Allelúja\n!Rom 6:9\nv.  Knowing that Christ rising again from the dead, dieth now no more, death shall no more have dominion over him. Allelúja.",
+    "es": "",
+    "de": "",
+    "fr": "Allelúja, allelúja\n!Ps 117:16.\nLa droite du Seigneur a agi avec force ; la droite du Seigneur m'a élevé. Alléluia.\n!Rom 6:9\nLe Christ ressuscité d'entre les morts, ne meurt plus désormais ; la mort n'a plus sur lui aucun pouvoir.\nAllelúja.",
+    "it": "Allelúia, allelúia\n!Ps 117:16.\nLa destra del Signore operò grandi cose: la destra del Signore mi ha esaltato. Allelúia.\n!Rom 6:9\nCristo, risorto da morte, non muore più: la morte non ha più potere su di Lui. Allelúia."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem.\n!Joannes 16:5-14\nIn illo témpore: Dixit Jesus discípulis suis: Vado ad eum, qui misit me: et nemo ex vobis intérrogat me: Quo vadis? Sed quia hæc locútus sum vobis, tristítia implévit cor vestrum. Sed ego veritátem dico vobis: expédit vobis, ut ego vadam: si enim non abíero, Paráclitus non véniet ad vos: si autem abíero, mittam eum ad vos. Et cum vénerit ille. árguet mundum de peccáto et de justítia et de judício. De peccáto quidem, quia non credidérunt in me: de justítia vero, quia ad Patrem vado, et jam non vidébitis me: de judício autem, quia princeps hujus mundi jam judicátus est. Adhuc multa hábeo vobis dícere: sed non potéstis portáre modo. Cum autem vénerit ille Spíritus veritátis, docébit vos omnem veritátem. Non enim loquétur a semetípso: sed quæcúmque áudiet, loquétur, et quæ ventúra sunt, annuntiábit vobis. Ille me clarificábit: quia de meo accípiet et annuntiábit vobis.",
+    "en": "Continuation + of the Holy Gospel according to John\n!John 16:5-14\nv.  In that time: But I told you not these things from the beginning, because I was with you. And now I go to him that sent me, and none of you asketh me: Whither goest thou? But because I have spoken these things to you, sorrow hath filled your heart. But I tell you the truth: it is expedient to you that I go: for if I go not, the Paraclete will not come to you; but if I go, I will send him to you. And when he is come, he will convince the world of sin, and of justice, and of judgment. Of sin: because they believed not in me. And of justice: because I go to the Father; and you shall see me no longer. And of judgment: because the prince of this world is already judged. I have yet many things to say to you: but you cannot bear them now. But when he, the Spirit of truth, is come, he will teach you all truth. For he shall not speak of himself; but what things soever he shall hear, he shall speak; and the things that are to come, he shall shew you. He shall glorify me; because he shall receive of mine, and shall shew it to you.",
+    "es": "",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Joánnem.\n!Joannes 16:5-14\nEn ce temps-là, Jésus dit à ses disciples : « Je m'en vais à celui qui m'a envoyé, et aucun de vous ne me demande “ Où vas-tu ? ” Mais parce que je vous ai dit ces choses, la tristesse a rempli votre cœur. Cependant je vous dis la vérité : il vous est bon que je m'en aille ; car, si je ne m'en vais pas, le Consolateur ne viendra pas vers vous ; mais si je m'en vais, je vous l'enverrai. Et quand il sera venu, il convaincra le monde au sujet du péché, de la justice et du jugement : au sujet du péché, parce qu'ils n'ont pas cru en moi ; au sujet de la justice, parce que je vais au Père, et que vous ne me verrez plus ; au sujet du jugement, parce que le Prince de ce monde est déjà jugé. J'ai encore beaucoup de choses à vous dire ; mais vous ne pouvez les porter à présent. Quand le Consolateur, l'Esprit de vérité, sera venu, il vous enseignera toute la vérité. Car il ne parlera pas de lui-même, mais il dira tout ce qu'il aura entendu, et il vous annoncera les choses à venir. Il me glorifiera, parce qu'il recevra de ce qui est à moi, et il vous l'annoncera. »",
+    "it": "Séguito ++ del S. Vangelo secondo Giovanni.\n!Joannes 16:5-14\nIn quel tempo: Gesú disse ai suoi discepoli: Vado a Colui che mi ha mandato, e nessuno di voi mi domanda: Dove vai? Ma perché vi ho dette queste cose, la tristezza ha riempito il vostro cuore. Ma io vi dico il vero: è necessario per voi che io me ne vada, perché se non me ne vado, non verrà a voi il Paràclito, ma quando me ne sarò andato ve lo manderò. E venendo, Egli convincerà il mondo riguardo al peccato, riguardo alla giustizia e riguardo al giudizio. Riguardo al peccato, perché non credono in me; riguardo alla giustizia, perché io vado al Padre e non mi vedrete più; riguardo al giudizio, perché il príncipe di questo mondo è già condannato. Molte cose ho ancora da dirvi: ma adesso non ne siete capaci. Venuto però lo Spirito di verità, vi insegnerà tutte le verità. Egli infatti non vi parlerà da se stesso, ma dirà tutto ciò che avrà udito: vi annunzierà quello che ha da venire, e mi glorificherà, perché vi annunzierà ciò che riceverà da me."
+  },
+  "offertory": {
+    "la": "!Ps 65:1-2; 65:16\nJubiláte Deo, univérsa terra, psalmum dícite nómini ejus: veníte et audíte, et narrábo vobis, omnes qui timétis Deum, quanta fecit Dóminus ánimæ meæ, allelúja.",
+    "en": "!Ps 65:1-2; 85:16\nv. Shout with joy to God, all the earth, sing ye a psalm to his name; give glory to his praise. O look upon me, and have mercy on me: give thy command to thy servant, and save the son of thy handmaid, allelúja.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 65:1-2; 85:16\nJubilez pour Dieu, toute la terre ; psalmodiez pour son Nom. Venez et écoutez : je vous raconterai, à vous tous qui craignez Dieu, tout ce que le Seigneur a fait pour mon âme, alléluia.",
+    "it": "!Ps 65:1-2; 85:16\nAcclama a Dio, o terra tutta, canta un inno al suo nome: venite e ascoltate, tutti voi che temete Iddio, e vi narrerò quanto il Signore ha fatto all’ànima mia, allelúia."
+  },
+  "secret": [
+    {
+      "la": "Deus, qui nos, per hujus sacrifícii veneránda commércia, uníus summæ divinitátis partícipes effecísti: præsta, quǽsumus; ut, sicut tuam cognóscimus veritátem, sic eam dignis móribus assequámur.\n$Per Dominum.",
+      "en": "O God, who by the august communion of this sacrifice hast make us partekers of one Sovereign Godhead, grant we beseech thee, that as we know thy truth, so we may follow it up by worthy behavior.\n$Per Dominum.",
+      "es": "",
+      "de": "",
+      "fr": "Ô Dieu qui, par les admirables échanges réalisés en ce sacrifice, nous rendez participants de votre unique et souveraine divinité, faites que, connaissant votre vérité, nous puissions aussi l'atteindre par une conduite digne d'elle.\n$Per Dominum.",
+      "it": "O Dio, che per mezzo degli scambi venerandi di questo sacrificio ci rendesti partecipi dell’unica somma divinità: concedici, Te ne preghiamo, che come conosciamo la tua verità, così la conseguiamo mediante una buona condotta.\n$Per Dominum."
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Joann 16:8\nCum vénerit Paráclitus Spíritus veritátis, ille árguet mundum de peccáto et de justítia et de judício, allelúja, allelúja.",
+    "en": "!John 16:8\nv.  And when he is come, he will convince the world of sin, and of justice, and of judgment, allelúja, allelúja.",
+    "es": "",
+    "de": "",
+    "fr": "!Joann 16:8\nQuand viendra le Paraclet, l'Esprit de vérité, il confondra le monde au sujet du péché, de la justice et du jugement, alléluia, alléluia.",
+    "it": "!Joann 16:8\nQuando verrà il Paràclito, Spirito di verità, convincerà il mondo quanto al peccato, alla giustizia e al giudizio, allelúia, allelúia."
+  },
+  "postcommunion": [
+    {
+      "la": "Adésto nobis, Dómine, Deus noster: ut per hæc, quæ fidéliter súmpsimus, et purgémur a vítiis et a perículis ómnibus eruámur.\n$Per Dominum",
+      "en": "Stand by us, O Lord, our God, that by what we have faithfully received we may be cleansed from our vices and rescued from all dangers.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Venez à nous, Seigneur notre Dieu, afin que par ces sacrements reçus avec foi, nous soyons débarrassés de nos vices et soustraits à tous les périls.\n$Per Dominum",
+      "it": "Concédici, o Signore Dio nostro, che mediante questi misteri fedelmente ricevuti, siamo purificati dai nostri peccati e liberati da ogni pericolo.\n$Per Dominum"
+    }
+  ]
+}

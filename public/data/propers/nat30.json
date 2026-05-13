@@ -1,0 +1,93 @@
+{
+  "id": "Nat30",
+  "titleLatin": "Die VI infra Octavam Nativitatis",
+  "titleVernacular": {
+    "en": "Sixth day of the Octave of Christmas",
+    "es": "Die VI infra Octavam Nativitatis",
+    "de": "Sechster Tag innerhalb der Weihnachtsoktav",
+    "fr": "Die VI infra Octavam Nativitatis",
+    "it": "Die VI infra Octavam Nativitatis"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Isa 9:6\nv. Puer natus est nobis, et fílius datus est nobis: cujus impérium super húmerum ejus: et vocábitur nomen ejus magni consílii Angelus.\n!Ps 97:1\nCantáte Dómino cánticum novum, quia mirabília fecit.\n&Gloria\nv. Puer natus est nobis, et fílius datus est nobis: cujus impérium super húmerum ejus: et vocábitur nomen ejus magni consílii Angelus.",
+    "en": "!Isa 9:6\nv. A Child is born to us, a Son is given to us; upon His shoulder dominion rests; and His name shall be called the Angel of great counsel.\n!Ps 97:1\nSing to the Lord a new song, for He has done wondrous deeds.\n&Gloria\nv. A Child is born to us, a Son is given to us; upon His shoulder dominion rests; and His name shall be called the Angel of great counsel.",
+    "es": "@Sancti/12-25m3:Introitus",
+    "de": "",
+    "fr": "!Isa 9:6\nv. Un enfant nous est né, un fils nous est donné : la souveraineté repose sur son épaule : et on l’appellera le Messager d’en haut.\n!Ps 97:1\nChantez au Seigneur un chant nouveau, car il a fait des merveilles.\n&Gloria\nv. Un enfant nous est né, un fils nous est donné : la souveraineté repose sur son épaule : et on l’appellera le Messager d’en haut.",
+    "it": "!Isa 9:6\nv. E’ nato per noi un Bambino, un figlio ci è stato donato: egli avrà sulle spalle il dominio, Consigliere mirabile, sarà il suo nome.\n!Ps 97:1\nCanto nuovo cantate al Signore poiché fatti mirabili Egli ha operato.\n&Gloria\nv. E’ nato per noi un Bambino, un figlio ci è stato donato: egli avrà sulle spalle il dominio, Consigliere mirabile, sarà il suo nome."
+  },
+  "collect": [
+    {
+      "la": "Concéde, quǽsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet.\n$Per eundem",
+      "en": "Grant, we beseech You, almighty God, that the new birth, in the flesh, of Your only-begotten Son may deliver us whom the bondage of old keeps under the yoke of sin.\n$Per eundem",
+      "es": "",
+      "de": "",
+      "fr": "Nous vous en prions, Dieu tout puissant, que votre Fils éternel, par sa nouvelle naissance en notre chair, vienne nous délivrer de l’ancien esclavage qui nous maintient sous le joug du péché.\n$Per eundem",
+      "it": "Concedi, o Dio onnipotente, che la nuova nascita del tuo unico Figlio secondo la carne, ci liberi dalla schiavitù antica, che ci tiene sotto il giogo del peccato.\n$Per eumdem"
+    }
+  ],
+  "epistle": {
+    "la": "@Sancti/12-25m2:Lectio",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gradual": {
+    "la": "@Sancti/12-25m3:Graduale",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gospel": {
+    "la": "@Sancti/12-25m2:Evangelium",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "offertory": {
+    "la": "!Ps 88:12; 88:15\nTui sunt cœli et tua est terra: orbem terrárum et plenitúdinem ejus tu fundásti: justítia et judícium præparátio sedis tuæ.",
+    "en": "!Ps 88:12, 15\nYours are the heavens, and Yours is the earth; the world and its fullness You have founded. Justice and judgment are the foundation of Your throne.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 88:12; 88:15\nÀ vous sont les cieux, à vous la terre : c’est vous qui avez posé les fondations de l’univers, et créé ce qu’il renferme : votre trône repose sur le droit et la justice.",
+    "it": "!Ps 88:12; 88:15\nTu possiedi i cieli e la terra, tu hai fondato l'intero universo, su diritto e giustizia è piantato il tuo trono."
+  },
+  "secret": [
+    {
+      "la": "@Sancti/12-25m3:Secreta",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Ps 97:3\nVidérunt omnes fines terræ salutáre Dei nostri.",
+    "en": "!Ps 97:3\nAll the ends of the earth have seen the salvation by our God.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 97:3\nLes extrémités de la terre ont vu le Sauveur envoyé par notre Dieu.",
+    "it": "!Ps 97:3\nNell 'universo hanno ammirato la salvezza del Dio nostro."
+  },
+  "postcommunion": [
+    {
+      "la": "@Sancti/12-25m3:Postcommunio",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ]
+}

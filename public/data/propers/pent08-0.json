@@ -1,0 +1,93 @@
+{
+  "id": "Pent08-0",
+  "titleLatin": "Dominica VIII Post Pentecosten",
+  "titleVernacular": {
+    "en": "Dominica VIII Post Pentecosten",
+    "es": "Dominica VIII Post Pentecosten",
+    "de": "Achter Sonntag nach Pfingsten",
+    "fr": "Dominica VIII Post Pentecosten",
+    "it": "Dominica VIII Post Pentecosten"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps 47:10-11.\nv. Suscépimus, Deus, misericórdiam tuam in médio templi tui: secúndum nomen tuum, Deus, ita et laus tua in fines terræ: justítia plena est déxtera tua.\n!Ps 47:2.\nMagnus Dóminus, et laudábilis nimis: in civitáte Dei nostri, in monte sancto ejus.\n&Gloria\nv. Suscépimus, Deus, misericórdiam tuam in médio templi tui: secúndum nomen tuum, Deus, ita et laus tua in fines terræ: justítia plena est déxtera tua.",
+    "en": "!Ps 47:10-11\nv. O God, we ponder Your kindness within Your temple. As Your name, O God, so also Your praise reaches to the ends of the earth. Of justice Your right hand is full.\n!Ps 47:2\nGreat is the Lord and wholly to be praised in the city of our God, His holy mountain.\n&Gloria\nv. O God, we ponder Your kindness within Your temple. As Your name, O God, so also Your praise reaches to the ends of the earth. Of justice Your right hand is full.",
+    "es": "!Ps 47:10-11\nv. Hemos recibido, ¡oh Dios!, tu misericordia en medio de tu templo; como tu nombre, ¡oh Dios!, así tu gloria llega hasta los confines de la tierra; tu diestra da la salvación.\n!Ps 47:2\nGrande es el Señor y dignísimo de alabanza en la ciudad de nuestro Dios, en su monte santo.\n&Gloria\nv. Hemos recibido, ¡oh Dios!, tu misericordia en medio de tu templo; como tu nombre, ¡oh Dios!, así tu gloria llega hasta los confines de la tierra; tu diestra da la salvación.",
+    "de": "",
+    "fr": "!Ps 47:10-11.\nv. Nous avons reçu, ô Dieu, votre miséricorde au milieu de votre temple ; comme votre Nom, ainsi votre louange retentit jusqu'aux confins de la terre ; votre droite est pleine de justice.\n!Ps 47:2.\nGrand est le Seigneur, et très digne de louange, dans la cité de notre Dieu, sur sa montagne sainte.\n&Gloria\nv. Nous avons reçu, ô Dieu, votre miséricorde au milieu de votre temple ; comme votre Nom, ainsi votre louange retentit jusqu'aux confins de la terre ; votre droite est pleine de justice.",
+    "it": "!Ps 47:10-11.\nv. Abbiamo ricevuto, o Dio, la tua misericordia nel tuo tempio; la tua lode, come si conviene al tuo nome, si stende fino alle estremità della terra: la tua destra è piena di giustizia.\n!Ps 47:2.\nGrande è il Signore, e degnissimo di lode nella sua città e nel suo santo monte.\n&Gloria\nv. Abbiamo ricevuto, o Dio, la tua misericordia nel tuo tempio; la tua lode, come si conviene al tuo nome, si stende fino alle estremità della terra: la tua destra è piena di giustizia."
+  },
+  "collect": [
+    {
+      "la": "Largíre nobis, quǽsumus, Dómine, semper spíritum cogitándi quæ recta sunt, propítius et agéndi: ut, qui sine te esse non póssumus, secúndum te vívere valeámus.\n$Per Dominum",
+      "en": "Ever graciously bestow upon us, we beseech You, O Lord, the spirit of thinking and doing what is right, so that we, who cannot exist without You, may have the strength to live in accordance with Your law.\n$Per Dominum",
+      "es": "Te rogamos, Señor, nos concedas propicio la gracia de pensar y obrar siempre con rectitud; y, pues sin ti no podemos subsistir, llevemos una vida conforme a tu voluntad.\n$Per Dominum",
+      "de": "",
+      "fr": "Accordez-nous, Seigneur, une constante rectitude d'esprit dans la pensée et dans l'action, en sorte que, incapables d'exister sans vous, nous puissions vivre selon vous.\n$Per Dominum",
+      "it": "Concedici propizio, Te ne preghiamo, o Signore, di pensare ed agire sempre rettamente; cosí che noi, che senza di Te non possiamo esistere, secondo Te possiamo vivere.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános\n!Rom 8:12-17\nFratres: Debitóres sumus non carni, ut secúndum carnem vivámus. Si enim secúndum carnem vixéritis, moriémini: si autem spíritu facta carnis mortificavéritis, vivétis. Quicúmque enim spíritu Dei aguntur, ii sunt fílii Dei. Non enim accepístis spíritum servitútis íterum in timóre, sed accepístis spíritum adoptiónis filiórum, in quo clamámus: Abba  - Pater. - Ipse enim Spíritus testimónium reddit spirítui nostro, quod sumus fílii Dei. Si autem fílii, et herédes: herédes quidem Dei, coherédes autem Christi.",
+    "en": "Lesson from the letter of St. Paul the Apostle to the Romans\n!Rom 8:12-17\nBrethren: We are debtors, not to the flesh, that we should live according to the flesh, for if you live according to the flesh you will die; but if by the spirit you put to death the deeds of the flesh, you will live. For whoever are led by the Spirit of God, they are the sons of God. Now you have not received a spirit of bondage so as to be again in fear, but you have received a spirit of adoption as sons, by virtue of which we cry, Abba! Father! The Spirit Himself gives testimony to our spirit that we are sons of God. But if we are sons, we are heirs also: heirs indeed of God and joint heirs with Christ.",
+    "es": "Lección de la carta del Apóstol san Pablo a los Romanos\n!Rom 8:12-17\nHermanos: Somos deudores, pero no de la carne para vivir según la carne. Pues si vivís según la carne, moriréis; pero si con el Espíritu dais muerte a las obras del cuerpo, viviréis. Cuantos se dejan llevar por el Espíritu de Dios, esos son hijos de Dios. Pues no habéis recibido un espíritu de esclavitud, para recaer en el temor, sino que habéis recibido un Espíritu de hijos de adopción, en el que clamamos: «¡Abba, Padre!». Ese mismo Espíritu da testimonio a nuestro espíritu de que somos hijos de Dios; y, si hijos, también herederos; herederos de Dios y coherederos con Cristo.",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános.\n!Rom 8:12-17\nFrères, nous ne sommes point redevables à la chair pour vivre selon la chair. Car si vous vivez selon la chair, vous mourrez ; mais si, par l'Esprit, vous faites mourir les œuvres de la chair, vous vivrez ; car tous ceux qui sont conduits par l'Esprit de Dieu sont fils de Dieu. En effet, vous n'avez point reçu un Esprit de servitude, pour être encore dans la crainte ; mais vous avez reçu un Esprit d'adoption, en qui nous crions : Abba ! Père ! Cet Esprit lui-même rend témoignage à notre esprit que nous sommes enfants de Dieu. Or, si nous sommes enfants, nous sommes aussi héritiers, héritiers de Dieu et cohéritiers du Christ.",
+    "it": "Lettura della Lettera del B. Paolo Ap.\nai Romani.\n!Rom 8:12-17\nFratelli: Noi non siamo debitori alla carne per vivere secondo la carne. Se infatti vivrete secondo la carne, morrete; ma se mediante lo Spirito avrete ucciso le opere della carne, vivrete. Tutti quelli infatti che sono guidati dallo Spirito di Dio, sono figli di Dio. Voi infatti non avete ricevuto lo spirito di servitú per ricadere nel timore, ma lo Spirito d’adozione a figli, per il quale gridiamo: Abba, Padre. E lo stesso Spirito rende testimonianza all’ànima nostra che siamo figli di Dio. Ma, se figli, siamo pure eredi: eredi perciò di Dio e coeredi di Cristo."
+  },
+  "gradual": {
+    "la": "!Ps 30:3\nEsto mihi in Deum protectórem, et in locum refúgii, ut salvum me fácias.\n!Ps 70:1\nV. Deus, in te sperávi: Dómine, non confúndar in ætérnum.\nAllelúja, allelúja.\n!Ps 47:2\nMagnus Dóminus, et laudábilis valde, in civitáte Dei nostri, in monte sancto ejus. Allelúja.",
+    "en": "!Ps 30:3\nBe my rock of refuge, O God, a stronghold to give me safety.\n!Ps 70:1\nV. In You, O God, I take refuge; O Lord, let me never be put to shame. Alleluia, alleluia.\n!Ps 47:2\nV. Great is the Lord and wholly to be praised in the city of our God, His holy mountain. Alleluia.",
+    "es": "!Ps 30:3\nSé para mí el Dios que protege y un lugar de refugio, para que me salves.\n!Ps 70:1\nV. En ti, Señor, he buscado amparo; no sea jamás confundido. Aleluya, aleluya.\n!Ps 47:2\nV. Grande es el Señor y muy digno de alabanza en la ciudad de nuestro Dios, en su monte santo. Aleluya.",
+    "de": "",
+    "fr": "!Ps 30:3\nSoyez pour moi un Dieu protecteur et un lieu de refuge, afin de me sauver.\n!Ps 70:1\nV. Ô Dieu, j'espère en vous ; Seigneur, je ne serai pas confondu à jamais. Alléluia, alléluia.\n!Ps 47:2\nGrand est le Seigneur, et très digne de louange, dans la cité de notre Dieu, sur sa montagne sainte. Alléluia.",
+    "it": "!Ps 30:3\nSii per me, o Dio, protezione e luogo di rifugio: affinché mi salvi.\n!Ps 70:1\nV. O Dio, in Te ho sperato: ch’io non sia confuso in eterno, o Signore. Allelúia, allelúia\n!Ps 47:2\nGrande è il Signore, degnissimo di lode nella sua città e sul suo santo monte. Allelúia."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Lucam\n!Luc 16:1-9\nIn illo témpore: Dixit Jesus discípulis suis parábolam hanc: Homo quidam erat dives, qui habébat víllicum: et hic diffamátus est apud illum, quasi dissipásset bona ipsíus. Et vocávit illum et ait illi: Quid hoc audio de te? redde ratiónem villicatiónis tuæ: jam enim non póteris villicáre. Ait autem víllicus intra se: Quid fáciam, quia dóminus meus aufert a me villicatiónem? fódere non váleo, mendicáre erubésco. Scio, quid fáciam, ut, cum amótus fúero a villicatióne, recípiant me in domos suas. Convocátis itaque síngulis debitóribus dómini sui, dicébat primo: Quantum debes dómino meo? At ille dixit: Centum cados ólei. Dixítque illi: Accipe cautiónem tuam: et sede cito, scribe quinquagínta. Deínde álii dixit: Tu vero quantum debes? Qui ait: Centum coros trítici. Ait illi: Accipe lítteras tuas, et scribe octogínta. Et laudávit dóminus víllicum iniquitátis, quia prudénter fecísset: quia fílii hujus sǽculi prudentióres fíliis lucis in generatióne sua sunt. Et ego vobis dico: fácite vobis amicos de mammóna iniquitátis: ut, cum defecéritis, recípiant vos in ætérna tabernácula.",
+    "en": "Continuation + of the Holy Gospel according to Luke\n!Luke 16:1-9\nAt that time, Jesus spoke to His disciples this parable: There was a certain rich man who had a steward, who was reported to him as squandering his possessions. And he called him and said to him, ‘What is this that I hear of you? Make an accounting of your stewardship, for you can be steward no longer.’ And the steward said within himself, ‘What shall I do, seeing that my master is taking away the stewardship from me? To dig I am not able; to beg I am ashamed. I know what I shall do, that when I am removed from my stewardship they may receive me into their houses.’ And he summoned each of his master’s debtors and said to the first, ‘How much do you owe my master?’ And he said, ‘A hundred jars of oil.’ He said to him, ‘Take your bond and sit down at once and write fifty.’ Then he said to another, ‘How much do you owe?’ He said, ‘A hundred kors of wheat.’ He said to him, ‘Take your bond and write eighty.’ And the master commended the unjust steward, in that he had acted prudently; for the children of this world, in relation to their own generation, are more prudent than the children of the light. And I say to you, make friends for yourselves with the mammon of wickedness, so that when you fail they may receive you into the everlasting dwellings.",
+    "es": "Continuación + del Santo Evangelio según San Lucas.\n!Lc 16:1-9\nEn aquel tiempo: Dijo Jesús a sus discípulos esta parábola: «Un hombre rico tenía un administrador, a quien acusaron ante él de derrochar sus bienes. Entonces lo llamó y le dijo: “¿Qué es eso que estoy oyendo de ti? Dame cuenta de tu administración, porque en adelante no podrás seguir administrando”. El administrador se puso a decir para sí: “¿Qué voy a hacer, pues mi señor me quita la administración? Para cavar no tengo fuerzas; mendigar me da vergüenza. Ya sé lo que voy a hacer para que, cuando me echen de la administración, encuentre quien me reciba en su casa”. Fue llamando uno a uno a los deudores de su amo y dijo al primero: “¿Cuánto debes a mi amo?”. Este respondió: “Cien barriles de aceite”. Él le dijo: “Toma tu recibo; aprisa, siéntate y escribe cincuenta”. Luego dijo a otro: “Y tú, ¿cuánto debes?”. Él dijo: “Cien fanegas de trigo”. Le dice: “Toma tu recibo y escribe ochenta”. Y el amo alabó al administrador injusto, porque había actuado con astucia. Ciertamente, los hijos de este mundo son más astutos con su propia gente que los hijos de la luz. Y yo os digo: ganaos amigos con el dinero de iniquidad, para que, cuando os falte, os reciban en las moradas eternas.",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Lucam.\n!Luc 16:1-9\nEn ce temps-là, Jésus dit à ses disciples : « Il y avait un homme riche qui avait un intendant ; celui-ci lui fut dénoncé comme dissipant ses biens. Il l'appela et lui dit : « Qu'est-ce que j'entends dire de toi ? Rends compte de ton intendance, car tu ne pourras plus être intendant.» Or l'intendant se dit en lui-même : « Que ferai-je, puisque mon maître me retire l'intendance ? Bêcher, je n'en ai pas la force ; mendier, j'en ai honte. Je sais ce que je ferai pour que, quand je serai destitué de l'intendance, il y ait des gens qui me reçoivent chez eux.» Ayant convoqué chacun des débiteurs de son maître, il dit au premier : « Combien dois-tu à mon maître ?» Il dit : « Cent mesures d'huile.» Et il lui dit : « Prends ton billet, assieds-toi vite et écris : cinquante.» Ensuite il dit à un autre : « Et toi, combien dois-tu ?» Il dit : « Cent mesures de froment.» Et il lui dit : « Prends ton billet et écris : quatre-vingts.» Et le maître loua l'intendant malhonnête d'avoir agi d'une façon avisée. C'est que les enfants de ce siècle sont plus avisés à l'égard de ceux de leur espèce que les enfants de la lumière. Et moi je vous dis : Faites-vous des amis avec la Richesse malhonnête, afin que, lorsqu'elle viendra à manquer, ils vous reçoivent dans les tabernacles éternels. »",
+    "it": "Séguito ++ del S. Vangelo secondo Luca.\n!Luc 16:1-9\nIn quel tempo: Gesú disse ai suoi discepoli questa parabola: Vi era un uomo ricco che aveva un fattore, e questi fu accusato presso di lui di avergli dissipato i beni. Allora lo chiamò e gli disse: Che cosa sento dire di te? réndimi conto del tuo operato, perché ormai non potrai piú essere mio fattore. Questi disse fra sé: Cosa farò poiché il padrone mi toglie la fattoria? Non posso zappare, mi vergogno di chiedere l’elemosina. Ma so quello che farò, affinché quando sarò cacciato dalla fattoria, possa essere accolto in casa altrui. Adunati quindi tutti i debitori del suo padrone, diceva al primo: Quanto devi al mio padrone? E questi: Cento orci d’olio. E il fattore: Prendi la tua obbligazione, siediti e scrivi: cinquanta. Poi disse a un altro: E tu, quanto devi? Cento staia di grano. E il fattore: Prendi la tua lettera e segna: ottanta. E il padrone lodò il fattore disonesto che aveva agito con astuzia, poiché i figli del secolo sono piú accorti, fra loro, dei figli della luce. E io dico a voi: fatevi degli amici con le ricchezze dell’iniquità, affinché, quando morrete, gli amici vi accolgano nelle loro eterne dimore."
+  },
+  "offertory": {
+    "la": "!Ps 17:28; 17:32\nPópulum húmilem salvum fácies, Dómine, et óculos superbórum humiliábis: quóniam quis Deus præter te, Dómine?",
+    "en": "!Ps 17:28, 32\nLowly people You save, O Lord, but haughty eyes You bring low; for who is God except You, O Lord?",
+    "es": "!Ps 17:28, 32\nTú salvas al pueblo humilde, y humillas los ojos de los soberbios, porque ¿qué otro Dios hay fuera de ti, Señor?",
+    "de": "",
+    "fr": "!Ps 17:28; 17:32\nVous sauverez le peuple humble, Seigneur, et vous humilierez les yeux des superbes ; car qui est Dieu à part vous, Seigneur ?",
+    "it": "!Ps 17:28; 17:32\nTu, o Signore, salverai l’umile popolo e umilierai gli occhi dei superbi, poiché chi è Dio all’infuori di Te, o Signore?"
+  },
+  "secret": [
+    {
+      "la": "Súscipe, quǽsumus, Dómine, múnera, quæ tibi de tua largitáte deférimus: ut hæc sacrosáncta mystéria, grátiæ tuæ operánte virtúte, et præséntis vitæ nos conversatióne sanctíficent, et ad gáudia sempitérna perdúcant.\n$Per Dominum",
+      "en": "Accept, we beseech You, O Lord, the gifts which we bring to You out of Your own bounty, so that these most holy sacramental rites may, by the power of Your grace, sanctify us in the conduct of our present life, and lead us to everlasting joy.\n$Per Dominum",
+      "es": "Te rogamos, Señor, aceptes propicio los dones que recibidos de tus manos, te ofrecemos, para que, mediante la operación de tu gracia, nos santifiquen estos sacrosantos misterios en la presente vida, y nos conduzcan a los goces eternos.\n$Per Dominum",
+      "de": "",
+      "fr": "Agréez, Seigneur, ces présents que nous tenons nous-mêmes de votre largesse, afin que, sous l'action de votre grâce, ces mystères sacrés nous fassent mener ici-bas une vie sainte et nous conduisent aux joies de l'éternité.\n$Per Dominum",
+      "it": "Gradisci, Te ne preghiamo, o Signore, i doni che noi, partecipi dell’abbondanza dei tuoi beni, Ti offriamo, affinché questi sacrosanti misteri, per opera della tua grazia, ci santífichino nella pratica della vita presente e ci conducano ai gaudii sempiterni.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Ps 33:9\nGustáte et vidéte, quóniam suávis est Dóminus: beátus vir, qui sperat in eo.",
+    "en": "!Ps 33:9\nTaste and see how good the Lord is; happy the man who takes refuge in Him.",
+    "es": "!Ps 33:9\nGustad y ved cuán suave es el Señor; dichoso el varón que en él confía.",
+    "de": "",
+    "fr": "!Ps 33:9\nGoûtez et voyez combien suave est le Seigneur ; heureux l'homme qui espère en lui.",
+    "it": "!Ps 33:9\nGustate e vedete quanto soave è il Signore: beato l’uomo che spera in Lui."
+  },
+  "postcommunion": [
+    {
+      "la": "Sit nobis, Dómine, reparátio mentis et córporis cæléste mystérium: ut, cujus exséquimur cultum, sentiámus efféctum.\n$Per Dominum",
+      "en": "May the heavenly sacrament, O Lord, renew our minds and bodies, so that we may feel the benefit of the worship we perform.\n$Per Dominum",
+      "es": "Sírvanos, Señor, este celestial misterio para reparación de alma y cuerpo; para que al celebrarlo, experimentemos sus saludables efectos.\n$Per Dominum",
+      "de": "",
+      "fr": "Puisse ce sacrement céleste, Seigneur, restaurer en nous l'âme et le corps, afin que nous ressentions tout le fruit de sa célébration.\n$Per Dominum",
+      "it": "O Signore, che questo celeste mistero giovi al rinnovamento dello spirito e del corpo, affinché di ciò che celebriamo sentiamo l’effetto.\n$Per Dominum"
+    }
+  ]
+}

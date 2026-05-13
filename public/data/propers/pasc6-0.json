@@ -1,0 +1,93 @@
+{
+  "id": "Pasc6-0",
+  "titleLatin": "Dominica infra Octavam Ascensionis",
+  "titleVernacular": {
+    "en": "Dominica infra Octavam Ascensionis",
+    "es": "Dominica infra Octavam Ascensionis",
+    "de": "Sonntag in der Oktav der Himmelfahrt",
+    "fr": "Dominica infra Octavam Ascensionis",
+    "it": "Dominica infra Octavam Ascensionis"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps 26:7; 26:8; 26:9\nv. Exáudi, Dómine, vocem meam, qua clamávi ad te, allelúja: tibi dixit cor meum, quæsívi vultum tuum, vultum tuum, Dómine, requíram: ne avértas fáciem tuam a me, allelúja, allelúja.\n!Ps 26:1\nDóminus illuminátio mea et salus mea: quem timébo?\n&Gloria\nv. Exáudi, Dómine, vocem meam, qua clamávi ad te, allelúja: tibi dixit cor meum, quæsívi vultum tuum, vultum tuum, Dómine, requíram: ne avértas fáciem tuam a me, allelúja, allelúja.",
+    "en": "!Ps. 26:7-9.\nv. Hear, O Lord, the sound of my call, alleluia; to You my heart speaks; Your glance I seek; Your presence, O Lord, I seek. Hide not Your face from me, alleluia, alleluia.\n!Ps. 26:1.\nThe Lord is my light and my salvation; whom should I fear?\n&Gloria\nv. Hear, O Lord, the sound of my call, alleluia; to You my heart speaks; Your glance I seek; Your presence, O Lord, I seek. Hide not Your face from me, alleluia, alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 26:7; 26:8; 26:9\nv. Écoutez, Seigneur, ma voix quand je crie vers vous, alléluia. Mon cœur vous a dit : Je cherche votre visage. Je recherche votre visage, Seigneur ; ne détournez pas de moi votre visage, alléluia, alléluia.\n!Ps 26:1\nLe Seigneur est ma lumière et mon salut, qui craindrai-je ?\n&Gloria\nv. Écoutez, Seigneur, ma voix quand je crie vers vous, alléluia. Mon cœur vous a dit : Je cherche votre visage. Je recherche votre visage, Seigneur ; ne détournez pas de moi votre visage, alléluia, alléluia.",
+    "it": "!Ps 26:7; 26:8; 26:9\nv. Ascolta, o Signore, la mia voce, con la quale Ti invoco, allelúia: a te parlò il mio cuore: ho cercato la Tua presenza, o Signore,e la cercherò ancora: non nascondermi il Tuo volto,allelúia, allelúia.\n!Ps 26:1\nDóminus illuminátio mea et salus mea: quem timébo? .\n&Gloria\nv. Ascolta, o Signore, la mia voce, con la quale Ti invoco, allelúia: a te parlò il mio cuore: ho cercato la Tua presenza, o Signore,e la cercherò ancora: non nascondermi il Tuo volto,allelúia, allelúia."
+  },
+  "collect": [
+    {
+      "la": "Omnípotens sempitérne Deus: fac nos tibi semper et devótam gérere voluntátem; et majestáti tuæ sincéro corde servíre.\n$Per Dominum",
+      "en": "Almighty and eternal God, give us a will ever dedicated to You, and a true heart to serve Your majesty.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Dieu éternel et tout-puissant, faites que nous apportions toujours à vous suivre une volonté fidèle, et que nous nous attachions à votre service avec un cœur sincère.\n$Per Dominum",
+      "it": "Dio onnipotente ed eterno: fa che la nostra volontà sia sempre devota: e che serviamo la tua Maestà con cuore sincero..\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Petri Apóstoli\n!1 Pet 4:7-11\nCaríssimi: Estóte prudéntes et vigiláte in oratiónibus. Ante ómnia autem mútuam in vobismetípsis caritátem contínuam habéntes: quia cáritas óperit multitúdinem peccatórum. Hospitáles ínvicem sine murmuratióne: unusquísque, sicut accépit grátiam, in altérutrum illam administrántes, sicut boni dispensatóres multifórmis grátiæ Dei. Si quis lóquitur, quasi sermónes Dei: si quis minístrat, tamquam ex virtúte, quam adminístrat Deus: ut in ómnibus honorificétur Deus per Jesum Christum, Dóminum nostrum.",
+    "en": "Lesson from the first letter of St. Peter the Apostle\n!1 Pet 4:7-11.\nBeloved: Be prudent and watchful in prayers. But above all things have a constant mutual charity among yourselves: for charity covers a multitude of sins. Be hospitable to one another without murmuring. According to the gift that each has received, minister it to one another as good stewards of the manifold grace of God. If anyone speaks, let it be as with words of God. If anyone ministers, let it be as from the strength that God furnishes; that in all things God may be honored through Jesus Christ our Lord.",
+    "es": "",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Petri Apóstoli.\n!1 Pet 4:7-11\nBien-aimés, soyez prudents et veillez dans la prière. Mais surtout ayez un ardent amour les uns pour les autres ; car l'amour couvre une multitude de péchés. Exercez entre vous l'hospitalité sans murmurer. Que chacun mette au service des autres le don qu'il a reçu comme de bons dispensateurs de la grâce de Dieu, laquelle est variée. Si quelqu'un parle, que ce soit selon les paroles de Dieu ; si quelqu'un exerce un ministère, qu'il le fasse comme par la vertu que Dieu donne, afin qu'en toutes choses Dieu soit glorifié par Jésus-Christ, notre Seigneur.",
+    "it": "Lettura della Lettera del Beato Pietro Apostolo.\n!1 Pet 4:7-11\nCarissimi: Siate prudenti e perseverate nelle preghiere. Innanzi tutto, poi, abbiate fra di voi una mutua e continua carità: poiché la carità copre una moltitudine di peccati. Praticate l’ospitalità gli uni verso gli altri senza mormorare: ognuno metta a servizio altrui il dono che ha ricevuto, come si conviene a buoni dispensatori della multiforme grazia di Dio. Chi parla, lo faccia come fossero parole di Dio: chi esercita un ministero, lo faccia come per virtù comunicata da Dio: affinché in tutto sia onorato Dio per Gesù Cristo nostro Signore."
+  },
+  "gradual": {
+    "la": "Allelúja, allelúja.\n!Ps 46:9\nV. Regnávit Dóminus super omnes gentes: Deus sedet super sedem sanctam suam. Allelúja.\n!Joannes 14:18\nV. Non vos relínquam órphanos: vado, et vénio ad vos, et gaudébit cor vestrum. Allelúja.",
+    "en": "Alleluia, alleluia.\n!Ps. 46:9.\nV. The Lord reigns over all the nations, God sits upon His holy throne. Alleluia.\n!John 14:18\nV. I will not leave you orphans; I go away and I come to you, and your heart shall rejoice. Alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "Allelúja, allelúja\n!Ps 46:9\nV. Le Seigneur règne sur tous les peuples ; Dieu trône sur son trône saint. Alléluia.\n!Joannes 14:18\nV. Je ne vous laisserai pas orphelins ; je m'en vais puis je reviendrai vers vous, et votre cœur se réjouira. Alléluia.",
+    "it": "Allelúia, allelúia\n!Ps 46:9\nV. Il Signore regna sopra tutte le nazioni: Iddio siede sul suo trono santo.\nAllelúia.\n!Joannes 14:18\nV. Non vi lascerò orfani: vado, e ritorno a voi, e il vostro cuore si rellegrerà. Allelúia."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem\n!Joannes 15:26-27; 16:1-4\nIn illo témpore: Dixit Jesus discípulis suis: Cum vénerit Paráclitus, quem ego mittam vobis a Patre, Spíritum veritátis, qui a Patre procédit, ille testimónium perhibébit de me: et vos testimónium perhibébitis, quia ab inítio mecum estis. Hæc locútus sum vobis, ut non scandalizémini. Absque synagógis fácient vos: sed venit hora, ut omnis, qui intérficit vos, arbitrétur obséquium se præstáre Deo. Et hæc fácient vobis, quia non novérunt Patrem neque me. Sed hæc locútus sum vobis: ut, cum vénerit hora eórum, reminiscámini, quia ego dixi vobis.",
+    "en": "Continuation + of the Holy Gospel according to John\n!John 15:26-27; 16:1-4.\nAt that time, Jesus said to His disciples: When the Advocate has come, Whom I will send you from the Father, the Spirit of truth Who proceeds from the Father, He will bear witness concerning Me. And you also will bear witness, because from the beginning you are with Me. These things I have spoken to you that you may not be scandalized. They will expel you from the synagogues. Yes, the hour is coming for everyone who kills you to think he is offering worship to God. And these things they will do because they have not known the Father nor Me. But these things I have spoken to you, that when the time for them has come you may remember that I told you.",
+    "es": "",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Joánnem.\n!Joannes 15:26-27; 16:1-4\nEn ce temps-là, Jésus dit à ses disciples : « Lorsque le Consolateur que je vous enverrai d'auprès du Père, l'Esprit de vérité qui procède du Père, sera venu, il rendra témoignage de moi. Et vous aussi, vous me rendrez témoignage, parce que vous êtes avec moi dès le commencement. Je vous ai dit ces choses, afin que vous ne soyez pas scandalisés ; ils vous chasseront des synagogues ; et même l'heure vient où quiconque vous fera mourir, croira faire à Dieu un sacrifice agréable. Et ils agiront ainsi, parce qu'ils n'ont connu ni mon Père, ni moi. Mais je vous ai dit ces choses afin que, lorsque leur heure sera venue, vous vous souveniez que je vous l'ai dit. »",
+    "it": "Séguito ++ del S. Vangelo secondo Giovanni.\n!Joannes 15:26-27; 16:1-4\nIn quel tempo: Disse Gesù ai suoi discepoli: Quando verrà il Paraclito, che io vi manderò dal Padre, lo Spirito di verità, che procede dal Padre, Egli renderà testimonianza di me: e anche voi renderete testimonianza, perché siete stati con me fin da principio. ho detto a voi queste cose, affinché non siate scandalizzati. Vi cacceranno dalle sinagoghe: anzi, verrà tempo che chi vi ucciderà crederà di rendere onore a Dio. E vi tratteranno così, perché non hanno conosciuto né il Padre, né me. Ma vi ho dette queste cose, affinché, venuto quel tempo, vi ricordiate che ve le ho predette."
+  },
+  "offertory": {
+    "la": "!Ps 46:6.\nAscéndit Deus in jubilatióne, et Dóminus in voce tubæ, allelúja.",
+    "en": "!Ps 46:6.\nGod mounts His throne amid shouts of joy; the Lord, amid trumpet blasts. Alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 46:6.\nDieu est monté dans la jubilation ; le Seigneur au son de la trompette, alléluia.",
+    "it": "!Ps 46:6.\nIddio è asceso nel giubilo e il Signore al suono delle trombe. Allelúia."
+  },
+  "secret": [
+    {
+      "la": "Sacrifícia nos, Dómine, immaculáta puríficent: et méntibus nostris supérnæ grátiæ dent vigórem.\n$Per Dominum",
+      "en": "May this pure sacrifice cleanse us, O Lord, and impart to our minds the strength of heavenly grace.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Que ce sacrifice sans tache nous purifie, Seigneur, et donne à nos âmes la vigueur de la grâce d'en haut.\n$Per Dominum",
+      "it": "Queste offerte immacolate, o Signore, ci purífichino, e conferiscano alle nostre ànime il vigore della grazia celeste.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Joannes 17:12-13; 17:15\nPater, cum essem cum eis, ego servábam eos, quos dedísti mihi, allelúja: nunc autem ad te vénio: non rogo, ut tollas eos de mundo, sed ut serves eos a malo, allelúja, allelúja.",
+    "en": "!John 17:12-13; 17:15\nFather, while I was with them, I kept them whom You have given Me, alleluia; but now I am coming to You; I do not pray that You take them out of the world, but that You keep them from evil, alleluia, alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "!Joannes. 17:12-13; 17:15\nPère, quand j'étais avec eux, je gardais ceux que tu m'as donnés, alléluia ; mais maintenant je viens vers toi. Je ne prie pas pour que tu les enlèves du monde, mais pour que tu les gardes du mal, alléluia, alléluia.",
+    "it": "!Joannes. 17:12-13; 17:15\nPadre, quand’ero con loro ho custodito quelli che mi hai affidati, allelúia: ma ora vengo a Te: non Ti chiedo di toglierli dal mondo, ma di preservarli dal male, allelúia, allelúia."
+  },
+  "postcommunion": [
+    {
+      "la": "Repléti, Dómine, munéribus sacris: da, quǽsumus; ut in gratiárum semper actióne maneámus.\n$Per Dominum",
+      "en": "We who have been filled with heavenly gifts beseech You, O Lord, grant us to continue giving thanks to You.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Après nous avoir comblés de vos dons sacrés, accordez-nous, Seigneur, de vivre en perpétuelle action de graĉes.\n$Per Dominum",
+      "it": "Nutriti dei tuoi sacri doni, concedici, o Signore, Te ne preghiamo: di ringraziartene sempre.\n$Per Dominum"
+    }
+  ]
+}

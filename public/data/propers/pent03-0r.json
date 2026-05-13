@@ -1,0 +1,93 @@
+{
+  "id": "Pent03-0r",
+  "titleLatin": "Dominica III Post Pentecosten",
+  "titleVernacular": {
+    "en": "Dominica III Post Pentecosten",
+    "es": "Dominica III Post Pentecosten",
+    "de": "Dritter Sonntag nach Pfingsten",
+    "fr": "Dominica III Post Pentecosten",
+    "it": "Dominica III Post Pentecosten"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps. 24:16; 24:18\nv. Réspice in me et miserére mei, Dómine: quóniam únicus et pauper sum ego: vide humilitátem meam et labórem meum: et dimítte ómnia peccáta mea, Deus meus.\n!Ps. 24:1-2\nAd te, Dómine, levávi ánimam meam: Deus meus, in te confído, non erubéscam.\n&Gloria\nv. Réspice in me et miserére mei, Dómine: quóniam únicus et pauper sum ego: vide humilitátem meam et labórem meum: et dimítte ómnia peccáta mea, Deus meus.",
+    "en": "!Ps. 24:16, 18\nv. Look toward me, and have pity on me, O Lord, for I am alone and afflicted. Put an end to my affliction and my suffering, and take away all my sins, O my God.\n!Ps. 24:1-2\nTo You, I lift up my soul, O Lord. In You, O my God, I trust; let me not be put to shame.\n&Gloria\nv. Look toward me, and have pity on me, O Lord, for I am alone and afflicted. Put an end to my affliction and my suffering, and take away all my sins, O my God.",
+    "es": "!Ps 24:16, 18\nv. Mírame, Señor, y ten compasión de mí, porque estoy solo y soy pobre. Mira mi bajeza y mis trabajos, y perdona todos mis pecados, Dios mío.\n!Ps. 24:1-2\nA ti, Señor, levanto mi alma. Dios mío, en ti confío; no quede yo confuso.\n&Gloria\nv. Mírame, Señor, y ten compasión de mí, porque estoy solo y soy pobre. Mira mi bajeza y mis trabajos, y perdona todos mis pecados, Dios mío.",
+    "de": "",
+    "fr": "!Ps 24:16; 24:18\nv. Regardez, Seigneur, et ayez pitié de moi, car je suis seul et pauvre ; voyez mon humilité et mon labeur, et pardonnez-moi tous mes péchés, ô mon Dieu.\n!Ps 24:1-2\nVers vous, Seigneur, j'élève mon âme ; ô mon Dieu, en vous je me confie, je n'aurai pas à en rougir.\n&Gloria\nv. Regardez, Seigneur, et ayez pitié de moi, car je suis seul et pauvre ; voyez mon humilité et mon labeur, et pardonnez-moi tous mes péchés, ô mon Dieu.",
+    "it": "!Ps 24:16; 24:18\nv. Guarda a me, e abbi pietà di me, o Signore: perché solo e povero io sono: guarda alla mia umiliazione e al mio travaglio, e rimetti tutti i miei peccati, o Dio mio.\n!Ps 24:1-2\nA te, o Signore, elevo l’ànima mia: Dio mio, confido in te, ch’io non resti confuso.\n&Gloria\nv. Guarda a me, e abbi pietà di me, o Signore: perché solo e povero io sono: guarda alla mia umiliazione e al mio travaglio, e rimetti tutti i miei peccati, o Dio mio."
+  },
+  "collect": [
+    {
+      "la": "Protéctor in te sperántium, Deus, sine quo nihil est válidum, nihil sanctum: multíplica super nos misericórdiam tuam; ut, te rectóre, te duce, sic transeámus per bona temporália, ut non amittámus ætérna.\n$Per Dominum",
+      "en": "O God, protector of all who hope in You, without Whom nothing is strong, nothing is holy, increase Your mercy toward us, that, with Your guidance and direction we may so pass through the things of this temporal life as not to lose those of life eternal.\n$Per Dominum",
+      "es": "Oh Dios, protector de los que en ti esperan, y sin el cual nada tiene valor, nada es santo; multiplica sobre nosotros tu misericordia, para que, siendo tú nuestro pastor y nuestro guía, pasemos por los bienes temporales de modo que no perdamos los eternos.\n$Per Dominum",
+      "de": "",
+      "fr": "Ô Dieu, protecteur de ceux qui espèrent en vous, sans qui rien n'est fort ni saint, multipliez sur nous votre miséricorde, afin que, guidés et conduits par vous, nous passions de telle sorte parmi les biens temporels que nous ne perdions pas les éternels.\n$Per Dominum.",
+      "it": "Protettore di quanti sperano in te, o Dio, senza cui nulla è stabile, nulla è santo: moltiplica su di noi la tua misericordia, affinché, sotto il tuo governo e la tua guida, passiamo tra i beni temporali cosí da non perdere gli eterni.\n$Per Dominum."
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Petri Apóstoli\n!1 Pet. 5:6-11\nCaríssimi: Humiliámini sub poténti manu Dei, ut vos exáltet in témpore visitatiónis: omnem sollicitúdinem vestram projiciéntes in eum, quóniam ipsi cura est de vobis. Sóbrii estote et vigiláte: quia adversárius vester diábolus tamquam leo rúgiens circuit, quærens, quem dévoret: cui resístite fortes in fide: sciéntes eándem passiónem ei, quæ in mundo est, vestræ fraternitáti fíeri. Deus autem omnis grátiæ, qui vocávit nos in ætérnam suam glóriam in Christo Jesu, módicum passos ipse perfíciet, confirmábit solidabítque. Ipsi glória et impérium in sǽcula sæculórum. Amen.",
+    "en": "Lesson from the first letter of St. Peter the Apostle\n!1 Pet. 5:6-11\nBeloved: Humble yourselves under the mighty hand of God, that He may exalt you in the time of visitation; cast all your anxiety upon Him, because He cares for you. Be sober, be watchful! For your adversary the devil, as a roaring lion, goes about seeking someone to devour. Resist him, steadfast in the faith, knowing that the same suffering befalls your brethren all over the world. But the God of all grace, Who has called us unto His eternal glory in Christ Jesus, will Himself, after we have suffered a little while, perfect, strengthen and establish us. To Him is the glory and the dominion forever and ever. Amen.",
+    "es": "Lección de la carta del Apóstol San Pedro\n!1 Pe 5:6-11\nHermanos: Sed humildes bajo la poderosa mano de Dios, para que él os ensalce en su momento. Descargad en él todo vuestro agobio, porque él cuida de vosotros. Sed sobrios, velad. Vuestro adversario, el diablo, como león rugiente, ronda buscando a quien devorar. Resistidle, firmes en la fe, sabiendo que vuestra comunidad fraternal en el mundo entero está pasando por los mismos sufrimientos. Y el Dios de toda gracia que os ha llamado a su gloria eterna en Cristo Jesús, después de sufrir un poco, él mismo os restablecerá, os afianzará, os robustecerá y os consolidará. Suyo es el poder por los siglos. Amén.",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Petri Apóstoli.\n!1 Pet 5:6-11\nBien-aimés, humiliez-vous sous la puissante main de Dieu, afin qu'il vous élève au temps marqué ; déchargez-vous sur lui de toutes vos sollicitudes, car lui-même prend soin de vous. Soyez sobres, veillez ; votre adversaire, le diable, comme un lion rugissant, rode autour de vous, cherchant qui dévorer. Résistez-lui, fermes dans la foi, sachant que vos frères, dispersés dans le monde, endurent les mêmes souffrances que vous. Le Dieu de toute grâce, qui vous a appelés à sa gloire éternelle dans le Christ, après quelques souffrances, achèvera lui-même son œuvre, voua affermira, vous fortifiera, vous rendra inébranlables. À lui soient la gloire et la puissance, pour les siècles des siècles ! Amen !",
+    "it": "Lettura della Lettera del B. Pietro Ap.\n!1 Pet 5:6-11\nCarissimi: Umiliatevi sotto la potente mano di Dio, affinché vi esalti nel tempo della sua visita: e affidate a Lui ogni vostra preoccupazione, poiché Egli stesso ha cura di voi. Siate sobrii e vigilate, poiché il vostro nemico, il diavolo, vi circonda come un leone ruggente, cercando di divorare qualcuno: ad esso resistete forti nella fede; sapendo che le medesime sofferenze hanno i vostri fratelli sparsi per il mondo. Tuttavia, il Dio di ogni grazia, che ci ha chiamati alla sua gloria eterna in Cristo Gesú, ci perfezionerà dopo che avremo sofferto un poco, e ci confermerà nella fede, ci irrobustirà. A Lui gloria e impero nei secoli dei secoli. Amen."
+  },
+  "gradual": {
+    "la": "!Ps. 54:23; 54:17; 54:19\nJacta cogitátum tuum in Dómino: et ipse te enútriet.\nV. Dum clamárem ad Dóminum, exaudívit vocem meam ab his, qui appropínquant mihi. Allelúja, allelúja.\n!Ps. 7:12\nDeus judex justus, fortis et pátiens, numquid iráscitur per síngulos dies? Allelúja.",
+    "en": "!Ps. 54:23, 17, 19\nCast your care upon the Lord, and He will support you.\nV. When I called upon the Lord, He heard my voice from those who war against me. Alleluia, alleluia.\n!Ps 7:12\nA just judge is God, strong and patient; is He angry every day? Alleluia.",
+    "es": "!Ps 54:23, 17, 19\nPon tu suerte en manos del Señor, y él te sustentará.\nV. Yo clamo a Dios; él es ­mi voz y me libra de los que marchan contra mí. Aleluya, aleluya.\n!Ps. 7:12. ~\nV. Dios es juez íntegro y lento para la cólera. ¿Por ventura andará siempre airado?  Aleluya.",
+    "de": "",
+    "fr": "!Ps 54:23; 54:17; 54:19\nV. Tandis que je criais vers le Seigneur, il a exaucé ma voix et m'a délivré de ceux qui s'approchent de moi. Allelúja, allelúja\n!Ps 7:12\nDieu est un juge juste, fort et patient ; pourrait-il se mettre en colère toujours ? Allelúja.",
+    "it": "!Ps 54:23; 54:17; 54:19\nAffida ogni tua preoccupazione al Signore: ed Egli ti nutrirà.\nV. Mentre invocavo il Signore, ha esaudito la mia preghiera, liberandomi da coloro che mi circondavano. Allelúia, allelúia\n!Ps 7:12\nIddio, giudice giusto, forte e paziente, si adira forse tutti i giorni? Allelúia."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Lucam\n!Luc 15:1-10\nIn illo témpore: Erant appropinquántes ad Jesum publicáni et peccatóres, ut audírent illum. Et murmurábant pharisǽi et scribæ, dicéntes: Quia hic peccatóres recipit et mandúcat cum illis. Et ait ad illos parábolam istam, dicens: Quis ex vobis homo, qui habet centum oves: et si perdíderit unam ex illis, nonne dimíttit nonagínta novem in desérto, et vadit ad illam, quæ períerat, donec invéniat eam? Et cum invénerit eam, impónit in húmeros suos gaudens: et véniens domum, cónvocat amícos et vicínos, dicens illis: Congratulámini mihi, quia invéni ovem meam, quæ períerat? Dico vobis, quod ita gáudium erit in cœlo super uno peccatóre pœniténtiam agénte, quam super nonagínta novem justis, qui non índigent pœniténtia. Aut quæ múlier habens drachmas decem, si perdíderit drachmam unam, nonne accéndit lucérnam, et evérrit domum, et quærit diligénter, donec invéniat? Et cum invénerit, cónvocat amícas et vicínas, dicens: Congratulámini mihi, quia invéni drachmam, quam perdíderam? Ita dico vobis: gáudium erit coram Angelis Dei super uno peccatóre pœniténtiam agénte.",
+    "en": "Continuation + of the Holy Gospel according to Luke\n!Luke 15:1-10\nAt that time, the publicans and sinners were drawing near to Him to listen to Him. And the Pharisees and the Scribes murmured, saying, This man welcomes sinners and eats with them. But He spoke to them this parable, saying, What man of you having a hundred sheep, and losing one of them, does not leave the ninety-nine in the desert, and go after that which is lost, until he finds it? And when he has found it, he lays it upon his shoulders rejoicing. And on coming home he calls together his friends and neighbors, saying to them, ‘Rejoice with me, because I have found my sheep that was lost.’ I say to you that, even so, there will be joy in heaven over one sinner who repents, more then over ninety-nine just who have no need of repentance. Or what woman, having ten drachmas, if she loses one drachma, does not light a lamp and sweep the house and search carefully until she finds it? And when she has found it, she calls together her friends and neighbors, saying, ‘Rejoice with me, for I have found the drachma that I had lost.’ Even so, I say to you, there will be joy among the angels of God over one sinner who repents.",
+    "es": "Continuación + del Santo Evangelio según San Lucas.\n!Lc 15:1-10.\nEn aquel tiempo: Solían acercarse a Jesús todos los publicanos y los pecadores a escucharlo. Y los fariseos y los escribas murmuraban diciendo: «Ese acoge a los pecadores y come con ellos». Jesús les dijo esta parábola: «¿Quién de vosotros que tiene cien ovejas y pierde una de ellas, no deja las noventa y nueve en el desierto y va tras la descarriada, hasta que la encuentra? Y, cuando la encuentra, se la carga sobre los hombros, muy contento; y, al llegar a casa, reúne a los amigos y a los vecinos, y les dice: “¡Alegraos conmigo!, he encontrado la oveja que se me había perdido”. Os digo que así también habrá más alegría en el cielo por un solo pecador que se convierta que por noventa y nueve justos que no necesitan convertirse. O ¿qué mujer que tiene diez monedas, si se le pierde una, no enciende una lámpara y barre la casa y busca con cuidado, hasta que la encuentra? Y, cuando la encuentra, reúne a las amigas y a las vecinas y les dice: “¡Alegraos conmigo!, he encontrado la moneda que se me había perdido”. Os digo que la misma alegría tendrán los ángeles de Dios por un solo pecador que se convierta»",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Lucam.\n!Luc 15:1-10\nEn ce temps-là, les publicains et les pécheurs s'approchaient de Jésus pour l'entendre. Les Pharisiens et les scribes murmuraient, disant : « Cet homme accueille des pécheurs et mange avec eux. » Et il dit à leur adresse cette parabole : « Qui d'entre vous, ayant cent brebis, s'il en perd une, ne laisse pas les quatre-vingt-dix-neuf autres dans le désert, pour aller après celle qui est perdue, jusqu'à ce qu'il l'ait retrouvée ? Et quand il l'a retrouvée, il la met sur ses épaules tout joyeux et, de retour à la maison, il convoque les amis et les voisins et leur dit : « Réjouissez-vous avec moi, car j'ai retrouvé ma brebis qui était perdue. » Ainsi, je vous le dis, il y aura plus de joie dans le ciel pour un seul pécheur qui se repent, que pour quatre-vingt-dix-neuf justes qui n'ont pas besoin de repentance. Ou bien, quelle est la femme ayant dix drachmes qui, si elle perd une drachme, n'allume une lampe, ne balaie la maison, et ne cherche avec soin jusqu'à ce qu'elle l'ait retrouvée ? et quand elle l'a retrouvée, elle convoque les amies et les voisines et leur dit : « Réjouissez-vous avec moi, car j'ai retrouvé la drachme que j'avais perdue. » Ainsi, je vous le dis, il y a de la joie chez les anges de Dieu pour un seul pécheur qui se repent. »",
+    "it": "Séguito ++ del S. Vangelo secondo Luca.\n!Luc 15:1-10\nIn quel tempo: Si erano accostati a Gesú pubblicani e peccatori per ascoltarlo. E scribi e farisei mormoravano, dicendo: Riceve i peccatori e mangia con essi. Allora egli disse questa parabola: Chi di voi, avendo cento pecore, perdutane una, non lascia le novantanove nel deserto e va in cerca di quella smarrita finché la ritrova? E ritrovatala, non la pone contento sulle spalle e, tornato a casa, raduna amici e vicini, dicendo loro: Congratulatevi con me, perché ho ritrovata la pecora che si era smarrita? Io vi dico che in cielo vi sarà piú gioia per un peccatore che fa penitenza, che non per novantanove giusti che non hanno bisogno di penitenza. E qual è quella donna che, avendo dieci dracme, se ne avrà perduta una, non accende la lucerna e non spazza tutta la casa e non cerca diligentemente finché non la ritrova? E appena l’avrà ritrovata non chiama le amiche e le vicine, dicendo loro: Congratulatevi con me, perché ho ritrovata la dracma che avevo perduta? Io vi dico che vi sarà un grande gàudio tra gli Angeli di Dio per un peccatore che fa penitenza."
+  },
+  "offertory": {
+    "la": "!Ps. 9:11-12 9:13\nSperent in te omnes, qui novérunt nomen tuum, Dómine: quóniam non derelínquis quæréntes te: psállite Dómino, qui hábitat in Sion: quóniam non est oblítus oratiónem páuperum.",
+    "en": "!Ps. 9:11-13\nThey trust in You who cherish Your name, O Lord, for You forsake not those who seek You. Sing praise to the Lord enthroned in Sion, for He has not forgotten the cry of the afflicted.",
+    "es": "!Ps 9:11-13\nEsperen en ti cuantos conocen tu nombre, Señor, porque no abandonas a los que te buscan: Cantad al Señor, que mora en Sión, porque no olvida la oración de los pobres.",
+    "de": "",
+    "fr": "!Ps 9:11-12 9:13\nQu'espèrent en vous tous ceux qui connaissent votre Nom, Seigneur, car vous n'abandonnez pas ceux qui vous cherchent. Psalmodiez pour le Seigneur qui habite dans Sion, car il n'oublie pas la prière des pauvres.",
+    "it": "!Ps 9:11-12 9:13\nSperino in te tutti coloro che hanno conosciuto il tuo nome, o Signore: poiché non abbandoni chi ti cerca: cantate lodi al Signore, che àbita in Sion: poiché non ha trascurata la preghiera dei poveri."
+  },
+  "secret": [
+    {
+      "la": "Réspice, Dómine, múnera supplicántis Ecclésiæ: et salúti credéntium perpétua sanctificatióne suménda concéde.\n$Per Dominum",
+      "en": "Look favorably, O Lord, upon the offerings of Your prayerful Church and grant that those who believe may, in continual holiness, partake of them for their salvation.\n$Per Dominum",
+      "es": "Mira, Señor, los dones de la Iglesia suplicante; y haz que los reciban los fieles para su salud y perpetua santificación.\n$Per Dominum",
+      "de": "",
+      "fr": "Regardez, Seigneur, les offrandes de l'Église en prière, et faites-en , pour le salut des croyants, un aliment qui les sanctifie à jamais.\n$Per Dominum",
+      "it": "Guarda, o Signore, ai doni della Chiesa che ti supplica, e con la tua grazia incessante, fa che siano ricevuti per la salvezza dei fedeli.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Luc 15:10.\nDico vobis: gáudium est Angelis Dei super uno peccatóre pœniténtiam agénte.",
+    "en": "!Luke 15:10\nI say to you: there is joy among the angels of God over one sinner who repents.",
+    "es": "!Lc 15:10\nYo os digo que habrá gran alborozo entre los ángeles de Dios por un pecador que haga penitencia.",
+    "de": "",
+    "fr": "!Luc 15:10.\nJe vous le dis : il y a de la joie chez les anges de Dieu pour un pécheur qui fait pénitence.",
+    "it": "!Luc 15:10.\nVi dico: che grande gaudio vi è tra gli Angeli per un peccatore che fa penitenza."
+  },
+  "postcommunion": [
+    {
+      "la": "Sancta tua nos, Dómine, sumpta vivíficent: et misericórdiæ sempitérnæ prǽparent expiátos.\n$Per Dominum",
+      "en": "May the holy things of which we have partaken bring us to life and prepare for Your everlasting mercy those whom You have cleansed from sin.\n$Per Dominum",
+      "es": "Señor, que tus santos misterios nos den vida, laven nuestras culpas, y nos vayan disponiendo a recibir las eternas misericordias.\n$Per Dominum",
+      "de": "",
+      "fr": "Puisse le don sacré que nous avons reçu, Seigneur, nous procurer la vie, laver nos souillures et nous rendre dignes de l'éternelle miséricorde.\n$Per Dominum",
+      "it": "I tuoi santi misteri che abbiamo ricevuto, o Signore, ci vivifichino, e, purgandoci dai nostri falli, ci preparino all’eterna misericordia.\n$Per Dominum"
+    }
+  ]
+}

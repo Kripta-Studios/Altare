@@ -1,0 +1,93 @@
+{
+  "id": "Adv3-5",
+  "titleLatin": "Feria VI Quattuor Temporum in Adventu",
+  "titleVernacular": {
+    "en": "Feria VI Quattuor Temporum in Adventu",
+    "es": "Feria VI Quattuor Temporum in Adventu",
+    "de": "Quatemberfreitag im Advent",
+    "fr": "Feria VI Quattuor Temporum in Adventu",
+    "it": "Feria VI Quattuor Temporum in Adventu"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps 118:151-152\nv. Prope es tu, Dómine, et omnes viæ tuæ véritas: inítio cognóvi de testimóniis tuis, quia in ætérnum tu es.\n!Ps 118:1\nBeati immaculáti in via: qui ámbulant in lege Dómini.\n&Gloria\nv. Prope es tu, Dómine, et omnes viæ tuæ véritas: inítio cognóvi de testimóniis tuis, quia in ætérnum tu es.",
+    "en": "!Ps 118:151-152\nv. You, O Lord, are near, and all Your ways are truth. Of old I know from Your decrees that You are forever.\n!Ps 118:1\nHappy are they whose way is blameless, who walk in the law of the Lord.\n&Gloria\nv. You, O Lord, are near, and all Your ways are truth. Of old I know from Your decrees that You are forever.",
+    "es": "!Ps 118:151-152\nv. Cerca estas, Señor, y todos tus designios son verdad; ya de antiguo conozco tus preceptos, porque eres eterno.\n!Ps 118:1\nDichosos los de inmaculadas costumbres, que siguen la ley del Señor.\n&Gloria\nv. Cerca estas, Señor, y todos tus designios son verdad; ya de antiguo conozco tus preceptos, porque eres eterno.",
+    "de": "",
+    "fr": "!Ps 118:151-152\nv. Vous êtes proche, Seigneur, et toutes vos voies sont vérité ; je connais vos commandements depuis le début, car à jamais vous êtes.\n!Ps 118:1\nHeureux ceux qui sont sans tache dans le chemin, qui marchent dans la loi du Seigneur.\n&Gloria\nv. Vous êtes proche, Seigneur, et toutes vos voies sont vérité ; je connais vos commandements depuis le début, car à jamais vous êtes.",
+    "it": "!Ps 118:151-152\nv. Tu, O Signore, mi stai vicino; e tutti i tuoi comandi sono sinceri; da molto tempo io so dei tuoi precetti, che Tu li hai stabiliti in eterno.\n!Ps 118:1\nBeato chi è perfetto nel suo cammino, chi procede secondo la legge di Dio.\n&Gloria\nv. Tu, O Signore, mi stai vicino; e tutti i tuoi comandi sono sinceri; da molto tempo io so dei tuoi precetti, che Tu li hai stabiliti in eterno."
+  },
+  "collect": [
+    {
+      "la": "Excita, quǽsumus, Dómine, poténtiam tuam, et veni: ut hi, qui in tua pietáte confídunt, ab omni cítius adversitáte liberéntur:\n$Qui vivis",
+      "en": "Put forth Your power, O Lord, we beseech You, and come; that those who trust in Your goodness may soon be delivered from all harm.\n$Qui vivis",
+      "es": "Te suplicamos, Señor, que hagas ostentación de tu poder y vengas, a fin de que aquellos que confían en tu piedad sean liberados de toda adversidad.\n$Qui vivis",
+      "de": "",
+      "fr": "Réveillez votre puissance, Seigneur, et venez ; afin que ceux qui se confient en votre bonté soient libérés bientôt de toute adversité.\n$Qui vivis",
+      "it": "Signore, suscita la tua potenza, e vieni perché siano tosto liberati da ogni avversità coloro che confidano nella tua bontà:\n$Qui vivis"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Isaíæ Prophétæ\n!Is 11:1-5\nHæc dicit Dóminus Deus: Egrediétur virga de radíce Jesse, et flos de radíce ejus ascéndet. Et requiéscet super eum spíritus Dómini: spíritus sapiéntiæ et intelléctus, spíritus consílii et fortitúdinis, spíritus sciéntiæ et pietátis; et replébit eum spíritus timóris Dómini. Non secundum visiónem oculórum judicábit: neque secúndum audítum áurium árguet: sed judicábit in justítia páuperes, et árguet in æquitáte pro mansuétis terræ: et percútiet terram virga oris sui, et spíritu labiórum suórum interfíciet ímpium. Et erit justítia cíngulum lumbórum ejus: et fides cinctórium renum ejus.",
+    "en": "Lesson from the book of Isaias\n!Isa 11:1-5\nThus says the Lord God: A shoot shall sprout from the stump of Jesse, and from his roots a bud shall blossom. The spirit of the Lord shall rest upon Him: a spirit of wisdom and of understanding, a spirit of knowledge and of piety, and His delight shall be the fear of the Lord. Not by appearance shall He judge, nor by hearsay shall He decide, but He shall judge the poor with justice, and decide aright for the land’s afflicted. He shall strike the ruthless with the rod of His mouth, and with the breath of His lips He shall slay the wicked. Justice shall be the band around His waist, and faithfulness a belt upon His hips.",
+    "es": "Lección del profeta Isaías\n!Isa 11:1-5\nAsí dice el Señor, Dios: Pero brotará un renuevo del tronco de Jesé, y de su raíz florecerá un vástago. Sobre él se posará el espíritu del Señor: espíritu de sabiduría y entendimiento, espíritu de consejo y fortaleza, espíritu de ciencia y temor del Señor. Lo inspirará el temor del Señor. No juzgará por apariencias ni sentenciará de oídas; juzgará a los pobres con justicia,  sentenciará con rectitud a los sencillos de la tierra; pero golpeará al violento con la vara de su boca, y con el soplo de sus labios hará morir al malvado. La justicia será ceñidor de su cintura, y la lealtad, cinturón de sus caderas.",
+    "de": "",
+    "fr": "Léctio Isaíæ Prophétæ.\n!Is 11:1-5\nVoici ce que dit le Seigneur : « Un rameau sortira du tronc de Jessé, et de ses racines croîtra un rejeton. Sur lui reposera l'Esprit du Seigneur, esprit de sagesse et d'intelligence, esprit de conseil et de force, esprit de connaissance et de piété, et l'esprit de crainte du Seigneur le remplira. Il ne jugera point sur ce qui paraîtra à ses yeux, et il ne prononcera point sur ce qui frappera ses oreilles. Mais il jugera les petits avec justice, et prononcera selon le droit pour les humbles de la terre. Il frappera la terre de la verge de sa bouche, et par le souffle de ses lèvres il fera mourir l'impie. La justice ceindra ses flancs, et la fidélité sera la ceinture de ses reins. »",
+    "it": "Dal libro del profeta Isaia.\n!Is 11:1-5\nDice il Signore Iddio: Un germoglio spunterà dalla radice di Iesse, un fiore verrà su da questa radice e sopra di lui si riposerà lo Spirito del Signore, spirito di sapienza e d'intelletto, spirito di consiglio e di fortezza, spirito di scienza e di pietà; lo riempirà lo spirito del timor di Dio. Egli non giudicherà secondo quello che apparisce agli occhi, non condannerà secondo quello che si sente cogli orecchi; ma giudicherà con giustizia i poveri, e prenderà le giuste difese degli umili; percuoterà la terra colla verga della sua bocca, col soffio delle sue labbra farà morire l'empio. La giustizia cingerà i suoi fianchi, la fede fascerà il suo dorso."
+  },
+  "gradual": {
+    "la": "!Ps 84:8; 84:2\nOsténde nobis, Dómine, misericórdiam tuam: et salutáre tuum da nobis.\nV. Benedixísti, Dómine, terram tuam: avertísti captivitátem Jacob.",
+    "en": "!Ps 84:8, 2\nShow us, O Lord, Your kindness, and grant us Your salvation.\nV. You have favored, O Lord, Your land; You have restored the well-being of Jacob.",
+    "es": "!Ps 84:8, 2\nMuéstranos, Señor, tu misericordia, y danos tu salud.\nV. Oh Señor, tú has derramado la bendición sobre tu tierra: tú has libertado del cautiverio a Jacob.",
+    "de": "",
+    "fr": "!Ps 84:8; 84:2\nMontrez-nous, Seigneur, votre miséricorde, et donnez-nous votre salut.\nV. Vous avez béni votre terre, Seigneur, vous avez détourné la captivité de Jacob.",
+    "it": "!Ps 84:8; 84:2\nSignore, mostraci la tua misericordia e concedici la tua salvezza.\nV. O Signore, hai benedetto la tua terra; hai liberato Giacobbe dalla schiavitù."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Lucam\n!Luc 1:39-47\nIn illo témpore: Exsúrgens María ábiit in montána cum festinatióne in civitátem Juda: et intrávit in domum Zacharíæ et salutávit Elísabeth. Et factum est, ut audivit salutatiónem Maríæ Elísabeth, exsultávit infans in útero ejus: et repléta est Spíritu Sancto Elísabeth, et exclamávit voce magna et dixit: Benedícta tu inter mulíeres, et benedíctus fructus ventris tui. Et unde hoc mihi, ut véniat Mater Dómini mei ad me? Ecce enim, ut facta est vox salutatiónis tuæ in áuribus meis, exsultávit in gáudio infans in útero meo. Et beáta, quæ credidísti, quóniam perficiéntur ea, quæ dicta sunt tibi a Dómino. Et ait María: Magníficat ánima mea Dóminum: et exsultávit spíritus meus in Deo, salutári meo.",
+    "en": "Continuation + of the Holy Gospel according to Luke\n!Luke 1:39-47\nAt that time, Mary arose and went with haste into the hill country, to a town of Juda. And she entered the house of Zachary and saluted Elizabeth. And it came to pass, when Elizabeth heard the greeting of Mary, that the babe in her womb leapt. And Elizabeth was filled with the Holy Spirit, and cried out with a loud voice, saying, Blessed are you among women and blessed is the fruit of your womb! And how have I deserved that the Mother of my Lord should come to me? For behold, the moment that the sound of your greeting came to my ears, the babe in my womb leapt for joy. And blessed is she who has believed, because the things promised her by the Lord shall be accomplished. And Mary said, My soul magnifies the Lord, and my spirit rejoices in God my Saviour.",
+    "es": "Lectura + del Santo Evangelio según san Lucas\n!Lc 1:39-47\nEn aquellos mismos días, María se levantó y se puso en camino de prisa hacia la montaña, a una ciudad de Judá; entró en casa de Zacarías y saludó a Isabel. Aconteció que, en cuanto Isabel oyó el saludo de María, saltó la criatura en su vientre. Se llenó Isabel de Espíritu Santo y, levantando la voz, exclamó: «¡Bendita tú entre las mujeres, y bendito el fruto de tu vientre! ¿Quién soy yo para que me visite la madre de mi Señor? Pues, en cuanto tu saludo llegó a mis oídos, la criatura saltó de alegría en mi vientre. Bienaventurada la que ha creído, porque lo que le ha dicho el Señor se cumplirá». María dijo: «Proclama mi alma la grandeza del Señor, se alegra mi espíritu en Dios, mi salvador».",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Lucam.\n!Luc 1:39-47\nEn ce temps-là, Marie se leva et partit en hâte vers la montagne, en une ville de Juda. Et elle entra dans la maison de Zacharie, et salua Élisabeth. Et il arriva que, quand Élisabeth entendit la salutation de Marie, l'enfant tressaillit dans son sein, et elle fut remplie du Saint-Esprit. Elle s'écria à haute voix, disant : « Vous êtes bénie entre les femmes, et le fruit de vos entrailles est béni. Et d'où m'est-il donné que la mère de mon Seigneur vienne à moi ? Car votre voix, lorsque vous m'avez saluée, n'a pas plus tôt frappé mes oreilles, que l'enfant a tressailli de joie dans mon sein. Heureuse celle qui a cru ! Car elles seront accomplies les choses qui lui ont été dites de la part du Seigneur ! » Et Marie dit : « Mon âme glorifie le Seigneur, et mon esprit exulte en Dieu mon sauveur. »",
+    "it": "Seguito ++ del S. Vangelo secondo Luca.\n!Luc 1:39-47\nOr in quei giorni Maria si mise in viaggio per recarsi frettolosamente alla montagna, in una città di Giudea, ed entrò in casa di Zaccaria e salutò Elisabetta. Ed avvenne che, appena Elisabetta udì il saluto di Maria, il bambino le balzò nel seno; ed Elisabetta fu ripiena di Spirito Santo; ed esclamò ad alta voce: «Benedetta tu fra le donne, e benedetto il frutto del tuo seno. E donde a me la grazia che venga a visitarmi la madre del mio Signore? Ecco, infatti, appena il suono del tuo saluto mi è giunto all'orecchio, il bambino m'è balzato pel giubilo nel seno. E te beata che hai creduto, perché s'adempiranno le cose a te predette dal Signore». E Maria disse: «L'anima mia glorifica il Signore; ed il mio spirito esulta in Dio, mio Salvatore»."
+  },
+  "offertory": {
+    "la": "!Ps 84:7-8\nDeus, tu convérsus vivificábis nos, et plebs tua lætábitur in te: osténde nobis, Dómine, misericórdiam tuam, et salutáre tuum da nobis.",
+    "en": "!Ps 84: 7-8.\nWill You not, O God, give us life; and shall not Your people rejoice in You? Show us, O Lord, Your kindness, and grant us Your salvation.",
+    "es": "!Ps 84:7-8\nOh Dios, volviendo tú nos darás la vida; y tu pueblo se regocijara en ti: muéstranos, Señor, tu misericordia, danos tu salud.",
+    "de": "",
+    "fr": "!Ps 84:7-8\nC'est vous, Seigneur, qui nous rendrez la vie, et votre peuple se réjouira en vous. Montrez-nous, Seigneur, votre miséricorde, et donnez-nous votre salut.",
+    "it": "!Ps 84:7-8\nNon ci darai più la vita, o Dio, sì che in te gioisca il popolo tuo? Mostraci, Signore, il tuo amore, e donaci la tua salvezza."
+  },
+  "secret": [
+    {
+      "la": "@Commune/C2",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "Seigneur, qui accueillez nos dons et nos prières, purifiez-nous par ces mystères célestes, et exaucez-nous avec bonté.\n$Per Dominum",
+      "it": "O Signore, accolte queste nostre offerte e preghiere, purificaci, te ne preghiamo, con i celesti misteri e benigno ascoltaci.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Zach 14:5\nEcce, Dóminus véniet et omnes Sancti ejus cum eo: et erit in die illa lux magna.",
+    "en": "!Zach 14:5-6\nBehold, the Lord shall come, and all His holy ones with Him: and there shall be in that day a great light.",
+    "es": "!Zac 14:5-6\nHe aquí que vendrá el Señor, y todos sus santos con el; y habrá en aquel día una gran luz.",
+    "de": "",
+    "fr": "!Zach 14:5\nVoici que le Seigneur va venir, et tous ses saints avec lui ; et il y aura en ce jour-là une grande lumière.",
+    "it": "!Zach 14:5\nEcco, il Signore verrà con tutti i suoi Santi ed in quel giorno sarà gran luce."
+  },
+  "postcommunion": [
+    {
+      "la": "Tui nos, Dómine, sacraménti libátio sancta restáuret: et a vetustáte purgátos, in mystérii salutáris fáciat transíre consórtium.\n$Per Dominum",
+      "en": "May the devout reception of Your sacrament, O Lord, give us new strength, purge us of our old selves and let us come to share in the mystery of salvation.\n$Per Dominum",
+      "es": "Fortifíquenos, oh Señor, la santa libación de tu sacramento: y purificados de nuestros antiguos pecados, haz que podamos unirnos al misterio de la salvación.\n$Per Dominum",
+      "de": "",
+      "fr": "Que le saint repas où se consomme votre sacrement renouvelle nos forces, Seigneur ; et qu'effaçant en nous l'antique déchéance, il nous donne part au mystère du salut.\n$Per Dominum",
+      "it": "O Signore, ci ristori questa sacra partecipazione al tuo Sacramento; e purificati dall'uomo vecchio ci renda partecipi di questo mistero di salute.\n$Per Dominum"
+    }
+  ]
+}

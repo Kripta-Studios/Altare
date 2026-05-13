@@ -1,0 +1,93 @@
+{
+  "id": "Pasc5-0",
+  "titleLatin": "Dominica V Post Pascha",
+  "titleVernacular": {
+    "en": "Dominica V Post Pascha",
+    "es": "Dominica V Post Pascha",
+    "de": "Fünfter Sonntag nach Ostern",
+    "fr": "Dominica V Post Pascha",
+    "it": "Dominica V Post Pascha"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Isa 48:20\nv. Vocem jucunditátis annuntiáte, et audiátur, allelúja: annuntiáte usque ad extrémum terræ: liberávit Dóminus pópulum suum, allelúja, allelúja.\n!Ps 65:1-2\nJubiláte Deo, omnis terra, psalmum dícite nómini ejus: date glóriam laudi ejus.\n&Gloria\nv. Vocem jucunditátis annuntiáte, et audiátur, allelúja: annuntiáte usque ad extrémum terræ: liberávit Dóminus pópulum suum, allelúja, allelúja.",
+    "en": "!Isa 48:20\nv. Declare it with the voice of joy: make this to be heard, allelúja: and speak it out even to the ends of the earth. Say: The Lord hath redeemed his people, allelúja, allelúja\n!Ps 65:1-2\nv. Shout with joy to God, all the earth, sing ye a psalm to his name; give glory to his praise.\n&Gloria\nv. Declare it with the voice of joy: make this to be heard, allelúja: and speak it out even to the ends of the earth. Say: The Lord hath redeemed his people, allelúja, allelúja.",
+    "es": "",
+    "de": "",
+    "fr": "!Isa 48:20\nv. Avec des cris de joie, annoncez-le, et qu'on l'entende, alléluia ; faites-le savoir jusqu'aux extrémités de la terre : le Seigneur a libéré son peuple, alléluia, alléluia.\n!Ps 65:1-2\nJubilez pour Dieu, toute la terre, psalmodiez pour son Nom ; donnez de l'éclat à sa louange.\n&Gloria\nv. Avec des cris de joie, annoncez-le, et qu'on l'entende, alléluia ; faites-le savoir jusqu'aux extrémités de la terre : le Seigneur a libéré son peuple, alléluia, alléluia.",
+    "it": "!Isa 48:20\nv. Annunciate la gioiosa notizia, che sia ascoltata, allelúia: annunciatela fino all’estremo della terra: il Signore ha liberato il suo pòpolo, allelúia, allelúia\n!Ps 65:1-2\nAcclama a Dio, o terra tutta, canta un inno al suo nome: dà a Lui lode di gloria.\n&Gloria\nv. Annunciate la gioiosa notizia, che sia ascoltata, allelúia: annunciatela fino all’estremo della terra: il Signore ha liberato il suo pòpolo, allelúia, allelúia."
+  },
+  "collect": [
+    {
+      "la": "Deus, a quo bona cuncta procédunt, largíre supplícibus tuis: ut cogitémus, te inspiránte, quæ recta sunt; et, te gubernánte, éadem faciámus.\n$Per Dominum.",
+      "en": "O God, from Whom all good things do come, grant to us thy humble servants that by thy holy inspiration we may think those things that be good, and by thy merciful guiding may perform the same.\n$Per Dominum.",
+      "es": "",
+      "de": "",
+      "fr": "Ô Dieu, principe de tout ce qui est bon, exaucez la prière de vos fidèles et accordez-nous, sous votre inspiration et votre impulsion, une égale rectitude dans nos pensées et dans nos actes.\n$Per Dominum.",
+      "it": "O Dio, da cui procede ogni bene, concedi a noi súpplici di pensare, per tua ispirazione, le cose che son giuste; e, sotto la tua direzione, di compierle.\n$Per Dominum."
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Jacóbi Apóstoli\n!Jas 1:22-27\nCaríssimi: Estóte factóres verbi, et non auditóres tantum: falléntes vosmetípsos. Quia si quis audítor est verbi et non factor: hic comparábitur viro consideránti vultum nativitátis suæ in spéculo: considerávit enim se et ábiit, et statim oblítus est, qualis fúerit. Qui autem perspéxerit in legem perfectam libertátis et permánserit in ea, non audítor obliviósus factus, sed factor óperis: hic beátus in facto suo erit. Si quis autem putat se religiósum esse, non refrénans linguam suam, sed sedúcens cor suum, hujus vana est relígio. Relígio munda et immaculáta apud Deum et Patrem hæc est: Visitáre pupíllos et viduas in tribulatióne eórum, et immaculátum se custodíre ab hoc sǽculo.",
+    "en": "Lesson from the letter of St James the Apostle\n!Jas 1:22-27\nv. Dearly beloved: But be ye doers of the word, and not hearers only, deceiving your own selves. For if a man be a hearer of the word, and not a doer, he shall be compared to a man beholding his own countenance in a glass. For he beheld himself, and went his way, and presently forgot what manner of man he was. But he that hath looked into the perfect law of liberty, and hath continued therein, not becoming a forgetful hearer, but a doer of the work; this man shall be blessed in his deed. And if any man think himself to be religious, not bridling his tongue, but deceiving his own heart, this man's religion is vain. Religion clean and undefiled before God and the Father, is this: to visit the fatherless and widows in their tribulation: and to keep one's self unspotted from this world.",
+    "es": "",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Jacóbi Apóstoli.\n!Ja 1:22-27\nBien-aimés, efforcez-vous de mettre en pratique la Parole de Dieu, et ne vous contentez pas de l'écouter, en vous abusant vous-mêmes. Car, si quelqu'un écoute la Parole et ne l'observe pas, il est semblable à un homme qui regarde dans un miroir le visage qu'il tient de la nature : à peine s'est-il considéré, qu'il s'en est allé, oubliant aussitôt ce qu'il était. Celui, au contraire, qui fixe son regard sur la loi parfaite, la loi de liberté, et qui demeure en elle, n'écoutant pas pour oublier aussitôt, mais pratiquant ce qu'il a entendu, celui-là trouvera son bonheur en l'accomplissant. Si quelqu'un s'imagine être religieux sans mettre un frein à sa langue, il s'abuse lui-même et sa religion est vaine. La religion pure et sans tache devant notre Dieu et Père, n'est pas autre qu'avoir soin des orphelins et des veuves dans leur détresse, et se préserver pur des souillures de ce monde.",
+    "it": "Lettura della Lettera del B. Giacomo Ap.\n!Jas 1:22-27\nCaríssimi: Mettete in pratica la parola di Dio, non vi limitate ad ascoltarla, ingannando voi stessi. Perché chi ascolta la parola e non la mette in pratica è simile ad un uomo che guarda in uno specchio il suo volto e, dopo essersi mirato, se ne va e lo dimentica subito. Chi invece, avendo considerato attentamente la legge perfetta della libertà, e avendo perseverato nel mirarla, ne è divenuto, non uditore immemore, ma praticante: costui sarà beato nel suo operare. Se uno ritiene di essere religioso e non tiene a freno la sua lingua, illude se stesso, e la sua religione è vana. La religione pura e immacolata agli occhi di Dio Padre consiste in questo: nel visitare gli orfani e le vedove nelle loro tribolazioni, e nel non lasciarsi contaminare dal mondo."
+  },
+  "gradual": {
+    "la": "Allelúja, allelúja.\nV. Surréxit Christus, et illúxit nobis, quos rédemit sánguine suo. Allelúja.\n!Joannes 16:28\nExívi a Patre, et veni in mundum: íterum relínquo mundum, et vado ad Patrem. Allelúja.",
+    "en": "Allelúja, allelúja.\nV. Christ is risen and hath shone upon us whom he redeemed with his blood. Alleluia.\n!John 16:28\nv. I came forth from the Father, and am come into the world: again I leave the world, and I go to the Father. Allelúja.",
+    "es": "",
+    "de": "",
+    "fr": "Allelúja, allelúja.\nV. Le Christ est ressuscité et a fait briller sa lumière sur nous, qu'il a rachetés par son Sang. Alléluia.\n!Joannes 16:28\nJe suis sorti du Père, et je suis venu dans le monde ; de nouveau je quitte le monde et je vais au Père. Allelúja.",
+    "it": "Allelúia, allelúia.\nV. Il Cristo è risuscitato e ha fatto sorgere la sua luce su di noi, che siamo redenti dal suo sangue. Allelúia.\n!Joannes 16:28\nUscii dal Padre e venni nel mondo: ora lascio il mondo e ritorno al Padre. Allelúia."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem\n!Joann 16:23-30\nIn illo témpore: Dixit Jesus discípulis suis: Amen, amen, dico vobis: si quid petiéritis Patrem in nómine meo, dabit vobis. Usque modo non petístis quidquam in nómine meo: Pétite, et accipiétis, ut gáudium vestrum sit plenum. Hæc in provérbiis locútus sum vobis. Venit hora, cum jam non in provérbiis loquar vobis, sed palam de Patre annuntiábo vobis. In illo die in nómine meo petétis: et non dico vobis, quia ego rogábo Patrem de vobis: ipse enim Pater amat vos, quia vos me amástis, et credidístis quia ego a Deo exívi. Exívi a Patre et veni in mundum: íterum relínquo mundum et vado ad Patrem. Dicunt ei discípuli ejus: Ecce, nunc palam loquéris et provérbium nullum dicis. Nunc scimus, quia scis ómnia et non opus est tibi, ut quis te intérroget: in hoc crédimus, quia a Deo exísti.",
+    "en": "Continuation + of the Holy Gospel according to John\n!John 16:23-30\nv. In that time, Jesus said to His disciples: Amen, amen I say to you: if you ask the Father any thing in my name, he will give it you. Hitherto you have not asked any thing in my name. Ask, and you shall receive; that your joy may be full. These things I have spoken to you in proverbs. The hour cometh, when I will no more speak to you in proverbs, but will shew you plainly of the Father. In that day you shall ask in my name; and I say not to you, that I will ask the Father for you: For the Father himself loveth you, because you have loved me, and have believed that I came out from God. I came forth from the Father, and am come into the world: again I leave the world, and I go to the Father. His disciples say to him: Behold, now thou speakest plainly, and speakest no proverb. Now we know that thou knowest all things, and thou needest not that any man should ask thee. By this we believe that thou camest forth from God.",
+    "es": "",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Joánnem.\n!Joann 16:23-30\nEn ce temps-là, Jésus dit à ses disciples : « En vérité, en vérité je vous le dis, tout ce que vous demanderez à mon Père en mon Nom, il vous le donnera. Jusqu'à présent vous n'avez rien demandé en mon Nom : demandez, et vous recevrez, afin que votre joie soit parfaite. Je vous ai dit ces choses en paraboles. L'heure vient où je ne vous parlerai plus en paraboles, mais je vous parlerai ouvertement du Père. En ce jour-là, vous demanderez en mon Nom, et je ne vous dis point que je prierai le Père pour vous. Car le Père lui-même vous aime, parce que vous m'avez aimé, et que vous avez cru que je suis sorti du Père. Je suis sorti du Père, et je suis venu dans le monde ; maintenant je quitte le monde et je vais au Père. » Ses disciples lui dirent : « Voilà que tu parles ouvertement et sans te servir d'aucune figure. Maintenant nous voyons que tu sais toutes choses, et que tu n'as pas besoin que personne t'interroge ; c'est pourquoi nous croyons que tu es sorti de Dieu. »",
+    "it": "Séguito ++ del S. Vangelo secondo Giovanni.\n!Joann 16:23-30\nIn quel tempo: Gesú disse ai suoi discepoli: In verità, in verità vi dico: qualunque cosa domanderete al Padre nel mio nome, ve la concederà. Fino adesso non avete chiesto nulla nel mio nome: chiedete, e otterrete, affinché il vostro gaudio sia completo. Vi ho detto queste cose per mezzo di parabole. Ma viene il tempo che non vi parlerò più per mezzo di parabole, ma vi parlerò apertamente del Padre. In quel giorno chiederete nel mio nome, e non vi dico che io pregherò il Padre per voi: poiché lo stesso Padre vi ama perché avete amato me e avete creduto che sono uscito da Dio. Uscii dal Padre e venni nel mondo: ed ora lascio il mondo e torno al Padre. Gli dicono i suoi discepoli: Ecco che ora parli chiaramente e senza parabole. Adesso conosciamo che tu sai tutto, e non hai bisogno che alcuno ti interroghi: per questo crediamo che tu sei venuto da Dio."
+  },
+  "offertory": {
+    "la": "!Ps 65:8-9; 65:20\nBenedícite, gentes, Dóminum, Deum nostrum, et obaudíte vocem laudis ejus: qui pósuit ánimam meam ad vitam, et non dedit commovéri pedes meos: benedíctus Dóminus, qui non amóvit deprecatiónem meam et misericórdiam suam a me, allelúja.",
+    "en": "!Ps 65:8-9; 65:20\nv.  O bless our God, ye Gentiles: and make the voice of his praise to be heard. Who hath set my soul to live: and hath not suffered my feet to be moved: Blessed be God, who hath not turned away my prayer, nor his mercy from me, allelúja.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 65:8-9; 65:20\nPeuples, bénissez le Seigneur notre Dieu, et faites retentir sa louange. Il a gardé mon âme en vie, et n'a pas laissé mes pieds trébucher. Béni soit le Seigneur, lui qui n'a pas repoussé ma prière ni détourné de moi sa miséricorde, alléluia.",
+    "it": "!Ps 65:8-9; 65:20\nPópoli, benedite il Signore Dio nostro, e fate risuonare le sue lodi: Egli che pose in salvo la mia vita e non ha permesso che il mio piede vacillasse. Benedetto sia il Signore che non ha respinto la mia preghiera, né ritirato da me la sua misericordia, allelúia."
+  },
+  "secret": [
+    {
+      "la": "@Tempora/Pasc0-2:Secreta",
+      "en": "Receive, O Lord, the prayers of thy faithful with offerings of victims, that by these services of pious devotion we may pass to heavenly glory.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Accueillez, Seigneur, les prières des fidèles avec l'offrande de ce sacrifice, afin qu'en vous rendant ces devoirs de pieuse fidélité, nous parvenions à la gloire du ciel.\n$Per Dominum",
+      "it": "Accogli, o Signore, le preghiere dei fedeli, in uno con l’offerta delle ostie, affinché, mediante la pratica della nostra pia devozione, perveniamo alla gloria celeste.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Ps 95:2\nCantáte Dómino, allelúja: cantáte Dómino et benedícite nomen ejus: bene nuntiáte de die in diem salutáre ejus, allelúja, allelúja.",
+    "en": "!Ps 95:2\nv.  Sing ye to the Lord and bless his name: shew forth his salvation from day to day, allelúja, allelúja.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 95:2\nChantez pour le Seigneur, alléluia ; chantez pour le Seigneur et bénissez son Nom. Jour après jour, annoncez son salut, alléluia, alléluia.",
+    "it": "!Ps 95:2\nCantate al Signore, allelúia: cantate al Signore e benedite il suo nome: di giorno in giorno proclamate la salvezza da Lui operata, allelúia, allelúia."
+  },
+  "postcommunion": [
+    {
+      "la": "Tríbue nobis, Dómine, cæléstis mensæ virtúte satiátis: et desideráre, quæ recta sunt, et desideráta percípere.\n$Per Dominum",
+      "en": "Grant us, O Lord, fed with the virtue of a heavenly table, to desire what is right, and to gain what we desire.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Après nous avoir rassasiés des mets de la table céleste, accordez-nous, Seigneur, de rechercher ce qui est juste et de l'obtenir.\n$Per Dominum",
+      "it": "Concedici, o Signore, che, saziati dalla forza di questa mensa celeste, desideriamo le cose giuste e conseguiamo le desiderate.\n$Per Dominum"
+    }
+  ]
+}

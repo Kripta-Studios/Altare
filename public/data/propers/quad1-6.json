@@ -1,0 +1,93 @@
+{
+  "id": "Quad1-6",
+  "titleLatin": "Sabbato Quattuor Temporum Quadrageismæ",
+  "titleVernacular": {
+    "en": "Sabbato Quattuor Temporum Quadrigesimæ",
+    "es": "Sabbato Quattuor Temporum Quadrigesimæ",
+    "de": "Quartembersamstag in der Fastenzeit",
+    "fr": "Sabbato Quattuor Temporum Quadrigeismæ",
+    "it": "Sabbato Quattuor Temporum Quadrigeismæ"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": false,
+  "introit": {
+    "la": "!Ps 87:3\nv. Intret orátio mea in conspéctu tuo: inclína aurem tuam ad precem meam, Dómine.\n!Ps 87:2\nDómine, Deus salútis meæ: in die clamávi, et nocte coram te.\n&Gloria\nv. Intret orátio mea in conspéctu tuo: inclína aurem tuam ad precem meam, Dómine.",
+    "en": "!Ps 87:3\nv. Let my prayer come before You; incline Your ear to my call for help, O Lord.\n!Ps 87:2\nO Lord, the God of my salvation, by day I cry out, at night I clamor in Your presence.\n&Gloria\nv. Let my prayer come before You; incline Your ear to my call for help, O Lord.",
+    "es": "!Ps 87:3\nv. En tu presencia sea recibida mi oración: da oídos a mí suplica, oh Señor.\n!Ps 87:2\nSeñor Dios de mi salud, día y noche estoy clamando en tu presencia.\n&Gloria\nv. En tu presencia sea recibida mi oración: da oídos a mí suplica, oh Señor.",
+    "de": "",
+    "fr": "!Ps 87:3\nv. Que ma prière pénètre jusqu’à vous, Seigneur, prêtez l’oreille à ma supplication.\n!Ps 87:2\nSeigneur, Dieu de mon salut, devant vous j’ai crié le jour et la nuit.\n&Gloria\nv. Que ma prière pénètre jusqu’à vous, Seigneur, prêtez l’oreille à ma supplication.",
+    "it": "!Ps 87:3\nv. Giunga fino a te la mia preghiera: china il tuo orecchio alla mia prece, o Signore.\n!Ps 87:2\nSignore, Dio di salvezza, a te io levo la mia voce giorno e notte.\n&Gloria\nv. Giunga fino a te la mia preghiera: china il tuo orecchio alla mia prece, o Signore."
+  },
+  "collect": [
+    {
+      "la": "Pópulum tuum, quǽsumus, Dómine, propítius réspice: atque ab eo flagélla tuæ iracúndiæ cleménter avérte.\n$Per Dominum",
+      "en": "Look graciously upon Your people, we beseech You, O Lord, and in Your mercy turn away from them the scourges of Your wrath.\n$Per Dominum",
+      "es": "Te suplicamos, Señor, que mires propicio a tu pueblo, y que apartes de él con tu clemencia el azote de tu indignación.\n$Per Dominum",
+      "de": "",
+      "fr": "Regardez, Seigneur, votre peuple d’un œil favorable, et, dans votre clémence, détournez de lui les fléaux de votre colère.\n$Per Dominum",
+      "it": "Signore, te ne preghiamo, guarda benevolo il tuo popolo; e pietoso da esso allontana i flagelli della tua giustizia.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Thessalonicénses\n!1 Thess 5:14-23\nFratres: Rogámus vos, corrípite inquiétos, consolámini pusillánimes, suscípite infirmos, patiéntes estóte ad omnes. Vidéte, ne quis malum pro malo alícui reddat: sed semper quod bonum est sectámini in ínvicem, et in omnes. Semper gaudéte. Sine intermissióne oráte. In ómnibus grátias ágite: hæc est enim volúntas Dei in Christo Jesu in ómnibus vobis. Spíritum nolíte exstínguere. Prophetías nolíte spérnere. Omnia autem probáte: quod bonum est tenéte. Ab omni spécie mala abstinéte vos. Ipse autem Deus pacis sanctíficet vos per ómnia: ut ínteger spíritus vester, et ánima, et corpus sine queréla, in advéntu Dómini nostri Jesu Christi servétur.",
+    "en": "Lesson from the first Letter of St. Paul to the Thessalonians\n!1 Thess. 5:14-23\nBrethren: We exhort you, reprove the irregular, comfort the fainthearted, support the weak, be patient toward all men. See that no one renders evil for evil to any man; but always strive after good toward one another and toward all men. Rejoice always. Pray without ceasing. In all things give thanks; for this is the will of God in Christ Jesus regarding you all. Do not extinguish the Spirit. Do not despise prophecies. But test all things; hold fast that which is good. Keep yourselves from every kind of evil. And may the God of peace Himself sanctify you completely, and may your spirit and soul and body be preserved sound, blameless at the coming of our Lord Jesus Christ.",
+    "es": "Lección de la primera carta de San Pablo a los Tesalonicenses\n!1 Tes 5:14-23\nOs rogamos también, hermanos, que corrijáis a los inquietos, que consoléis a los pusilánimes, que soportéis a los flacos, que seáis pacientes con todos.  Procurad que ninguno vuelva a otro mal por mal; sino tratad de hacer siempre bien unos a otros, y a todo el mundo. Vivid siempre alegres. Orad sin intermisión. Dad gracias por todo al Señor; porque esto es lo que quiere Dios que hagáis todos en nombre de Jesucristo. No apaguéis el Espíritu de Dios. No despreciéis las profecías, apreciadlas. Examinad, sí, todas las cosas, y ateneos a lo bueno y conforme a la buena nueva. Apartaos aun de toda apariencia de mal. Y el Dios de la paz os haga santos en todo, a fin de que vuestro espíritu entero, con alma y cuerpo se conserven sin culpa para cuando venga nuestro Señor Jesucristo.",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Pauli Apóstoli ad Thessalonicénses\n!1 Thess 5:14-23\nFrères, nous vous en prions, reprenez ceux qui sont dans le désordre, consolez ceux qui sont abattus, soutenez les faibles, soyez patients envers tous. Prenez garde que personne ne rende à autrui le mal pour le mal ; mais poursuivez toujours le bien, et entre vous, et envers vous. Soyez toujours dans la joie. Priez sans cesse. Rendez grâces en toutes choses ; car c’est là ce que Dieu veut de vous tous en Jésus-Christ. N’éteignez pas l’Esprit. Ne méprisez pas les prophéties ; mais examinez toutes choses, retenez ce qui est bon. Abstenez-vous de toute espèce de mal. Que le Dieu de paix vous sanctifie lui-même de toute manière, afin que tout votre esprit, votre âme et votre corps soient conservés irréprochables lors de l’avènement de Notre-Seigneur Jésus-Christ.",
+    "it": "Dalla prima lettera di san Paolo apostolo ai Tessalonicesi\n!1 Thess 5:14-23\nVi esortiamo ancora, o fratelli, a correggere i disordinati, a consolare i pusillanimi, a sostenere i deboli, ad esser pazienti con tutti. Badate che nessuno renda ad un altro male per male: ma fatevi del bene a vicenda e verso di tutti. Siate sempre allegri. Non cessate mai di pregare. In ogni cosa rendete grazie, perché tale è la volontà di Dio in Cristo Gesù riguardo a tutti voi. Non spegnete lo Spirito. Non disprezzate le profezie; ma esaminate tutto e ritenete il bene. Guardatevi da ogni apparenza di male. E il Dio della pace vi santifichi completamente, in modo che tutto il vostro spirito e l'anima e il corpo si conservino irreprensibili per quando verrà il Signore nostro Gesù Cristo."
+  },
+  "gradual": {
+    "la": "!Ps 116:1-2\nLaudáte Dóminum, omnes gentes: et collaudáte eum, omnes pópuli.\nV. Quóniam confirmáta est super nos misericórdia ejus: et véritas Dómini manet in ætérnum.",
+    "en": "!Ps 116:1-2\nPraise the Lord, all you nations, glorify Him, all you peoples!\nV. For steadfast is His kindness toward us, and the fidelity of the Lord endures forever.",
+    "es": "!Ps 116:1-2\nAlabad al Señor todas las naciones; alabadle, pueblos todos.\nV. Porque se afianzó su misericordia a favor nuestro, y la fidelidad del Señor subsiste eternamente.",
+    "de": "",
+    "fr": "!Ps 116:1-2\nNations, louez toutes le Seigneur ; peuples, louez-le tous.\nV. Car sa miséricorde a été affermie sur nous, et la vérité du Seigneur demeure éternellement.",
+    "it": "!Ps 116:1-2\nPopoli tutti, lodate il Signore, esaltatelo, o genti!\nV. È forte il suo amore per noi, la verità del Signore è per sempre."
+  },
+  "gospel": {
+    "la": "@Tempora/Quad2-0:Evangelium",
+    "en": "Continuation of the Holy Gospel according to Matthew.\n!Matt 17:1-9\nAt that time, Jesus took Peter, James and his brother John, and led them up a high mountain by themselves, and was transfigured before them. And His face shone as the sun, and His garments became white as snow. And behold, there appeared to them Moses and Elias talking together with Him. Then Peter addressed Jesus, saying, Lord, it is good for us to be here. If You will, let us set up three tents here, one for You, one for Moses, and one for Elias. As he was still speaking, behold, a bright cloud overshadowed them, and behold, a voice out of the cloud said, This is My beloved Son, in Whom I am well pleased; hear Him. And on hearing it the disciples fell on their faces and were exceedingly afraid. And Jesus came near and touched them, and said to them, Arise, and do not be afraid. But lifting up their eyes, they saw no one but Jesus only. And as they were coming down from the mountain, Jesus cautioned them, saying, Tell the vision to no one, till the Son of Man has risen from the dead.",
+    "es": "Continuación + del Santo Evangelio según San Mateo\n!Mt 17:1-9\nSeis días después tomó Jesús consigo a Pedro, y a Santiago, y a Juan su hermano; y subiendo con ellos solos a un alto monte, se transfiguró en su presencia; de modo que su rostro se puso resplandeciente como el sol, y sus vestidos blancos como la nieve. Y al mismo tiempo les aparecieron Moisés y Elías conversando con él. Entonces Pedro, tomando la palabra, dijo a Jesús: Señor, bueno es estarnos aquí; si te parece, formemos aquí tres pabellones, uno para ti, otro para Moisés y otro para Elías. Todavía estaba Pedro hablando, cuando una nube resplandeciente vino a cubrirlos; y al mismo instante resonó desde la nube una voz que decía: Este es mi querido Hijo, en quien tengo todas mis complacencias. A él habéis de escuchar. A esta voz los discípulos cayeron sobre su rostro en tierra, y quedaron poseídos de un gran espanto. Mas Jesús se acercó a ellos, los tocó, y les dijo: Levantaos, y no tengáis miedo. Y alzando los ojos, no vieron a nadie más, sino a Jesús. Y al bajar del monte, les puso Jesús precepto, diciendo: No digáis a nadie lo que habéis visto, hasta tanto que el Hijo del hombre haya resucitado de entre los muertos.",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Matthǽum.\n!Matt 17:1-9\nEn ce temps-là, Jésus prit avec lui Pierre, Jacques, et Jean son frère, et les conduisit à l’écart sur une haute montagne. Et il fut transfiguré devant eux : son visage resplendit comme le soleil, et ses vêtements devinrent blancs comme la neige. Et voici que Moïse et Élie leur apparurent, s’entretenant avec lui. Alors Pierre prenant la parole, dit à Jésus : Seigneur, il nous est bon d’être ici ; si vous le voulez, faisons-y trois tentes, une pour vous, une pour Moïse, et une pour Élie. Comme il parlait encore, voici qu’une nuée lumineuse les couvrit ; et voici qu’une voix sortit de la nuée, disant : Celui-ci est mon Fils bien-aimé, en qui j’ai mis toutes mes complaisances ; écoutez-le. Les disciples, l’entendant, tombèrent le visage contre terre, et furent saisis d’une grande crainte. Mais Jésus, s’approchant, les toucha, et leur dit : Levez-vous, et ne craignez point. Alors, levant les yeux, ils ne virent plus que Jésus seul. Lorsqu’ils descendaient de la montagne, Jésus leur donna cet ordre : Ne parlez à personne de ce que vous avez vu, jusqu’à ce que le Fils de l’homme soit ressuscité d’entre les morts.",
+    "it": "Seguito ++ del Santo vangelo secondo Matteo.\n!Matt 17:1-9\nIn quel tempo, Gesù prese con sé Pietro, Giacomo e Giovanni suo fratello, e li condusse in disparte, su un alto monte; e, davanti a loro, si trasfigurò. Il suo volto si fece splendente come il sole, le sue vesti divennero candide come la neve. Ed ecco, apparvero Mosè ed Elia, in colloquio con lui. Pietro allora, prendendo la parola, disse a Gesù: «Signore, è bene per noi stare qui. Se vuoi, facciamo qui tre tende: una per te, una per Mosè e una per Elia». Mentr'egli ancora parlava, ecco una nube luminosa li avvolse, e una voce dalla nube disse: «Questo è il mio Figlio diletto, nel quale ho riposto la mia compiacenza: ascoltatelo». A questa voce, i discepoli caddero faccia a terra, e furon presi da grande spavento. Ma Gesù si accostò a loro, li toccò e disse: «Alzatevi e non abbiate timore». Ed essi, alzati gli occhi, non videro più alcuno, all'infuori di Gesù. Mentre scendevano dal monte, Gesù diede loro quest'ordine: «Non fate parola ad alcuno di questa visione, prima che il Figlio dell'uomo sia risorto dai morti»."
+  },
+  "offertory": {
+    "la": "!Ps 87:2-3\nDómine, Deus salútis meæ, in die clamávi et nocte coram te: intret orátio mea in conspéctu tuo, Dómine.",
+    "en": "!Ps 87:2-3\nO Lord, the God of my salvation, by day I cry out, at night I clamor in Your presence. Let my prayer come before You, O Lord.",
+    "es": "!Ps 87:2-3\nSeñor, Dios de mi salvación, día y noche te imploro; llegue, Señor, a tu presencia mi oración.",
+    "de": "",
+    "fr": "!Ps 87:2-3\nSeigneur, Dieu de mon salut, devant vous j’ai crié le jour et la nuit ; que ma prière pénètre jusqu’à vous, Seigneur.",
+    "it": "!Ps 87:2-3\nSignore Dio della mia salvezza, giorno e notte io gemo innanzi a te; giunga fino al tuo cospetto la mia preghiera, o Signore."
+  },
+  "secret": [
+    {
+      "la": "Præséntibus sacrifíciis, quǽsumus, Dómine, jejúnia nostra sanctífica: ut, quod observántia nostra profitétur extrínsecus, intérius operétur.\n$Per Dominum",
+      "en": "Sanctify our fasts by the sacrificial gifts here present, we beseech You, O Lord, that what our observance outwardly professes may be inwardly accomplished.\n$Per Dominum",
+      "es": "Te suplicamos, Señor, que santifiques nuestros ayunos con al presente sacrificio; a fin de que los signos eternos de nuestra penitencia coincidan con los sentimientos profundos de nuestra alma.\n$Per Dominum",
+      "de": "",
+      "fr": "Nous vous en supplions, Seigneur, daignez sanctifier nos jeûnes par le présent sacrifice, pour que le changement que leur observation marque extérieurement, s’accomplisse intérieurement en nos âmes.\n$Per Dominum",
+      "it": "Santifica, o Signore, i nostri digiuni mediante queste offerte; affinché quanto all'esterno esprime l'osservanza quaresimale, si compia internamente.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Ps 7:2\nDómine, Deus meus, in te sperávi: líbera me ab ómnibus persequéntibus me, et éripe me.",
+    "en": "!Ps 7:2\nO Lord my God, in You I take refuge; save me from all my pursuers and rescue me.",
+    "es": "!Ps 7:2\nSeñor, Dios mío, confío en ti, sálvame de todos mis perseguidores y líbrame.",
+    "de": "",
+    "fr": "!Ps 7:2\nSeigneur, mon Dieu, j’ai espéré en vous ; sauvez-moi de tous ceux qui me persécutent et délivrez-moi.",
+    "it": "!Ps 7:2\nSignore mio Dio, in te io spero; liberami da tutti i miei persecutori, e salvami."
+  },
+  "postcommunion": [
+    {
+      "la": "Sanctificatiónibus tuis, omnípotens Deus, et vítia nostra curéntur, et remédia nobis ætérna provéniant.\n$Per Dominum",
+      "en": "By the workings of Your sanctifying power, almighty God, may our vices be cured and eternal remedies provided for us.\n$Per Dominum",
+      "es": "Haz, oh Dios todopoderoso, que tus santos misterios curen todos nuestros vicios y nos alcancen el remedio eterno.\n$Per Dominum",
+      "de": "",
+      "fr": "Dieu tout puissant, que, grâce à vos secours sanctifiants, nos vices soient guéris et notre âme pourvue de remèdes spirituels en vue de l’éternité.\n$Per Dominum",
+      "it": "O Dio onnipotente, in virtù della tua azione santificatrice, siano i nostri vizi guariti, e a noi procurati gli eterni rimedi.\n$Per Dominum"
+    }
+  ]
+}

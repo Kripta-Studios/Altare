@@ -1,0 +1,32 @@
+[
+  {
+    "id": "st-joseph",
+    "name": "St. Joseph",
+    "feast": "March 19",
+    "practices": [
+      "Morning Offering",
+      "Litany of St. Joseph",
+      "Evening Examen"
+    ]
+  },
+  {
+    "id": "st-benedict",
+    "name": "St. Benedict",
+    "feast": "March 21",
+    "practices": [
+      "Pray Lauds",
+      "Lectio Divina",
+      "Pray Compline"
+    ]
+  },
+  {
+    "id": "st-thomas-aquinas",
+    "name": "St. Thomas Aquinas",
+    "feast": "March 7",
+    "practices": [
+      "Study",
+      "Adoro Te Devote",
+      "Rosary"
+    ]
+  }
+]

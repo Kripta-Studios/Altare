@@ -1,0 +1,93 @@
+{
+  "id": "Pent20-0",
+  "titleLatin": "Dominica XX Post Pentecosten",
+  "titleVernacular": {
+    "en": "Dominica XX Post Pentecosten",
+    "es": "Dominica XX Post Pentecosten",
+    "de": "20. Sonntag nach Pfingsten",
+    "fr": "Dominica XX Post Pentecosten",
+    "it": "Dominica XX Post Pentecosten"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Dan 3:31; 31:29; 31:35\nv. Omnia, quæ fecísti nobis, Dómine, in vero judício fecísti, quia peccávimus tibi et mandátis tuis non obœdívimus: sed da glóriam nómini tuo, et fac nobíscum secúndum multitúdinem misericórdiæ tuæ.\n!Ps 118:1\nBeáti immaculáti in via: qui ámbulant in lege Dómini.\n&Gloria\nv. Omnia, quæ fecísti nobis, Dómine, in vero judício fecísti, quia peccávimus tibi et mandátis tuis non obœdívimus: sed da glóriam nómini tuo, et fac nobíscum secúndum multitúdinem misericórdiæ tuæ.",
+    "en": "!Dan 3:31; 3:29; 3:35\nv. All that You have done to us, O Lord, You have done in true judgment; because we have sinned against You, and we have not obeyed your commandments; but give glory to Your name, and deal with us according to the multitude of Your mercy.\n!Ps 118:1\nHappy are they whose way is blameless, who walk in the law of the Lord.\n&Gloria\nv. All that You have done to us, O Lord, You have done in true judgment; because we have sinned against You, and we have not obeyed your commandments; but give glory to Your name, and deal with us according to the multitude of Your mercy.",
+    "es": "!Dan 3:31; 3:29; 3:35\nv. Todo cuanto habéis hecho, oh Señor, lo hicisteis con verdad y justicia, porque hemos pecado no obedeciendo a vuestros mandatos, pero glorificad vuestro Nombre y obrad con nosotros según vuestra gran misericordia.\n!Ps 118:1\nDichosos los limpios de corazón, los que andan por el camino de la Ley de Dios.\n&Gloria\nv. Todo cuanto habéis hecho, oh Señor, lo hicisteis con verdad y justicia, porque hemos pecado no obedeciendo a vuestros mandatos, pero glorificad vuestro Nombre y obrad con nosotros según vuestra gran misericordia.",
+    "de": "",
+    "fr": "!Dan 3:31; 31:29; 31:35\nv. Tout ce que vous nous avez fait, Seigneur, c'est en toute justice que vous l'avez fait, car nous avons péché contre vous, et nous n'avons pas obéi à vos commandements ; mais donnez gloire à votre Nom, et agissez envers nous selon la grandeur de votre miséricorde.\n!Ps 118:1\nHeureux ceux qui sont sans tâche sur le chemin, qui marchent dans la loi du Seigneur.\n&Gloria\nv. Tout ce que vous nous avez fait, Seigneur, c'est en toute justice que vous l'avez fait, car nous avons péché contre vous, et nous n'avons pas obéi à vos commandements ; mais donnez gloire à votre Nom, et agissez envers nous selon la grandeur de votre miséricorde.",
+    "it": "!Dan 3:31; 31:29; 31:35\nv. In tutto quello che ci hai fatto, o Signore, hai agito con vera giustizia, perché noi peccammo contro di Te e non obbedimmo ai tuoi comandamenti: ma Tu dà gloria al tuo nome e fai a noi secondo l’immensità della tua misericordia.\n!Ps 118:1\nBeati gli uomini di condotta íntegra: che procedono secondo la legge del Signore.\n&Gloria\nv. In tutto quello che ci hai fatto, o Signore, hai agito con vera giustizia, perché noi peccammo contro di Te e non obbedimmo ai tuoi comandamenti: ma Tu dà gloria al tuo nome e fai a noi secondo l’immensità della tua misericordia."
+  },
+  "collect": [
+    {
+      "la": "Largíre, quǽsumus, Dómine, fidélibus tuis indulgéntiam placátus et pacem: ut páriter ab ómnibus mundéntur offénsis, et secúra tibi mente desérviant.\n$Per Dominum",
+      "en": "O Lord, we beseech You, graciously grant Your faithful forgiveness and peace, that they may be cleansed of all sin and serve You with minds free from care.\n$Per Dominum",
+      "es": "Conceded, Señor, os suplicamos, a vuestros fieles el perdón y la paz, para que juntamente se purifiquen de todo pecado y os sirvan con seguridad y confianza.\n$Per Dominum",
+      "de": "",
+      "fr": "Prodiguez, Seigneur, à vos fidèles, en signe de faveur, le pardon et la paix, afin qu'ils soient purifiés de tout péché et vous servent en toute tranquillité d'esprit.\n$Per Dominum",
+      "it": "Largisci placato, Te ne preghiamo, o Signore, il perdono e la pace ai tuoi fedeli: affinché siano mondati da tutti i peccati e Ti servano con tranquilla coscienza.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Ephésios\n!Ephes 5:15-21\nFratres: Vidéte, quómodo caute ambulétis: non quasi insipiéntes, sed ut sapiéntes, rediméntes tempus, quóniam dies mali sunt. Proptérea nolíte fíeri imprudéntes, sed intellegéntes, quæ sit volúntas Dei. Et nolíte inebriári vino, in quo est luxúria: sed implémini Spíritu Sancto, loquéntes vobismetípsis in psalmis et hymnis et cánticis spirituálibus, cantántes et psalléntes in córdibus vestris Dómino: grátias agéntes semper pro ómnibus, in nómine Dómini nostri Jesu Christi, Deo et Patri. Subjecti ínvicem in timóre Christi.",
+    "en": "Lesson from the letter of St. Paul the Apostle to the Ephesians\n!Eph 5:15-21\nBrethren: See to it that you walk with care: not as unwise but as wise, making the most of your time, because the days are evil. Therefore, do not become foolish, but understand what the will of the Lord is. And do not be drunk with wine, for in that is debauchery; but be filled with the Spirit, speaking to one another in psalms and hymns and spiritual songs, singing and making melody in your hearts to the Lord, giving thanks always for all things in the name of our Lord Jesus Christ to God the Father. Be subject to one another in the fear of Christ.",
+    "es": "Lección de la carta del Apóstol San Pablo a los Efesios\n!Ef 5:15-21\nHermanos: Fijaos bien cómo andáis; no seáis insensatos, sino sensatos, aprovechando la ocasión, porque vienen días malos. Por eso, no estéis aturdidos, daos cuenta de lo que el Señor quiere. No os emborrachéis con vino, que lleva al libertinaje, sino dejaos llenar del Espíritu. Recitad entre vosotros salmos, himnos y cánticos inspirados; cantad y tocad con toda el alma para el Señor. Dad siempre gracias a Dios Padre por todo, en nombre de nuestro Señor Jesucristo. Sed sumisos unos a otros en el temor de Cristo.",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Pauli Apóstoli ad Ephésios.\n!Ephes 5:15-21\nFrères, ayez soin de vous conduire avec prudence, non en insensés, mais comme des hommes sages, rachetant le temps, car les jours sont mauvais. C'est pourquoi ne soyez pas inconsidérés, mais comprenez bien quelle est la volonté du Seigneur. Ne vous enivrez pas de vin, c'est la source de la débauche, mais remplissez-vous de l'Esprit-Saint. Entretenez-vous les uns les autres avec des psaumes, des hymnes et des cantiques spirituels, chantant et psalmodiant du fond du cœur en l'honneur du Seigneur. Rendez continuellement grâces pour toutes choses à Dieu le Père, au nom de Notre-Seigneur Jésus-Christ. Soyez soumis les uns aux autres dans la crainte du Christ.",
+    "it": "Lettura della Lettera del B. Paolo Ap. agli Efesini.\n!Ephes 5:15-21\nFratelli: Badate al modo di comportarvi, non da stolti, ma da sapienti, approfittando di ogni occasione, poiché i giorni sono cattivi. Per questo non siate imprudenti, ma comprendete qual è la volontà di Dio. E non vi ubbriacate col vino, sorgente di lussuria: ma siate ripieni di Spirito Santo, intrattenendovi con salmi e inni e cantici spirituali: cantando e salmeggiando di cuore al Signore, rendendo sempre grazie per ogni cosa a Dio Padre nel nome del Signore nostro Gesú Cristo. Siate soggetti gli uni agli altri nel timore di Cristo."
+  },
+  "gradual": {
+    "la": "!Ps 144:15-16\nOculi ómnium in te sperant, Dómine: et tu das illis escam in témpore opportúno.~\nV. Aperis tu manum tuam: et imples omne ánimal benedictióne. Allelúja, allelúja\n!Ps 107:2\nParátum cor meum, Deus, parátum cor meum: cantábo, et psallam tibi, glória mea. Allelúja.",
+    "en": "!Ps 144:15-16\nThe eyes of all look hopefully to You, O Lord, and You give them their food in due season.\nV. You open Your hand and satisfy the desire of every living thing. Alleluia, alleluia.\n!Ps 107:2\nV. My heart is steadfast, O God; my heart is steadfast; I will sing and chant praise to You, my glory. Alleluia.",
+    "es": "!Ps 144:15-16\nTodos los ojos te están aguardando, tú les das la comida a su tiempo.\nV. Tu mano se abre y sacia de favores a todos los vivientes. Aleluya, aleluya.\n!Ps 107:2\nV. Dios mío, mi corazón está firme, para ti cantaré y tocaré, gloria mía. Aleluya.",
+    "de": "",
+    "fr": "!Ps 144:15-16\nLes yeux de tous espèrent en vous, Seigneur, et vous leur donnez leur nourriture en temps opportun.\nV. Vous ouvrez votre main et vous remplissez toute chair de bénédiction. Alléluia, alléluia.\n!Ps 107:2\nMon cœur est prêt, ô Dieu, mon cœur est prêt ; je chanterai et psalmodierai pour vous qui êtes ma gloire.",
+    "it": "!Ps 144:15-16\nTutti rivolgono gli sguardi a Te, o Signore: dà loro il cibo al momento opportuno.~\nV. Apri la tua mano e colmi di ogni benedizione ogni vivente. Allelúia, allelúia\n!Ps 107:2\nIl mio cuore è pronto, o Dio, il mio cuore è pronto: canterò e inneggerò a Te, che sei la mia gloria. Allelúia."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem\n!Joannes 4:46-53\nIn illo témpore: Erat quidam régulus, cujus fílius infirmabátur Caphárnaum. Hic cum audísset, quia Jesus adveníret a Judǽa in Galilǽam, ábiit ad eum, et rogábat eum, ut descénderet et sanáret fílium ejus: incipiébat enim mori. Dixit ergo Jesus ad eum: Nisi signa et prodígia vidéritis, non créditis. Dicit ad eum régulus: Dómine, descénde, priúsquam moriátur fílius meus. Dicit ei Jesus: Vade, fílius tuus vivit. Crédidit homo sermóni, quem dixit ei Jesus, et ibat. Jam autem eo descendénte, servi occurrérunt ei et nuntiavérunt, dicéntes, quia fílius ejus víveret. Interrogábat ergo horam ab eis, in qua mélius habúerit. Et dixérunt ei: Quia heri hora séptima relíquit eum febris. Cognóvit ergo pater, quia illa hora erat, in qua dixit ei Jesus: Fílius tuus vivit: et crédidit ipse et domus ejus tota.",
+    "en": "Continuation + of the Holy Gospel according to John\n!John 4:46-53\nAt that time, there was a certain royal official whose son was lying sick at Capharnaum. When he heard that Jesus had come from Judea into Galilee, he went to Him and besought Him to come down and heal his son, for he was at the point of death. Jesus therefore said to him, Unless you see signs and wonders, you do not believe. The royal official said to Him, Sir, come down before my child dies. Jesus said to him, Go your way, your son lives. The man believed the word that Jesus spoke to him, and departed. But even as he was now going down, his servants met him and brought word saying that his son lived. He asked of them therefore the hour in which he had got better. And they told him, Yesterday, at the seventh hour, the fever left him. The father knew then that it was at that very hour in which Jesus had said to him, Your son lives. And he himself believed, and his whole household.",
+    "es": "Continuación + del Santo Evangelio según San Juan\n!Jn 4:46-53\nEn aquel tiempo: Fue Jesús otra vez a Caná de Galilea, donde había convertido el agua en vino. Había un funcionario real que tenía un hijo enfermo en Cafarnaún. Oyendo que Jesús había llegado de Judea a Galilea, fue a verlo, y le pedía que bajase a curar a su hijo que estaba muriéndose. Jesús le dijo: «Si no veis signos y prodigios, no creéis». El funcionario insiste: «Señor, baja antes de que se muera mi niño». Jesús le contesta: «Anda, tu hijo vive». El hombre creyó en la palabra de Jesús y se puso en camino. Iba ya bajando, cuando sus criados vinieron a su encuentro diciéndole que su hijo vivía. Él les preguntó a qué hora había empezado la mejoría. Y le contestaron: «Ayer a la hora séptima lo dejó la fiebre». El padre cayó en la cuenta de que esa era la hora en que Jesús le había dicho: «Tu hijo vive». Y creyó él con toda su familia.",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Joánnem.\n!Joannes 4:46-53\nEn ce temps-là, il y avait un officier du roi dont le fils était malade à Capharnaüm. Ayant appris que Jésus arrivait de Judée en Galilée, il alla vers lui, et le pria de descendre, pour guérir son fils qui était à la mort. Jésus lui dit : « Si vous ne voyez des signes et des prodiges, vous ne croyez point. » L'officier du roi lui dit : « Seigneur, venez avant que mon enfant ne meure. - Va, lui répondit Jésus, ton enfant vit. » Cet homme crut à la parole que Jésus lui avait dite et partit. Comme il s'en retournait, ses serviteurs vinrent à sa rencontre, et lui apprirent que son enfant vivait. Il leur demanda à quelle heure il s'était trouvé mieux, et ils lui dirent : « Hier, à la septième heure, la fièvre l'a quitté. » Le père reconnut que c'était l'heure à laquelle Jésus lui avait dit : Ton fils vit. Et il crut, lui et toute sa maison.",
+    "it": "Séguito ++ del S. Vangelo secondo Giovanni.\n!Joannes 4:46-53\nIn quel tempo: Vi era a Cafàrnao un certo regolo, il cui figlio era malato. Avendo udito che Gesú dalla Giudea veniva in Galilea, andò da lui e lo pregò perché andasse a sanare suo figlio, che stava per morire. Gesú gli disse: Se non vedete miracoli e prodigi non credete. Gli rispose il regolo: Vieni, Signore, prima che mio figlio muoia. Gesú gli disse: Va, tuo figlio vive. Quell’uomo prestò fede alle parole di Gesú e partí. E mentre era già per strada, gli corsero incontro i servi e gli annunziarono che suo figlio viveva. Allora domandò loro in che ora avesse incominciato a star meglio, e quelli risposero: Ieri, all’ora settima, lo lasciò la febbre. Il padre allora riconobbe che quella era l’ora stessa in cui Gesú gli aveva detto: Tuo figlio vive. E credette lui e tutta la sua casa."
+  },
+  "offertory": {
+    "la": "!Ps 136:1\nSuper flúmina Babylónis illic sédimus et flévimus: dum recordarémur tui, Sion.",
+    "en": "!Ps 136:1\nBy the streams of Babylon we sat and wept when we remembered you, O Sion.",
+    "es": "!Ps 136:1\nEn las márgenes de los ríos de Babilonia nos sentamos y lloramos al acordarnos de ti, oh Sión.",
+    "de": "",
+    "fr": "!Ps 136:1\nSur les fleuves de Babylone nous étions assis et nous pleurions en nous souvenant de toi, Sion.",
+    "it": "!Ps 136:1\nSulle rive dei fiumi di Babilonia ci siamo seduti e abbiamo pianto: ricordandoci di te, o Sion."
+  },
+  "secret": [
+    {
+      "la": "Cœléstem nobis prǽbeant hæc mystéria, quǽsumus, Dómine, medicínam: et vítia nostri cordis expúrgent.\n$Per Dominum",
+      "en": "May these sacramental rites, O Lord, we beseech You, be our heavenly medicine and expel evil from our hearts.\n$Per Dominum",
+      "es": "Os rogamos, Señor, nos sirvan estos misterios de celestial medicina y purifiquen de vicios nuestro corazón.\n$Per Dominum",
+      "de": "",
+      "fr": "Que ces mystères, Seigneur, nous soient un remède céleste et expulsent les vices de notre cœur.\n$Per Dominum",
+      "it": "O Signore, Te ne preghiamo, fa che questi misteri ci siano come rimedio celeste e purífichino il nostro cuore dai suoi vizii.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "@Tempora/Quad5-4:Communio",
+    "en": "!Ps 118:49-50\nRemember Your word to Your servant, O Lord, since You have given me hope. This is my comfort in my affliction.",
+    "es": "!Ps 118:49-50\nAcordaos, Señor, de la promesa hecha a vuestro siervo, que tanta esperanza me ha infundido; y es consuelo en mi dolor.",
+    "de": "",
+    "fr": "!Ps 118:49-50\nSouvenez-vous, Seigneur, de votre parole à votre serviteur, par laquelle vous m'avez donné l'espérance ; c'est elle qui me console dans ma bassesse.",
+    "it": "!Ps 118:49-50\nRicordati della tua parola detta al servo tuo, o Signore, nella quale mi hai dato speranza: essa è stata il mio conforto nella umiliazione."
+  },
+  "postcommunion": [
+    {
+      "la": "Ut sacris, Dómine, reddámur digni munéribus: fac nos, qu&#509;sumus, tuis semper obœdíre mandátis.\n$Per Dominum",
+      "en": "That we may be made worthy, O Lord, of Your sacred gifts, make us, we beseech You, ever obedient to Your commandments.\n$Per Dominum",
+      "es": "A fin de hacernos dignos de vuestros sagrados misterios, haced, Señor, que sigamos siempre vuestra ley.\n$Per Dominum",
+      "de": "",
+      "fr": "Pour nous rendre dignes, Seigneur, de vos dons sacrés, faite que nous obéissions toujours à vos commandements.\n$Per Dominum",
+      "it": "O Signore, onde siamo degni dei sacri doni, fa, Te ne preghiamo, che obbediamo sempre ai tuoi precetti.\n$Per Dominum"
+    }
+  ]
+}

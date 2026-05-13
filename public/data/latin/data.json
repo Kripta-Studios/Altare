@@ -1,0 +1,37 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Ecclesiastical Pronunciation — Vowels",
+      "content": "A is pronounced 'ah' as in father. E is pronounced 'eh' as in red. I is pronounced 'ee' as in machine. O is pronounced 'oh' as in for. U is pronounced 'oo' as in rule."
+    },
+    {
+      "id": 2,
+      "title": "Ecclesiastical Pronunciation — Consonants",
+      "content": "C before e, i, ae, oe is pronounced 'ch' as in church. Otherwise it is 'k'. G before e, i is 'j' as in joy. Otherwise 'g' as in go. GN is 'ny' as in canyon."
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc-001",
+      "lessonId": 1,
+      "latin": "Pater",
+      "phonetic": "PAH-tehr",
+      "english": "Father"
+    },
+    {
+      "id": "fc-002",
+      "lessonId": 1,
+      "latin": "Filius",
+      "phonetic": "FEE-lee-oos",
+      "english": "Son"
+    },
+    {
+      "id": "fc-003",
+      "lessonId": 1,
+      "latin": "Spiritus",
+      "phonetic": "SPEE-ree-toos",
+      "english": "Spirit"
+    }
+  ]
+}

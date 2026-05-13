@@ -1,0 +1,93 @@
+{
+  "id": "Pent04-0o",
+  "titleLatin": "Dominica IV Post Pentecosten",
+  "titleVernacular": {
+    "en": "Dominica IV Post Pentecosten",
+    "es": "Dominica IV Post Pentecosten",
+    "de": "Vierter Sonntag nach Pfingsten",
+    "fr": "Dominica IV Post Pentecosten",
+    "it": "Dominica IV Post Pentecosten"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "@Tempora/Pent04-0:Introitus",
+    "en": "!Ps. 26:1-2.\nv. The Lord is my light and my salvation; whom should I fear? The Lord is my life’s refuge; of whom should I be afraid? My enemies that trouble me, themselves stumble and fall.\n!Ps 26:3\nThough an army encamp against me, my heart will not fear.\n&Gloria\nv. The Lord is my light and my salvation; whom should I fear? The Lord is my life’s refuge; of whom should I be afraid? My enemies that trouble me, themselves stumble and fall.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 26:1; 26:2\nv. Le Seigneur est ma lumière et mon salut, qui craindrais-je ? Le Seigneur est le défenseur de ma vie, devant qui tremblerais-je ? Ceux qui troublent mon âme se sont affaiblis et ils sont tombés.\n!Ps 26:3\nSi une armée se lève contre moi, mon cœur reste sans crainte.\n&Gloria\nv. Le Seigneur est ma lumière et mon salut, qui craindrais-je ? Le Seigneur est le défenseur de ma vie, devant qui tremblerais-je ? Ceux qui troublent mon âme se sont affaiblis et ils sont tombés.",
+    "it": "!Ps 26:1; 26:2\nv. Il Signore è mia luce e mia salvezza, chi temerò? Il Signore è baluardo della mia vita, cosa temerò? Questi miei nemici che mi perséguitano, essi stessi vacillano e stramazzano.\n!Ps 26:3\nSe anche un esercito si schierasse contro di me: non temerà il mio cuore.\n&Gloria\nv. Il Signore è mia luce e mia salvezza, chi temerò? Il Signore è baluardo della mia vita, cosa temerò? Questi miei nemici che mi perséguitano, essi stessi vacillano e stramazzano."
+  },
+  "collect": [
+    {
+      "la": "Da nobis, quǽsumus, Dómine: ut et mundi cursus pacífice nobis tuo órdine dirigátur; et Ecclésia tua tranquílla devotióne lætétur.\n$Per Dominum.",
+      "en": "Grant us, we beseech You, O Lord, that the course of the world may be directed according to Your rule in peace and that Your Church may have the joy of serving You undisturbed.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Accordez-nous, Seigneur, que tout à la fois le cours du monde soit dirigé par votre Providence pour notre bien, et que votre Église jouisse d'une tranquille dévotion.\n$Per Dominum.",
+      "it": "Concedici, Te ne preghiamo, o Signore, che le vicende del mondo, per tua disposizione, si svolgano per noi pacificamente, e la tua Chiesa possa allietarsi d’una tranquilla devozione.\n$Per Dominum."
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános.\n!Rom 8:18-23.\nFratres: Exístimo, quod non sunt condígnæ passiónes hujus témporis ad futúram glóriam, quæ revelábitur in nobis. Nam exspectátio creatúræ revelatiónem filiórum Dei exspéctat. Vanitáti enim creatúra subjécta est, non volens, sed propter eum, qui subjécit eam in spe: quia et ipsa creatúra liberábitur a servitúte corruptiónis, in libertátem glóriæ filiórum Dei. Scimus enim, quod omnis creatúra ingemíscit et párturit usque adhuc. Non solum autem illa, sed et nos ipsi primítias spíritus habéntes: et ipsi intra nos gémimus, adoptiónem filiórum Dei exspectántes, redemptiónem córporis nostri: in Christo Jesu, Dómino nostro.",
+    "en": "Lesson from the letter of St. Paul the Apostle to the Romans\n!Rom 8:18-23.\nBrethren: I reckon that the sufferings of the present time are not worthy to be compared with the glory to come that will be revealed in us. For the eager longing of creation awaits the revelation of the sons of God. For creation was made subject to vanity - not by its own will but by reason of Him Who made it subject - in hope, because creation itself also will be delivered from its slavery to corruption into the freedom of the glory of the sons of God. For we know that all creation groans and travails in pain until now. And not only it, but we ourselves also who have the first-fruits of the Spirit - we ourselves groan within ourselves, waiting for the adoption as sons of God, the redemption of our body, in Christ Jesus our Lord.",
+    "es": "",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános.\n!Rom 8:18-23.\nFrères, j'estime que les souffrances du temps présent sont sans proportion avec la gloire à venir qui sera manifestée en nous. Aussi la création attend-elle avec un ardent désir la manifestation des enfants de Dieu. La création, en effet, a été assujettie à la vanité, — non de son gré, mais par la volonté de celui qui l'y a soumise, — avec l'espérance qu'elle aussi sera affranchie de la servitude de la corruption, pour avoir part à la liberté glorieuse des enfants de Dieu. Car nous savons que, jusqu'à ce jour, la création tout entière gémit et souffre les douleurs de l'enfantement. Et ce n'est pas elle seulement ; nous aussi, qui avons les prémices de l'Esprit, nous gémissons en nous-mêmes, attendant l'adoption des enfants de Dieu, la rédemption de notre corps, dans le Christ Jésus, notre Seigneur.",
+    "it": "Lettura della Lettera del B. Paolo Ap. ai Romani.\n!Rom 8:18-23.\nFratelli: Penso che le sofferenze presenti non sono paragonabili alla gloria futura che si manifesterà in noi. Poiché l’attesa del creato si rivolge tutta alla rivelazione dei figli di Dio. Infatti il creato è stato assoggettato alla vanità, non per suo volere, ma da colui che lo ha assoggettato con la speranza che lo stesso creato sarà liberato dalla schiavitú della corruzione nella libertà della gloria dei figli di Dio. Sappiamo infatti che tutto il creato è unito nei gémiti e nelle doglie del parto fino ad ora. E non solo il creato, ma anche noi, che abbiamo le primizie dello Spirito, gemiamo in noi stessi aspettando, dopo l’adozione a figli di Dio, la redenzione del nostro corpo: in Gesú Cristo nostro Signore."
+  },
+  "gradual": {
+    "la": "!Ps 78:9; 78:10\nPropítius esto, Dómine, peccátis nostris: ne quando dicant gentes: Ubi est Deus eórum?\nV. Adjuva nos, Deus, salutáris noster: et propter honórem nóminis tui, Dómine, líbera nos. Allelúja, allelúja\n!Ps 9:5; 9:10\nDeus, qui sedes super thronum, et júdicas æquitátem: esto refúgium páuperum in tribulatióne. Allelúja",
+    "en": "!Ps. 78:9-10.\nPardon our sins, O Lord; why should the nations say, Where is their God?\nV. Help us, O God our Saviour; because of the glory of Your name, O Lord, deliver us. Alleluia, alleluia.\n!Ps. 9:5; 9:10.\nO God, seated on Your throne, judging justly: be a stronghold for the oppressed in times of distress. Alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 78:9; 78:10\nPardonnez nos péchés, Seigneur, de peur que les peuples ne disent : Où est leur Dieu ?\nV. Aidez-nous, ô Dieu, notre salut, et pour l'honneur de votre Nom, Seigneur, libérez-nous. Alléluia, alléluia.\n!Ps 9:5; 9:10\nÔ Dieu qui siégez sur un trône et jugez avec équité, soyez le refuge des pauvres dans la tribulation. Alléluia.",
+    "it": "!Ps 78:9; 78:10\nSii indulgente, o Signore, con i nostri peccati, affinché i popoli non dicano: Dov’è il loro Dio?\nV. Aiutaci, o Dio, nostra salvezza, e liberaci, o Signore, per la gloria del tuo nome. Allelúia, allelúia\n!Ps 9:5; 9:10\nDio, che siedi sul trono, e giudichi con equità: sii il rifugio dei miseri nelle tribolazioni. Allelúia."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Lucam.\n!Luc 5:1-11\nIn illo témpore: Cum turbæ irrúerent in Jesum, ut audírent verbum Dei, et ipse stabat secus stagnum Genésareth. Et vidit duas naves stantes secus stagnum: piscatóres autem descénderant et lavábant rétia. Ascéndens autem in unam navim, quæ erat Simónis, rogávit eum a terra redúcere pusíllum. Et sedens docébat de navícula turbas. Ut cessávit autem loqui, dixit ad Simónem: Duc in altum, et laxáte rétia vestra in captúram. Et respóndens Simon, dixit illi: Præcéptor, per totam noctem laborántes, nihil cépimus: in verbo autem tuo laxábo rete. Et cum hoc fecíssent, conclusérunt píscium multitúdinem copiósam: rumpebátur autem rete eórum. Et annuérunt sóciis, qui erant in ália navi, ut venírent et adjuvárent eos. Et venérunt, et implevérunt ambas navículas, ita ut pæne mergeréntur. Quod cum vidéret Simon Petrus, prócidit ad génua Jesu, dicens: Exi a me, quia homo peccátor sum, Dómine. Stupor enim circumdéderat eum et omnes, qui cum illo erant, in captúra píscium, quam céperant: simíliter autem Jacóbum et Joánnem, fílios Zebedǽi, qui erant sócii Simónis. Et ait ad Simónem Jesus: Noli timére: ex hoc jam hómines eris cápiens. Et subdúctis ad terram návibus, relictis ómnibus, secuti sunt eum.",
+    "en": "Continuation + of the Holy Gospel according to Luke\n!Luke 5:1-11.\nAt that time, while the crowds were pressing upon Jesus to hear the word of God, He was standing by Lake Genesareth. And He saw two boats moored by the lake, but the fishermen had left them and were washing their nets. And getting into one of the boats, the one that was Simon’s, He asked him to put out a little from the land. And sitting down, He began to teach the crowds from the boat. But when He had ceased speaking, He said to Simon, Put out into the deep, and lower your nets for a catch. And Simon answered and said to Him, Master, the whole night through we have toiled and have taken nothing; but at Your word I will lower the net. And when they had done so, they enclosed a great number of fishes, but their net was breaking. And they beckoned to their comrades in the other boat to come and help them. And they came and filled both the boats, so that they began to sink. But when Simon Peter saw this, he fell down at Jesus’ knees, saying, Depart from me, for I am a sinful man, O Lord. For he and all who were with him were amazed at the catch of fish they had made; and so were also James and John, the sons of Zebedee, who were partners with Simon. And Jesus said to Simon, Do not be afraid; henceforth you shall catch men. And when they had brought their boats to land, they left all and followed Him.",
+    "es": "",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Lucam.\n!Luc 5:1-11\nEn ce temps-là, comme la foule se pressait vers Jésus pour entendre la parole de Dieu, et que lui se tenait sur le bord du lac de Génésareth, il vit deux barques qui stationnaient sur le bord ; les pêcheurs étaient descendus et lavaient les filets. Il monta dans une des barques, qui était à Simon, et le pria de s'éloigner un peu du rivage ; et s'étant assis, de la barque il enseignait les foules. Lorsqu'il eut cessé de parler, il dit à Simon : « Avance au large, et jetez vos filets pour la pêche. » Simon répondit : « Maître, toute la nuit nous avons peiné sans rien prendre ; mais, sur ta parole, je jetterai les filets. » Et l'ayant fait, ils prirent une grande quantité de poissons ; et leurs filets se rompaient. Et ils firent signe aux compagnons, qui étaient dans l'autre barque, de venir à leur aide. Ils vinrent, et on remplit les deux barques, au point qu'elles enfonçaient. Ce que voyant, Simon Pierre tomba aux genoux de Jésus en disant : « Éloigne-toi de moi, parce que je suis un pécheur, Seigneur ! » Car la stupeur l'avait envahi, lui et tous ceux qui étaient avec lui, à cause de la pêche des poissons qu'ils avaient faite ; et de même Jacques et Jean, fils de Zébédée, qui étaient associés à Simon. Et Jésus dit à Simon : « Ne crains point ; désormais ce sont des hommes que tu prendras. » Ils ramenèrent les barques à terre et, laissant tout, ils le suivirent.",
+    "it": "Séguito ++ del S. Vangelo secondo Luca.\n!Luc 5:1-11\nIn quel tempo: Affollàtesi le turbe attorno a Gesú per udire la parola di Dio, Egli si teneva sulla riva del lago di Genézareth. E vide due barche tirate a riva, poiché i pescatori erano discesi e lavavano le reti. Salendo in una barca, che era di Simone, lo pregò di allontanarlo un poco dalla spiaggia; e sedendo insegnava alle turbe dalla navicella. Quando finí di parlare, disse a Simone: Va al largo, e getta le reti per la pesca. E rispondendogli, Simone disse: Maestro, per tutta la notte abbiamo lavorato senza prendere niente, tuttavia, sulla tua parola, getterò la rete. E fattolo, presero una cosí grande quantità di pesci che le reti si rompevano. E allora fecero segno ai compagni che erano nell’altra barca affinché venissero ad aiutarli. E vennero, e riempirono le due barche al punto che stavano per affondare. Visto questo, Simone Pietro si gettò ai piedi di Gesú, dicendo: Allontanati da me, o Signore, poiché sono un peccatore. Lo spavento infatti si era impadronito di lui e di quelli che erano con lui a causa della pesca: ed erano sbigottiti anche Giacomo e Giovanni, figli di Zebedeo, che erano compagni di Simone. E Gesú disse a Simone: Non temere: d’ora in poi sarai pescatore di uomini. E avendo tirato a secco le barche, lasciata ogni cosa, lo seguirono."
+  },
+  "offertory": {
+    "la": "!Ps 12:4-5\nIllúmina óculos meos, ne umquam obdórmiam in morte: ne quando dicat inimícus meus: Præválui advérsus eum.",
+    "en": "!Ps. 12:4-5.\nGive light to my eyes that I may never sleep in death, lest my enemy say, I have overcome him.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 12:4-5\nIlluminez mes yeux, de peur que je ne m'endorme dans la mort ; de peur que mon ennemi ne dise : Je l'ai emporté sur lui.",
+    "it": "!Ps 12:4-5\nIllumina i miei occhi, affinché non mi addormenti nella morte: e il mio nemico non dica: ho prevalso su di lui."
+  },
+  "secret": [
+    {
+      "la": "Oblatiónibus nostris, quǽsumus, Dómine, placáre suscéptis: et ad te nostras étiam rebélles compélle propítius voluntátes.\n$Per Dominum",
+      "en": "Be appeased, we beseech You, O Lord, by accepting our offerings, and in Your kindness make even our rebellious wills turn to You.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "En accueillant nos offrandes, Seigneur, soyez-nous indulgent, et retournez vers vous nos volontés rebelles.\n$Per Dominum",
+      "it": "Dalle nostre oblazioni, o Signore, Te ne preghiamo, sii placato: e, propizio, attira a Te le nostre ribelli volontà.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Ps 17:3\nDóminus firmaméntum meum, et refúgium meum, et liberátor meus: Deus meus, adjútor meus.",
+    "en": "!Ps. 17:3\nO Lord, my rock, my fortress, my deliverer: my God, my rock of refuge!",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 17:3\nLe Seigneur est mon soutien, mon refuge et mon libérateur ; ô Dieu, vous êtes mon secours.",
+    "it": "!Ps 17:3\nIl Signore è la mia forza, il mio rifugio, il mio liberatore: mio Dio, mio aiuto."
+  },
+  "postcommunion": [
+    {
+      "la": "Mystéria nos, Dómine, quǽsumus, sumpta puríficent: et suo múnere tueántur.\n$Per Dominum",
+      "en": "May the sacrament we have received cleanse us, we beseech You, O Lord, and by its grace protect us.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Que les mystères auxquels nous venons de participer, Seigneur, nous purifient et nous protègent par leur action bienfaisante.\n$Per Dominum",
+      "it": "Ci purifichino, o Signore, Te ne preghiamo, i misteri che abbiamo ricevuti e ci difendano con loro efficacia.\n$Per Dominum"
+    }
+  ]
+}

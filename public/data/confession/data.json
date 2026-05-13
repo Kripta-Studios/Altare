@@ -1,0 +1,83 @@
+{
+  "commandments": [
+    {
+      "num": 1,
+      "title": "I am the Lord thy God. Thou shalt not have strange gods before Me.",
+      "questions": [
+        "Did I doubt or deny that God exists?",
+        "Did I refuse to believe what God has revealed to us?"
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Thou shalt not take the name of the Lord thy God in vain.",
+      "questions": [
+        "Did I blaspheme or insult God?",
+        "Did I take God's name carelessly or uselessly?"
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Remember that thou keep holy the Sabbath day.",
+      "questions": [
+        "Did I miss Mass on Sunday or a Holy Day of Obligation through my own fault?",
+        "Did I do unnecessary work on Sunday?"
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Honor thy father and thy mother.",
+      "questions": [
+        "Did I disobey or disrespect my parents or legitimate superiors?",
+        "Did I neglect my duties to my husband, wife, children or parents?"
+      ]
+    },
+    {
+      "num": 5,
+      "title": "Thou shalt not kill.",
+      "questions": [
+        "Did I kill or physically injure anyone?",
+        "Did I harbor hatred, anger, or vengeful thoughts?"
+      ]
+    },
+    {
+      "num": 6,
+      "title": "Thou shalt not commit adultery.",
+      "questions": [
+        "Did I entertain impure thoughts or desires?",
+        "Did I engage in impure actions, alone or with others?"
+      ]
+    },
+    {
+      "num": 7,
+      "title": "Thou shalt not steal.",
+      "questions": [
+        "Did I steal, cheat, help or encourage others to steal?",
+        "Did I damage another's property without acknowledging it?"
+      ]
+    },
+    {
+      "num": 8,
+      "title": "Thou shalt not bear false witness against thy neighbor.",
+      "questions": [
+        "Did I lie?",
+        "Did I gossip or reveal others' faults without necessity?"
+      ]
+    },
+    {
+      "num": 9,
+      "title": "Thou shalt not covet thy neighbor's wife.",
+      "questions": [
+        "Did I entertain impure thoughts about someone else's spouse?"
+      ]
+    },
+    {
+      "num": 10,
+      "title": "Thou shalt not covet thy neighbor's goods.",
+      "questions": [
+        "Was I envious of others' goods or success?",
+        "Was I greedy or selfish?"
+      ]
+    }
+  ]
+}

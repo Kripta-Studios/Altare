@@ -1,0 +1,93 @@
+{
+  "id": "Pasc0-5",
+  "titleLatin": "Die VI infra octavam Paschæ",
+  "titleVernacular": {
+    "en": "Die VI infra octavam Paschae",
+    "es": "Die VI infra octavam Paschae",
+    "de": "Freitag in der Osteroktav",
+    "fr": "Die VI infra octavam Paschae",
+    "it": "Die VI infra octavam Paschae"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": false,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps 77:53\nv. Edúxit eos Dóminus in spe, allelúja: et inimícos eórum opéruit mare, allelúja, allelúja, allelúja.\n!Ps 77:1\nAtténdite, pópule meus, legem meam: inclináte aurem vestram in verba oris mei.\n&Gloria\nv. Edúxit eos Dóminus in spe, allelúja: et inimícos eórum opéruit mare, allelúja, allelúja, allelúja.",
+    "en": "!Ps 77:53\nv. And he brought them out in hope, and they feared not: and the sea overwhelmed their enemies, allelúja, allelúja, allelúja.\n!Ps 77:1\nv. Attend, O my people, to my law: incline your ears to the words of my mouth.\n&Gloria\nv. And he brought them out in hope, and they feared not: and the sea overwhelmed their enemies, allelúja, allelúja, allelúja.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 77:53\nv. Le Seigneur les a faits sortir dans l'espérance, alléluia, et la mer a recouvert leurs ennemis, alléluia, alléluia, alléluia.\n!Ps 77:1\nÔ mon peuple, prêtez attention à ma loi, inclinez votre oreille vers les paroles de ma bouche.\n&Gloria\nv. Le Seigneur les a faits sortir dans l'espérance, alléluia, et la mer a recouvert leurs ennemis, alléluia, alléluia, alléluia.",
+    "it": "!Ps 77:53\nv. Dio li trasse fuori pieni di speranza, alleluia, e nel mare seppellì i loro nemici, alleluia, alleluia, alleluia.\n!Ps 77:1\nAlla mia legge, popolo mio, sempre il tuo orecchio rivolgi: a quel che ti dice la mia bocca presta attento l'orecchio.\n&Gloria\nDio li trasse fuori pieni di speranza, alleluia, e nel mare seppellì i loro nemici, alleluia, alleluia, alleluia."
+  },
+  "collect": [
+    {
+      "la": "Omnípotens sempitérne Deus, qui paschále sacraméntum in reconciliatiónis humánæ fœ́dere contulísti: da méntibus nostris; ut, quod professióne celebrámus, imitémur efféctu.\n$Per Dominum",
+      "en": "Almighty and eternal God, in the Easter sacrament thou instituted the covenant, whereby thou forgavest mankind; grant to our souls, that what we outwardly profess we may show forth in our deeds.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Dieu éternel et tout-puissant, qui, par l'institution du mystère pascal, avez scellé le pacte de votre réconciliation avec les hommes, accordez-nous de réaliser en nos vies ce que professe notre célébration.\n$Per Dominum",
+      "it": "O Signore Dio onnipotente ed eterno, che ci hai dato il mistero pasquale come patto dell'umana riconciliazione; concedi alle nostre anime di vivere con le opere ciò che professano con i riti.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Petri Apóstoli\n!1 Petri 3:18-22\nCaríssimi: Christus semel pro peccátis nostris mórtuus est, justus pro injústis, ut nos offérret Deo, mortificátus quidem carne, vivificátus autem spíritu. In quo et his, qui in cárcere erant, spirítibus véniens prædicávit: qui incréduli fúerant aliquándo, quando exspectábant Dei patiéntiam in diébus Noë, cum fabricarétur arca, in qua pauci, id est octo ánimæ salvæ factæ sunt per aquam. Quod et vos nunc símilis formæ salvos facit baptísma: non carnis deposítio sórdium, sed consciéntiæ bonæ interrogátio in Deum per resurrectiónem Jesu Christi, Dómini nostri, qui est in dextera Dei.",
+    "en": "Lesson from the first letter of St. Peter the Apostle\n!1 Pet 3:18-22\nv.  Beloved: Christ also died once for our sins, the just for the unjust: that he might offer us to God, being put to death indeed in the flesh, but enlivened in the spirit. In which also coming he preached to those spirits that were in prison: Which had been some time incredulous, when they waited for the patience of God in the days of Noe, when the ark was a building: wherein a few, that is, eight souls, were saved by water. Whereunto baptism being of the like form, now saveth you also: not the putting away of the filth of the flesh, but the examination of a good conscience towards God by the resurrection of Jesus Christ. Who is on the right hand of God, swallowing down death, that we might be made heirs of life everlasting: being gone into heaven, the angels and powers and virtues being made subject to him.",
+    "es": "",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Petri Apóstoli.\n!1 Petri 3:18-22\nBien-aimés, le Christ a souffert une fois la mort pour nos péchés, lui juste pour des injustes, afin de nous ramener à Dieu, ayant été mis à mort selon la chair, mais rendu à la vie selon l'esprit. C'est aussi dans cet esprit qu'Il est allé prêcher aux esprits en prison, rebelles autrefois, lorsqu'aux jours de Noé la longanimité de Dieu temporisait, pendant que se construisait l'arche, dans laquelle un petit nombre, savoir huit personnes, furent sauvées à travers l'eau. C'est elle qui aujourd'hui vous sauve, vous aussi, par son antitype le baptême, non pas cette ablution qui ôte les souillures du corps, mais celle qui est la demande faite à Dieu d'une bonne conscience, par la résurrection de Jésus-Christ, qui est à la droite de Dieu.",
+    "it": "Dalla prima lettera di san Pietro apostolo.\n!1 Petri 3:18-22\nCarissimi, il Cristo è morto una sola volta per i nostri peccati, Lui il Giusto per gli ingiusti, per offrirci a Dio È stato messo a morte secondo la carne, ma reso alla vita quanto allo spirito. E pure nel suo spirito andò ad annunziare alle anime, che erano nel carcere, e che un tempo erano state incredule, quando, ai giorni di Noè, la pazienza di Dio stava aspettando che fosse fabbricata l'arca, ove pochi, cioè otto anime, si salvarono sopra l'acqua. Alla qual figura corrisponde ora il battesimo che vi salva (non materiale lavaggio delle sozzure della carne, ma efficace domanda a Dio per ottenere una coscienza pura), e vi salva in virtù della risurrezione di Gesù Cristo, il quale sta alla destra di Dio."
+  },
+  "gradual": {
+    "la": "!Ps 117:24; 117:26-27\nHæc dies, quam fecit Dóminus: exsultémus et lætémur in ea.\nV. Benedíctus, qui venit in nómine Dómini: Deus Dóminus, et illúxit nobis.\nAllelúja, allelúja.\n!Ps 95:10\nDícite in géntibus: quia Dóminus regnávit a ligno.",
+    "en": "!Ps 117:24; 117:26-27\nv.  This is the day which the Lord hath made: let us be glad and rejoice therein. Blessed be he that cometh in the name of the Lord. The Lord is God, and he hath shone upon us. Allelúja, allelúja.\n!Ps 95:10\nv.  Say ye among the Gentiles, the Lord hath reigned from a tree.",
+    "es": "",
+    "de": "",
+    "fr": "Allelúja, allelúja.\n!Ps 117:24; 117:26-27\nVoici le jour que fit le Seigneur : exultons et réjouissons-nous.\nV. Béni soit celui qui vient au nom du Seigneur ; Dieu est Seigneur, et il nous a illuminés. Alléluia, alléluia.\n!Ps 95:10\nDites parmi les peuples que le Seigneur a régné par le bois.",
+    "it": "Alleluia, alleluia\n!Ps 117:24; 117:26-27\nQuesto è il giorno che il Signore ha fatto: rallegriamoci ed esultiamo.\nV. Benedetto Colui che viene nel nome del Signore. Il Signore è Dio e fece splendere su di noi la sua luce. Alleluia, alleluia.\n!Ps 95:10\nDite a tutte le genti che il Signore regnò dalla Croce."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum\n!Matt 28:16-20\nIn illo témpore: Undecim discípuli abiérunt in Galilǽam, in montem, ubi constitúerat illis Jesus. Et vidéntes eum adoravérunt: quidam autem dubitavérunt. Et accédens Jesus locútus est eis, dicens: Data est mihi omnis potéstas in cœlo, et in terra. Eúntes ergo, docéte omnes gentes, baptizántes eos in nómine Patris, et Fílii, et Spíritus Sancti: docéntes eos serváre ómnia, quæcúmque mandávi vobis. Et ecce, ego vobíscum sum ómnibus diébus usque ad consummatiónem sǽculi.",
+    "en": "Continuation + of the Holy Gospel according to Matthew\n!Matt 28:16-20\nv.  In that time:  the eleven disciples went into Galilee, unto the mountain where Jesus had appointed them. And seeing Him they adored: but some doubted. And Jesus coming, spoke to them, saying: All power is given to me in heaven and in earth. Going therefore, teach ye all nations; baptizing them in the name of the Father, and of the Son, and of the Holy Ghost. Teaching them to observe all things whatsoever I have commanded you: and behold I am with you all days, even to the consummation of the world.",
+    "es": "",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Matthaeum.\n!Matt 28:16-20\nEn ce temps-là, les onze disciples s'en allèrent en Galilée, sur la montagne que Jésus leur avait désignée. En le voyant, ils se prosternèrent ; mais il y en eut qui doutèrent. Et Jésus s'approchant leur parla ainsi : « Toute puissance m'a été donnée dans le ciel et sur la terre. Allez donc, enseignez toutes les nations, les baptisant au nom du Père, du Fils et du Saint-Esprit, leur apprenant à observer tout ce que je vous ai commandé. Et moi, je suis avec vous toujours jusqu'à la fin du monde. »",
+    "it": "Seguito ++ del Santo vangelo secondo Matteo.\n!Matt 28:16-20\nIn quel tempo gli undici discepoli andarono in Galilea al monte designato loro da Gesù. E, vedutolo, lo adorarono, mentre alcuni avevano prima dubitato. E Gesù, accostatosi, disse loro: «Mi è stato dato ogni potere, in cielo e in terra. Andate dunque ad ammaestrare tutte le genti, battezzandole nel nome del Padre e del Figlio e dello Spirito Santo, insegnando loro ad osservare tutte le cose che vi ho comandate. Ed ecco io sono con voi tutti i giorni, sino alla fine del mondo»."
+  },
+  "offertory": {
+    "la": "!Exod 12:14\nErit vobis hæc dies memoriális, allelúja: et diem festum celebrábitis solémnem Dómino in progénies vestras: legítimum sempitérnum diem, allelúja, allelúja, allelúja.",
+    "en": "!Exod 12:14\nv.  And this day shall be for a memorial to you: and you shall keep it a feast to the Lord in your generations with an everlasting observance, allelúja, allelúja, allelúja.",
+    "es": "",
+    "de": "",
+    "fr": "!Exod 12:14\nCe jour sera pour vous un mémorial, alléluia ; et vous célébrerez d'âge en âge un jour de fête solennel pour le Seigneur, prescription perpétuelle, alléluia, alléluia.",
+    "it": "!Exod 12:14\nQuesto giorno sarà per voi un ricordo, alleluia; e questa festa del Signore la festeggerete di età in età, come statuto perpetuo, alleluia, alleluia, alleluia."
+  },
+  "secret": [
+    {
+      "la": "Hóstias, quǽsumus, Dómine, placátus assúme: quas et pro renatórum expiatióne peccáti deférimus, et pro acceleratióne cœléstis auxílii.\n$Per Dominum",
+      "en": "In thy forgiving mercy, O Lord we pray, accept the sacrifice which we offer, to atone for the sins of those who are born anew and to hasten the giving of thy heavenly help.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Daignez, Seigneur, accueillir favorablement ce sacrifice que nous vous offrons pour expier les péchés de ceux qui viennent de naître à une vie nouvelle, et pour hâter les secours du ciel.\n$Per Dominum",
+      "it": "O Signore, accetta placato queste offerte che ti presentiamo in espiazione dei rinati nel Battesimo e per sollecitare il celeste soccorso.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Matt 28:18-19\nData est mihi omnis potéstas in cœlo et in terra, allelúja: eúntes, docéte omnes gentes, baptizántes eos in nómine Patris, et Fílii, et Spíritus Sancti, allelúja, allelúja.",
+    "en": "!Matt 28:18-19\nv. All power is given to me in heaven and in earth. Going therefore, teach ye all nations; baptizing them in the name of the Father, and of the Son, and of the Holy Ghost, allelúja, allelúja.",
+    "es": "",
+    "de": "",
+    "fr": "!Matt 28:18-19\nTout pouvoir m'a été donné au ciel et sur la terre, alléluia. Allez enseigner toutes les nations, les baptisant au Nom du Père, et du Fils, et du Saint-Esprit, alléluia, alléluia.",
+    "it": "!Matt 28:18-19\nMi è stato dato ogni potere in cielo ed in terra: andate ed ammaestrate tutte le genti, battezzandole nel nome del Padre e del Figlio e dello Spirito Santo, alleluia, alleluia."
+  },
+  "postcommunion": [
+    {
+      "la": "Réspice, quǽsumus, Dómine, pópulum tuum: et, quem ætérnis dignátus es renováre mystériis, a temporálibus culpis dignánter absólve.\n$Per Dominum",
+      "en": "O Lord, we beseech thee, behold thy people, and as thou hast decided to quicken them with the mysteries of eternity, mercifully free them from the sins committed in time.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Jetez les yeux sur votre peuple, Seigneur, et puisque vous avez daigné le renouveler par des mystères éternels, veuillez l'absoudre des fautes commises en cette vie temporelle.\n$Per Dominum",
+      "it": "Ti supplichiamo, o Signore, di guardare al tuo popolo; e come ti degnasti di rinnovarlo con eterni misteri, così propizio perdonagli le colpe temporali.\n$Per Dominum"
+    }
+  ]
+}

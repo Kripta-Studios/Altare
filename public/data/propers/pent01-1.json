@@ -1,0 +1,93 @@
+{
+  "id": "Pent01-1",
+  "titleLatin": "Feria Secunda infra Hebdomadam I post Octavam Pentecostes",
+  "titleVernacular": {
+    "en": "Feria Secunda infra Hebdomadam I post Octavam Pentecostes",
+    "es": "Feria Secunda infra Hebdomadam I post Octavam Pentecostes",
+    "de": "Montag der ersten Woche nach der Pfingsoktav",
+    "fr": "Feria Secunda infra Hebdomadam I post Octavam Pentecostes",
+    "it": "Feria Secunda infra Hebdomadam I post Octavam Pentecostes"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "collect": [
+    {
+      "la": "Deus, in te sperántium fortitúdo, adésto propítius invocatiónibus nostris: et, quia sine te nihil potest mortális infírmitas, præsta auxílium grátiæ tuæ; ut, in exsequéndis mandátis tuis, et voluntáte tibi et actióne placeámus.\n$Per Dominum",
+      "en": "O God, the Strength of all them that put their trust in thee, mercifully accept our prayers, and because through the weakness of our mortal nature we can do no good thing without thee, grant us the help of thy grace, that in keeping of thy commandments we may please thee, both in will and deed.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Deus, in te sperántium fortitúdo, adésto propítius invocatiónibus nostris: et, quia sine te nihil potest mortális infírmitas, præsta auxílium grátiæ tuæ; ut, in exsequéndis mandátis tuis, et voluntáte tibi et actióne placeámus.\n$Per Dominum",
+      "it": "O Dio, fortezza di quelli che sperano in te, ascolta propizio le nostre preghiere: e siccome senza di te nulla può l'umana debolezza, concedici l'aiuto della tua grazia; affinché nell'eseguire i tuoi comandamenti, ti piacciamo e colla volontà e coll'opera.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gradual": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gospel": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "offertory": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "secret": [
+    {
+      "la": "Hostias nostras, quǽsumus, Dómine, tibi dicátas placátus assúme: et ad perpetuum nobis tríbue proveníre subsídium.\n$Per Dominum",
+      "en": "Be appeased, O Lord, we beseech thee, and accept the victims we dedicate to thee, and grant that they may avail us for perpetual aid.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Hostias nostras, quǽsumus, Dómine, tibi dicátas placátus assúme: et ad perpetuum nobis tríbue proveníre subsídium.\n$Per Dominum",
+      "it": ""
+    }
+  ],
+  "communionAntiphon": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "postcommunion": [
+    {
+      "la": "Tantis, Dómine, repléti munéribus: præsta, quǽsumus; ut et salutária dona capiámus, et a tua numquam laude cessémus.\n$Per Dominum",
+      "en": "Filled, O Lord, as we are with so great bounties, we beseech thee; that we may receive the gifts of salvation, and never cease from thy praise.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Tantis, Dómine, repléti munéribus: præsta, quǽsumus; ut et salutária dona capiámus, et a tua numquam laude cessémus.\n$Per Dominum",
+      "it": ""
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "Quad6-4m1",
+  "titleLatin": "De missa chrismatis",
+  "titleVernacular": {
+    "en": "De missa chrismatis",
+    "es": "",
+    "de": "Chrisammesse",
+    "fr": "De missa chrismatis",
+    "it": "De missa chrismatis"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ex 30:25,31\nv. Fácies unctiónis óleum, et fíliis Israël dices: Hoc óleum unctiónis sanctum erit mihi in generatiónes vestras.\n!Ps 88:2\nMisericórdias Dómini in ætérnum cantábo: in generatiónem et generatiónem annuntiábo veritátem tuam in ore meo. Fácies unctiónis.\nv. Fácies unctiónis óleum, et fíliis Israël dices: Hoc óleum unctiónis sanctum erit mihi in generatiónes vestras.",
+    "en": "!Ex 30:25,31\nv. Fácies unctiónis óleum, et fíliis Israël dices: Hoc óleum unctiónis sanctum erit mihi in generatiónes vestras.\n!Ps 88:2\nMisericórdias Dómini in ætérnum cantábo: in generatiónem et generatiónem annuntiábo veritátem tuam in ore meo. Fácies unctiónis.\nv. Fácies unctiónis óleum, et fíliis Israël dices: Hoc óleum unctiónis sanctum erit mihi in generatiónes vestras.",
+    "es": "",
+    "de": "",
+    "fr": "!Ex 30:25,31\nv. Fácies unctiónis óleum, et fíliis Israël dices: Hoc óleum unctiónis sanctum erit mihi in generatiónes vestras.\n!Ps 88:2\nMisericórdias Dómini in ætérnum cantábo: in generatiónem et generatiónem annuntiábo veritátem tuam in ore meo. Fácies unctiónis.\nv. Fácies unctiónis óleum, et fíliis Israël dices: Hoc óleum unctiónis sanctum erit mihi in generatiónes vestras.",
+    "it": "!Ex 30:25,31\nv. Preparerai l’olio per le unzioni e dirai ai figli di Israele: Quest’olio per le unzioni sarà sacro in tutte le vostre generazioni.\n!Ps 88:2\nL’amore di Dio canterò in eterno; la tua fedeltà voglio annunciare di generazione in generazione.\nv. Preparerai l’olio per le unzioni e dirai ai figli di Israele: Quest’olio per le unzioni sarà sacro in tutte le vostre generazioni."
+  },
+  "collect": [
+    {
+      "la": "Dómine, Deus, qui in regenerándis plébibus tuis ministério úteris sacerdótum; tríbue nobis perseverántem in tua voluntáte famulátum; ut dono grátiæ tuæ, in diébus nostris, et méritis et número sacrátus tibi pópulus augeátur.\n$Per Dominum",
+      "en": "Dómine, Deus, qui in regenerándis plébibus tuis ministério úteris sacerdótum; tríbue nobis perseverántem in tua voluntáte famulátum; ut dono grátiæ tuæ, in diébus nostris, et méritis et número sacrátus tibi pópulus augeátur.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Dómine, Deus, qui in regenerándis plébibus tuis ministério úteris sacerdótum; tríbue nobis perseverántem in tua voluntáte famulátum; ut dono grátiæ tuæ, in diébus nostris, et méritis et número sacrátus tibi pópulus augeátur.\n$Per Dominum",
+      "it": "O Dio, nostro Signore, che per rigenerare il tuo popolo ti servi del ministero dei vescovi; concedi a noi di perseverare nel servizio secondo la tua volontà; e così, con il dono della tua grazia, anche ai nostri giorni, il popolo a te consacrato crescerà in meriti e in numero.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Jacóbi Apóstoli.\n!Jc 5:13-16\nFratres: Tristátur áliquis vestrum? Oret. Æquo ánimo est? Psallat. Infirmátur quis in vobis? Indúcat presbýteros ecclésiæ, et orent super eum, ungéntes eum óleo in nómine Dómini; et orátio fídei salvábit infírmum, et alleviábit eum Dóminus; et si in peccátis sit, remitténtur ei. Confitémini ergo altérutrum peccáta vestra, et oráte pro ínvicem ut salvémini; multum enim valet deprecátio justi assídua.",
+    "en": "Léctio Epístolæ beáti Jacóbi Apóstoli.\n!Jc 5:13-16\nFratres: Tristátur áliquis vestrum? Oret. Æquo ánimo est? Psallat. Infirmátur quis in vobis? Indúcat presbýteros ecclésiæ, et orent super eum, ungéntes eum óleo in nómine Dómini; et orátio fídei salvábit infírmum, et alleviábit eum Dóminus; et si in peccátis sit, remitténtur ei. Confitémini ergo altérutrum peccáta vestra, et oráte pro ínvicem ut salvémini; multum enim valet deprecátio justi assídua.",
+    "es": "",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Jacóbi Apóstoli.\n!Jc 5:13-16\nFratres: Tristátur áliquis vestrum? Oret. Æquo ánimo est? Psallat. Infirmátur quis in vobis? Indúcat presbýteros ecclésiæ, et orent super eum, ungéntes eum óleo in nómine Dómini; et orátio fídei salvábit infírmum, et alleviábit eum Dóminus; et si in peccátis sit, remitténtur ei. Confitémini ergo altérutrum peccáta vestra, et oráte pro ínvicem ut salvémini; multum enim valet deprecátio justi assídua.",
+    "it": "Dalla lettera di san Giacomo apostolo.\n!Jc 5:13-16\nFratelli, qualcuno tra voi soffre? Preghi. È d’animo lieto? Canti un inno di lode.\nQualcuno tra voi è malato? Chiami i presbiteri della Chiesa; e questi preghino su di lui, ungendolo con olio nel nome del Signore: e la preghiera della fede salverà l’infermo, e il Signore gli darà sollievo; e, se ha dei peccati, gli saranno perdonati.\nConfessate gli uni gli altri i vostri peccati; e pregate\ngli uni per gli altri per essere guariti: molto potere,\ninfatti, ha la preghiera assidua del giusto."
+  },
+  "gradual": {
+    "la": "!Ps 27:7-8\nIn Deo sperávit cor meum, et adjútus sum. Et reflóruit caro mea: et ex voluntáte mea confitébor ei.\nV. Dóminus fortitúdo plebis suæ: et protéctor salvatiónum Christi sui est.",
+    "en": "!Ps 27:7-8\nIn Deo sperávit cor meum, et adjútus sum. Et reflóruit caro mea: et ex voluntáte mea confitébor ei.\nV. Dóminus fortitúdo plebis suæ: et protéctor salvatiónum Christi sui est.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 27:7-8\nIn Deo sperávit cor meum, et adjútus sum. Et reflóruit caro mea: et ex voluntáte mea confitébor ei.\nV. Dóminus fortitúdo plebis suæ: et protéctor salvatiónum Christi sui est.",
+    "it": "!Ps 27:7-8\nIn Dio confida il mio cuore: sono aiutato, ed esulta il mio cuore, con il mio canto gli rendo grazie.\nV. Il Signore è potenza al suo popolo e presidio di salvezza al suo Cristo."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Marcum.\n!Marc 6:7-13\nIn illo témpore: Vocávit Jesus duódecim, et coepit eos míttere binos, et dabat illis potestátem spirítuum immundórum. Et præcépit eis, ne quid tóllerent in via, nisi virgam tantum; non peram, non panem, neque in zona æs, sed calceátos sandáliis, et ne indueréntur duábus túnicis. Et dicébat eis: « Quocúmque introiéritis in domum, illic manéte, donec exeátis inde; et quicúmque non recéperint vos, nec audíerint vos, exeúntes inde, excútite púlverem de pédibus vestris, in testimónium illis ». Et exeúntes prædicábant ut pæniténtiam ágerent; et dæmónia multa ejiciébant, et ungébant óleo multos ægros, et sanábant.",
+    "en": "Sequéntia ++ sancti Evangélii secúndum Marcum.\n!Marc 6:7-13\nIn illo témpore: Vocávit Jesus duódecim, et coepit eos míttere binos, et dabat illis potestátem spirítuum immundórum. Et præcépit eis, ne quid tóllerent in via, nisi virgam tantum; non peram, non panem, neque in zona æs, sed calceátos sandáliis, et ne indueréntur duábus túnicis. Et dicébat eis: « Quocúmque introiéritis in domum, illic manéte, donec exeátis inde; et quicúmque non recéperint vos, nec audíerint vos, exeúntes inde, excútite púlverem de pédibus vestris, in testimónium illis ». Et exeúntes prædicábant ut pæniténtiam ágerent; et dæmónia multa ejiciébant, et ungébant óleo multos ægros, et sanábant.",
+    "es": "",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Marcum.\n!Marc 6:7-13\nIn illo témpore: Vocávit Jesus duódecim, et coepit eos míttere binos, et dabat illis potestátem spirítuum immundórum. Et præcépit eis, ne quid tóllerent in via, nisi virgam tantum; non peram, non panem, neque in zona æs, sed calceátos sandáliis, et ne indueréntur duábus túnicis. Et dicébat eis: « Quocúmque introiéritis in domum, illic manéte, donec exeátis inde; et quicúmque non recéperint vos, nec audíerint vos, exeúntes inde, excútite púlverem de pédibus vestris, in testimónium illis ». Et exeúntes prædicábant ut pæniténtiam ágerent; et dæmónia multa ejiciébant, et ungébant óleo multos ægros, et sanábant.",
+    "it": "Séguito ++ del S. Vangelo secondo Marco.\n!Marc 6:7-13\nIn quel tempo, Gesù chiamò i dodici e cominciò a mandarli a due a due, dando loro potere sugli spiriti immondi.\nE comandò loro di non prendere nulla per il viaggio, tranne il bastone: non bisaccia, non pane, non danaro nella cintura; e disse: « Calzate sandali e\nnon indossate due tuniche ».\nE diceva loro:\n« In qualsiasi casa entrerete, rimanetevi finché non partiate da quel luogo; e se non vorranno ricevervi né ascoltarvi, uscendo di là, scuotete la polvere dai\nvostri piedi, in testimonianza contro di loro »\nEd essi partirono e predicarono che si facesse peni¬\ntenza; e scacciavano molti demoni e, ungendo con\nolio molti infermi, li guarivano."
+  },
+  "offertory": {
+    "la": "!Ps 44:7\nDilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ.",
+    "en": "!Ps 44:7\nDilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 44:7\nDilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ.",
+    "it": "!Ps 44:7\nTu ami la giustizia e odi la perfidia.  Perciò con olio di gioia ti ha unto\nil Signore tuo Dio."
+  },
+  "secret": [
+    {
+      "la": "Hujus sacrifícii poténtia, Dómine, quǽsumus, et vetustátem nostram cleménter abstérgat, et novitátem nobis áugeat et salútem.\n$Per Dominum",
+      "en": "Hujus sacrifícii poténtia, Dómine, quǽsumus, et vetustátem nostram cleménter abstérgat, et novitátem nobis áugeat et salútem.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Hujus sacrifícii poténtia, Dómine, quǽsumus, et vetustátem nostram cleménter abstérgat, et novitátem nobis áugeat et salútem.\n$Per Dominum",
+      "it": "O Signore, la potenza di questo sacrificio cancelli con bontà ciò che in noi è vecchio, e aumenti il nostro rinnovamento e la nostra salvezza.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Marc. 6:12-13\nPrædicábant Apóstoli ut pæniténtiam ágerent, et ungébant óleo multos ægros, et sanábant.",
+    "en": "!Marc. 6:12-13\nPrædicábant Apóstoli ut pæniténtiam ágerent, et ungébant óleo multos ægros, et sanábant.",
+    "es": "",
+    "de": "",
+    "fr": "!Marc. 6:12-13\nPrædicábant Apóstoli ut pæniténtiam ágerent, et ungébant óleo multos ægros, et sanábant.",
+    "it": "!Marc. 6:12-13\nGli apostoli predicavano di fare penitenza, e, ungendoli con olio, guarivano molti infermi."
+  },
+  "postcommunion": [
+    {
+      "la": "Præsta, quǽsumus, Dómine: ut, sicut de prætéritis ad nova transímus; ita, vetustáte depósita, sanctificátis méntibus innovémur.\n$Per Dominum",
+      "en": "Præsta, quǽsumus, Dómine: ut, sicut de prætéritis ad nova transímus; ita, vetustáte depósita, sanctificátis méntibus innovémur.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Præsta, quǽsumus, Dómine: ut, sicut de prætéritis ad nova transímus; ita, vetustáte depósita, sanctificátis méntibus innovémur.\n$Per Dominum",
+      "it": "O Signore, come nella vita si passa dal vecchio al nuovo: concedi a noi, che spogliandoci della natura vecchia e corrotta, ci rinnoviamo nella santità dello spirito.\n$Per Dominum"
+    }
+  ]
+}

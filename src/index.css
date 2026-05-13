@@ -1,0 +1,517 @@
+@import "tailwindcss";
+@import "@fontsource/eb-garamond/400.css";
+@import "@fontsource/eb-garamond/400-italic.css";
+@import "@fontsource/eb-garamond/600.css";
+@import "@fontsource/eb-garamond/700.css";
+@import "@fontsource/cinzel/400.css";
+@import "@fontsource/cinzel/700.css";
+@import "@fontsource/noto-sans/400.css";
+@import "@fontsource/noto-sans/600.css";
+
+/* ============================================
+   INTROIBO — THEME SYSTEM
+   Three themes: Parchment, Clean White, Dark Walnut
+   ============================================ */
+
+/* PARCHMENT THEME (Default) */
+:root,
+:root[data-theme="parchment"] {
+  --bg-primary: #F5EDDA;
+  --bg-secondary: #EDE1C6;
+  --bg-card: #FAF4E6;
+  --bg-card-hover: #F0E8D0;
+  --text-primary: #2C1A0E;
+  --text-secondary: #5C3D1E;
+  --text-muted: #8B6914;
+  --accent: #8B1A1A;
+  --accent-soft: #C4956A;
+  --accent-gold: #D4A853;
+  --border: #C9A96E;
+  --border-light: #DDD0B0;
+  --shadow: rgba(44, 26, 14, 0.12);
+  --shadow-strong: rgba(44, 26, 14, 0.25);
+  --nav-bg: #EDE1C6;
+  --nav-border: #C9A96E;
+  --input-bg: #FAF4E6;
+  --overlay: rgba(44, 26, 14, 0.5);
+}
+
+/* CLEAN WHITE THEME */
+:root[data-theme="white"] {
+  --bg-primary: #FFFFFF;
+  --bg-secondary: #F8F8F8;
+  --bg-card: #FFFFFF;
+  --bg-card-hover: #F5F5F5;
+  --text-primary: #1A1A1A;
+  --text-secondary: #4A4A4A;
+  --text-muted: #888888;
+  --accent: #8B1A1A;
+  --accent-soft: #D4A853;
+  --accent-gold: #D4A853;
+  --border: #E0E0E0;
+  --border-light: #F0F0F0;
+  --shadow: rgba(0, 0, 0, 0.06);
+  --shadow-strong: rgba(0, 0, 0, 0.15);
+  --nav-bg: #FFFFFF;
+  --nav-border: #E0E0E0;
+  --input-bg: #F8F8F8;
+  --overlay: rgba(0, 0, 0, 0.4);
+}
+
+/* DARK WALNUT THEME */
+:root[data-theme="walnut"] {
+  --bg-primary: #1C1410;
+  --bg-secondary: #241C16;
+  --bg-card: #2A2018;
+  --bg-card-hover: #342A20;
+  --text-primary: #F0E6D3;
+  --text-secondary: #C9A96E;
+  --text-muted: #8B6914;
+  --accent: #C4956A;
+  --accent-soft: #8B6914;
+  --accent-gold: #D4A853;
+  --border: #3D2E22;
+  --border-light: #4A3828;
+  --shadow: rgba(0, 0, 0, 0.3);
+  --shadow-strong: rgba(0, 0, 0, 0.5);
+  --nav-bg: #241C16;
+  --nav-border: #3D2E22;
+  --input-bg: #2A2018;
+  --overlay: rgba(0, 0, 0, 0.6);
+}
+
+/* LITURGICAL SEASON COLORS */
+:root {
+  --season-purple: #4A235A;
+  --season-green: #2D5A1B;
+  --season-red: #8B1A1A;
+  --season-white: #D4A853;
+  --season-black: #1A1A1A;
+  --season-rose: #C47A8A;
+
+  /* Typography */
+  --font-display: 'Cinzel', serif;
+  --font-body: 'EB Garamond', serif;
+  --font-ui: 'Noto Sans', sans-serif;
+
+  /* Text Scale */
+  --text-scale: 1;
+  --text-darkness: 1;
+
+  /* Safe area */
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-left: env(safe-area-inset-left, 0px);
+  --safe-right: env(safe-area-inset-right, 0px);
+  --nav-height: 72px;
+}
+
+:root[data-text-size="small"] { --text-scale: 0.9; }
+:root[data-text-size="medium"] { --text-scale: 1; }
+:root[data-text-size="large"] { --text-scale: 1.15; }
+
+/* ============================================
+   BASE STYLES
+   ============================================ */
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+html {
+  font-size: calc(16px * var(--text-scale));
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+  overscroll-behavior: none;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  filter: brightness(var(--text-darkness));
+  margin: 0;
+  padding: 0;
+  min-height: 100dvh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ============================================
+   TYPOGRAPHY
+   ============================================ */
+
+h1, h2, h3 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--text-primary);
+}
+
+h1 { font-size: 1.75rem; line-height: 1.2; }
+h2 { font-size: 1.35rem; line-height: 1.3; }
+h3 { font-size: 1.1rem; line-height: 1.4; }
+
+/* Latin text styling */
+[lang="la"] {
+  font-style: italic;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
+/* Drop cap */
+.drop-cap::first-letter {
+  font-family: var(--font-display);
+  font-size: 3.2em;
+  float: left;
+  line-height: 0.8;
+  margin-right: 0.08em;
+  margin-top: 0.05em;
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.drop-cap.season-purple::first-letter { color: var(--season-purple); }
+.drop-cap.season-green::first-letter { color: var(--season-green); }
+.drop-cap.season-red::first-letter { color: var(--season-red); }
+.drop-cap.season-white::first-letter { color: var(--season-white); }
+.drop-cap.season-rose::first-letter { color: var(--season-rose); }
+
+/* Rubric text (liturgical instructions) */
+.rubric {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  color: var(--accent);
+  font-style: italic;
+  margin: 0.5rem 0;
+}
+
+/* Versicle/Response styling */
+.versicle::before { content: "℣. "; font-weight: 600; color: var(--accent); }
+.response::before { content: "℟. "; font-weight: 600; color: var(--accent); }
+
+/* ============================================
+   CARD SYSTEM
+   ============================================ */
+
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-radius: 12px;
+  padding: 1.25rem;
+  box-shadow: 0 2px 8px var(--shadow);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:active {
+  transform: scale(0.98);
+}
+
+/* ============================================
+   SEASON COLOR BAND
+   ============================================ */
+
+.season-band {
+  height: 4px;
+  width: 100%;
+  transition: background-color 0.5s ease;
+}
+
+.season-band.purple { background: var(--season-purple); }
+.season-band.green { background: var(--season-green); }
+.season-band.red { background: var(--season-red); }
+.season-band.white { background: linear-gradient(90deg, var(--season-white), #F0E8D0, var(--season-white)); }
+.season-band.black { background: var(--season-black); }
+.season-band.rose { background: var(--season-rose); }
+
+/* ============================================
+   BILINGUAL LAYOUT
+   ============================================ */
+
+.bilingual-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+.bilingual-grid.latin-only,
+.bilingual-grid.english-only {
+  grid-template-columns: 1fr;
+}
+
+.bilingual-grid .latin-col {
+  font-style: italic;
+  border-right: 1px solid var(--border-light);
+  padding-right: 1rem;
+}
+
+.bilingual-grid.latin-only .latin-col,
+.bilingual-grid.english-only .english-col {
+  border-right: none;
+  padding-right: 0;
+}
+
+@media (max-width: 480px) {
+  .bilingual-grid {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
+  .bilingual-grid .latin-col {
+    border-right: none;
+    padding-right: 0;
+    border-bottom: 1px solid var(--border-light);
+    padding-bottom: 0.75rem;
+  }
+}
+
+/* ============================================
+   BOTTOM NAVIGATION
+   ============================================ */
+
+.bottom-nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: var(--nav-height);
+  background: var(--nav-bg);
+  border-top: 1px solid var(--nav-border);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-bottom: var(--safe-bottom);
+  z-index: 100;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+.nav-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  cursor: pointer;
+  min-width: 48px;
+  min-height: 44px;
+  justify-content: center;
+  text-decoration: none;
+  color: var(--text-muted);
+  font-family: var(--font-ui);
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  background: none;
+  border: none;
+}
+
+.nav-item.active {
+  color: var(--accent);
+}
+
+.nav-item svg {
+  width: 22px;
+  height: 22px;
+}
+
+/* ============================================
+   PAGE LAYOUT
+   ============================================ */
+
+.page {
+  padding: 0 1rem;
+  padding-top: calc(var(--safe-top) + 0.5rem);
+  padding-bottom: calc(var(--nav-height) + var(--safe-bottom) + 1rem);
+  max-width: 640px;
+  margin: 0 auto;
+  min-height: 100dvh;
+}
+
+.page-header {
+  padding: 1rem 0;
+  margin-bottom: 0.5rem;
+}
+
+.page-title {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin: 0;
+}
+
+.page-subtitle {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  margin-top: 4px;
+}
+
+/* ============================================
+   SCROLLBAR
+   ============================================ */
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 4px;
+}
+
+/* ============================================
+   PROGRESS RING
+   ============================================ */
+
+.progress-ring-circle {
+  transition: stroke-dashoffset 0.35s ease;
+  transform: rotate(-90deg);
+  transform-origin: 50% 50%;
+}
+
+/* ============================================
+   ANIMATIONS
+   ============================================ */
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { opacity: 0.6; }
+  50% { opacity: 1; }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.4s ease forwards;
+}
+
+.animate-slide-up {
+  animation: slideUp 0.5s ease forwards;
+}
+
+/* Staggered card animations */
+.card:nth-child(1) { animation-delay: 0.05s; }
+.card:nth-child(2) { animation-delay: 0.1s; }
+.card:nth-child(3) { animation-delay: 0.15s; }
+.card:nth-child(4) { animation-delay: 0.2s; }
+.card:nth-child(5) { animation-delay: 0.25s; }
+.card:nth-child(6) { animation-delay: 0.3s; }
+
+/* ============================================
+   CHIPS / PILLS
+   ============================================ */
+
+.chip-scroll {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  padding: 4px 0;
+}
+
+.chip-scroll::-webkit-scrollbar { display: none; }
+
+.chip {
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 6px 14px;
+  border-radius: 20px;
+  border: 1px solid var(--border);
+  background: var(--bg-card);
+  color: var(--text-secondary);
+  white-space: nowrap;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.chip.active {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+
+/* ============================================
+   ROSARY BEAD
+   ============================================ */
+
+.rosary-bead {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  border: 2px solid var(--accent-gold);
+  background: var(--bg-card);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px var(--shadow);
+}
+
+.rosary-bead.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  transform: scale(1.15);
+  box-shadow: 0 4px 16px var(--shadow-strong);
+}
+
+.rosary-bead.large {
+  width: 56px;
+  height: 56px;
+  border-width: 3px;
+}
+
+.rosary-bead.completed {
+  opacity: 0.4;
+}
+
+/* ============================================
+   REDUCED MOTION
+   ============================================ */
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Map system dark mode preference to walnut theme if not explicitly set */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    --bg-primary: #1C1410;
+    --bg-secondary: #241C16;
+    --bg-card: #2A2018;
+    --bg-card-hover: #342A20;
+    --text-primary: #F0E6D3;
+    --text-secondary: #C9A96E;
+    --text-muted: #8B6914;
+    --accent: #C4956A;
+    --accent-soft: #8B6914;
+    --accent-gold: #D4A853;
+    --border: #3D2E22;
+    --border-light: #4A3828;
+    --shadow: rgba(0, 0, 0, 0.3);
+    --shadow-strong: rgba(0, 0, 0, 0.5);
+    --nav-bg: #241C16;
+    --nav-border: #3D2E22;
+    --input-bg: #2A2018;
+    --overlay: rgba(0, 0, 0, 0.6);
+  }
+}

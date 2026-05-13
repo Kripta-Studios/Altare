@@ -1,0 +1,93 @@
+{
+  "id": "Pasc7-6",
+  "titleLatin": "Sabbato Quattuor Temporum Pentecostes",
+  "titleVernacular": {
+    "en": "Sabbato Quattuor Temporum Pentecostes",
+    "es": "Sabbato Quattuor Temporum Pentecostes",
+    "de": "Quartembersamstag in der Pfingstoktav",
+    "fr": "Sabbato Quattuor Temporum Pentecostes",
+    "it": "Sabbato Quattuor Temporum Pentecostes"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Rom 5:5.\nv. Cáritas Dei diffúsa est in córdibus nostris, allelúja: per inhabitántem Spíritum ejus in nobis, allelúja, allelúja.\n!Ps 102:1\nBenedic, anima mea, Dómino: et ómnia, quæ intra me sunt, nómini sancto ejus.\n&Gloria\nv. Cáritas Dei diffúsa est in córdibus nostris, allelúja: per inhabitántem Spíritum ejus in nobis, allelúja, allelúja.",
+    "en": "!Rom 5:5.\nv. The charity of God is poured forth in our hearts, alleluia: by His Spirit dwelling in us, alleluia, alleluia.\n!Ps 102:1\nBless the Lord, O my soul; and, all my being, bless His holy Name.\n&Gloria\nv. The charity of God is poured forth in our hearts, alleluia: by His Spirit dwelling in us, alleluia, alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "!Rom 5:5.\nv. L'amour de Dieu a été répandu dans nos cœurs, alléluia, par son Esprit qui habite en nous, alléluia, alléluia.\n!Ps 102:1\nBénis le Seigneur, ô mon âme, et que tout ce qui est en moi bénisse son saint Nom.\n&Gloria\nv. L'amour de Dieu a été répandu dans nos cœurs, alléluia, par son Esprit qui habite en nous, alléluia, alléluia.",
+    "it": "!Rom 5:5.\nv. La carità di Dio è stata diffusa nei nostri cuori, alleluia, per mezzo dello Spirito Santo, che ci è stato dato, alleluia, alleluia.\n!Ps 102:1\nAnima mia, benedici il Signore, e tutto il mio interno benedica il nome santo suo.\n&Gloria\nv. La carità di Dio è stata diffusa nei nostri cuori, alleluia, per mezzo dello Spirito Santo, che ci è stato dato, alleluia, alleluia."
+  },
+  "collect": [
+    {
+      "la": "Méntibus nostris, quǽsumus, Dómine, Spíritum Sanctum benígnus infúnde: cujus et sapiéntia cónditi sumus, et providéntia gubernámur.\n$Per Dominum eiusdem",
+      "en": "Graciously pour into our minds, we beseech You, O Lord, the Holy Spirit, Whose wisdom created us and Whose providence governs us.\n$Per Dominum eiusdem",
+      "es": "",
+      "de": "",
+      "fr": "En nos âmes, Seigneur, daignez répandre l'Esprit Saint, qui nous a créés par sa Sagesse et nous gouverne par sa Providence.\n$Per Dominum eiusdem",
+      "it": "Signore, te ne preghiamo, infondi benigno alle menti nostre lo Spirito Santo: la cui Sapienza ci ha creati, e la cui provvidenza ci governa.\n$Per Dominum eiusdem"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános\n!Rom 5:1-5.\nFratres: Justificáti ex fide, pacem habeámus ad Deum per Dóminum nostrum Jesum Christum: per quem et habémus accéssum per fidem in grátiam istam, in qua stamus, et gloriámur in spe glóriæ filiórum Dei. Non solum autem, sed et gloriámur in tribulatiónibus: scientes, quod tribulátio patiéntiam operátur, patiéntia autem probatiónem, probátio vero spem, spes autem non confúndit: quia cáritas Dei diffúsa est in córdibus nostris per Spíritum Sanctum, qui datus est nobis.",
+    "en": "Lesson from the letter of St. Paul the Apostle to the Romans\n!Rom 5:1-5.\nBrethren: Having been justified by faith, let us have peace with God through our Lord Jesus Christ, through Whom we also have access by faith unto that grace in which we stand, and exult in the hope of the glory of the sons of God. And not only this, but we exult in tribulations also, knowing that tribulation works out endurance, and endurance tried virtue, and tried virtue hope. And hope does not disappoint, because the charity of God is poured forth in our hearts by the Holy Spirit Who has been given to us.",
+    "es": "",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Pauli Apóstoli ad Romános.\n!Rom 5:1-5.\nFrères, justifiés par la foi, soyons en paix avec Dieu par Notre-Seigneur Jésus-Christ, à qui nous devons d'avoir accès par la foi à cette grâce dans laquelle nous demeurons fermes, et de nous glorifier dans l'espérance de la gloire de Dieu. Bien plus, nous nous glorifions même dans les tribulations, sachant que la tribulation produit la constance, la constance une vertu éprouvée, et la vertu éprouvée l'espérance. Or, l'espérance ne trompe point, parce que l'amour de Dieu est répandu dans nos cœurs par l'Esprit-Saint qui nous a été donné.",
+    "it": "Dalla lettera di san Paolo apostolo ai Romani.\n!Rom 5:1-5.\nFratelli: Giustificati per mezzo della Fede, siamo ora in pace con Dio nel Cristo Gesù nostro Signore. A Lui dobbiamo d'essere arrivati, per la Fede, a questo stato di grazia, nel quale stiam fermi, e nel quale abbiamo la speranza di giungere alla gloria dei figli di Dio. E non solo, ma ci sentiamo gloriosi di patire tribolazioni, sapendo come la tribolazione produce la pazienza, la pazienza la virtù provata, e la virtù provata perfeziona la speranza. E questa speranza non è illusoria, perché la carità di Dio è stata diffusa nei nostri cuori per mezzo dello Spirito Santo, che ci è stato donato."
+  },
+  "gradual": {
+    "la": "!Ps 116:1-2\nLaudáte Dóminum, omnes gentes: et collaudáte eum, omnes pópuli.\nV. Quóniam confirmáta est super nos misericórdia ejus: et véritas Dómini manet in ætérnum.",
+    "en": "!Ps 116:1-2\nPraise the Lord, all you nations; glorify Him, all you peoples! For steadfast is His kindness toward us, and the fidelity of the Lord endures forever.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 116:1-2\nLouez le Seigneur, tous les peuples, et louez-le ensemble, toutes les nations.\nV. Car sa miséricorde s'est affermie sur nous, et la fidélité du Seigneur demeure à jamais.",
+    "it": "!Ps 116:1-2\nPopoli tutti, lodate il Signore, esaltatelo, o genti!\nV. È forte il suo amore per noi, la verità del Signore è per sempre."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Lucam\n!Luc 4:38-44\nIn illo témpore: Surgens Jesus de synagóga, introívit in domum Simónis. Socrus autem Simónis tenebátur magnis fébribus: et rogavérunt illum pro ea. Et stans super illam, imperávit febri: et dimísit illam. Et contínuo surgens, ministrábat illis. Cum autem sol occidísset, omnes qui habébant infírmos váriis languóribus, ducébant illos ad eum. At ille síngulis manus impónens, curábat eos. Exíbant autem dæmónia a multis clamántia et dicéntia: Quia tu es Fílius Dei: et íncrepans non sinébat ea loqui, quia sciébant ipsum esse Christum. Facta autem die egréssus ibat in desértum locum, et turbæ requirébant eum, et venérunt usque ad ipsum: et detinébant illum, ne discéderet ab eis. Quibus ille ait: Quia et áliis civitátibus opórtet me evangelizáre regnum Dei: quia ídeo missus sum. Et erat prǽdicans in synagógis Galilǽæ.",
+    "en": "Continuation + of the Holy Gospel according to Luke\n!Luke 4:38-44.\nAt that time, Jesus rose from the synagogue and entered Simon’s house. Now Simon’s mother-in-law was suffering from a great fever, and they besought Him for her. And standing over her He rebuked the fever, and it left her; and she rose at once and began to wait on them. Now when the sun was setting, all who had persons sick with various diseases brought them to Him. And He laid His hands upon each of them and cured them. And devils also came forth from many, crying out and saying, You are the Son of God. And He rebuked them, and did not permit them to speak, because they know that He was the Christ. Now when it was day, He went out and departed into a desert place. And the crowds were seeking after Him, and they came to Him, and tried to detain Him, that he might not depart from them. But He said to them, To the other towns also I must proclaim the kingdom of God, for this is why I have been sent. And He was preaching in the synagogues of Galilee.",
+    "es": "",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Lucam.\n!Luc 4:38-44\nEn ce temps-là, ayant quitté la synagogue, Jésus entra dans la maison de Simon. Or, la belle-mère de Simon était atteinte d'une grande fièvre, et ils le prièrent pour elle. Venant auprès d'elle, il commanda avec force à la fièvre qui la quitta ; et s'étant levée aussitôt, elle se mit à les servir. Lorsque le soleil fut couché, tous ceux qui avaient chez eux des malades souffrant de maladies diverses, les lui amenèrent ; et lui, imposant les mains à chacun d'eux, les guérissait. Des démons aussi sortaient de beaucoup, criant et disant : « Tu es le Fils de Dieu ! » Et, commandant avec force, il ne les laissait pas parler, parce qu'ils savaient qu'il était le Christ. Quand il fit jour, il sortit et alla dans un lieu désert. Les foules se mirent à sa recherche et vinrent jusqu'à lui ; et elles voulaient le retenir, pour qu'il ne les quittât point. Mais il leur dit : « Il faut que j'annonce aussi aux autres villes la bonne nouvelle du royaume de Dieu, car j'ai été envoyé pour cela. » Et il prêchait dans les synagogues de la Galilée.",
+    "it": "Seguito ++ del Santo Vangelo secondo Luca.\n!Luc 4:38-44\nIn quel tempo Gesù, uscito dalla sinagoga, entrò in casa di Simone. Or la suocera di Simone era presa da violenta febbre; e gliela raccomandarono. Egli chinatosi verso di lei, comandò alla febbre e ne fu liberata; e alzatasi sull'istante, si mise a servirli. Sul tramontar del sole, quanti avevan infermi di varie malattie li portavano a lui. Ed egli, imposte a ciascuno le mani, li risanava. Uscivano anche i demoni da molti, gridando e dicendo: «Tu sei il Figlio di Dio». Ma egli li sgridava e non lasciava dire loro di sapere che lui era il Cristo. Fattosi poi giorno, usci per andare in luogo deserto ma le turbe, andate a cercarlo, giunsero fino a lui e lo volevano trattenere, perché non partisse da loro. Ma egli disse: «Bisogna che annunzi anche alle altre città la buona novella del regno di Dio; ché per questo sono stato mandato». E predicava per le sinagoghe di Galilea."
+  },
+  "offertory": {
+    "la": "!Ps 87:2-3.\nDómine, Deus salútis meæ, in die clamávi et nocte coram te: intret orátio mea in conspéctu tuo, Dómine, allelúja.",
+    "en": "!Ps 87:2-3\nO Lord, the God of my salvation, by day I cry out, at night I clamor in Your presence. Let my prayer come before You, O Lord, alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 87:2-3.\nSeigneur, Dieu de mon salut, jour et nuit je crie vers vous. Que ma prière entre en votre présence, Seigneur, alléluia.",
+    "it": "!Ps 87:2-3.\nSignore, Dio di mia salvezza, giorno e notte grido al tuo cospetto. Dinanzi a te giunga la mia prece, o Signore. Alleluia."
+  },
+  "secret": [
+    {
+      "la": "Ut accépta tibi sint, Dómine, nostra jejúnia: præsta nobis, quǽsumus; hujus múnere sacraménti purificátum tibi pectus offérre.\n$Per Dominum.",
+      "en": "Grant us, we beseech You, O Lord, that we may offer You a heart cleansed by this sacred rite so that our fast may be acceptable to You.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Afin que nos jeûnes vous soient agréables, Seigneur, donnez-nous de vous offrir un cœur purifié par ce sacrifice que nous tenons de vous.\n$Per Dominum.",
+      "it": "O Signore, affinché ti siano accetti i nostri digiuni, fa', te ne preghiamo, che per opera di questo sacramento, possiamo offrirti un cuore puro.\n$Per Dominum."
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Joannes 3:8\nSpíritus, ubi vult, spirat: et vocem ejus audis, allelúja, allelúja: sed nescis, unde véniat aut quo vadat, allelúja, allelúja, allelúja.",
+    "en": "!John 3:8.\nThe Spirit breaths where He will, and you hear His voice, alleluia, alleluia; but do not know whence He comes or where He goes, alleluia, alleluia, alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "!Joannes 3:8\nL'Esprit souffle où il veut, et tu entends sa voix, alléluia, alléluia ; mais tu ne sais d'où il vient ni où il va, alléluia, alléluia, alléluia.",
+    "it": "!Joannes 3:8\nIl vento soffia dove vuole; ne odi il sibilo, alleluia; ma non sai donde venga né dove vada, alleluia, alleluia.."
+  },
+  "postcommunion": [
+    {
+      "la": "Prǽbeant nobis, Dómine, divínum tua sancta fervórem: quo eórum páriter et actu delectémur et fructu.\n$Per Dominum.",
+      "en": "May Your holy things, O Lord, fill us with divine eagerness to enjoy their celebration together with their effects.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Que vos saints mystères, Seigneur, nous communiquent la divine ferveur, et que par elle nous nous réjouissions tout à la fois de les célébrer et d'en goûter les fruits.\n$Per Dominum.",
+      "it": "I tuoi sacri misteri, o Signore, ci infondano fervore divino, si che ne godiamo e la celebrazione e il frutto.\n$Per Dominum."
+    }
+  ]
+}

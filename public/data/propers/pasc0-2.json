@@ -1,0 +1,93 @@
+{
+  "id": "Pasc0-2",
+  "titleLatin": "Die III infra octavam Paschæ",
+  "titleVernacular": {
+    "en": "Die III infra octavam Paschae",
+    "es": "Die III infra octavam Paschae",
+    "de": "Osterdienstag",
+    "fr": "Die III infra octavam Paschae",
+    "it": "Die III infra octavam Paschae"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": false,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Eccli 15:3-4\nv. Aqua sapiéntiæ potávit eos, allelúja: firmábitur in illis et non flectétur, allelúja: et exaltábit eos in ætérnum, allelúja, allelúja.\n!Ps 104: 1\nConfitémini Dómino et invocáte nomen ejus: annuntiáte inter gentes ópera ejus.\n&Gloria\nv. Aqua sapiéntiæ potávit eos, allelúja: firmábitur in illis et non flectétur, allelúja: et exaltábit eos in ætérnum, allelúja, allelúja.",
+    "en": "!Sir 15:3-4\nv. He gave them the water of wholesome wisdom to drink, alleluia; and it shall be made strong in him, and shall not be moved, alleluia, and it shall exalt them forever, allelúja, allelúja.\n!Ps 104:1\nGive glory to the Lord, and call upon his name: declare his deeds among the Gentiles.\n&Gloria\nv. He gave them the water of wholesome wisdom to drink, alleluia; and it shall be made strong in him, and shall not be moved, alleluia, and it shall exalt them forever, allelúja, allelúja.",
+    "es": "",
+    "de": "",
+    "fr": "!Eccli 15:3-4\nv. Il les a abreuvés de l'eau de la Sagesse, alléluia ; il sera affermi en eux et ne fléchira point, alléluia ; et il les élèvera à jamais, alléluia, alléluia.\n!Ps 104: 1\nCélébrez le Seigneur et invoquez son Nom ; annoncez parmi les peuples ses œuvres.\n&Gloria\nv. Il les a abreuvés de l'eau de la Sagesse, alléluia ; il sera affermi en eux et ne fléchira point, alléluia ; et il les élèvera à jamais, alléluia, alléluia.",
+    "it": "!Eccli 15:3-4\nv. Il Signore li abbevera dell'acqua della Sapienza, alleluia; si stabilirà in loro e vi rimarrà, alleluia; in eterno li esalterà, alleluia, alleluia.\n!Ps 104: 1\nRendete grazie a Dio, gridate il suo nome, fate conoscere tra i popoli le sue imprese.\n&Gloria\nv. Il Signore li abbevera dell'acqua della Sapienza, alleluia; si stabilirà in loro e vi rimarrà, alleluia; in eterno li esalterà, alleluia, alleluia."
+  },
+  "collect": [
+    {
+      "la": "Deus, qui Ecclésiam tuam novo semper fœtu multíplicas: concéde fámulis tuis; ut sacraméntum vivéndo téneant, quod fide percepérunt.\n$Per Dominum",
+      "en": "O God, Who art ever multiplying the Children of thy Church, grant unto the same thy servants that they may lead the rest of their lives according to this beginning wherein Thou hast given them faith to receive the Sacrament of the New Birth.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Ô Dieu, qui accroissez sans cesse votre Église par de nouvelles naissances, accordez à vos serviteurs de garder dans leur vie le sacrement qu'ils ont reçu avec le don de la foi.\n$Per Dominum",
+      "it": "O Dio, che accresci la tua Chiesa con sempre nuova prole, concedi ai tuoi fedeli di conservare nella vita quel sacramento, che mediante la fede hanno ricevuto.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Actuum Apostolórum\n!Acts 13:16; 13:26-33\nIn diébus illis: Surgens Paulus et manu siléntium índicens, ait: Viri fratres, fílii géneris Abraham, et qui in vobis timent Deum, vobis verbum salútis hujus missum est. Qui enim habitábant Jerúsalem, et príncipes ejus, ignorántes Jesum et voces Prophetárum, quæ per omne sábbatum legúntur, judicántes implevérunt: et nullam causam mortis inveniéntes in eo, petiérunt a Piláto, ut interfícerent eum. Cumque consummássent ómnia, quæ de eo scripta erant, deponéntes eum de ligno, posuérunt eum in monuménto. Deus vero suscitávit eum a mórtuis tértia die: qui visus est per dies multos his, qui simul ascénderant cum eo de Galilǽa in Jerúsalem, qui usque nunc sunt testes ejus ad plebem. Et nos vobis annuntiámus eam, quæ ad patres nostros repromíssio facta est: quóniam hanc Deus adimplévit fíliis nostris, resúscitans Jesum Christum, Dóminum nostrum.",
+    "en": "Lesson from the Acts of Apostles\n!Acts 13:16; 13:26-33\nv.  In that time Paul rising up, and with his hand bespeaking silence, said: Ye men of Israel, and you that fear God, give ear. Men, brethren, children of the stock of Abraham, and whosoever among you fear God, to you the word of this salvation is sent. For they that inhabited Jerusalem, and the rulers thereof, not knowing him, nor the voices of the prophets, which are read every sabbath, judging him have fulfilled them. And finding no cause of death in him, they desired of Pilate, that they might kill him. And when they had fulfilled all things that were written of him, taking him down from the tree, they laid him in a sepulchre. But God raised him up from the dead the third day: Who was seen for many days, by them who came up with him from Galilee to Jerusalem, who to this present are his witnesses to the people. And we declare unto you, that the promise which was made to our fathers, This same God hath fulfilled to our children, raising up Jesus, as in the second psalm also is written: Thou art my Son, this day have I begotten thee.",
+    "es": "",
+    "de": "",
+    "fr": "Léctio Actuum Apostolórum.\n!Act 13:16; 13:26-33\nEn ces jours-là, Paul se levant et imposant de sa main le silence, dit : « Frères, fils de la race d'Abraham et ceux d'entre vous qui craignent Dieu, c'est à nous que cette parole de salut a été envoyée. Car les habitants de Jérusalem et leurs chefs, ayant méconnu Jésus ainsi que les paroles des prophètes qui se lisent chaque sabbat, ont accompli celles-ci en le condamnant ; et n'ayant trouvé aucune cause de mort, ils ont demandé à Pilate de le faire périr ; et quand ils eurent accompli tout ce qui est écrit de lui, ils le descendirent du bois et le déposèrent dans un sépulcre. Mais Dieu l'a ressuscité d'entre les morts ; et pendant bon nombre de jours il est apparu à ceux qui étaient montés avec lui de la Galilée à Jérusalem, et qui maintenant sont ses témoins auprès du peuple. Nous aussi, nous vous annonçons que la promesse faite à nos pères, Dieu l'a accomplie pour nous, leurs enfants, en ressuscitant Jésus-Christ, Notre Seigneur. »",
+    "it": "Dagli Attti degli Apostoli.\n!Acts 13:16; 13:26-33\nIn quei giorni Paolo alzatosi ed imposto silenzio con la mano disse: «Fratelli miei, figli della stirpe di Abramo, e voi tutti che temete Dio, la parola di questa salvezza è stata mandata a voi. Infatti gli abitanti di Gerusalemme e i loro capi, non avendo conosciuto Gesù, né le parole dei profeti, che si leggono ogni sabato, condannandolo, le adempirono, e sebbene in Lui non avessero trovato alcun motivo di morte, chiesero a Pilato di farlo morire. E dopo che ebbero compiute tutte le cose che erano scritte di Lui, depostolo dalla croce, lo posero nel sepolcro. Ma Dio lo risuscitò dai morti il terzo giorno, e fu visto per molti giorni da coloro che erano andati insieme a Lui dalla Galilea a Gerusalemme, e che ora sono suoi testimoni presso il popolo. E noi pure vi annunziamo la buona novella che la promessa fatta ai nostri padri, Dio l'ha adempiuta per i nostri figli, avendo risuscitato Gesù Cristo, nostro Signore»."
+  },
+  "gradual": {
+    "la": "!Ps 117:24;106:2\nHæc dies, quam fecit Dóminus: exsultémus et lætémur in ea.\n!Ps 106:2\nV. Dicant nunc, qui redémpti sunt a Dómino: quos redémit de manu inimíci, et de regiónibus congregávit eos.\nAllelúja, allelúja.\nV. Surrexit Dóminus de sepúlcro, qui pro nobis pepéndit in ligno.",
+    "en": "Alleluia, alleluia\n!Ps 117:24;\nv.  This is the day which the Lord hath made: let us be glad and rejoice therein.\n!Ps 106:2\nV.  Let them say so that have been redeemed by the Lord, whom he hath redeemed from the hand of the enemy: and gathered out of the countries. Allelúja, allelúja.\nV. The Lord is risen from the sepulcher, He, who hangeth on the tree",
+    "es": "",
+    "de": "",
+    "fr": "Allelúja, allelúja.\n!Ps 117:24;106:2\nVoici le jour que fit le Seigneur : exultons et réjouissons-nous.\n!Ps 106:2\nV. Qu'ils le disent, ceux qui ont été rachetés par le Seigneur, ceux qu'Il a rachetés de la main de l'ennemi, et qu'il a rassemblés d'entre les peuples. Alléluia, alléluia.\nV. Le Seigneur est ressuscité du tombeau, Lui qui pour nous pendit sur le bois.",
+    "it": "Alleluia, alleluia\n!Ps 117:24;106:2\nQuesto è il giorno che il Signore ha fatto: rallegriamoci ed esultiamo.\n!Ps 106:2\nV. Lo dicano ora quelli che sono stati redenti dal Signore, coloro che furono da lui riscattati, radunandoli da tutte le regioni. Alleluia, alleluia.\nV. È risorto dal sepolcro il Signore, che per noi sulla croce fu appeso."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Lucam\n!Luc. 24, 36-47\nIn illo témpore: Stetit Jesus in médio discipulórum suórum et dicit eis: Pax vobis: ego sum, nolíte timére. Conturbáti vero et contérriti, existimábant se spíritum vidére. Et dixit eis: Quid turbáti estis, et cogitatiónes ascéndunt in corda vestra? Vidéte manus meas et pedes, quia ego ipse sum: palpáte et vidéte: quia spíritus carnem et ossa non habet, sicut me vidétis habére. Et cum hoc dixísset, osténdit eis manus et pedes. Adhuc autem illis non credéntibus et mirántibus præ gáudio, dixit: Habétis hic aliquid, quod manducétur? At illi obtulérunt ei partem piscis assi et favum mellis. Et cum manducásset coram eis, sumens relíquias, dedit eis. Et dixit ad eos: Hæc sunt verba, quæ locútus sum ad vos, cum adhuc essem vobíscum, quóniam necésse est impléri ómnia, quæ scripta sunt in lege Móysi et Prophétis et Psalmis de me. Tunc apéruit illis sensum, ut intellégerent Scriptúras. Et dixit eis: Quóniam sic scriptum est, et sic oportébat Christum pati, et resúrgere a mórtuis tértia die: et prædicári in nómine ejus pœniténtiam, et remissiónem peccatórum in omnes gentes.",
+    "en": "Continuation + of the Holy Gospel according to Luke\n!Luke 24:36-47\nIn that time Jesus stood in the midst of them, and saith to them: Peace be to you; it is I, fear not. But they being troubled and frightened, supposed that they saw a spirit. And he said to them: Why are you troubled, and why do thoughts arise in your hearts? See my hands and feet, that it is I myself; handle, and see: for a spirit hath not flesh and bones, as you see me to have. And when he had said this, he shewed them his hands and feet. But while they yet believed not, and wondered for joy, he said: Have you any thing to eat? And they offered him a piece of a broiled fish, and a honeycomb. And when he had eaten before them, taking the remains, he gave to them. And he said to them: These are the words which I spoke to you, while I was yet with you, that all things must needs be fulfilled, which are written in the law of Moses, and in the prophets, and in the psalms, concerning me. Then he opened their understanding, that they might understand the scriptures. And he said to them: Thus it is written, and thus it behoved Christ to suffer, and to rise again from the dead, the third day: And that penance and remission of sins should be preached in his name, unto all nations, beginning at Jerusalem. And you are witnesses of these things.",
+    "es": "",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Lucam.\n!Luc. 24, 36-47\nEn ce temps-là, Jésus se tint au milieu de ses disciples, e t il leur dit : « Paix à vous ! C'est moi, ne craignez point. » Saisis de stupeur et d'effroi, ils croyaient voir un esprit. Et il leur dit : « Pourquoi êtes-vous troublés, et pourquoi des pensées s'élèvent-elles dans vos cœurs ? Voyez mes mains et mes pieds ; c'est bien moi. Touchez-moi et constatez, car un esprit n'a ni chair ni os, comme vous voyez que j'en ai. » Et ce disant, il leur montra ses mains et ses pieds. Comme ils ne croyaient pas encore à cause de leur joie et qu'ils étaient dans l'étonnement, il leur dit : « Avez-vous ici quelque chose à manger ? » Ils lui donnèrent un morceau de poisson grillé. Il le prit et en mangea devant eux. Il leur dit : « C'est bien là ce que je vous ai dit quand j'étais encore avec vous : qu'il fallait que tout ce qui est écrit de moi dans la loi de Moïse, les Prophètes et les Psaumes s'accomplisse. » Alors il leur ouvrit l'intelligence pour comprendre les Écritures ; et il leur dit : « Ainsi il est écrit que le Christ devait souffrir et ressusciter des morts le troisième jour, et que le repentir pour la rémission des péchés doit être prêché en son nom à toutes les nations. »",
+    "it": "Seguito ++ del Santo vangelo secondo Luca.\n!Luc. 24, 36-47\nIn quel tempo: Gesù apparve in mezzo ai suoi discepoli, e disse loro: «La pace sia con voi: son io, non temete». Ma essi, turbati e atterriti, credevano di. vedere uno spirito. E disse loro: «Perché siete turbati e perché vi sorgono dei dubbi nella vostra mente? Guardate le mie mani e i miei piedi: son proprio io: palpatemi e osservate, perché uno spirito non ha carne ed ossa, come vedete che io ho». Detto ciò, mostrò loro le mani ed i piedi. Ma stando essi per la gioia ancora diffidenti e stupiti, disse loro: «Avete qui nulla da mangiare?». E gli offrirono un pezzo di pesce arrostito e un favo di miele. E mangiato che ebbe davanti ad essi, prese gli avanzi e li diede loro. Poi disse: «Sono queste le cose, che io vi dicevo quando ero ancora con voi; che cioè bisognava fosse adempito quanto sta scritto di me nella legge di Mosè e nei Profeti e nei Salmi». Allora apri loro la mente per intendere le Scritture: e soggiunse: «Così sta scritto: che il Cristo doveva patire e risorgere da morte il terzo giorno; e che doveva predicarsi in nome di lui la penitenza e il perdono dei peccati a tutte le genti»."
+  },
+  "offertory": {
+    "la": "!Ps. 17:14; 17:16\nIntónuit de cœlo Dóminus, et Altíssimus dedit vocem suam: et apparuérunt fontes aquárum, allelúja.",
+    "en": "!Ps 17:14; 17:16\nv.  And the Lord thundered from heaven, and the highest gave his voice:  Then the fountains of waters appeared, allelúja.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps. 17:14; 17:16\nLe Seigneur a tonné du haut des cieux, et le Très-Haut a donné de la voix ; et des sources d'eau sont apparues, alléluia.",
+    "it": "!Ps. 17:14; 17:16\nDal cielo tuonava il Signore; l'Altissimo fece udire la sua voce; ed apparvero le sorgenti delle acque, alleluia."
+  },
+  "secret": [
+    {
+      "la": "Súscipe, Dómine, fidélium preces cum oblatiónibus hostiárum: ut, per hæc piæ devotiónis offícia, ad cœléstem glóriam transeámus.\n$Per Dominum",
+      "en": "Accept, O Lord, the prayers and the sacrifice of thy faithful; that by these services of pious devotion, we may come to heavenly glory.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Accueillez, Seigneur, les prières des fidèles avec l'offrande de ce sacrifice, afin qu'en vous rendant ces devoirs de pieuse fidélité, nous parvenions à la gloire du ciel.\n$Per Dominum",
+      "it": "Signore, accetta le preci dei tuoi fedeli con l'offerta dei doni; affinché per questi omaggi di pia devozione, raggiungiamo l'eterna gloria.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Col 3:1-2\nSi consurrexístis cum Christo, quæ sursum sunt quǽrite, ubi Christus est in déxtera Dei sedens, allelúja: quæ sursum sunt sápite, allelúja.",
+    "en": "!Col 3:1-2\nv.  If you be risen with Christ, seek the things that are above; where Christ is sitting at the right hand of God: alleluia. Mind the things that are above, allelúja.",
+    "es": "",
+    "de": "",
+    "fr": "!Col 3:1-2\nSi vous êtes ressuscités avec le Christ, recherchez les choses d'en-haut, là où se trouve le Christ, trônant à la droite de Dieu, alléluia ; ayez le goût des choses d'en-haut, alléluia.",
+    "it": "!Col 3:1-2\nSe siete risuscitati con il Cristo, cercate le cose del Cielo, dove il Cristo siede alla destra del Padre, alleluia; gustate le cose celesti, alleluia."
+  },
+  "postcommunion": [
+    {
+      "la": "Concéde, quǽsumus, omnípotens Deus: ut paschális percéptio sacraménti, contínua in nostris méntibus persevéret.\n$Per Dominum",
+      "en": "Grant, we beseech thee, Almighty God, that the grace of the paschal sacrament which we have received may ever abide in our souls.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Puisse, Dieu tout-puissant, ce sacrement de Pâques que nous venons de recevoir, demeurer en nos âmes par ses effets.\n$Per Dominum",
+      "it": "Ti supplichiamo, o Dio onnipotente: fa' che il sacramento pasquale ricevuto ora perseveri sempre nelle nostre anime.\n$Per Dominum"
+    }
+  ]
+}

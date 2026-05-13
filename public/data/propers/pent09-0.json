@@ -1,0 +1,93 @@
+{
+  "id": "Pent09-0",
+  "titleLatin": "Dominica IX Post Pentecosten",
+  "titleVernacular": {
+    "en": "Dominica IX Post Pentecosten",
+    "es": "Dominica IX Post Pentecosten",
+    "de": "Neunter Sonntag nach Pfingsten",
+    "fr": "Dominica IX Post Pentecosten",
+    "it": "Dominica IX Post Pentecosten"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps 53:6-7\nv. Ecce, Deus adjuvat me, et Dóminus suscéptor est ánimæ meæ: avérte mala inimícis meis, et in veritáte tua dispérde illos, protéctor meus, Dómine.\n!Ps 53:3\nDeus, in nómine tuo salvum me fac: et in virtúte tua libera me.\n&Gloria\nv. Ecce, Deus adjuvat me, et Dóminus suscéptor est ánimæ meæ: avérte mala inimícis meis, et in veritáte tua dispérde illos, protéctor meus, Dómine.",
+    "en": "!Ps 53:6-7\nv. Behold, God is my helper, the Lord sustains my life. Turn back the evil upon my foes; in Your faithfulness destroy them, O Lord, my protector.\n!Ps 53:3\nO God, by Your name save me, and by Your might deliver me.\n&Gloria\nv. Behold, God is my helper, the Lord sustains my life. Turn back the evil upon my foes; in Your faithfulness destroy them, O Lord, my protector.",
+    "es": "!Ps 53:6-7\nv. Dios viene en mi ayuda, y el Señor es el sostén de mi vida; haz recaer los males sobre mis enemigos; en tu fidelidad, extermínalos, ¡oh Señor y protector mío!\n!Ps 53:3\nSálvame, ¡oh Dios!, por tu nombre, y hazme justicia con tu poder.\n&Gloria\nv. Dios viene en mi ayuda, y el Señor es el sostén de mi vida; haz recaer los males sobre mis enemigos; en tu fidelidad, extermínalos, ¡oh Señor y protector mío!",
+    "de": "",
+    "fr": "!Ps 53:6-7.\nv. Voici que Dieu vient à mon secours, et le Seigneur est le soutien de mon âme ; détourne les maux sur mes ennemis, et dans ta fidélité disperse-les, Seigneur, mon protecteur.\n!Ps 53:3\nÔ Dieu, par ton Nom sauve-moi, et par ta force libère-moi.\n&Gloria\nv. Voici que Dieu vient à mon secours, et le Seigneur est le soutien de mon âme ; détourne les maux sur mes ennemis, et dans ta fidélité disperse-les, Seigneur, mon protecteur.",
+    "it": "!Ps 53:6-7.\nv. Ecco, Iddio mi aiuta, e il Signore è il sostegno dell’ànima mia: ritorci il male contro i miei nemici, e disperdili nella tua verità, o Signore, mio protettore.\n!Ps 53:3\nO Dio, salvami nel tuo nome: e líberami per la tua potenza.\n&Gloria\nv. Ecco, Iddio mi aiuta, e il Signore è il sostegno dell’ànima mia: ritorci il male contro i miei nemici, e disperdili nella tua verità, o Signore, mio protettore."
+  },
+  "collect": [
+    {
+      "la": "Páteant aures misericórdiæ tuæ, Dómine, précibus supplicántium: et, ut peténtibus desideráta concédas; fac eos quæ tibi sunt plácita, postuláre.\n$Per Dominum",
+      "en": "May Your merciful ears be open, O Lord, to the prayers of those who humbly entreat You; grant that they may ask for what pleases You so that You may fulfill their desires.\n$Per Dominum",
+      "es": "Ábranse, Señor, los oídos de tu misericordia a las súplicas de los que te imploran; y, para que les concedas lo que desean, haz que pidan lo que te es grato conceder.\n$Per Dominum",
+      "de": "",
+      "fr": "Que les oreilles de votre miséricorde, Seigneur, s'ouvrent aux prières de ceux qui vous supplient, et afin que vous leur accordiez ce qu'ils désirent, faites-leur demander ce qui vous est agréable.\n$Per Dominum",
+      "it": "Porgi pietoso orecchio, o Signore, alle preghiere di chi Ti súpplica, e, al fine di poter concedere loro quanto desiderano, fa che Ti chiedano quanto Ti piace.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios\n!1 Cor 10:6-13\nFratres: Non simus concupiscéntes malórum, sicut et illi concupiérunt. Neque idolólatræ efficiámini, sicut quidam ex ipsis: quemádmodum scriptum est: Sedit pópulus manducáre et bíbere, et surrexérunt lúdere. Neque fornicémur, sicut quidam ex ipsis fornicáti sunt, et cecidérunt una die vigínti tria mília. Neque tentémus Christum, sicut quidam eórum tentavérunt, et a serpéntibus periérunt. Neque murmuravéritis, sicut quidam eórum murmuravérunt, et periérunt ab exterminatóre. Hæc autem ómnia in figúra contingébant illis: scripta sunt autem ad correptiónem nostram, in quos fines sæculórum devenérunt. Itaque qui se exístimat stare, vídeat ne cadat. Tentátio vos non apprehéndat, nisi humána: fidélis autem Deus est, qui non patiétur vos tentári supra id, quod potéstis, sed fáciet étiam cum tentatióne provéntum, ut póssitis sustinére.",
+    "en": "Lesson from the first letter of St. Paul the Apostle to the Corinthians\n!1 Cor. 10:6-13\nBrethren: We should not lust after evil things even as they lusted. And do not become idolaters, even as some of them were, as it is written, The people sat down to eat and drink, and rose up to play. Neither let us commit fornication, even as some of them committed fornication, and there fell in one day twenty-three thousand. Neither let us tempt Christ, as some of them tempted, and perished by the serpents. Neither murmur, as some of them murmured, and perished at the hands of the destroyer. Now all these things happened to them as a type, and they were written for our correction, upon whom the final age of the world has come. Therefore let him who thinks he stands take heed lest he fall. May no temptation take hold of you but such as man is equal to. God is faithful and will not permit you to be tempted beyond your strength, but with the temptation will also give you a way out that you may be able to bear it.",
+    "es": "Lección de la carta del Apóstol san Pablo a los Corintios\n!1 Cor 10:6-13\nHermanos: No codiciemos el mal como lo codiciaron ellos. Y para que no seáis idólatras como algunos de ellos, según está escrito: El pueblo se sentó a comer y a beber y se levantaron a divertirse. Y para que no forniquemos, como fornicaron algunos de ellos, y cayeron en un solo día veintitrés mil. Y para que no tentemos a Cristo, como lo tentaron algunos de ellos, y murieron mordidos por las serpientes. Y para que no murmuréis, como murmuraron algunos de ellos, y perecieron a manos del Exterminador. Todo esto les sucedía alegóricamente y fue escrito para escarmiento nuestro, a quienes nos ha tocado vivir en la última de las edades. Por lo tanto, el que se crea seguro, cuídese de no caer. No os ha sobrevenido ninguna tentación que no sea de medida humana. Dios es fiel, y él no permitirá que seáis tentados por encima de vuestras fuerzas, sino que con la tentación hará que encontréis también el modo de poder soportarla.",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Pauli Apóstoli ad Corinthios.\n!1 Cor 10:6-13\nFrères, n'ayons pas de désirs coupables, comme les Hébreux en eurent. Ne devenez pas non plus idolâtres, comme quelques-uns d'entre eux, selon qui est écrit : Le peuple s'assit pour manger et pour boire ; puis il se leva pour se divertir. Ne nous livrons point à l'impudicité, comme quelques-uns d'entre eux s'y livrèrent ; et il en tomba vingt-trois mille en un seul jour. Ne tentons point le Christ, comme le tentèrent quelques-uns d'entre eux, qui périrent par les serpents. Ne murmurez point comme murmurèrent quelques-uns d'entre eux, qui périrent sous les coups de l'Exterminateur. Toutes ces choses leur sont arrivées en figure, et elles ont été écrites pour notre instruction, à nous qui sommes arrivés à la fin des temps. Ainsi donc que celui qui croit être debout prenne garde de tomber. Qu'aucune tentation ne vous survienne, qui ne soit humaine : Dieu, qui est fidèle, ne permettra pas que vous soyez tentés au delà de vos forces ; mais, avec la tentation, il ménagera aussi une heureuse issue, pour que vous puissiez la supporter.",
+    "it": "Lettura della Lettera del B. Paolo Ap. ai Corinti.\n!1 Cor 10:6-13\nFratelli: Non bramiamo le cose cattive che quelli desiderarono. Né siate idolatri, come alcuni di loro, dei quali è stato scritto: Il popolo si assise per mangiare e bere, e si alzò per tripudiare. Né fornichiamo, come fecero alcuni di loro, cosí che nello stesso giorno ne caddero ventitremila. Non tentiamo il Cristo, come alcuni di loro lo tentarono, e perirono per mezzo dei serpenti. Non mormorate, come mormorarono alcuni di essi, e perirono per mezzo dello sterminatore. Tutte queste cose accaddero loro per servire da esempio, e sono state scritte per mettere in guardia noi, che siamo venuti alla fine dei tempi. Cosí, chi pensa di star dritto, veda di non cadere. Non vi è mai sopraggiunta alcuna tentazione maggiore delle vostre forze: Dio è fedele, e non vorrà che voi siate tentati al di sopra delle vostre forze, ma, insieme alla tentazione, darà il mezzo perché possiate vincerla."
+  },
+  "gradual": {
+    "la": "!Ps 8:2\nDómine, Dóminus noster, quam admirábile est nomen tuum in universa terra!\nV. Quóniam eleváta est magnificéntia tua super cœlos.\nAllelúja, allelúja.\n!Ps 58:2\nEripe me de inimícis meis, Deus meus: et ab insurgéntibus in me líbera me. Allelúja.",
+    "en": "!Ps 8:2\nO Lord, our Lord, how glorious is Your name over all the earth!\nV. You have elevated Your Majesty above the heavens.\nAlleluia, alleluia.\n!Ps 58:2\nV. Rescue me from my enemies, O my God; from my adversaries defend me. Alleluia.",
+    "es": "!Ps 8:2\nSeñor, Señor nuestro, ¡Cuán admirable es tu nombre en toda la tierra!\nV. Tu magnificencia rebasa la altura de los cielos. Aleluya, aleluya.\n!Ps 58:2\nV. Líbrame, Dios mío, de enemigos; líbrame de los que se levantan contra mí. Aleluya.",
+    "de": "",
+    "fr": "!Ps 8:2\nSeigneur, notre Dieu, que votre Nom est admirable sur toute la terre !\nV. Oui, votre grandeur s'élève au-dessus des cieux. Alléluia, alléluia.\n!Ps 58:2\nArrachez-moi à mes ennemis, ô mon Dieu, et libérez-moi de ceux qui se dressent contre moi. Alléluia.",
+    "it": "!Ps 8:2\nSignore, Signore nostro, quanto ammirabile è il tuo nome su tutta la terra!\nV. Poiché la tua magnificenza sorpassa i cieli. Allelúia, allelúia\n!Ps 58:2\nAllontànami dai miei nemici, o mio Dio: e líberami da coloro che insorgono contro di me. Allelúia."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Lucam\n!Luc 19:41-47\nIn illo témpore: Cum appropinquáret Jesus Jerúsalem, videns civitátem, flevit super illam, dicens: Quia si cognovísses et tu, et quidem in hac die tua, quæ ad pacem tibi, nunc autem abscóndita sunt ab óculis tuis. Quia vénient dies in te: et circúmdabunt te inimíci tui vallo, et circúmdabunt te: et coangustábunt te úndique: et ad terram prostérnent te, et fílios tuos, qui in te sunt, et non relínquent in te lápidem super lápidem: eo quod non cognóveris tempus visitatiónis tuæ. Et ingréssus in templum, cœpit ejícere vendéntes in illo et eméntes, dicens illis: Scriptum est: Quia domus mea domus oratiónis est. Vos autem fecístis illam speluncam latrónum. Et erat docens cotídie in templo.",
+    "en": "Continuation + of the Holy Gospel according to Luke\n!Luke 19:41-47\nAt that time, when Jesus drew near to Jerusalem and saw the city, He wept over it, saying, If you had known, in this your day, even you, the things that are for your peace! But now they are hidden from your eyes. For days will come upon you when your enemies will throw up a rampart about you, and surround you and shut you in on every side, and will dash you to the ground and your children within you, and will not leave in you one stone upon another, because you have not known the time of your visitation. And He entered the temple, and began to cast out those who were selling and buying in it, saying to them, It is written, ‘My house is a house of prayer,’ but you have made it a den of thieves. And He was teaching daily in the temple.",
+    "es": "Continuación + del Santo Evangelio según San Lucas\n!Lc 19:41-47\nEn aquel tiempo: Al acercarse Jesús a Jerusalén y ver la ciudad, lloró sobre ella, mientras decía: «¡Si reconocieras tú también en este día lo que conduce a la paz! Pero ahora está escondido a tus ojos. Pues vendrán días sobre ti en que tus enemigos te rodearán de trincheras, te sitiarán, apretarán el cerco de todos lados, te arrasarán con tus hijos dentro, y no dejarán piedra sobre piedra. Porque no reconociste el tiempo de tu visita». Después entró en el templo y se puso a echar a los vendedores, diciéndoles: «Escrito está: “Mi casa será casa de oración”; pero vosotros la habéis hecho una “cueva de bandidos”». Todos los días enseñaba en el templo.",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Lucam.\n!Luc 19:41-47\nEn ce temps-là, tandis que Jésus s'approchait de Jérusalem, voyant la ville, il pleura sur elle, disant : « Si, en ce jour, tu avais connu, toi aussi, ce qui était pour ta paix ! Mais maintenant cela demeure caché à tes yeux. Car vont venir sur toi des jours où tes ennemis établiront contre toi un retranchement, t'investiront et te serreront de toute part ; ils t'abattront à terre, ainsi que tes enfants qui sont chez toi, et ils ne laisseront pas en toi pierre sur pierre, parce que tu n'as pas connu le momentoù tu as été visitée. » Étant entré dans le temple, il se mit à chasser ceux qui vendaient, leur disant : « Il est écrit : « Ma maison est une maison de prière» ; et vous, vous en avez fait une caverne de voleurs. » Et il enseignait chaque jour dans le temple.",
+    "it": "Séguito ++ del S. Vangelo secondo Luca.\n!Luc 19:41-47\nIn quel tempo: Essendo Gesú giunto vicino a Gerusalemme, scorgendo la città, pianse su di essa, dicendo: Oh! se in questo giorno avessi conosciuto anche tu quello che occorreva per la tua pace! Ma tutto ciò è ormai nascosto ai tuoi occhi. Perciò per te verranno giorni in cui i tuoi nemici ti circonderanno con trincee, ti assedieranno e ti angustieranno da ogni parte; e getteranno a terra te e i tuoi figli che abitano in te, e non lasceranno in te pietra su pietra, poiché non hai conosciuto il tempo in cui sei stata visitata. Entrato poi nel tempio, cominciò a cacciare quanti lí dentro vendevano e compravano, dicendo loro: Sta scritto: La mia casa è casa di preghiera. Voi invece ne avete fatta una spelonca di ladri. E ogni giorno insegnava nel tempio."
+  },
+  "offertory": {
+    "la": "!Ps 18:9, 10, 11, 12\nJustítiæ Dómini rectæ, lætificántes corda, et judícia ejus dulcióra super mel et favum: nam et servus tuus custódit ea.",
+    "en": "!Ps 18:9-12\nThe precepts of the Lord are right, rejoicing the heart, and His ordinances sweeter than syrup or honey from the comb; therefore Your servant is careful of them.",
+    "es": "!Salm. 18:9-12\nLos preceptos del Señor son rectos y alegran el corazón; son más dulces que la miel, que la miel de panales; y tu siervo los guarda.",
+    "de": "",
+    "fr": "!Ps 18:9; 18:10; 18:11; 18:12\nLes jugements du Seigneur sont droits, ils réjouissent le cœur ; ses préceptes sont plus doux que le miel et le rayon de miel ; votre serviteur les garde.",
+    "it": "!Ps 18:9; 18:10; 18:11; 18:12\nLa legge del Signore è retta e rallegra i cuori, i suoi giudizii sono piú dolci del miele e del favo: e il servo li custodisce."
+  },
+  "secret": [
+    {
+      "la": "Concéde nobis, quǽsumus, Dómine, hæc digne frequentáre mystéria: quia, quóties hujus hóstiæ commemorátio celebrátur, opus nostræ redemptiónis exercétur.\n$Per Dominum",
+      "en": "Grant us, we beseech You, O Lord, to take part worthily and frequently in this sacramental action: for as often as this sacrifice of commemoration is offered, the work of our redemption is performed.\n$Per Dominum",
+      "es": "Señor, te pedimos nos concedas el que frecuentemos dignamente estos misterios; pues cuantas veces se celebra este sacrificio, otras tantas se renueva la obra de nuestra redención.\n$Per Dominum",
+      "de": "",
+      "fr": "Accordez-nous, Seigneur, de nous approcher dignement de ces saints mystères, car chaque fois qu'en mémoire de votre passion ce sacrifice est célébré, c'est l'œuvre de notre rédemption qui s'accomplit.\n$Per Dominum",
+      "it": "Concedici, o Signore, Te ne preghiamo, di frequentare degnamente questi misteri, perché quante volte si celebra la commemorazione di questo sacrificio, altrettante si compie l’opera della nostra redenzione.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Joann 6:57\nQui mandúcat meam carnem et bibit meum sánguinem, in me manet et ego in eo, dicit Dóminus.",
+    "en": "!John 6:57\nHe who eats My Flesh, and drinks My Blood, abides in Me, and I in him, says the Lord.",
+    "es": "!Jn 6:57\nEl que come mi carne y bebe mi sangre, permanece en mí y yo en  él, dice el Señor.",
+    "de": "",
+    "fr": "!Joann 6:57\nCelui qui mange ma chair et boit mon sang demeure en moi et moi en lui, dit le Seigneur.",
+    "it": "!Joann 6:57\nChi mangia la mia carne e beve il mio sangue, rimane in me, ed io in lui, dice il Signore."
+  },
+  "postcommunion": [
+    {
+      "la": "Tui nobis, quǽsumus, Dómine, commúnio sacraménti, et purificatiónem cónferat, et tríbuat unitátem.\n$Per Dominum",
+      "en": "May the partaking of Your sacrament, we beseech You, O Lord, cleanse us and unite us.\n$Per Dominum",
+      "es": "Te suplicamos, Señor que la recepción de tu sacramento nos limpie de nuestros pecados y nos dé la unidad.\n$Per Dominum",
+      "de": "",
+      "fr": "Que la communion à votre sacrement, Seigneur, lave nos fautes et nous donne l'unité.\n$Per Dominum",
+      "it": "O Signore, Te ne preghiamo, la partecipazione del tuo sacramento serva a purificarci e a creare in noi un’unione perfetta.\n$Per Dominum"
+    }
+  ]
+}

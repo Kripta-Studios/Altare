@@ -1,0 +1,93 @@
+{
+  "id": "Pent01-0a",
+  "titleLatin": "Dominica I Post Pentecosten",
+  "titleVernacular": {
+    "en": "Dominica I. Post Pentecosten",
+    "es": "",
+    "de": "Erster Sonntag nach Pfingsten",
+    "fr": "Dominica I Post Pentecosten",
+    "it": "Dominica I. Post Pentecosten"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps 12:6\nv. Dómine, in tua misericórdia sperávi: exsultávit cor meum in salutári tuo: cantábo Dómino, qui bona tríbuit mihi.\n!Ps 12:1\nUsquequo, Dómine, oblivísceris me in finem? usquequo avértis fáciem tuam a me?\n&Gloria\nv. Dómine, in tua misericórdia sperávi: exsultávit cor meum in salutári tuo: cantábo Dómino, qui bona tríbuit mihi.",
+    "en": "!Ps 12:6\nv. O Lord, I have trusted in thy mercy. My heart shall rejoice in thy salvation: I will sing to the Lord, who giveth me good things.\n!Ps 12:1\nv. How long, O Lord, wilt thou forget me unto the end? how long dost thou turn away thy face from me?\n&Gloria\nv. O Lord, I have trusted in thy mercy. My heart shall rejoice in thy salvation: I will sing to the Lord, who giveth me good things.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 12:6\nv. Seigneur, j'espère en votre miséricorde. Mon cœur exulte en votre salut ; je chanterai pour le Seigneur qui m'a comblé de bienfaits.\n!Ps 12:1\nJusques à quand, Seigneur, m'oublierez-vous toujours ? Jusques à quand détournerez-vous de moi votre face ?\n&Gloria\nv. Seigneur, j'espère en votre miséricorde. Mon cœur exulte en votre salut ; je chanterai pour le Seigneur qui m'a comblé de bienfaits.",
+    "it": "!Ps 12:6\nv. Signore, ho sperato nella tua misericordia. Il mio cuore esulterà per la salvezza da te ricevuta: io canterò al Signore che mi ha colmato di beni.\n!Ps 12:1\nFino a quando, o Signore, ti dimenticherai sempre di me? fino a quando volti da me la tua faccia?\n&Gloria\nv. Signore, ho sperato nella tua misericordia. Il mio cuore esulterà per la salvezza da te ricevuta: io canterò al Signore che mi ha colmato di beni.\ncantábo Dómino, qui bona tríbuit mihi."
+  },
+  "collect": [
+    {
+      "la": "Deus, in te sperántium fortitúdo, adésto propítius invocatiónibus nostris: et, quia sine te nihil potest mortális infírmitas, præsta auxílium grátiæ tuæ; ut, in exsequéndis mandátis tuis, et voluntáte tibi et actióne placeámus.\n$Per Dominum",
+      "en": "O God, the Strength of all them that put their trust in thee, mercifully accept our prayers, and because through the weakness of our mortal nature we can do no good thing without thee, grant us the help of thy grace, that in keeping of thy commandments we may please thee, both in will and deed.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Ô Dieu, force de ceux qui espèrent en vous, prêtez une oreille bienveillante à notre appel, et puisque, sans vous, la faiblesse de notre nature vouée à la mort ne peut rien, accordez-nous le secours de votre grâce ; afin que, dociles à accomplir vos commandements, nous puissions vous plaire par le vouloir et par le faire.\n$Per Dominum",
+      "it": "O Dio, fortezza di chi spera in te, scolta propizio li nostre suppliche; e poiché la debolezza umana può nulla senza di te, concedici l’aiuto della tua grazia per osservare i tuoi comandamenti e per piacerti nei propositi e nelle azioni.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Joánni Apóstoli\n!1 Joannnes 4:8-21\nCaríssimi: Deus cáritas est. In hoc appáruit cáritas Dei in nobis, quóniam Fílium suum unigénitum misit Deus in mundum, ut vivámus per eum. In hoc est cáritas: non quasi nos dilexérimus Deum, sed quóniam ipse prior diléxit nos, et misit Fílium suum propitiatiónem pro peccátis nostris. Caríssimi, si sic Deus diléxit nos: et nos debémus altérutrum dilígere. Deum nemo vidit umquam. Si diligámus ínvicem, Deus in nobis manet, et cáritas ejus in nobis perfécta est. In hoc cognóscimus, quóniam in eo manémus et ipse in nobis: quóniam de Spíritu suo dedit nobis. Et nos vídimus et testificámur, quóniam Pater misit Fílium suum Salvatórem mundi. Quisquis conféssus fúerit, quóniam Jesus est Fílius Dei, Deus in eo manet et ipse in Deo. Et nos cognóvimus et credídimus caritáti, quam habet Deus in nobis. Deus cáritas est: et qui manet in caritáte, in Deo manet et Deus in eo. In hoc perfécta est cáritas Dei nobíscum, ut fidúciam habeámus in die judicii: quia, sicut ille est, et nos sumus in hoc mundo. Timor non est in caritáte: sed perfécta cáritas foras mittit timórem, quóniam timor pœnam habet. Qui autem timet, non est perféctus in caritáte. Nos ergo diligámus Deum, quóniam Deus prior diléxit nos. Si quis díxerit, quóniam díligo Deum, et fratrem suum óderit, mendax est. Qui enim non díligit fratrem suum, quem videt, Deum, quem non videt, quómodo potest dilígere? Et hoc mandátum habémus a Deo: ut, qui diligit Deum, díligat et fratrem suum.",
+    "en": "Lesson from the first letter of St John the Apostle\n!1 John 4:8-21\nv. Dearly beloved: He that loveth not, knoweth not God: for God is charity. By this hath the charity of God appeared towards us, because God hath sent his only begotten Son into the world, that we may live by him. In this is charity: not as though we had loved God, but because he hath first loved us, and sent his Son to be a propitiation for our sins. My dearest, if God hath so loved us; we also ought to love one another. No man hath seen God at any time. If we love one another, God abideth in us, and his charity is perfected in us. In this we know that we abide in him, and he in us: because he hath given us of his spirit. And we have seen, and do testify, that the Father hath sent his Son to be the Saviour of the world. Whosoever shall confess that Jesus is the Son of God, God abideth in him, and he in God. And we have known, and have believed the charity, which God hath to us. God is charity: and he that abideth in charity, abideth in God, and God in him. In this is the charity of God perfected with us, that we may have confidence in the day of judgment: because as he is, we also are in this world. Fear is not in charity: but perfect charity casteth out fear, because fear hath pain. And he that feareth, is not perfected in charity. Let us therefore love God, because God first hath loved us. If any man say, I love God, and hateth his brother; he is a liar. For he that loveth not his brother, whom he seeth, how can he love God, whom he seeth not? And this commandment we have from God, that he, who loveth God, love also his brother.",
+    "es": "",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Joánni Apóstoli.\n!1 Joannnes 4:8-21\nBien-aimés, Dieu est amour. Il a manifesté son amour pour nous en envoyant son Fils unique dans le monde, afin que nous vivions par lui. Et cet amour consiste en ce que ce n'est pas nous qui avons aimé Dieu, mais lui qui nous a aimés et qui a envoyé son Fils comme victime de propitiation pour nos péchés. Mes bien-aimés, si Dieu nous a ainsi aimés, nous devons aussi nous aimer les uns les autres. Personne n'a jamais vu Dieu ; mais si nous nous aimons les uns les autres, Dieu demeure en nous, et son amour est parfait en nous. Nous connaissons que nous demeurons en lui et qu'il demeure en nous, en ce qu'il nous donne de son Esprit. Et nous, nous avons contemplé et nous attestons que le Père nous a envoyé le Fils comme Sauveur du monde. Celui qui confessera que Jésus est le Fils de Dieu, Dieu demeure en lui et lui en Dieu. Et nous, nous avons connu l'amour que Dieu a pour nous, et nous y avons cru. Dieu est amour ; et celui qui demeure dans l'amour demeure en Dieu, et Dieu demeure en lui. La perfection de l'amour en nous, c'est que nous ayons une confiance assurée au jour du jugement ; car tel est Jésus-Christ, tels nous sommes aussi dans ce monde. Il n'y a point de crainte dans l'amour ; mais l'amour parfait bannit la crainte, car la crainte suppose un châtiment ; celui qui craint n'est pas parfait dans l'amour. Nous donc, aimons Dieu, puisque Dieu nous a aimés le premier. Si quelqu'un dit : « J'aime Dieu », et qu'il haïsse son frère, c'est un menteur ; comment celui qui n'aime pas son frère qu'il voit, peut-il aimer Dieu qu'il ne voit pas ? Et nous avons reçu de lui ce commandement : Que celui qui aime Dieu aime aussi son frère.",
+    "it": "Lettura dell'Epistola del beato Giovanni Apostolo\n!1 Joannes 4:8-21\nCarissimi, Dio è carità. 9 La carità di Dio per noi si è manifestata in questo, che Dio ha mandato il suo unico Figlio nel mondo, affinché noi avessimo la vita per mezzo di lui. E tale carità sta in ciò: che non siamo noi che abbiamo amato Dio, ma è lui che per il primo ha amato noi e ha mandato il suo Figlio qual vittima per i nostri peccati. Carissimi, se Dio ha così amato noi, anche noi dobbiamo amarci l'un l'altro. Nessuno ha mai veduto Dio. Ma se ci amiamo l'un l'altro, Dio dimora in noi e il suo amore è in noi nel modo più perfetto. Noi conosciamo che dimoriamo in lui e che egli dimora in noi, da questo che egli ci ha fatto parte del suo Spirito. Per conto nostro abbiam visto e attestiamo che il Padre ha mandato il suo Figlio qual Salvatore del mondo. 15 Chiunque confesserà che Gesù è il Figlio di Dio, Dio dimora in lui, ed egli in Dio. Quanto a noi, abbiamo conosciuto l'amore che Dio ha per noi e ci abbiamo creduto. Dio è carità, e chi dimora nella carità, dimora in Dio, e Dio in lui. La perfezione dell'amore di Dio in noi consiste in questo, che noi nutriamo piena fiducia per il giorno del giudizio: perché quale è lui, tali siamo pure noi in questo mondo. Nell'amore non esiste timore: anzi l'amore perfetto caccia via il timore, perché il timore suppone un castigo: e chi teme non è perfetto nell'amore. Noi dunque amiamo Dio, poiché Dio ci ha amati per il primo. Se uno dirà: Io amo Dio, e odia il suo fratello, è un bugiardo. Perché chi non ama il suo fratello, che vede, come può amare Dio che non vede? E poi il comandamento che abbiamo ricevuto da Dio è questo: «Che chi ama Dio, deve amare anche il proprio fratello» (Joann. 13,34)."
+  },
+  "gradual": {
+    "la": "!Ps 40:5; 40:2\nEgo dixi: Dómine, miserére mei: sana ánimam meam, quia peccávi tibi.\nV. Beátus, qui intéllegit super egénum et páuperem: in die mala liberábit eum Dóminus. Allelúja, allelúja.\n!Ps 5:2\nVerba mea áuribus pércipe, Dómine: intéllege clamórem meum. Allelúja.",
+    "en": "!Ps 40:5; 40:2\nv. I said: O Lord, be thou merciful to me : heal my soul, for I have sinned against thee. Blessed is he that understandeth concerning the needy and the poor : the Lord will deliver him in the evil day. Allelúja, allelúja.\n!Ps 5:2\nv. Give ear, O Lord, to my words, understand my cry. Allelúja.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 40:5; 40:2\nJ'ai dit : Seigneur, ayez pitié de moi ; guérissez mon âme, car j'ai péché contre vous.\nV. Heureux qui pense au pauvre, au misérable : au jour mauvais, le Seigneur le libérera. Alléluia, alléluia.\n!Ps 5:2\nSeigneur, prêtez l'oreille à mes paroles, comprenez mon cri. Alléluia.",
+    "it": "!Ps 40:5; 40:2\nIo dissi: Signore, abbi pietà di me: risana l'anima mia, perché ho peccato contro di te.\nV. Beato chi si dà pensiero dell'indigente e del povero; * nel giorno cattivo il Signore lo libererà. Alleluia, alleluia.\n!Ps 5:2\nPorgi orecchio, o Signore, alle mie parole, intendi le mie grida. Alleluia."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Lucam\n!Luc 6:36-42\nIn illo témpore: Dixit Jesus discípulis suis: Estóte misericórdes, sicut et Pater vester miséricors est. Nolíte judicáre, et non judicabímini: nolíte condemnáre, et non condemnabímini. Dimíttite, et dimittémini. Date, et dábitur vobis: mensúram bonam et confértam et coagitátam et supereffluéntem dabunt in sinum vestrum. Eadem quippe mensúra, qua mensi fuéritis, remetiétur vobis. Dicébat autem illis et similitúdinem: Numquid potest cæcus cæcum dúcere? nonne ambo in fóveam cadunt? Non est discípulus super magistrum: perféctus autem omnis erit, si sit sicut magister ejus. Quid autem vides festúcam in óculo fratris tui, trabem autem, quæ in óculo tuo est, non consíderas? Aut quómodo potes dícere fratri tuo: Frater, sine, ejíciam festúcam de óculo tuo: ipse in oculo tuo trabem non videns? Hypócrita, ejice primum trabem de oculo tuo: et tunc perspícies, ut edúcas festúcam de óculo fratris tui.",
+    "en": "Continuation + of the Holy Gospel according to Luke\n!Luke 6:36-42\nv. In that time Jesus said to his disciples: Be ye therefore merciful, as your Father also is merciful. Judge not, and you shall not be judged. Condemn not, and you shall not be condemned. Forgive, and you shall be forgiven. Give, and it shall be given to you: good measure and pressed down and shaken together and running over shall they give into your bosom. For with the same measure that you shall mete withal, it shall be measured to you again. And he spoke also to them a similitude: Can the blind lead the blind? do they not both fall into the ditch? The disciple is not above his master: but every one shall be perfect, if he be as his master. And why seest thou the mote in thy brother's eye: but the beam that is in thy own eye thou considerest not? Or how canst thou say to thy brother: Brother, let me pull the mote out of thy eye, when thou thyself seest not the beam in thy own eye? Hypocrite, cast first the beam out of thy own eye; and then shalt thou see clearly to take out the mote from thy brother's eye.",
+    "es": "",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Lucam.\n!Luc 6:36-42\nEn ce temps-là, Jésus dit à ses disciples : « Soyez miséricordieux, comme votre Père est miséricordieux. Ne jugez point, et vous ne serez point jugés ; ne condamnez point, et vous ne serez point condamnés ; absolvez et vous serez absous. Donnez, et l'on vous donnera : on versera dans votre sein une bonne mesure, pressée, tassée, débordante ; car avec la mesure dont vous mesurez il vous sera mesuré en retour. » Il leur dit aussi une parabole : « Un aveugle peut-il conduire un aveugle ? Ne tomberont-ils pas tous les deux dans une fosse ? Il n'y a pas de disciple au-dessus du maître ; mais tout disciple, son instruction achevée, sera comme son maître. Pourquoi regardes-tu la paille qui est dans l'œil de ton frère, et ne remarques-tu pas la poutre qui est dans ton œil à toi ? Ou comment peux-tu dire à ton frère : « Frère, laisse-moi ôter la paille qui est dans ton œil» , toi qui ne vois pas la poutre qui est dans ton œil ? Hypocrite, ôte d'abord la poutre de ton œil, et alors tu verras clair pour ôter la paille qui est dans l'œil de ton frère. »",
+    "it": "Séguito ++ del S. Vangelo secondo Luca.\n!Luc 6:36-42\nIn quel tempo, disse Gesù ai suoi discepoli: Siate misericordiosi, come è misericordioso il Padre vostro. Non giudicate e non sarete giudicati; non condannate e non sarete condannati; perdonate e vi sarà perdonato; date e vi sarà dato; una buona misura, pigiata, scossa e traboccante vi sarà versata nel grembo, perché con la misura con cui misurate, sarà misurato a voi in cambio». Disse loro anche una parabola: «Può forse un cieco guidare un altro cieco? Non cadranno tutt'e due in una buca? Il discepolo non è da più del maestro; ma ognuno ben preparato sarà come il suo maestro. Perché guardi la pagliuzza che è nell'occhio del tuo fratello, e non t'accorgi della trave che è nel tuo? Come puoi dire al tuo fratello: Permetti che tolga la pagliuzza che è nel tuo occhio, e tu non vedi la trave che è nel tuo? Ipocrita, togli prima la trave dal tuo occhio e allora potrai vederci bene nel togliere la pagliuzza dall'occhio del tuo fratello."
+  },
+  "offertory": {
+    "la": "!Ps 5:3-4.\nInténde voci orationis meæ, Rex meus et Deus meus: quóniam ad te orábo, Dómine.",
+    "en": "!Ps 5:3-4\nv. Hearken to the voice of my prayer, O my King and my God. For to thee will I pray: O Lord.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 5:3-4.\nSoyez attentif à la voix de ma prière, ô mon Roi et mon Dieu ; car vers vous je prie, Seigneur.",
+    "it": "!Ps 5:3-4.\nAscolta la voce della mia orazione, o mio Re e mio Dio. Poiché a te volgerò la mia preghiera, o Signore."
+  },
+  "secret": [
+    {
+      "la": "Hóstias nostras, quǽsumus, Dómine, tibi dicátas placátus assúme: et ad perpétuum nobis tríbue proveníre subsídium.\n$Per Dominum",
+      "en": "Be appeased O Lord, we beseech thee, and accept the victims we dedicate to thee, and grant that they may avail us for perpetual aid.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Accueillez avec bonté, Seigneur, ces offrandes que nous vous consacrons, et faites qu'elles nous aident à parvenir à la vie éternelle.\n$Per Dominum",
+      "it": "Accogli benigno, o Signore, i doni a te consacrati e fa’ che ci ottengano il tuo perenne aiuto.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Ps 9:2-3\nNarrábo ómnia mirabília tua: lætábor et exsultábo in te: psallam nómini tuo, Altíssime.",
+    "en": "!Ps 9:2-3\nI will relate all thy wonders. I will be glad and rejoice in thee: I will sing to thy name, O thou most high.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 9:2-3\nJe raconterai toutes vos merveilles, je me réjouirai et exulterai en vous ; je psalmodierai pour votre Nom, ô Très-Haut.",
+    "it": "!Ps 9:2-3\nRacconterò tutte le tue meraviglie. Mi rallegrerò ed esulterò in te; canterò inni al tuo nome, o Altissimo."
+  },
+  "postcommunion": [
+    {
+      "la": "Tantis, Dómine, repléti munéribus: præsta, quǽsumus; ut et salutária dona capiámus, et a tua numquam laude cessémus.\n$Per Dominum",
+      "en": "Filled O Lord, as we are with so great bounties, we beseech thee that we may receive the gifts of salvation and never cease from thy praise.\n$Per Dominum",
+      "es": "",
+      "de": "",
+      "fr": "Comblés de tels dons, Seigneur, puissions-nous y puiser des grâces de salut, et ne jamais cesser de chanter vos louanges.\n$Per Dominum",
+      "it": "Dopo aver ricevuto un dono così grande, ti preghiamo, Signore, che possiamo sperimentare i doni della nostra salvezza e che non desistiamo mai dal lodarti.\n$Per Dominum"
+    }
+  ]
+}

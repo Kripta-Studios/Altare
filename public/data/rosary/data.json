@@ -1,0 +1,85 @@
+{
+  "mysteries": {
+    "joyful": [
+      {
+        "num": 1,
+        "title": "The Annunciation",
+        "fruit": "Humility"
+      },
+      {
+        "num": 2,
+        "title": "The Visitation",
+        "fruit": "Love of Neighbor"
+      },
+      {
+        "num": 3,
+        "title": "The Nativity",
+        "fruit": "Poverty of Spirit"
+      },
+      {
+        "num": 4,
+        "title": "The Presentation",
+        "fruit": "Purity of Mind and Body"
+      },
+      {
+        "num": 5,
+        "title": "The Finding of Jesus in the Temple",
+        "fruit": "Obedience"
+      }
+    ],
+    "sorrowful": [
+      {
+        "num": 1,
+        "title": "The Agony in the Garden",
+        "fruit": "God's Will be Done"
+      },
+      {
+        "num": 2,
+        "title": "The Scourging at the Pillar",
+        "fruit": "Mortification of the Senses"
+      },
+      {
+        "num": 3,
+        "title": "The Crowning with Thorns",
+        "fruit": "Courage"
+      },
+      {
+        "num": 4,
+        "title": "The Carrying of the Cross",
+        "fruit": "Patience in Adversity"
+      },
+      {
+        "num": 5,
+        "title": "The Crucifixion",
+        "fruit": "Perseverance"
+      }
+    ],
+    "glorious": [
+      {
+        "num": 1,
+        "title": "The Resurrection",
+        "fruit": "Faith"
+      },
+      {
+        "num": 2,
+        "title": "The Ascension",
+        "fruit": "Hope"
+      },
+      {
+        "num": 3,
+        "title": "The Descent of the Holy Spirit",
+        "fruit": "Wisdom"
+      },
+      {
+        "num": 4,
+        "title": "The Assumption",
+        "fruit": "Devotion to Mary"
+      },
+      {
+        "num": 5,
+        "title": "The Coronation of Mary",
+        "fruit": "Eternal Happiness"
+      }
+    ]
+  }
+}

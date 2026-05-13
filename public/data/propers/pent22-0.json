@@ -1,0 +1,93 @@
+{
+  "id": "Pent22-0",
+  "titleLatin": "Dominica XXII Post Pentecosten",
+  "titleVernacular": {
+    "en": "Dominica XXII Post Pentecosten",
+    "es": "Dominica XXII Post Pentecosten",
+    "de": "22. Sonntag nach Pfingsten",
+    "fr": "Dominica XXII Post Pentecosten",
+    "it": "Dominica XXII Post Pentecosten"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps 129:3-4\nv. Si iniquitátes observáveris, Dómine: Dómine, quis sustinébit? quia apud te propitiátio est, Deus Israël.\n!Ps 129:1-2\nDe profúndis clamávi ad te, Dómine: Dómine, exáudi vocem meam.\n&Gloria\nv. Si iniquitátes observáveris, Dómine: Dómine, quis sustinébit? quia apud te propitiátio est, Deus Israël.",
+    "en": "!Ps 129:3-4\nv. If You, O Lord, mark iniquities, Lord, who can stand? But with You is forgiveness, O God of Israel.\n!Ps 129:1-2\nOut of the depths I cry to You, O Lord; Lord, hear my voice!\n&Gloria\nv. If You, O Lord, mark iniquities, Lord, who can stand? But with You is forgiveness, O God of Israel.",
+    "es": "!Ps 129:3-4\nv. Si miras, Señor, nuestros pecados, Señor, ¿quién resistirá? Más en ti reside la misericordia, ¡oh Dios de Israel!\n!Ps 129:1-2\nDel fondo del abismo clamo a ti, Señor; Señor, oye mi voz.\n&Gloria\nv. Si miras, Señor, nuestros pecados, Señor, ¿quién resistirá? Más en ti reside la misericordia, ¡oh Dios de Israel!",
+    "de": "",
+    "fr": "!Ps 129:3-4\nv. Si vous observez les iniquité, Seigneur : Seigneur, qui pourra tenir ? Mais auprès de vous est la propitiation, ô Dieu d'Israël.\n!Ps 129:1-2\nDes profondeurs je crie vers vous, Seigneur ; Seigneur, écoutez ma voix.\n&Gloria\nv. Si vous observez les iniquité, Seigneur : Seigneur, qui pourra tenir ? Mais auprès de vous est la propitiation, ô Dieu d'Israël.",
+    "it": "!Ps 129:3-4\nv. Se tieni conto delle colpe, o Signore, o Signore chi potrà sostenersi? Ma presso di Te si trova misericordia, o Dio di Israele.\n!Ps 129:1-2\nDal profondo Ti invoco, o Signore: O Signore, esaudisci la mia supplica.\n&Gloria\nv. Se tieni conto delle colpe, o Signore, o Signore chi potrà sostenersi? Ma presso di Te si trova misericordia, o Dio di Israele."
+  },
+  "collect": [
+    {
+      "la": "Deus, refúgium nostrum et virtus: adésto piis Ecclésiæ tuæ précibus, auctor ipse pietátis, et præsta; ut, quod fidéliter pétimus, efficáciter consequámur.\n$Per Dominum",
+      "en": "O God, our refuge and our strength, the very source of holiness, heed the devout prayers of Your Church, and grant that what we seek in faith we may obtain in fact.\n$Per Dominum",
+      "es": "¡Oh Dios!, refugio y fortaleza nuestra, oye las piadosas plegarias de tu Iglesia, tú, el autor mismo de toda piedad, y haz que consigamos eficazmente lo que con fe pedimos.\n$Per Dominum",
+      "de": "",
+      "fr": "Ô Dieu, notre refuge et notre force, vous, la source même de la religion, prêtez une oreille bienveillante aux prières ferventes de votre Église, et faites-nous obtenir sûrement ce que nous demandons avec foi.\n$Per Dominum",
+      "it": "Dio, nostro rifugio e nostra forza, ascolta favorevolmente le umili preghiere della tua Chiesa, Tu che sei l’autore stesso di ogni pietà, e fa che quanto con fede domandiamo, lo conseguiamo nella realtà.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Philippénses\n!Phil 1:6-11\nFratres: Confídimus in Dómino Jesu, quia, qui cœpit in vobis opus bonum, perfíciet usque in diem Christi Jesu. Sicut est mihi justum hoc sentíre pro ómnibus vobis: eo quod hábeam vos in corde, et in vínculis meis, et in defensióne, et confirmatióne Evangélii, sócios gáudii mei omnes vos esse. Testis enim mihi est Deus, quómodo cúpiam omnes vos in viscéribus Jesu Christi. Et hoc oro, ut cáritas vestra magis ac magis abúndet in sciéntia et in omni sensu: ut probétis potióra, ut sitis sincéri et sine offénsa in diem Christi, repléti fructu justítiæ per Jesum Christum, in glóriam et laudem Dei.",
+    "en": "Lesson from the letter of St. Paul the Apostle to the Philippians\n!Phil 1:6-11\nBrethren: We are confident in the Lord Jesus that He Who has begun a good work in you will bring it to perfection until the day of Christ Jesus. And I have the right to feel so about you all, because I have you in my heart, all of you, alike in my chains and in the defense and confirmation of the Gospel, as sharers in my joy. For God is my witness how I long for you all in the heart of Christ Jesus. And this I pray, that your charity may more and more abound in knowledge and all discernment, so that you may approve the better things, that you may be upright and without offense unto the day of Christ, filled with the fruit of justice, through Jesus Christ, to the glory and praise of God.",
+    "es": "Lección de la carta del Apóstol san Pablo a los Filipenses\n!Fil 1:6-11\nHermanos: Esta es nuestra confianza: que el que ha inaugurado entre vosotros esta buena obra, la llevará adelante hasta el Día de Cristo Jesús. Esto que siento por vosotros está plenamente justificado: os llevo en el corazón, porque tanto en la prisión como en mi defensa y prueba del Evangelio, todos compartís mi gracia. Testigo me es Dios del amor entrañable con que os quiero, en Cristo Jesús. Y esta es mi oración: que vuestro amor siga creciendo más y más en penetración y en sensibilidad para apreciar los valores. Así llegaréis al Día de Cristo limpios e irreprochables, cargados de frutos de justicia, por medio de Cristo Jesús, para gloria y alabanza de Dios.",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Pauli Apóstoli ad Philippénses\n!Phil 1:6-11\nFrères, nous avons confiance dans le Seigneur Jésus : celui qui a commencé en vous une œuvre excellente, en poursuivra l'achèvement jusqu'au jour du Christ Jésus. C'est une justice que je vous dois, de penser ainsi de vous tous, parce que je vous porte dans mon cœur, vous tous qui, soit dans mes liens, soit dans la défense et l'affermissement de l'Évangile, avez part à la même joie que moi. Car Dieu m'en est témoin, c'est avec tendresse que je vous aime tous dans les entrailles de Jésus-Christ. Et ce que je lui demande, c'est que votre charité abonde de plus en plus en connaissance et en toute intelligence, pour discerner ce qui vaut le mieux, afin que vous soyez purs et irréprochables jusqu'au jour du Christ, remplis des fruits de justice, par Jésus-Christ, pour la gloire et la louange de Dieu.",
+    "it": "Lettura della Lettera del B. Paolo Ap. ai Filippesi.\n!Phil 1:6-11\nFratelli: Confidiamo nel Signore Gesú, che chi iniziò in voi l’opera buona la condurrà a termine fino al giorno del Cristo Gesú. Questi sono infatti i sentimenti che debbo avere per voi tutti, dacché vi porto nel mio cuore, come quelli che nelle catene e nella difesa e nella confermazione del Vangelo partecipano tutti con me alla stessa grazia. Dio infatti mi è testimone del modo con cui amo tutti voi nel cuore di Gesú Cristo. E questo io domando: che la vostra carità abbondi sempre piú in cognizione e in ogni discernimento, affinché distinguiate il meglio e siate puri ed irreprensibili per il giorno di Cristo, ricolmi dei frutti della giustizia che viene da Gesú Cristo, a lode e gloria di Dio."
+  },
+  "gradual": {
+    "la": "!Ps 132:1-2\nEcce, quam bonum et quam jucúndum, habitáre fratres in unum!\nV. Sicut unguéntum in cápite, quod descéndit in barbam, barbam Aaron.\nAllelúja, allelúja.\n!Ps 113:11\nQui timent Dóminum sperent in eo: adjútor et protéctor eórum est. Allelúja.",
+    "en": "!Ps 132:1-2\nBehold how good it is, and how pleasant where brethren dwell as one!\nV. It is as when the precious ointment upon the head runs down over the beard, the beard of Aaron.\nAlleluia, alleluia.\nPs 113:11\nThose who fear the Lord trust in the Lord: He is their help and their shield. Alleluia.",
+    "es": "!Ps 132:1-2\n¡Oh, qué bueno y delicioso vivir los hermanos en unión!\nV. Es como un perfume valioso sobre la cabeza, que se desliza por la barba, la barba de Aarón. Aleluya, aleluya.\n!Ps 113:11\nLos que teméis al Señor, confiad en él; es vuestro amparo, vuestra defensa.",
+    "de": "",
+    "fr": "!Ps 132:1-2\nCombien il est bon et agréable pour des frères d'habiter ensemble !\nV. C'est comme un parfum versé sur la tête, qui descend dans la barbe, la barbe d'Aaron. Alléluia, alléluia.\n!Ps 113:11\nCeux qui craignent le Seigneur, qu'ils espèrent en Lui, qui est leur secours et leur protecteur. Alléluia.",
+    "it": "!Ps 132:1-2\nOh, come è bello, com’è giocondo il convivere di tanti fratelli insieme!\nV. È come l’unguento versato sul capo, che scende alla barba, la barba di Aronne. Allelúia, allelúia\n!Ps 113:11\nQuelli che temono il Signore sperino in Lui: Egli è loro protettore e loro rifugio. Allelúia."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum\n!Matt 22:15-21\nIn illo témpore: Abeúntes pharisǽi consílium iniérunt, ut cáperent Jesum in sermóne. Et mittunt ei discípulos suos cum Herodiánis, dicéntes: Magíster, scimus, quia verax es et viam Dei in veritáte doces, et non est tibi cura de áliquo: non enim réspicis persónam hóminum: dic ergo nobis, quid tibi vidétur, licet censum dare Cǽsari, an non? Cógnita autem Jesus nequítia eórum, ait: Quid me tentátis, hypócritæ? Osténdite mihi numísma census. At illi obtulérunt ei denárium. Et ait illis Jesus: Cujus est imágo hæc et superscríptio? Dicunt ei: Cǽsaris. Tunc ait illis: Réddite ergo, quæ sunt Cǽsaris, Cǽsari; et, quæ sunt Dei, Deo.",
+    "en": "Continuation + of the Holy Gospel according to Matthew\n!Matt 22:15-21\nAt that time, the Pharisees went and took counsel how they might trap Jesus in His talk. And they sent to Him their disciples with the Herodians, saying, Master, we know that You are truthful, and that You teach the way of God in truth, and that You care naught for any man; for You do not regard the person of men. Tell us, therefore, what do You think: Is it lawful to give tribute to Caesar, or not? But Jesus, knowing their wickedness, said, Why do you test Me, you hypocrites? Show Me the coin of the tribute. So they offered Him a denarius. Then Jesus said to them, Whose are this image and the inscription? They said to Him, Caesar’s. Then He said to them, Render, therefore, to Caesar the things that are Caesar’s, and to God the things that are God’s.",
+    "es": "Continuación + del Santo Evangelio según San Mateo\n!Mt 22:15-21\nEn aquel tiempo: Se retiraron los fariseos y llegaron a un acuerdo para comprometer a Jesús con una pregunta. Le enviaron algunos discípulos suyos, con unos herodianos, y le dijeron: «Maestro, sabemos que eres sincero y que enseñas el camino de Dios conforme a la verdad, sin que te importe nadie, porque no te fijas en apariencias. Dinos, pues, qué opinas: ¿es lícito pagar impuesto al César o no?». Comprendiendo su mala voluntad, les dijo Jesús: «Hipócritas, ¿por qué me tentáis? Enseñadme la moneda del impuesto». Le presentaron un denario. Él les preguntó: «¿De quién son esta imagen y esta inscripción?». Le respondieron: «Del César». Entonces les replicó: «Pues dad al César lo que es del César y a Dios lo que es de Dios».",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Matthǽum.\n!Matt 22:15-21\nEn ce temps-là, les Pharisiens s'en allèrent et tinrent conseil sur le moyen de prendre Jésus en défaut dans ses paroles. Et ils lui envoient leurs disciples, avec des Hérodiens pour lui dire : « Maître, nous savons que vous êtes sincère et que vous enseignez la voie de Dieu en vérité, sans souci de personne, car vous ne regardez pas au visage des hommes. Dites-nous donc ce qu'il vous semble : Est-il permis, ou non, de payer le tribut à César ? » Mais Jésus, connaissant leur malice, dit : « Hypocrites, pourquoi me tendez-vous un piège ? Montrez-moi la monnaie du tribut. » Et ils lui présentèrent un denier. Et il leur dit : « De qui sont cette image et l'inscription ? — De César », lui dirent-ils. Alors il leur dit : « Rendez donc à César ce qui est à César, et à Dieu ce qui est à Dieu. »",
+    "it": "Séguito ++ del S. Vangelo secondo Matteo.\n!Matt 22:15-21\nIn quel tempo: Adunatisi, i Farisei tennero consiglio per sorprendere Gesú nel suo parlare. Gli mandarono i loro discepoli con gli Erodiani a dirgli: Maestro, sappiamo che sei veritiero e insegni la via di Dio secondo la verità, e non hai riguardo per alcuno, poiché non guardi alla persona degli uomini: dicci il tuo parere: è lecito o no pagare il tributo a Cesare? Ma Gesú, conoscendo la loro malizia, rispose: Ipocriti, perché mi tentate? Mostratemi la moneta del tributo. Ed essi gli presentarono un denaro. E Gesú disse loro: Di chi è questa immagine e questa iscrizione? Gli risposero: Di Cesare. Ed allora Gesú: Rendete dunque a Cesare quel che è di Cesare, e a Dio quel che è di Dio."
+  },
+  "offertory": {
+    "la": "!Esth 14:12; 14:13\nRecordáre mei, Dómine, omni potentátui dóminans: et da sermónem rectum in os meum, ut pláceant verba mea in conspéctu príncipis.",
+    "en": "!Esther 14:12-13\nRemember me, O Lord, You Who rule above all power: and give a well-ordered speech in my mouth, that my words may be pleasing in the sight of the prince.",
+    "es": "!Est 14:12-13\nAcuérdate de mí, Señor, tú que dominas sobre toda potestad; y pon en mi boca palabras rectas, para que puedan con ellas agradar al rey.",
+    "de": "",
+    "fr": "!Esth 14:12; 14:13\nSouvenez-vous de moi, Seigneur, vous qui dominez sur toute puissance, et mettez un discours droit dans ma bouche, afin que mes paroles soient bien accueillies en présence du roi.",
+    "it": "!Esth 14:12; 14:13\nRicòrdati di me, o Signore, Tu che dòmini ogni potestà: e metti sulle mie labbra un linguaggio retto, affinché le mie parole siano gradite al cospetto del príncipe."
+  },
+  "secret": [
+    {
+      "la": "Da, miséricors Deus: ut hæc salutáris oblátio et a própriis nos reátibus indesinénter expédiat, et ab ómnibus tueátur advérsis.\n$Per Dominum",
+      "en": "Grant, O merciful God, that this saving sacrifice may always free us from sin, and protect us from all that works against us.\n$Per Dominum",
+      "es": "Haz, ¡oh Dios misericordioso!, que esta oblación saludable nos libre sin cesar; de nuestros propios pecados, y nos defienda de todo lo adverso.\n$Per Dominum",
+      "de": "",
+      "fr": "Faites, Dieu tout-puissant, que cete offrande, établie pour notre salut, nous libère sans cesse de nos propres fautes et nous protège contre toutes les forces adverses.\n$Per Dominum",
+      "it": "Concedi, o Dio misericordioso, che questa salutare oblazione ci liberi continuamente dalle nostre colpe e ci protegga contro ogni avversità.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Ps 16:6\nEgo clamávi, quóniam exaudísti me, Deus: inclína aurem tuam et exáudi verba mea.",
+    "en": "!Ps 16:6\nI call upon You, for You will answer me, O God; incline Your ear to me; hear my word.",
+    "es": "!Ps 16:6\nA ti invoco, Dios míos tú me escucharás. Inclina a mí tu oído y escucha mis palabras.",
+    "de": "",
+    "fr": "!Ps 16:6\nJe crie, car vous m'avez exaucé, ô Dieu ; inclinez votre oreille et écoutez mes paroles.",
+    "it": "!Ps 16:6\nHo gridato verso di Te, a ché Tu mi esaudisca, o Dio: porgi il tuo orecchio ed esaudisci le mie parole."
+  },
+  "postcommunion": [
+    {
+      "la": "Súmpsimus, Dómine, sacri dona mystérii, humíliter deprecántes: ut, quæ in tui commemoratiónem nos fácere præcepísti, in nostræ profíciant infirmitátis auxílium:\n$Qui vivis",
+      "en": "We who have received the gift of Your blessed sacrament, O Lord, humbly pray that what You have taught us to do in commemoration of You, may profit and help us in our weakness.\n$Qui vivis",
+      "es": "Habiendo recibido, Señor, los dones del sagrado misterio, te rogamos humildemente que sirva de auxilio a nuestra flaqueza lo que nos mandaste hacer en memoria tuya.\n$Qui vivis",
+      "de": "",
+      "fr": "Nous avons reçu, Seigneur, les dons qu'apportent avec eux les saints mystères, et nous demandons humblement que vienne au secours de notre faiblesse ce que vous nous avez prescrit de faire en mémoire de vous.\n$Qui vivis",
+      "it": "Ricevuti, o Signore, i doni di questo sacro mistero, umilmente Ti supplichiamo: affinché ciò che comandasti di compiere in memoria di Te, torni di aiuto alla nostra debolezza:\n$Qui vivis"
+    }
+  ]
+}

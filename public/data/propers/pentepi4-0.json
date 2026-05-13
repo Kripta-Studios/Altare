@@ -1,0 +1,93 @@
+{
+  "id": "PentEpi4-0",
+  "titleLatin": "Dominica IV quæ superfuit Post Epiphaniam",
+  "titleVernacular": {
+    "en": "Dominica IV quæ superfuit Post Epiphaniam",
+    "es": "",
+    "de": "Vierter nachgeholter Sonntag nach Erscheinung",
+    "fr": "Dominica IV quae superfuit Post Epiphaniam",
+    "it": "Dominica IV quae superfuit Post Epiphaniam"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "@Tempora/Pent23-0:Introitus",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "@Tempora/Pent23-0",
+    "it": "@Tempora/Pent23-0"
+  },
+  "collect": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ],
+  "epistle": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gradual": {
+    "la": "@Tempora/Pent23-0:Graduale",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "@Tempora/Pent23-0",
+    "it": "@Tempora/Pent23-0"
+  },
+  "gospel": {
+    "la": "",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "offertory": {
+    "la": "@Tempora/Pent23-0:Offertorium",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "@Tempora/Pent23-0",
+    "it": "@Tempora/Pent23-0"
+  },
+  "secret": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ],
+  "communionAntiphon": {
+    "la": "@Tempora/Pent23-0:Communio",
+    "en": "",
+    "es": "",
+    "de": "",
+    "fr": "@Tempora/Pent23-0",
+    "it": "@Tempora/Pent23-0"
+  },
+  "postcommunion": [
+    {
+      "la": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ]
+}

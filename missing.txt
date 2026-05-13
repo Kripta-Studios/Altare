@@ -1,0 +1,35 @@
+// List of content that needs to be sourced outside of the Divinum Officium repository.
+// Please provide these texts in structured JSON or Markdown format when available.
+
+1. PRAYERS (38 prayers)
+- Pater Noster, Ave Maria, Gloria Patri, Credo Apostolorum, Memorare, Anima Christi, Act of Contrition (long form), Angelus, Regina Caeli, De Profundis, Sub Tuum Praesidium, Grace Before Meals, Grace After Meals, Miserere (Ps. 50), Veni Creator Spiritus, Act of Faith, Act of Hope, Act of Charity, Act of Adoration, Prayer of St. Thomas Aquinas (Before Mass), Prayer of St. Thomas Aquinas (After Mass), Prayer to St. Michael, Litany of Humility, Suscipe (St. Ignatius), O Salutaris Hostia, Tantum Ergo, Benediction prayers, morning offering, night prayer, and the remaining traditional devotions.
+
+2. HOLY ROSARY
+- The 15 traditional mysteries (Joyful, Sorrowful, Glorious) with their English titles and corresponding fruits of the mystery.
+- The standard text flow for the Rosary (Apostles Creed, Our Father, Hail Mary, Glory Be, Fatima Prayer, Hail Holy Queen).
+
+3. STATIONS OF THE CROSS
+- The 14 stations with their traditional titles.
+- The meditations for each station.
+- Adoramus Te Christe and Stabat Mater texts in Latin/English.
+
+4. EXAMINATION OF CONSCIENCE
+- Brief examination (Ten Commandments).
+- Thorough examination (Commandments, Precepts of the Church, Capital Sins).
+- Act of Contrition and instructions for Confession.
+
+5. SAINTS PROFILES (7 Patron Saints)
+- St. Joseph, St. Benedict, St. Dominic, St. Francis of Assisi, St. Ignatius of Loyola, St. Thérèse of Lisieux, St. Thomas More.
+- Short hagiography (3-5 sentences) for each.
+- Daily practice checklist (Morning/Day/Evening) for each.
+- 2 saint-specific prayers in Latin and English for each.
+
+6. LATIN LESSONS
+- 10 progressive lessons (vowels, consonants, alphabet, declensions, verbs, phrases, etc.).
+- 91 interactive flashcards (Latin, phonetic, English, grammatical note).
+- Multiple-choice quizzes.
+- Daily Latin word vocabulary corpus.
+
+7. REFERENCE LIBRARY
+- 41 articles across the 7 categories (Liturgical Calendar, Sacraments, Prayer & Devotion, Penance & Fasting, Sacramentals, History of the TLM, Glossary).
+- Glossary of 25 liturgical terms.

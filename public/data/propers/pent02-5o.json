@@ -1,0 +1,93 @@
+{
+  "id": "Pent02-5o",
+  "titleLatin": "Sacratissimi Cordis Domini Nostri Jesu Christi",
+  "titleVernacular": {
+    "en": "Sacratissimi Cordis Domini Nostri Jesu Christi",
+    "es": "Sacratissimi Cordis Domini Nostri Jesu Christi",
+    "de": "Allerheiligstes Herz unseres Herrn Jesus Christus",
+    "fr": "Sacratissimi Cordis Domini Nostri Jesu Christi",
+    "it": "Sacratissimi Cordis Domini Nostri Jesu Christi"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Jer. in Thren. 3\nv. Miserebitur secundum multitudinem misericordiarum suarum: non enim humiliavit ex corde suo et abiecit filios hominum: bonus est Dominus sperantibus in eum animae quaerenti illum.\n!Ps. 88\nMisericordias Domini in aeternum cantabo in generationem et generationem.\n&Gloria\nv. Miserebitur secundum multitudinem misericordiarum suarum: non enim humiliavit ex corde suo et abiecit filios hominum: bonus est Dominus sperantibus in eum animae quaerenti illum.",
+    "en": "!Jer. in Thren. 3\nv. He will have compassion according to the multitude of his mercies: for he does not afflict willingly nor grieve the children of men: the Lord is good unto those who wait for him, to the soul that seeks him, alleluia, alleluia.\n!Ps. 88\nMy song shall be always of the loving-kindness of the Lord: with my mouth will I forever show your truth from one generation to another.\n&Gloria\nv. He will have compassion according to the multitude of his mercies: for he does not afflict willingly nor grieve the children of men: the Lord is good unto those who wait for him, to the soul that seeks him, alleluia, alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "collect": [
+    {
+      "la": "Concede, quaesumus omnipotens Deus: ut qui in sanctissimo dilecti Filii tui Corde gloriantes, parecipua in nos caritatis eius beneficia recolimus: eorum partier et actu delectemur, et fructu.\n$Per eumdem",
+      "en": "We beseech you, Almighty God: that we who, glorying in the most sacred Heart of thy well-beloved Son, do call to mind the excellent benefits of his love towards us, may forever rejoice in its work within us and in bringing forth the fruits of the same.\n$Per eumdem",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ],
+  "epistle": {
+    "la": "!c. 12\nConfitebor tibi Domine quoniam iratus es mihi conversus est furor tuus et consolatus es me. Ecce Deus salvator meus fiducialiter agam et non timebo quia fortitudo mea et laus mea Dominus Deus et factus est mihi in salute. Haurietis aquas in gaudio de fontibus salvatoris. Et dicetis in illa die confitemini Domino et invocate nomen eius notas facite in populis adinventiones eius mementote quoniam excelsum est nomen eius Cantate Domino quoniam magnifice fecit adnuntiate hoc in universa terra. Exulta et lauda habitatio Sion quia magnus in medio tui Sanctus Israel.",
+    "en": "From the Prophecy of Isaias\n!c. 12\nAnd you shall say in that day: I will give thanks to thee, O Lord, for you were angry with me: your wrath is turned away, and you have comforted me. Behold, God is my saviour, I will deal confidently, and will not fear: O because the Lord is my strength, and my praise, and he is become my salvation. You shall draw waters with joy out of the saviour's fountains: And you shall say in that day: Praise the Lord, and call upon his name: make his works known among the people: remember that his name is high. Sing to the Lord, for he hath done great things: show this forth in all the earth. Rejoice, and praise, O habitation of Sion: for great is he that is in the midst of you, the Holy One of Israel.",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gradual": {
+    "la": "!Jer. In Thren. 1\nO vos omnes qui transitis per viam adtendite et videte si est dolor sicut dolor meus.\n!Joan. 13\nCum dilexisset suos qui erant in mundo in finem dilexit eos.\n!Matt. 13\nAlleluia, Alleluia. Discite a me quia mitis sum et humilis corde et invenietis requiem animabus vestris. Alleluia.",
+    "en": "!Jer. In Thren. 1\nO all you that pass by, behold and see, if there is any sorrow like my sorrow.\n!St. John 13.\nHaving loved his own which were in the world, he loved them unto the end.\n!St. Matt. 11\nAlleluia, alleluia. Learn of me, for I am meek and lowly in heart, and you shall find rest for your souls. Alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Joánnem\n!Joannes 19:31-37\nIn illo témpore: Judǽi - quóniam Parascéve erat, - ut non remanérent in cruce córpora sábbato - erat enim magnus dies ille sábbati, - rogavérunt Pilátum, ut frangeréntur eórum crura, et tolleréntur. Venérunt ergo mílites: et primi quidem fregérunt crura et alteríus, qui crucifíxus est cum eo. Ad Jesum autem cum veníssent, ut vidérunt eum jam mórtuum, non fregérunt ejus crura, sed unus mílitum láncea latus ejus apéruit, et contínuo exívit sanguis et aqua. Et qui vidit, testimónium perhíbuit: et verum est testimónium ejus.",
+    "en": "A reading from ++ the Holy Gospel according to John\n!Joannes 19:31-37\nAt that time : Jews, because it was the Parasceve, that the bodies might not remain on the cross on the sabbath day, (for that was a great sabbath day,) besought Pilate that their legs might be broken, and that they might be taken away. The soldiers therefore came; and they broke the legs of the first, and of the other that was crucified with him. But after they were come to Jesus, when they saw that he was already dead, they did not break his legs. But one of the soldiers with a spear opened his side, and immediately there came out blood and water. And he that saw it, hath given testimony, and his testimony is true.",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "offertory": {
+    "la": "!Ps. 102\nBenedic anima mea Domino, et noli oblivisci omnes retributiones ejus, qui replet in bonis desiderium tuum, alleluia.",
+    "en": "!Ps. 102\nBless the Lord, O my soul, and never forget all he hath done for thee. who satisfies your desire with good things, alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "secret": [
+    {
+      "la": "Tuere nos, Domine, tua tibi holocausta offerentes: ad quae ut ferventius corda nostra praeparantur, flammis adiire tuae divinae caritatis:\n$Qui vivis",
+      "en": "Defend us, O Lord, we pray you, who present this sacrifice unto you : and to the intent that our hearts may be made ready more earnestly to offer the same, vouchsafe to kindle them with the fires of your heavenly charity.\n$Qui vivis",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Ps. 68\nImproperium exspedtavit cor meum, et miseriam: et sustinui qui simul contristaretur, et non fuit: et qui consolaretur, et non inveni, alleluia.",
+    "en": "!Ps. 68\nMy heart has expected reproach and misery ; and I looked for one who would grieve together with me, but there was none; and for one who would comfort me, and I found none, alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "",
+    "it": ""
+  },
+  "postcommunion": [
+    {
+      "la": "Pacificis pasti delicis, et salutaribus sacramentis, te supplices exoramus, Domine Deus noster: ut, qui mitis es et humilis corde, nos a vitiorum labe purgatos, propensius facias a superbis saeculi vanitatibus abhorrere.\n$Qui vivis",
+      "en": "O Lord our God, who has vouchsafed to feed us with the banquet of our peace, and the sacraments of our salvation: we humbly beseech you; that as you are meek and lowly of heart, so we, being cleansed from the stains of our vices, may learn more earnestly to forsake the pride and vanities of the world.\n$Qui vivis",
+      "es": "",
+      "de": "",
+      "fr": "",
+      "it": ""
+    }
+  ]
+}

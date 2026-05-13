@@ -1,0 +1,93 @@
+{
+  "id": "Pasc7-4",
+  "titleLatin": "Die Quinta infra octavam Pentecostes",
+  "titleVernacular": {
+    "en": "Die Quinta infra octavam Pentecostes",
+    "es": "Die Quinta infra octavam Pentecostes",
+    "de": "Donnerstag in der Pfingstoktav",
+    "fr": "Die Quinta infra octavam Pentecostes",
+    "it": "Dominica Pentecostes"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Sap 1:7\nv. Spíritus Dómini replévit orbem terrárum, allelúja: et hoc quod cóntinet ómnia, sciéntiam habet vocis, allelúja, allelúja, allelúja.\n!Ps 67:2.\nExsúrgat Deus, et dissipéntur inimíci ejus: et fúgiant, qui odérunt eum, a fácie ejus.\n&Gloria\nv. Spíritus Dómini replévit orbem terrárum, allelúja: et hoc quod cóntinet ómnia, sciéntiam habet vocis, allelúja, allelúja, allelúja.",
+    "en": "!Wis 1:7\nv. The Spirit of the Lord fills the world, alleluia, is all-embracing, and knows man’s utterance, alleluia, alleluia, alleluia.\n!Ps 67:2\nGod arises; His enemies are scattered, and those who hate Him flee before Him.\n&Gloria\nv. The Spirit of the Lord fills the world, alleluia, is all-embracing, and knows man’s utterance, alleluia, alleluia, alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "!Sap 1:7\nv. L'Esprit du Seigneur remplit la terre, alléluia ; et lui qui tient unies toutes choses perce le secret de chaque parole, alléluia, alléluia, alléluia.\n!Ps 67:2\nQue Dieu se lève, et que ses ennemis se dispersent ; qu'ils fuient, ceux qui le haïssent, devant sa face.\n&Gloria\nv. L'Esprit du Seigneur remplit la terre, alléluia ; et lui qui tient unies toutes choses perce le secret de chaque parole, alléluia, alléluia, alléluia.",
+    "it": "!Sap 1:7.\nv. Lo Spirito del Signore riempie l’universo, allelúia: e abbraccia tutto, e ha conoscenza di ogni voce, allelúia, allelúia, allelúia.\n!Ps 67:2\nSorga il Signore, e siano dispersi i suoi nemici: e coloro che lo òdiano fuggano dal suo cospetto.\n&Gloria\nv. Lo Spirito del Signore riempie l’universo, allelúia: e abbraccia tutto, e ha conoscenza di ogni voce,\nallelúia, allelúia, alleluia."
+  },
+  "collect": [
+    {
+      "la": "@Tempora/Pasc7-0:Oratio",
+      "en": "O God, You Who on this day have taught the hearts of the faithful by the light of the Holy Spirit, grant us by that Holy Spirit Himself, to know what is right and ever to rejoice in His help.\n$Per Dominum eiusdem",
+      "es": "",
+      "de": "",
+      "fr": "Ô Dieu qui, aujourd'hui, avez instruit les cœurs de vos fidèles par la lumière du Saint-Esprit, donnez-nous par ce même Esprit de trouver en Lui le goût de la vérité et de jouir toujours de sa consolation.\n$Per Dominum eiusdem",
+      "it": "O Dio, che in questo giorno hai ammaestrato i tuoi fedeli con la luce dello Spirito Santo, concédici di sentire correttamente nello stesso Spirito, e di godere sempre della sua consolazione.\n$Per Dominum eiusdem"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Actuum Apostolórum\n!Acts 8:5-8\nIn diébus illis: Philíppus descéndens in civitátem Samaríæ, prædicábat illis Christum. Intendébant autem turbæ his, quæ a Philíppo dicebántur, unanímiter audiéntes et vidéntes signa, quæ faciébat. Multi enim eórum, qui habébant spíritus immúndos, clamántes voce magna, exíbant. Multi autem paralýtici et claudi curáti sunt. Factum est ergo gáudium magnum in illa civitáte.",
+    "en": "Lesson from the Acts of Apostles\n!Acts 8:5-8\nIn those days, Philip went down to the city of Samaria and preached the Christ to them. And the crowds with one accord gave heed to what was said by Philip, listening to him and seeing the miracles that he worked. For unclean spirits, crying with a loud voice, went out of many possessed persons, and many paralytics and cripples were cured. So there was great joy in that city.",
+    "es": "",
+    "de": "",
+    "fr": "Léctio Actuum Apostolórum.\n!Acts 8:5-8\nEn ces jours-là, Philippe, étant descendu dans la ville de Samarie, leur prêchait le Christ. Les foules étaient attentives à ce que disait Philippe, écoutant d'un seul cœur et voyant les miracles qu'il faisait. Les esprits impurs, en effet, dont beaucoup étaient possédés, sortaient en poussant de grands cris ; beaucoup de paralytiques et de boiteux furent guéris. Il y eut donc une grande joie dans cette ville.",
+    "it": "Lettura degli Atti degli Apostoli.\n!Acts 8:5-8\nIn quei giorni: Filippo arrivato alla città di Samaria, vi predicava Cristo. La moltitudine prestava attenzione a quanto diceva Filippo, ascoltando di comune accordo, e ammirava i miracoli che faceva. Poiché da molti che avevano spiriti immondi, questi uscivano gridando ad alta voce. E furono anche guariti molti paralitici e zoppi. Tanto che vi fu grande allegrezza in quella città."
+  },
+  "gradual": {
+    "la": "Allelúja, allelúja.\n!Ps 103:30\nV. Emítte Spíritum tuum, et creabúntur, et renovábis fáciem terræ. Allelúja. (Hic genuflectitur)\nV. Veni, Sancte Spíritus, reple tuórum corda fidélium: et tui amóris in eis ignem accénde.",
+    "en": "Alleluia, alleluia.\n!Ps 103:30\nV. Send forth Your Spirit, and they shall be created: and You shall renew the face of the earth. Alleluia. (Kneel.)\nV. Come, O Holy Spirit, fill the hearts of Your faithful: and kindle in them the fire of Your love.",
+    "es": "",
+    "de": "",
+    "fr": "Allelúja, allelúja\n!Ps 103:30\nEnvoyez votre Esprit et tout renaîtra, et vous renouvellerez la face de la terre. Alléluia. (Hic genuflectitur)\nV. Venez, Esprit Saint, remplissez les cœurs de vos fidèles, et allumez en eux le feu de votre amour.",
+    "it": "Allelúia, allelúia\n!Ps 103:30\nManda il tuo Spírito e saran creati, e sarà rinnovata la faccia della terra. Allelúia. (ci si inginocchia)\nV. Vieni, Santo Spirito, riempi i cuori dei tuoi fedeli: e accendi in essi il fuoco del tuo amore."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Lucam\n!Luc 9:1-6\nIn illo témpore: Convocátis Jesus duódecim Apóstolis, dedit illis virtútem et potestátem super ómnia dæmónia, et ut languóres curárent. Et misit illos prædicáre regnum Dei et sanáre infírmos. Et ait ad illos: Nihil tuléritis in via, neque virgam, neque peram, neque panem, neque pecúniam, neque duas túnicas habeátis. Et in quamcúmque domum intravéritis, ibi manéte et inde ne exeátis. Et quicúmque non recéperint vos: exeúntes de civitáte illa, étiam púlverem pedum vestrórum excútite in testimónium supra illos. Egréssi autem circuíbant per castélla, evangelizántes et curántes ubíque.",
+    "en": "Continuation + of the Holy Gospel according to Luke\n!Luke 9:1-6\nAt that time, having summoned the twelve apostles, Jesus gave them power and authority over all the devils, and to cure diseases. And He sent them forth to preach the kingdom of God, and to heal the sick. And he said to them, Take nothing for your journey, neither staff, nor wallet, nor bread, nor money; neither have two tunics. And whatever house you enter, stay there, and do not depart from thence. And whosoever will not receive you - go forth from that town, and shake off even the dust from your feet for a witness against them. And going forth, they went about from village to village, preaching the gospel and working cures everywhere.",
+    "es": "",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Lucam.\n!Luc 9:1-6\nEn ce temps-là, Jésus ayant convoqué les douze Apôtres, il leur donna puissance et autorité sur tous les démons, et pour guérir les maladies. Et il les envoya prêcher le royaume de Dieu et guérir les malades, et il leur dit : « Ne prenez rien pour la route, ni bâton, ni besace, ni pain, ni argent, et n'ayez pas deux tuniques. En quelque maison que vous entriez, demeurez-y et repartez de là. La ville dont les gens ne vous recevraient pas, sortez-en et secouez sur eux, en témoignage, la poussière de vos pieds. » Étant partis, ils allèrent de village en village, annonçant la bonne nouvelle et opérant partout des guérisons.",
+    "it": "Séguito ++ del Santo Vangelo secondo Luca.\n!Luc 9:1-6\nGesù, convocati i Dodici, diede loro potere ed autorità su tutti i demoni e di guarire le malattie. E li mandò a predicare il regno di Dio e a guarire gli infermi. E disse loro: «Non prendete niente per viaggio, né bastone, né bisaccia, né pane, né danaro, né abbiate due tuniche. E in qualunque casa voi sarete entrati, restatevi senza uscirne. E se alcuni non vi ricevono, uscendo da quella città, scotete anche la polvere dai vostri piedi in protesta contro di loro». Ed essi, partitisi, girarono per i paesi annunziando la buona novella e operando ovunque guarigioni."
+  },
+  "offertory": {
+    "la": "!Ps 67:29-30\nConfírma hoc, Deus, quod operátus es in nobis: a templo tuo, quod est in Jerúsalem, tibi ófferent reges múnera, allelúja.",
+    "en": "!Ps 67:29-30\nConfirm, O God, what You have wrought in us; from Your temple, which is in Jerusalem, kings shall offer gifts to You. Alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "!Ps 67:29-30.\nAffermissez, Seigneur, ce que vous avez opéré en nous ; du milieu de votre temple, qui est à Jérusalem, des rois vous offriront des présents, alléluia.",
+    "it": "!Ps 67:29-30\nConferma, o Dio, quanto hai operato in noi: i re Ti offriranno doni per il tuo tempio che è in Gerusalemme, allelúia."
+  },
+  "secret": [
+    {
+      "la": "Múnera, quǽsumus, Dómine, oblata sanctífica: et corda nostra Sancti Spíritus illustratióne emúnda.\n$Per Dominum eiusdem",
+      "en": "Sanctify these offerings, we beseech You, O Lord, and cleanse our hearts by the light of the Holy Spirit.\n$Per Dominum eiusdem",
+      "es": "",
+      "de": "",
+      "fr": "Sanctifiez, Seigneur, les dons qui vous sont offerts, et rendez nos cœurs purs en les illuminant des clartés du Saint-Esprit.\n$Per Dominum eiusdem",
+      "it": "Santifica, Te ne preghiamo, o Signore, i doni che Ti vengono offerti, e monda i nostri cuori con la luce dello Spirito Santo.\n$Per Dominum eiusdem"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Acts 2:2 2:4\nFactus est repénte de cœlo sonus tamquam adveniéntis spíritus veheméntis, ubi erant sedéntes, allelúja: et repléti sunt omnes Spíritu Sancto, loquéntes magnália Dei, allelúja, allelúja.",
+    "en": "!Acts 2:2; 2:4\nSuddenly there came a sound from heaven, as of a violent wind blowing, where they were sitting, alleluia: and they were all filled with the Holy Spirit, speaking of the wonderful works of God, alleluia, alleluia.",
+    "es": "",
+    "de": "",
+    "fr": "!Acts 2:2 2:4\nIl y eut soudain un bruit venant du ciel, comme d'un violent coup de vent, là où ils étaient assis, alléluia ; et ils furent tous remplis de l'Esprit Saint, racontant les merveilles de Dieu, alléluia, alléluia.",
+    "it": "!Acts 2:2; 2:4\nImprovvisamente, nel luogo ove si trovavano, venne dal cielo un suono come di un vento impetuoso, allelúia: e furono ripieni di Spirito Santo, e decantavano le meraviglie del Signore, allelúia, allelúia."
+  },
+  "postcommunion": [
+    {
+      "la": "@Tempora/Pasc7-0:Postcommunio",
+      "en": "May the inpouring of the Holy Spirit cleanse our hearts, O Lord, and make them fertile through the dew He sprinkles upon them.\n$Per Dominum eiusdem",
+      "es": "",
+      "de": "",
+      "fr": "Que l'Esprit Saint, répandu en nos cœurs, les purifie, Seigneur, et les féconde par l'intime infusion de sa rosée.\n$Per Dominum eiusdem",
+      "it": "Fa, o Signore, che l’infusione dello Spirito Santo purifichi i nostri cuori, e li fecondi con l’intima aspersione della sua grazia.\n$Per Dominum eiusdem"
+    }
+  ]
+}

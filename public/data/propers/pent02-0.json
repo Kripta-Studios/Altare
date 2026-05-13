@@ -1,0 +1,93 @@
+{
+  "id": "Pent02-0",
+  "titleLatin": "Dominica II. Post Pentecosten",
+  "titleVernacular": {
+    "en": "Dominica II. Post Pentecosten",
+    "es": "Dominica II. Post Pentecosten",
+    "de": "Zweiter Sonntag nach Pfingsten",
+    "fr": "Dominica II. Post Pentecosten",
+    "it": "Dominica II. Post Pentecosten"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps 17:19-20\nv. Factus est Dóminus protéctor meus, et edúxit me in latitúdinem: salvum me fecit, quóniam vóluit me.\n!Ps 17:2-3\nDíligam te. Dómine, virtus mea: Dóminus firmaméntum meum et refúgium meum et liberátor meus.\n&Gloria\nv. Factus est Dóminus protéctor meus, et edúxit me in latitúdinem: salvum me fecit, quóniam vóluit me.",
+    "en": "!Ps. 17:19-20.\nv. The Lord came to my support. He set me free in the open, and rescued me, because He loves me.\n!Ps 17:2-3\nI love You, O Lord, my strength, O Lord, my rock, my fortress, my deliverer.\n&Gloria\nv. The Lord came to my support. He set me free in the open, and rescued me, because He loves me.",
+    "es": "!Ps 17:19-20.\nv. El Señor se ha constituido mi Protector; y me ha colocado en un lugar espacioso; me ha salvado, porque me quiso bien.\n!Ps 17:2-3\nOs amaré, Señor, fortaleza mía. El Señor es mi defensa, mi refugio y mi libertador.\n&Gloria\nv. El Señor se ha constituido mi Protector; y me ha colocado en un lugar espacioso; me ha salvado, porque me quiso bien.",
+    "de": "",
+    "fr": "!Ps 17:19-20.\nv. Le Seigneur s'est fait mon protecteur, et il m'a mis au large ; il m'a sauvé parce qu'il m'a aimé.\n!Ps 17:2-3\nJe vous aime, Seigneur, ma force ; le Seigneur est mon soutien, mon refuge et mon libérateur.\n&Gloria\nv. Le Seigneur s'est fait mon protecteur, et il m'a mis au large ; il m'a sauvé parce qu'il m'a aimé.",
+    "it": "!Ps 17:19-20.\nv. Il Signore si è fatto mio protettore e mi ha tratto fuori, al largo: mi ha liberato perché mi vuol bene.\n!Ps 17:2-3\nAmerò Te, o Signore, mia forza: o Signore, mio sostegno, mio rifugio e mio liberatore.\n&Gloria\nv. Il Signore si è fatto mio protettore e mi ha tratto fuori, al largo: mi ha liberato perché mi vuol bene."
+  },
+  "collect": [
+    {
+      "la": "Sancti nóminis tui, Dómine, timórem páriter et amórem fac nos habére perpétuum: quia numquam tua gubernatióne destítuis, quos in soliditáte tuæ dilectiónis instítuis.\n$Per Dominum",
+      "en": "Grant, O Lord, that we may always fear and love Your holy Name, for You never fail to guide those whom You firmly establish in Your love.\n$Per Dominum",
+      "es": "Haced, Señor, que siempre temamos y amemos vuestro santo Nombre; porque vuestra Providencia jamás abandona a los que fundáis en la solidez de vuestro amor.\n$Per Dominum",
+      "de": "",
+      "fr": "De votre saint Nom, Seigneur, faites-nous éprouver sans cesse la crainte et l'amour, car vous ne privez jamais de votre assistance ceux que vous établissez dans la solidité de votre amour.\n$Per Dominum",
+      "it": "Del tuo santo Nome, o Signore, fa che nutriamo un perpetuo timore e un pari amore: poiché non privi giammai del tuo aiuto quelli che stabilisci nella saldezza della tua dilezione.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Joánnis Apóstoli\n!1 John 3:13-18\nCaríssimi: Nolíte mirári, si odit vos mundus. Nos scimus, quóniam transláti sumus de morte ad vitam, quóniam dilígimus fratres. Qui non díligit, manet in morte: omnis, qui odit fratrem suum, homicída est. Et scitis, quóniam omnis homicída non habet vitam ætérnam in semetípso manéntem. In hoc cognóvimus caritátem Dei, quóniam ille ánimam suam pro nobis pósuit: et nos debémus pro frátribus ánimas pónere. Qui habúerit substántiam hujus mundi, et víderit fratrem suum necessitátem habére, et cláuserit víscera sua ab eo: quómodo cáritas Dei manet in eo? Filíoli mei, non diligámus verbo neque lingua, sed ópere et veritáte.",
+    "en": "Lesson from the first letter of St John the Apostle\n!1 John 3:13-18.\nBeloved: Do not be surprised if the world hates you. We know that we have passed from death to life, because we love the brethren. He who does not love abides in death. Everyone who hates his brother is a murderer. And you know that no murderer has eternal life abiding in him. In this we have come to know His love, that He laid down His life for us; and we likewise ought to lay down our life for the brethren. He who has the goods of this world and sees his brother in need and closes his heart to him, how does the love of God abide in him? My dear children, let us not love in word, neither with the tongue, but in deed and in truth.",
+    "es": "Lección de la carta del Apóstol San Juan\n!1 Jn 3:13-18\nCarísimos: No os sorprenda que el mundo os odie; nosotros sabemos que hemos pasado de la muerte a la vida porque amamos a los hermanos. El que no ama permanece en la muerte. El que odia a su hermano es un homicida. Y sabéis que ningún homicida lleva permanentemente en sí vida eterna. En esto hemos conocido el amor: en que él dio su vida por nosotros. También nosotros debemos dar nuestra vida por los hermanos. Pero si uno tiene bienes del mundo y, viendo a su hermano en necesidad, le cierra sus entrañas, ¿cómo va a estar en él el amor de Dios? Hijos míos, no amemos de palabra y de boca, sino de verdad y con obras.",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Joánnis Apóstoli\n!1 John 3:13-18\nBien-aimés, ne vous étonnez pas si le monde vous hait. Nous, nous savons que nous sommes passés de la mort à la vie, parce que nous aimons nos frères. Celui. qui n'aime pas demeure dans la mort. Quiconque hait son frère est un meurtrier, et vous savez qu'aucun meurtrier n'a la vie éternelle demeurant en lui. À ceci nous avons connu l'amour de Dieu, c'est que Lui a donné sa vie pour nous. Nous aussi, nous devons donner notre vie pour nos frères. Si quelqu'un possède les biens de ce monde et que, voyant son frère dans la nécessité, il lui ferme ses entrailles, comment l'amour de Dieu demeure-t-il en lui ? Mes petits enfants, n'aimons pas avec de parole et de langue, mais par des œuvres et en vérité.",
+    "it": "Lettura della Lettera del B. Giovanni Ap.\n!1 John 3:13-18\nCarissimi: Non meravigliatevi se il mondo vi odia. Noi sappiamo che siamo passati dalla morte alla vita, perché amiamo i fratelli. Poiché chi non ama dimora nella morte: e chi odia il fratello suo è omicida. E voi sapete che chiunque è omicida non ha in sé la vita eterna. Da questo conosciamo l’amore di Dio verso di noi: dall’aver Egli dato per noi la vita: e noi dobbiamo darla per i nostri fratelli. Ma se alcuno avrà tenute per sé le ricchezze di questo mondo e, vedendo il proprio fratello nel bisogno avrà chiuso il suo cuore: come può vivere in lui l’amore di Dio? Figliuoli miei, non amiamo a parole, né a chiacchere, ma in opere e verità."
+  },
+  "gradual": {
+    "la": "!Ps 119:1-2\nAd Dóminum, cum tribulárer, clamávi, et exaudívit me.\nV. Dómine, libera ánimam meam a lábiis iníquis, et a lingua dolósa. Allelúja, allelúja.\n!Ps 7:2\nDómine, Deus meus, in te sperávi: salvum me fac ex ómnibus persequéntibus me et líbera me. Allelúja.",
+    "en": "!Ps. 119:1-2.\nIn my distress I called to the Lord, and He answered me.\nV. O Lord, deliver me from lying lip, from treacherous tongue. Alleluia, alleluia.\n!Ps 7:2\nV. O Lord my God, in You I take refuge; save me from all my pursuers and rescue me. Alleluia.",
+    "es": "!Ps 119:1-2\nLlamé al Señor en la aflicción, y Él me respondió.\nV. Líbrame, Señor, de los labios mentirosos, de la lengua traidora. Aleluya, aleluya.\n!Ps 7:2\nV. Señor Dios mío, en ti he confiado: sálvame de mis perseguidores, y líbrame. Aleluya.",
+    "de": "",
+    "fr": "!Ps 119:1-2\nVers le Seigneur, dans ma tribulation, j'ai crié, et il m'a exaucé.\nV. Seigneur, libérez mon âme des lèvres iniques et de la langue trompeuse. Alléluia.\n!Ps 7:2\nSeigneur mon Dieu, en vous j'espère ; sauvez-moi de tous ceux qui me persécutent, et libérez-moi. Alléluia.",
+    "it": "!Ps 119:1-2\nAl Signore mi rivolsi: poiché ero in tribolazione, ed Egli mi ha esaudito.\nV. O Signore, libera l’ànima mia dalle labbra dell’iniquo, e dalla lingua menzognera. Allelúia, allelúia\n!Ps 7:2\nSignore, Dio mio, in Te ho sperato: salvami da tutti quelli che mi perseguitano, e liberami. Allelúia."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Lucam\n!Luc 14:16-24\nIn illo témpore: Dixit Jesus pharisǽis parábolam hanc: Homo quidam fecit cœnam magnam, et vocávit multos. Et misit servum suum hora cœnæ dícere invitátis, ut venírent, quia jam paráta sunt ómnia. Et cœpérunt simul omnes excusáre. Primus dixit ei: Villam emi, et necésse hábeo exíre et vidére illam: rogo te, habe me excusátum. Et alter dixit: Juga boum emi quinque et eo probáre illa: rogo te, habe me excusátum. Et álius dixit: Uxórem duxi, et ídeo non possum veníre. Et revérsus servus nuntiávit hæc dómino suo. Tunc irátus paterfamílias, dixit servo suo: Exi cito in pláteas et vicos civitátis: et páuperes ac débiles et cæcos et claudos íntroduc huc. Et ait servus: Dómine, factum est, ut imperásti, et adhuc locus est. Et ait dóminus servo: Exi in vias et sepes: et compélle intrare, ut impleátur domus mea. Dico autem vobis, quod nemo virórum illórum, qui vocáti sunt, gustábit cœnam meam.",
+    "en": "Continuation + of the Holy Gospel according to Luke\n!Luke 14:16-24.\nAt that time, Jesus spoke to the Pharisees this parable: A certain man gave a great supper, and he invited many. And he sent his servant at supper time to tell those invited to come, for everything is now ready. And they all with one accord began to excuse themselves. The first said to him, ‘I have bought a farm, and I must go out and see it; I pray you hold me excused.’ And another said, ‘I have bought five yoke of oxen, and I am on my way to try them; I pray you hold me excused.’ And another said, ‘I have married a wife, and therefore I cannot come.’ And the servant returned, and reported these things to his master. Then the master of the house was angry and said to his servant, ‘Go out quickly into the streets and lanes of the city, and bring in here the poor, and the crippled, and the blind, and the lame.’ And the servant said, ‘Sir, your order has been carried out, and still there is room.’ Then the master said to the servant, ‘Go out into the highways and hedges, and make them come in, so that my house may be filled. For I tell you that none of those who were invited shall taste of my supper.’",
+    "es": "Continuación + del Santo Evangelio según San Lucas\n!Lc 14:16-24\nEn aquel tiempo, dijo Jesús a los fariseos esta parábola: «Un hombre daba un gran banquete y convidó a mucha gente; a la hora del banquete mandó a su criado a avisar a los convidados: “Venid, que ya está preparado”. Pero todos a una empezaron a excusarse. El primero le dijo: “He comprado un campo y necesito ir a verlo. Dispénsame, por favor”. Otro dijo: “He comprado cinco yuntas de bueyes y voy a probarlas. Dispénsame, por favor”. Otro dijo: “Me acabo de casar y, por ello, no puedo ir”. El criado volvió a contárselo a su señor. Entonces el dueño de casa, indignado, dijo a su criado: “Sal aprisa a las plazas y calles de la ciudad y tráete aquí a los pobres, a los lisiados, a los ciegos y a los cojos”. El criado dijo: “Señor, se ha hecho lo que mandaste, y todavía queda sitio”. Entonces el señor dijo al criado: “Sal por los caminos y senderos, e insísteles hasta que entren y se llene mi casa. Y os digo que ninguno de aquellos convidados probará mi banquete”».",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Lucam.\n!Luc 14:16-24\nEn ce temps-là, Jésus dit aux Pharisiens cette parabole : « Un homme faisait un grand dîner, auquel il avait invité beaucoup de gens. Et à l'heure du dîner, il envoya son serviteur dire aux invités : « Venez, car tout est déjà prêt.» Et tous, unanimement, se mirent à s'excuser. Le premier lui dit : « J'ai acheté un champ, et il faut nécessairement que j'aille le voir; je te prie, tiens-moi pour excusé.» Et un autre dit : « J'ai acheté cinq paires de bœufs, et je vais les essayer ; je te prie, tiens-moi pour excusé.» Et un autre dit : « J'ai pris femme, et c'est pourquoi je ne puis venir.» Le serviteur s'en revint et rapporta cela à son maître. Alors le maître de maison, irrité, dit à son serviteur : « Va-t'en vite sur les places et par les rues de la ville, et amène ici les pauvres, les estropiés, les aveugles et les boiteux.» Et le serviteur dit : « Maître, ce que vous avez commandé a été fait, et il y a encore de la place.» Et le maître dit au serviteur : « Va-t'en par les chemins et aux clôtures, et contrains les gens à entrer, afin que ma maison soit remplie. Car, je vous le dis, aucun de ces hommes qui avaient été invités ne goûtera à mon dîner.» »",
+    "it": "Séguito ++ del S. Vangelo secondo Luca.\n!Luc 14:16-24\nIn quel tempo: Gesù disse ai Farisei questa parabola: un uomo preparò un grande convito, e invitò molti. E mandò un servo all’ora della cena a ricordare agli invitati di venire, perché ogni cosa era preparata. Ma tutti cominciarono senz’altro a scusarsi. Il primo gli rispose: Ho comperata una villa e debbo uscire per vederla; ti prego di avermi per scusato. E un altro disse: Ho comperato cinque paia di buoi e ora vado a trovarli: abbimi per scusato, te ne prego. E un altro disse: Ho preso moglie, perciò non posso venire. E il servo, ritornato, riferì queste cose al padrone. Allora, il padre di famiglia, irritato, disse al servo suo: Va subito nelle piazze e nelle vie della città, e conduci qui i poveri, gli storpi, i ciechi e gli zoppi. Disse poi il servo: Signore, è stato fatto come tu hai comandato, e ancora vi è posto. Gli rispose il padrone: Va per le strade e lungo le siepi, e costringi a venire, affinché la mia casa si riempia. Poiché, vi dico, che nessuno di quelli che erano stati invitati gusterà la mia cena."
+  },
+  "offertory": {
+    "la": "!Ps 6:5\nDómine, convértere, et éripe ánimam meam: salvum me fac propter misericórdiam tuam.",
+    "en": "!Ps. 6:5.\nReturn, O Lord, save my life; rescue me because of Your kindness.",
+    "es": "!Ps 6:5\nSeñor, volveos a mí, y librad mi alma; salvadme por vuestra gran misericordia.",
+    "de": "",
+    "fr": "!Ps 6:5\nSeigneur, tournez-vous vers moi, et sauvez-mon âme ; sauvez-moi à cause de votre miséricorde.",
+    "it": "!Ps 6:5\nO Signore, volgiti verso di me e salva la mia vita: salvami per la tua misericordia."
+  },
+  "secret": [
+    {
+      "la": "Oblátio nos, Dómine, tuo nómini dicánda puríficet: et de die in diem ad cœléstis vitæ tránsferat actiónem.\n$Per Dominum.",
+      "en": "May the sacrifice we are about to offer unto Your holy Name, O Lord, make us pure, and day by day help us to live a more heavenly life.\n$Per Dominum",
+      "es": "Purifíquenos, Señor, la ofren­da que os hemos ofrecido; y háganos adelantar en obras dignas del Cielo.\n$Per Dominum",
+      "de": "",
+      "fr": "Que cette offrande qui va vous être consacrée, Seigneur, nous purifie, et que de jour en jour elle nous fasse passer à une vie toute céleste.\n$Per Dominum.",
+      "it": "Ci purifichi, O Signore, l’offerta da consacrarsi al Tuo nome: e di giorno in giorno ci conduca alla pratica di una vita perfetta.\n$Per Dominum."
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!Ps 12:6\nCantábo Dómino, qui bona tríbuit mihi: et psallam nómini Dómini altíssimi.",
+    "en": "!Ps. 12:6.\nI will sing of the Lord, He has been good to me; and I will sing to the Name of the Lord the Most High.",
+    "es": "!Ps 12:6\nCantaré al Señor, que tantos bienes me ha dado; cantaré al Nombre del Altísimo Señor.",
+    "de": "",
+    "fr": "!Ps 12:6\nJe veux chanter pour le Seigneur qui m'a comblé de biens, et je psalmodierai pour le Nom du Seigneur, le Très-Haut.",
+    "it": "!Ps 12:6\nInneggerò al Signore, per il bene fatto a me: e salmeggerò al nome di Dio Altissimo."
+  },
+  "postcommunion": [
+    {
+      "la": "Sumptis munéribus sacris, quǽsumus, Dómine: ut cum frequentatióne mystérii, crescat nostræ salútis efféctus.\n$Per Dominum",
+      "en": "We beseech You, O Lord, that having received Your gifts, each partaking of this sacrament may increase within us its saving effects.\n$Per Dominum",
+      "es": "Recibidos vuestros dones, os rogamos, Señor, que frecuentando estos haga más segura nuestra salvación.\n$Per Dominum",
+      "de": "",
+      "fr": "Nourris de vos dons sacrés, puissions-nous, Seigneur, par la fréquentation de votre sacrement, voir se développer en nous votre œuvre de salut.\n$Per Dominum",
+      "it": "Ricevuti, o Signore, i sacri doni, Ti preghiamo: affinché, frequentando questi divini misteri, cresca l’effetto della nostra salvezza.\n$Per Dominum"
+    }
+  ]
+}

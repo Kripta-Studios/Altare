@@ -1,0 +1,93 @@
+{
+  "id": "Pent01-4",
+  "titleLatin": "Festum Sanctissimi Corporis Christi",
+  "titleVernacular": {
+    "en": "Festum Sanctissimi Corporis Christi",
+    "es": "Festum Sanctissimi Corporis Christi",
+    "de": "Fronleichnam",
+    "fr": "Festum Sanctissimi Corporis Christi",
+    "it": "Festum Sanctissimi Corporis Christi cum Octava privilegiate II ordinis"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps 80:17\nv. Cibávit eos ex ádipe fruménti, allelúja: et de petra, melle saturávit eos, allelúja, allelúja, allelúja.\n!Ps 80:2\nExsultáte Deo, adjutóri nostro: jubiláte Deo Jacob.\n&Gloria\nv. Cibávit eos ex ádipe fruménti, allelúja: et de petra, melle saturávit eos, allelúja, allelúja, allelúja.",
+    "en": "!Ps. 80:17.\nv. He fed them with the best of wheat, alleluia; and filled them with honey from the rock, alleluia, alleluia, alleluia.\n!Ps 80:2\nSing joyfully to God our strength; acclaim the God of Jacob.\n&Gloria\nv. He fed them with the best of wheat, alleluia; and filled them with honey from the rock, alleluia, alleluia, alleluia.",
+    "es": "!Ps. 80:17.\nv. Los sustentó con flor de trigo, aleluya; y los sació con miel de la roca, aleluya, aleluya, aleluya.\n!Ps 80:2\nRegocijaos alabando a Dios, nuestro protector; cantad al Dios de Jacob.\n&Gloria\nv. Los sustentó con flor de trigo, aleluya; y los sació con miel de la roca, aleluya, aleluya, aleluya.",
+    "de": "",
+    "fr": "!Ps 80:17.\nv. Il les a nourris de la graisse du froment, alléluia ; et il les a rassasiés du miel de la pierre, alléluia, alléluia, alléluia.\n!Ps 80:2\nExultez pour Dieu, notre secours ; jubilez pour le Dieu de Jacob.\n&Gloria\nv. Il les a nourris de la graisse du froment, alléluia ; et il les a rassasiés du miel de la pierre, alléluia, alléluia, alléluia.",
+    "it": "!Ps 80:17.\nv. Li ha nutriti col fiore del frumento, allelúia: e li ha saziati col miele scaturito dalla roccia, allelúia, allelúia, allelúia.\n!Ps 80:2\nEsultate in Dio nostro aiuto: rallegratevi nel Dio di Giacobbe.\n&Gloria\nv. Li ha nutriti col fiore del frumento, allelúia: e li ha saziati col miele scaturito dalla roccia, allelúia, allelúia, allelúia."
+  },
+  "collect": [
+    {
+      "la": "Deus, qui nobis sub Sacraménto mirábili passiónis tuæ memóriam reliquísti: tríbue, quǽsumus, ita nos Córporis et Sánguinis tui sacra mystéria venerári; ut redemptiónis tuæ fructum in nobis júgiter sentiámus:\n$Qui vivis",
+      "en": "O God, You Who in this wondrous sacrament have left us a memorial of Your passion, grant us, we beseech You, so to venerate the sacred mysteries of Your Body and Blood that we may ever experience within us the effect of Your redemption.\n$Qui vivis",
+      "es": "¡Oh Dios!, que bajo un sacramento admirable, nos dejaste el memorial de tu pasión; te pedimos, Señor, nos concedas celebrar de tal manera los sagrados misterios de tu cuerpo y sangre, que sintamos constantemente en nosotros el fruto de tu redención.\n$Qui vivis",
+      "de": "",
+      "fr": "Ô Dieu, qui, sous un sacrement admirable, nous avez laissé le mémorial de votre passion, accordez-nous une telle vénération pour les mystères sacrés de votre Corps et de votre Sang que nous ressentions sans cesse en nous les effets de votre rédemption.\n$Qui vivis",
+      "it": "O Dio, che nell’ammirabile Sacramento ci lasciasti la memoria della tua Passione: concedici, Te ne preghiamo, di venerare i sacri misteri del tuo Corpo e del tuo Sangue cosí da sperimentare sempre in noi il frutto della tua redenzione:\n$Qui vivis"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epistolæ beáti Pauli Apóstoli ad Corinthios\n!1 Cor 11:23-29\nFratres: Ego enim accépi a Dómino quod et trádidi vobis, quóniam Dóminus Jesus, in qua nocte tradebátur, accépit panem, et grátias agens fregit, et dixit: Accípite, et manducáte: hoc est corpus meum, quod pro vobis tradétur: hoc fácite in meam commemoratiónem. Simíliter et cálicem, postquam cenávit, dicens: Hic calix novum Testaméntum est in meo sánguine. Hoc fácite, quotiescúmque bibétis, in meam commemoratiónem. Quotiescúmque enim manducábitis panem hunc et cálicem bibétis, mortem Dómini annuntiábitis, donec véniat. Itaque quicúmque manducáverit panem hunc vel bíberit cálicem Dómini indígne, reus erit córporis et sánguinis Dómini. Probet autem seípsum homo: et sic de pane illo edat et de calice bibat. Qui enim mandúcat et bibit indígne, judícium sibi mandúcat et bibit: non dijúdicans corpus Dómini.",
+    "en": "Lesson from the first letter of St. Paul the Apostle to the Corinthians\n!1 Cor. 23-29.\nBrethren: I myself have received from the Lord - what I also delivered to you, - that the Lord Jesus, on the night in which He was betrayed, took bread, and giving thanks broke, and said, Take and eat. This is My Body which shall be given up for you; do this in remembrance of Me. In like manner also the cup, after He had supped, saying, This is the new covenant in My Blood; do this as often as you drink it, in remembrance of Me. For as often as you shall eat this Bread and drink the cup, you proclaim the death of the Lord, until He comes. Therefore whoever eats this Bread or drinks the cup of the Lord unworthily, will be guilty of the Body and the Blood of the Lord. But let a man prove himself, and so let him eat of that Bread and drink of the cup; for he who eats and drinks unworthily, without distinguishing the Body, eats and drinks judgment to himself.",
+    "es": "Lectura de la carta del Apóstol san Pablo a los Corintios.\n!1 Cor 23-29.\nHermanos: Del Señor aprendí lo que también os tengo ya enseñado, y es que el Señor Jesús, la noche misma en que había de ser traicionado, tomó el pan, y dando gracias, lo partió, y dijo: Tomad y comed; éste es mi cuerpo, que por vosotros será entregado; haced esto en memoria mía. Y de la misma manera tomó el cáliz, después de haber cenado, diciendo: Este cáliz es el Nuevo Testamento en mi sangre; haced esto, siempre que lo bebiereis, en memoria mía. Así que, cuantas veces comiereis este pan y bebiereis este cáliz, otras tantas anunciaréis la muerte del Señor, hasta que venga. Por tanto, cualquiera que coma este pan o beba el cáliz del Señor indignamente, será reo del cuerpo y sangre del Señor. Examínese, pues, a si mismo cada cual, y así coma de ese pan y beba de ese cáliz. Porque quien le come y bebe indignamente, se come y bebe su propia condenación, si no discierne el cuerpo del Señor.",
+    "de": "",
+    "fr": "Léctio Epistolæ beáti Pauli Apóstoli ad Corinthios\n!1 Cor 11:23-29\nFrères, j'ai moi-même reçu du Seigneur ce que je vous ai transmis : à savoir, que le Seigneur Jésus, dans la nuit où il fut livré, prit du pain, et après avoir rendu grâces, le rompit et dit : « Prenez et mangez ; ceci est mon corps, qui sera livré pour vous ; faites ceci en mémoire de moi. » De même, après le repas, il prit le calice et dit : « Ce calice est la nouvelle Alliance en mon sang ; faites ceci, toutes les fois que vous en boirez, en mémoire de moi. » Car toutes les fois que vous mangez ce pain et que vous buvez ce calice, vous annoncez la mort du Seigneur, jusqu'à ce qu'il vienne. C'est pourquoi celui qui mangera le pain ou boira le calice du Seigneur indignement, sera coupable envers le Corps et le Sang du Seigneur. Que chacun donc s'éprouve soi-même, et qu'ainsi il mange de ce pain et boive de ce calice ; car celui qui mange et boit indignement, sans discerner le Corps du Seigneur, mange et boit son propre jugement.",
+    "it": "Lettura della Lettera del B. Paolo Ap. ai Corinti\n!1 Cor 11:23-29\nFratelli: Io stesso ho appreso dal Signore quello che ho insegnato a voi: il Signore Gesú, nella stessa notte nella quale veniva tradito: prese il pane, e rendendo grazie, lo spezzò e disse: Prendete e mangiate, questo è il mio corpo che sarà immolato per voi: fate questo in memoria di me. Similmente, dopo cena, prese il calice, dicendo: Questo calice è il nuovo patto nel mio sangue, tutte le volte che ne berrete, fate questo in memoria di me. Infatti, tutte le volte che mangerete questo pane e berrete questo calice, annunzierete la morte del Signore fino a quando Egli verrà. Chiunque perciò avrà mangiato questo pane e bevuto questo calice indegnamente, sarà reo del Corpo e del Sangue del Signore. Dunque, l’uomo esamini sé stesso e poi mangi di quel pane e beva di quel calice: chi infatti mangia e beve indegnamente, mangia e beve la sua condanna, non riconoscendo il corpo del Signore."
+  },
+  "gradual": {
+    "la": "!Ps 144:15-16\nOculi ómnium in te sperant, Dómine: et tu das illis escam in témpore opportúno,\nV. Aperis tu manum tuam: et imples omne animal benedictióne. Allelúja, allelúja,\n!Joannes 6:56-57\nCaro mea vere est cibus, et sanguis meus vere est potus: qui mandúcat meam carnem et bibit meum sánguinem, in me manet et ego in eo. Alleluia.",
+    "en": "!Ps. 144:15-16.\nThe eyes of all look hopefully to You, O Lord; and You give them their food in due season.\nV. You open Your hand; and satisfy the desire of every living thing. Alleluia, alleluia.\n!John 6:56-57\nV. My Flesh is food indeed, and My Blood is drink indeed. He who eats My Flesh, and drinks My Blood, abides in Me and I in him.",
+    "es": "!Ps 144:15-16.\nLos ojos de todos en ti esperan, Señor; y tú les das comida en el tiempo conveniente.\nV. Abres tu mano, y llenas a todo viviente de bendición. Aleluya, aleluya.\n!Jn 6:56-57\nV. Mi carne es verdadera comida, y mi sangre es verdadera bebida: el que come mi carne y bebe mi sangre, en mi permanece, y yo en él.",
+    "de": "",
+    "fr": "!Ps 144:15-16\nLes yeux de tous espèrent en vous, Seigneur, et vous leur donnez leur nourriture en temps opportun.\nV. Vous ouvrez votre main, et vous remplissez toute chair de votre bénédiction. Alléluia, alléluia.\n!Joannes 6:56-57\nMa chair est vraiment une nourriture, et mon Sang est vraiment un breuvage ; celui qui mange ma Chair et boit mon Sang demeure en moi et moi en lui. Alléluia.",
+    "it": "!Ps 144:15-16\nGli occhi di tutti sperano in Te, o Signore: e Tu concedi loro il cibo a tempo opportuno,\nV. Apri la tua mano: e colma ogni essere vivente della tua benedizione,\n!Joannes 6:56-57\nLa mia carne è veramente cibo, e il mio sangue è veramente bevanda: chi mangia la mia carne e beve il mio sangue, rimane in me e io in lui. Alleluia."
+  },
+  "gospel": {
+    "la": "Sequéntia sancti Evangéli secúndum Joánnem\n!Joann 6:56-59\nIn illo témpore: Dixit Jesus turbis Judæórum: Caro mea vere est cibus et sanguis meus vere est potus. Qui mandúcat meam carnem et bibit meum sánguinem, in me manet et ego in illo. Sicut misit me vivens Pater, et ego vivo propter Patrem: et qui mandúcat me, et ipse vivet propter me. Hic est panis, qui de cœlo descéndit. Non sicut manducavérunt patres vestri manna, et mórtui sunt. Qui mandúcat hunc panem, vivet in ætérnum.",
+    "en": "Continuation + of the Holy Gospel according to John\n!John 6:56-59.\nAt that time, Jesus said to the crowds of the Jews: My Flesh is food indeed, and My Blood is drink indeed. He who eats My Flesh, and drinks My Blood, abides in Me and I in him. As the living Father has sent Me, and as I live because of the Father, so he who eats Me, he also shall live because of Me. This is the Bread that has come down from heaven; not as your fathers ate the manna, and died. He who eats this Bread shall live forever.",
+    "es": "Continuación + del santo Evangelio según San Juan\n!Jn 6:56-59\nEn aquel tiempo: Dijo Jesús a las turbas de los judíos: Mi carne verdaderamente es comida, y mi sangre, verdaderamente bebida, quien come mi carne y bebe mi sangre, en mi mora y yo en él. Así como vive el Padre que me envió, y yo vivo por el  Padre; así, el que me come, también vivirá por mí. Éste es el pan que ha bajado del celo, No sucederá como a nuestros padres, que comieron el maná, y murieron. Quien coma este pan, vivirá eternamente.",
+    "de": "",
+    "fr": "Sequéntia sancti Evangéli secúndum Joánnem.\n!Joann 6:56-59\nEn ce temps-là, Jésus dit à la foule des Juifs : « Celui qui mange ma chair et boit mon sang, demeure en moi, et moi en lui. Comme le Père qui est vivant m'a envoyé, et que je vis par le Père, ainsi celui qui me mange vivra aussi par moi. C'est là le pain qui est descendu du ciel : il n'en est point comme de vos pères qui ont mangé la manne et qui sont morts ; celui qui mange de ce pain vivra éternellement. »",
+    "it": "Séguito ++ del S. Vangelo secondo Giovanni.\n!Joann 6:56-59\nIn quel tempo: Gesú disse alle turbe dei Giudei: La mia carne è veramente cibo, e il mio sangue è veramente bevanda. Chi mangia la mia carne e beve il mio sangue, vive in me e io in lui. Come è vivo il Padre che mi ha mandato, e io vivo del Padre, cosí chi mangia la mia carne vive di me. Questo è il pane che discende dal cielo. Non come i vostri padri che mangiarono la manna e sono morti. Chi mangia questo pane vivrà in eterno."
+  },
+  "offertory": {
+    "la": "!Levit 21:6\nSacerdótes Dómini incénsum et panes ófferunt Deo: et ideo sancti erunt Deo suo, et non pólluent nomen ejus, allelúja.",
+    "en": "!Lev 21:6\nThe priests of the Lord offer incense and loaves to God, and therefore they shall be sacred to their God and shall not profane His name. Alleluia.",
+    "es": "!Lev 21:6\nLos sacerdotes del Señor ofrecen a Dios incienso y panes; por tanto, serán santos para su Dios, y no profanarán su nombre. Aleluya.",
+    "de": "",
+    "fr": "!Levit 21:6\nLes prêtres du Seigneur offrent l'encens et le pain à Dieu ; et c'est pourquoi ils seront saints pour leur Dieu, et ils ne profaneront point son Nom, alléluia.",
+    "it": "!Levit 21:6\nI sacerdoti del Signore offrono incenso e pane a Dio: perciò saranno santi per il loro Dio e non profaneranno il suo nome, allelúia."
+  },
+  "secret": [
+    {
+      "la": "Ecclésiæ tuæ, quǽsumus, Dómine, unitátis et pacis propítius dona concéde: quæ sub oblátis munéribus mýstice designántur.\n$Per Dominum",
+      "en": "Graciously give Your Church, we beseech You, O Lord, the gifts of unity and peace which are betokened by the gifts we offer.\n$Per Dominum",
+      "es": "Te pedimos, Señor, concedas propicio a tu Iglesia los dones de la unidad y de la paz, místicamente representados por los presentes que te ofrecemos.\n$Per Dominum",
+      "de": "",
+      "fr": "À votre Église, Seigneur, accordez avec bienveillance l'unité et la paix, que symbolisent les offrandes que nous vous présentons.\n$Per Dominum",
+      "it": "O Signore, Te ne preghiamo, concedi propizio alla tua Chiesa i doni dell’unità e della pace, che misticamente son figurati dalle oblazioni presentate.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "!1 Cor 11:26-27\nQuotiescúmque manducábitis panem hunc et cálicem bibétis, mortem Dómini annuntiábitis, donec véniat: itaque quicúmque manducáverit panem vel bíberit calicem Dómini indígne, reus erit córporis et sánguinis Dómini, allelúja.",
+    "en": "!1 Cor. 11:26-27.\nAs often as you shall eat this Bread and drink the cup, you proclaim the death of the Lord, until He comes. Therefore whoever eats this Bread or drinks the cup of the Lord unworthily, will be guilty of the Body and Blood of the Lord. Alleluia.",
+    "es": "!1 Cor 11:26-27\nCuantas veces comiereis este pan y bebiereis este cáliz, otras tantas anunciaréis la muerte del Señor hasta que venga. Por tanto, cualquiera que coma este pan o beba el cáliz del Señor indignamente, será reo del cuerpo y sangre del Señor, aleluya.",
+    "de": "",
+    "fr": "!1 Cor 11:26-27\nChaque fois que vous mangerez ce pain et boirez ce calice, vous annoncerez la mort du Seigneur, jusqu'à ce qu'Il vienne ; donc, quiconque mangera le pain ou boira le calice du Seigneur indignement, il sera coupable du Corps et du Sang du Seigneur, alléluia.",
+    "it": "!1 Cor 11:26-27\nTutte le volte che mangerete questo pane e berrete questo calice, annunzierete la morte del Signore, finché verrà: ma chiunque avrà mangiato il pane e bevuto il sangue indegnamente sarà reo del Corpo e del Sangue del Signore, allelúia."
+  },
+  "postcommunion": [
+    {
+      "la": "Fac nos, quǽsumus, Dómine, divinitátis tuæ sempitérna fruitióne repléri: quam pretiósi Corporis et Sanguinis tui temporalis percéptio præfigúrat:\n$Qui vivis",
+      "en": "Grant, we beseech You, O Lord, that we may be filled with that everlasting enjoyment of Your Godhead, as foreshadowed here on earth by the partaking of Your precious Body and Blood.\n$Qui vivis",
+      "es": "Te suplicamos, Señor, nos sacies plenamente con el goce sempiterno de tu divinidad, el cual está representado en la recepción temporal de tu precioso cuerpo y sangre.\n$Qui vivis",
+      "de": "",
+      "fr": "Accordez-nous, Seigneur, dans l'éternité, cette jouissance intarissable de votre divinité qu'annonce en figure ici-bas la communion à vos précieux Corps et Sang.\n$Qui vivis",
+      "it": "O Signore, Te ne preghiamo, fa che possiamo godere del possesso eterno della tua divinità: prefigurato dal tuo prezioso Corpo e Sangue che ora riceviamo:\n$Qui vivis"
+    }
+  ]
+}

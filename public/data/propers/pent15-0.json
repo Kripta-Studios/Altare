@@ -1,0 +1,93 @@
+{
+  "id": "Pent15-0",
+  "titleLatin": "Dominica XV Post Pentecosten",
+  "titleVernacular": {
+    "en": "Dominica XV Post Pentecosten",
+    "es": "Dominica XV Post Pentecosten",
+    "de": "15. Sonntag nach Pfingsten",
+    "fr": "Dominica XV Post Pentecosten",
+    "it": "Dominica XV Post Pentecosten"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "!Ps 85:1; 85:2-3\nv. Inclína, Dómine, aurem tuam ad me, et exáudi me: salvum fac servum tuum, Deus meus, sperántem in te: miserére mihi, Dómine, quóniam ad te clamávi tota die.\n!Ps 85:4\nLætífica ánimam servi tui: quia ad te, Dómine, ánimam meam levávi.\n&Gloria\nv. Inclína, Dómine, aurem tuam ad me, et exáudi me: salvum fac servum tuum, Deus meus, sperántem in te: miserére mihi, Dómine, quóniam ad te clamávi tota die.",
+    "en": "!Ps 85:1-3\nv. Incline Your ear, O Lord; answer me; save Your servant, O my God, who trusts in You. Have pity on me, O Lord, for to You I call all the day.\n!Ps 85:4\nGladden the soul of Your servant, for to You, O Lord, I lift up my soul.\n&Gloria\nv. Incline Your ear, O Lord; answer me; save Your servant, O my God, who trusts in You. Have pity on me, O Lord, for to You I call all the day.",
+    "es": "!Ps 85:1-3\nv. Inclina Señor, tu oído a mis súplicas, y escúchame; salva, Dios mío, a tu siervo, que espera en ti; ten piedad de mí, Señor, porque a ti clamo todo el día.\n!Ps 85:4\nAlegra el alma de tu siervo, porque a ti, Señor, tengo elevada mi alma.\n&Gloria\nv. Inclina Señor, tu oído a mis súplicas, y escúchame; salva, Dios mío, a tu siervo, que espera en ti; ten piedad de mí, Señor, porque a ti clamo todo el día.",
+    "de": "",
+    "fr": "!Ps 85:1; 85:2-3\nv. Inclinez, Seigneur, votre oreille vers moi, et exaucez-moi ; sauvez votre serviteur, ô mon Dieu, car il espère en vous. Ayez pitié de moi, Seigneur, car je crie vers vous tout le jour.\n!Ps 85:4\nRéjouissez l'âme de votre serviteur, car vers vous, Seigneur, j'élève mon âme.\n&Gloria\nv. Inclinez, Seigneur, votre oreille vers moi, et exaucez-moi ; sauvez votre serviteur, ô mon Dieu, car il espère en vous. Ayez pitié de moi, Seigneur, car je crie vers vous tout le jour.",
+    "it": "!Ps 85:1; 85:2-3\nv. Volgi il tuo orecchio verso di me, o Signore, ed esaudiscimi: salva il tuo servo che spera in Te, o mio Dio; abbi pietà di me, o Signore, che tutto il giorno grido verso di Te.\n!Ps 85:4\nAllieta l’ànima del tuo servo: poiché a Te, o Signore, levo l’ànima mia.\n&Gloria\nv. Volgi il tuo orecchio verso di me, o Signore, ed esaudiscimi: salva il tuo servo che spera in Te, o mio Dio; abbi pietà di me, o Signore, che tutto il giorno grido verso di Te."
+  },
+  "collect": [
+    {
+      "la": "Ecclésiam tuam, Dómine, miserátio continuáta mundet et múniat: et quia sine te non potest salva consístere; tuo semper múnere gubernétur.\n$Per Dominum",
+      "en": "May Your abiding mercy, O Lord, cleanse and strengthen Your Church, and, since without You she cannot exist in safety, let her be ever guided by Your grace.\n$Per Dominum",
+      "es": "Purifica, Señor, y fortalece a tu Iglesia con una continua misericordia; y ya que sin ti no puede mantenerse salva, haz que sea siempre gobernada por tu gracia.\n$Per Dominum",
+      "de": "",
+      "fr": "En votre compassion, Seigneur, ne cessez point de purifier et de soutenir votre Église, et puisque sans vous elle ne peut rester sauve, qu'elle soit toujour guidée par votre providence.\n$Per Dominum",
+      "it": "O Signore, la tua continua misericordia purífichi e fortífichi la tua Chiesa: e poiché non può essere salva senza di Te, sia sempre governata dalla tua grazia.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "Léctio Epístolæ beáti Pauli Apóstoli ad Gálatas.\n!Gal 5:25-26; 6:1-10\nFratres: Si spíritu vívimus, spíritu et ambulémus. Non efficiámur inanis glóriæ cúpidi, ínvicem provocántes, ínvicem invidéntes. Fratres, et si præoccupátus fúerit homo in áliquo delícto, vos, qui spirituáles estis, hujúsmodi instrúite in spíritu lenitátis, consíderans teípsum, ne et tu tentéris. Alter alteríus ónera portáte, et sic adimplébitis legem Christi. Nam si quis exístimat se áliquid esse, cum nihil sit, ipse se sedúcit. Opus autem suum probet unusquísque, et sic in semetípso tantum glóriam habébit, et non in áltero. Unusquísque enim onus suum portábit. Commúnicet autem is, qui catechizátur verbo, ei, qui se catechízat, in ómnibus bonis. Nolíte erráre: Deus non irridétur. Quæ enim semináverit homo, hæc et metet. Quóniam qui séminat in carne sua, de carne et metet corruptiónem: qui autem séminat in spíritu, de spíritu metet vitam ætérnam. Bonum autem faciéntes, non deficiámus: témpore enim suo metémus, non deficiéntes. Ergo, dum tempus habémus, operémur bonum ad omnes, maxime autem ad domésticos fídei.",
+    "en": "Lesson from the letter of St. Paul the Apostle to the Galatians\n!Gal 5:25-26; 6:1-10\nBrethren: If we live by the Spirit, by the Spirit let us also walk. Let us not become desirous of vainglory, provoking one another, envying one another. Brethren, even if a person is caught doing something wrong, you who are spiritual instruct such a one in a spirit of meekness, considering yourself, lest you also be tempted. Bear one another’s burdens, and so you will fulfill the law of Christ. For if anyone thinks himself to be something, whereas he is nothing, he deceives himself. But let everyone test his own work, and so he will have glory in himself only, and not in comparison with another. For each one will bear his own burden. And let him who is instructed in the word share all good things with his teacher. Be not deceived, God is not mocked. For what a man sows in the flesh, from the flesh also will reap corruption. But he who sows in the spirit, from the spirit will reap life everlasting. And in doing good let us not grow tired; for in due time we shall reap if we do not relax. Therefore, while we have time, let us do good to all men, but especially to those who are of the household of faith.",
+    "es": "Lección de la carta del Apóstol San Pablo a los Gálatas\n!Gal 5:25-26; 6:1-10\nHermanos: Si vivimos por el Espíritu, marchemos tras el Espíritu. No seamos vanidosos, provocándonos unos a otros, envidiándonos unos a otros. Hermanos, incluso en el caso de que alguien sea sorprendido en alguna falta, vosotros, los espirituales, corregidlo con espíritu de mansedumbre; pero vigílate a ti mismo, no sea que también tú seas tentado. Llevad los unos las cargas de los otros y así cumpliréis la ley de Cristo. Pues si alguien cree ser algo, no siendo nada, se engaña a sí mismo. Y que cada uno examine su propio comportamiento; el motivo de satisfacción lo tendrá entonces en sí mismo y no en relación con los otros. Pues cada cual carga con su propio fardo. Que el catecúmeno comparta sus bienes con quien lo instruye en la palabra. No os engañéis: de Dios nadie se burla. Lo que uno siembre, eso cosechará. El que siembra para la carne, de la carne cosechará corrupción; el que siembre para el espíritu, del Espíritu cosechará vida eterna. No nos cansemos de hacer el bien, que, si no desmayamos, a su tiempo cosecharemos. Por tanto, mientras tenemos ocasión, hagamos el bien a todos, especialmente a la familia de la fe.",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Pauli Apóstoli ad Gálatas.\n!Gal 5:25-26; 6:1-10\nFrères, si nous vivons par l'esprit, marchons aussi par l'esprit. Ne cherchons pas une vaine gloire en nous provoquant les uns les autres, en nous portant mutuellement envie. Frères, lors même qu'un homme se serait laissé surprendre à quelque faute, vous qui êtes spirituels, redressez-le avec un esprit de douceur, prenant garde à vous-mêmes, de peur que vous ne tombiez aussi en tentation. Portez les fardeaux les uns des autres, et vous accomplirez ainsi la loi du Christ ; car si quelqu'un croit être quelque chose, alors qu'il n'est rien, il s'abuse lui-même. Que chacun examine ses propres œuvres, et alors il aura sujet de se glorifier pour lui seul, et non en se comparant à autrui ; car chacun aura son propre fardeau à porter. Que celui à qui on enseigne la parole fasse part de tous ses biens à celui qui l'enseigne. Ne vous y trompez pas : on ne se rit pas de Dieu. Ce qu'on aura semé, on le moissonnera. Celui qui sème dans sa chair moissonnera, de la chair, la corruption ; celui qui sème dans l'esprit moissonnera, de l'esprit, la vie éternelle. Ne nous lassons point de faire le bien ; car nous moissonnerons en son temps, si nous ne nous relâchons pas. Ainsi donc, pendant que nous en avons le temps, faisons le bien envers tous, et surtout envers les frères dans la foi.",
+    "it": "Lettura della Lettera del B. Paolo Ap. ai Gàlati.\n!Gal 5:25-26; 6:1-10\nFratelli: Se viviamo mediante lo\nspirito, camminiamo anche secondo lo spirito. Non cerchiamo la vana gloria, provocandoci e invidiandoci a vicenda. Fratelli, se avviene che un uomo cada in peccato, voi, che siete spirituali, riprendetelo con dolcezza, pensando a voi stessi, affinché non siate tentati anche voi. Porti l’uno il fardello dell’altro, e cosí adempirete la legge del Cristo. Infatti, se alcuno stima di essere qualcosa, mentre è niente, seduce se stesso. Ciascuno esamini la sua opera e allora, se è il caso, si glorierà in sé, e non in rapporto ad altri. Ciascuno infatti porterà il proprio fardello. Quegli poi che è catechizzato, dia parte dei suoi averi a colui che lo catechizza. Non ingannatevi. Dio non si lascia irridere. Infatti, quello che l’uomo ha seminato raccoglierà. Cosí chi semina nella sua carne, dalla carne raccoglie la corruzione: chi invece semina nello spirito, dallo spirito raccoglie la vita eterna. Non tralasciamo di fare il bene: a suo tempo mieteremo, se non ci saremo stancati. Dunque, finché è tempo, facciamo del bene a tutti, specie ai compagni di fede."
+  },
+  "gradual": {
+    "la": "!Ps 91:2-3\nBonum est confitéri Dómino: et psallere nómini tuo, Altíssime.\nV. Ad annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem. Allelúja, allelúja.\n!Ps 94:3\nQuóniam Deus magnus Dóminus, et Rex magnus super omnem terram. Allelúja.",
+    "en": "!Ps 91:2-3\nIt is good to give thanks to the Lord, to sing to Your name, Most High.\nV. To proclaim Your kindness at dawn and Your faithfulness throughout the night. Alleluia, alleluia.\n!Ps 94:3\nV. For the Lord is a great God, and a great King over all the earth. Alleluia.",
+    "es": "!Ps 91:2-3\nBueno es alabar al Señor y cantar a tu nombre, ¡oh Altísimo!\nV. Anunciar desde la mañana tu misericordia, y tu fidelidad hasta por la noche. Aleluya, aleluya.\n!Ps 94:3\nV. Porque el Señor es Dios grande, y Rey grande sobre toda la tierra. Aleluya.",
+    "de": "",
+    "fr": "!Ps 91:2-3.\nIl est bon de célébrer le Seigneur, et de psalmodier pour votre Nom, ô Très-Haut.\nV. Pour annoncer le matin votre miséricorde, et votre vérité pendant la nuit. Alléluia, alléluia.\n!Ps 94:3\nCar le Seigneur est un Dieu grand, et un Roi grand au-dessus de toute la terre. Alléluia.",
+    "it": "!Ps 91:2-3.\nÈ cosa buona lodare il Signore: inneggiare al tuo nome, o Altissimo.\nV. È bello proclamare al mattino la tua misericordia, e la tua fedeltà nella notte. Allelúia, alleluia.\n!Ps 94:3 Poiché il Signore è Dio potente e Re grande su tutta la terra. Allelúia."
+  },
+  "gospel": {
+    "la": "@Tempora/Quad4-4",
+    "en": "Continuation + of the Holy Gospel according to Luke\n!Luke 7:11-16\nAt that time, Jesus went to a town called Naim; and His disciples and a large crowd went with Him. And as He drew near the gate of the town, behold, a dead man was being carried out, the only son of his mother, and she was a widow; and a large gathering from the town was with her. And the Lord, seeing her, had compassion on her, and said to her, Do not weep. And He went up and touched the stretcher; and the bearers stood still. And He said, Young man, I say to you, arise. And he who was dead, sat up, and began to speak. And He gave him to his mother. But fear seized upon all, and they began to glorify God, saying, A great prophet has risen among us, and God has visited His people.",
+    "es": "Continuación + del Santo Evangelio según San Lucas\n!Lc 7:11-16\nEn aquel tiempo: Iba Jesús camino de una ciudad llamada Naín, y caminaban con él sus discípulos y mucho gentío. Cuando se acercaba a la puerta de la ciudad, resultó que sacaban a enterrar a un muerto, hijo único de su madre, que era viuda; y un gentío considerable de la ciudad la acompañaba. Al verla el Señor, se compadeció de ella y le dijo: «No llores». Y acercándose al ataúd, lo tocó (los que lo llevaban se pararon) y dijo: «¡Muchacho, a ti te lo digo, levántate!». El muerto se incorporó y empezó a hablar, y se lo entregó a su madre. Todos, sobrecogidos de temor, daban gloria a Dios diciendo: «Un gran Profeta ha surgido entre nosotros», y «Dios ha visitado a su pueblo».",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Lucam.\n!Luc 7:11-16\nEn ce temps-là, Jésus se rendait dans une ville nommée Naïm, et ses disciples et une foule nombreuse faisaient route avec lui. Comme il approchait de la porte de la ville, voilà qu'on emportait un mort, fils unique de sa mère, laquelle était veuve, et une foule considérable de gens de la ville étaient avec elle. Le Seigneur l'ayant vue, fut touché de compassion pour elle, et il lui dit : « Ne pleurez pas. » Et s'approchant, il toucha le cercueil, et les porteurs s'arrêtèrent ; et il dit : « Jeune homme, je te le dis, lève-toi ! » Et le mort se dressa sur son séant et se mit à parler ; et il le rendit à sa mère. Tous furent saisis de crainte, et ils glorifiaient Dieu en disant : « Un grand prophète s'est levé parmi nous, » et : « Dieu a visité son peuple. »",
+    "it": "Séguito ++ del S. Vangelo secondo Luca.\n!Luc 7:11-16\nIn quel tempo: Gesú andava verso una città chiamata Naim, seguito dai suoi discepoli e da gran folla. E giunse vicino alla porta della città mentre si portava a seppellire il figlio unico di una vedova, la quale era accompagnata da un gran numero di persone. Vedutala, il Signore, mosso a compassione di lei, le disse: Non piangere. Si avvicinò alla bara e la toccò. (Quelli che la portavano si fermarono) Egli disse: Giovinetto, a te dico, alzati. Il morto si alzò a sedere, e cominciò a parlare, e Gesú lo rese a sua madre. Tutti furono presi da gran timore e glorificavano Dio, dicendo: Un profeta grande è apparso tra noi, e Dio ha visitato il suo popolo."
+  },
+  "offertory": {
+    "la": "!Ps 39:2; 39:3; 39:4\nExspéctans exspectávi Dóminum, et respéxit me: et exaudívit deprecatiónem meam: et immísit in os meum cánticum novum, hymnum Deo nostro.",
+    "en": "!Ps 39:2-4\nI have waited, waited for the Lord, and He stooped toward me, and heard my cry. And He put a new song into my mouth, a hymn to our God.",
+    "es": "!Ps 39:2-4\nCon paciencia aguardé al Señor, y volvió a mí su mirada y oyó mi ruego; y puso en mi boca un cántico nuevo, un himno en loor de nuestro Dios.",
+    "de": "",
+    "fr": "!Ps 39:2; 39:3; 39:4\nJ'ai attendu le Seigneur et il m'a regardé ; il a exaucé ma prière, et il a mis dans ma bouche un chant nouveau, une hymne pour notre Dieu.",
+    "it": "!Ps 39:2; 39:3; 39:4\nEbbi ferma fiducia nel Signore, il quale si volse verso di me e ascoltò il mio grido: e pose nella mia bocca un càntico nuovo, un inno al nostro Dio."
+  },
+  "secret": [
+    {
+      "la": "Tua nos, Dómine, sacramenta custodiant: et contra diabólicos semper tueántur incúrsus.\n$Per Dominum",
+      "en": "May Your sacrament, O Lord, always keep us and guard us from the assaults of the devil.\n$Per Dominum",
+      "es": "¡Señor! que tus sacramentos nos guarden, y defiendan siempre contra las asechanzas del demonio.\n$Per Dominum",
+      "de": "",
+      "fr": "Que vos sacrements, Seigneur, nous soient une sauvegarde et une constante protection contre les attaques du démon.\n$Per Dominum",
+      "it": "I tuoi sacramenti, o Signore, ci custodiscano e ci difendano sempre dagli assalti del demonio.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "@Tempora/Quad1-4:Communio",
+    "en": "!John 6:52\nThe bread that I will give is My Flesh for the life of the world.",
+    "es": "!Jn 6:52\nEl pan que yo daré es mi carne por la vida del mundo.",
+    "de": "",
+    "fr": "!Joann 6:52\nLe pain que je donnerai, c'est ma chair pour la vie du monde.",
+    "it": "!Joann 6:52\nIl pane che darò è la mia carne per la vita del mondo."
+  },
+  "postcommunion": [
+    {
+      "la": "Mentes nostras et córpora possídeat, quǽsumus, Dómine, doni cœléstis operátio: ut non noster sensus in nobis, sed júgiter ejus prævéniat efféctus.\n$Per Dominum",
+      "en": "May the working of the heavenly gift, O Lord, so possess us, mind and body, that the action of the sacrament, rather than our senses, may continually prevail in us.\n$Per Dominum",
+      "es": "Que la virtud de este don celestial, Señor, penetre nuestras almas y cuerpos, para que no sea nuestro modo de ver, sino su efecto el que prevalezca siempre en nosotros.\n$Per Dominum",
+      "de": "",
+      "fr": "Que l'action pénétrante du don céleste s'empare de nos âmes et de nos corps, Seigneur, afin que ce ne soit pas notre propre façon de voir mais ses effets de grâce qui sans cesse prévalent en nous.\n$Per Dominum",
+      "it": "L’azione di questo dono celeste dòmini, Te ne preghiamo, o Signore, le nostre menti e nostri corpi, affinché prevalga sempre in noi il suo effetto e non il nostro sentire.\n$Per Dominum"
+    }
+  ]
+}

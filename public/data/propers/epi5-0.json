@@ -1,0 +1,93 @@
+{
+  "id": "Epi5-0",
+  "titleLatin": "Dominica V Post Epiphaniam",
+  "titleVernacular": {
+    "en": "Dominica V Post Epiphaniam",
+    "es": "Dominica V Post Epiphaniam",
+    "de": "Fünfter Sonntag nach Erscheinung",
+    "fr": "Dominica V Post Epiphaniam",
+    "it": "Dominica V Post Epiphaniam"
+  },
+  "class": 1,
+  "color": "green",
+  "hasGloria": true,
+  "hasCredo": true,
+  "introit": {
+    "la": "@Tempora/Epi3-0:Introitus",
+    "en": "!Ps 96:7-8\nv. Adore God, all you His angels: Sion heard, and was glad; and the daughters of Juda rejoiced.\n!Ps 96:1\nThe Lord has reigned; let the earth rejoice: let many islands be glad.\n&Gloria\nv. Adore God, all you His angels: Sion heard, and was glad; and the daughters of Juda rejoiced.",
+    "es": "!Ps 96:7-8\nv. Adorad a Dios, todos sus Ángeles: lo oyó y se alborozó Sión, y se regocijaron las hijas de Judá.\n!Ps 96:1\nEl Señor reina, exulte la tierra: llénense de júbilo todas las islas.\n&Gloria\nv. Adorad a Dios, todos sus Ángeles: lo oyó y se alborozó Sión, y se regocijaron las hijas de Judá.",
+    "de": "",
+    "fr": "!Ps 96:7-8.\nv. Adorez Dieu, tous ses anges ; Sion l'apprend et se réjouit, et les filles de Juda sont dans l'allégresse.\n!Ps 96:1\nLe Seigneur règne, exulte la terre ; que se réjouissent les îles nombreuses.\n&Gloria\nv. Adorez Dieu, tous ses anges ; Sion l'apprend et se réjouit, et les filles de Juda sont dans l'allégresse.",
+    "it": "!Ps 96:7-8.\nv. Adorate Dio, voi tutti Angeli suoi: Sion ha udito e se ne è rallegrata: ed hanno esultato le figlie di Giuda.\n!Ps 96:1\nIl Signore regna, esulti la terra: si rallegrino le molte genti.\n&Gloria\nv. Adorate Dio, voi tutti Angeli suoi: Sion ha udito e se ne è rallegrata: ed hanno esultato le figlie di Giuda."
+  },
+  "collect": [
+    {
+      "la": "Famíliam tuam, quǽsumus, Dómine, contínua pietáte custódi: ut, quæ in sola spe grátiæ cœléstis innítitur, tua semper protectióne muniátur.\n$Per Dominum",
+      "en": "O Lord, we beseech You to keep Your household continually under Your mercy: that as it leans only upon the hope of Your heavenly grace, so it may always be protected by Your mighty power.\n$Per Dominum",
+      "es": "Te rogamos, Señor, guardes a tu familia con una continua piedad, para que sea siempre por ti defendida, pues se apoya en la sola esperanza de la gracia celestial.\n$Per Dominum",
+      "de": "",
+      "fr": "Gardez, Seigneur, votre famille avec une inlassable bonté, afin que s'appuyant sur la seule espérance de la grâce céleste, elle soit soutenue par votre constante protection.\n$Per Dominum",
+      "it": "Custodisci, o Signore, Te ne preghiamo, la tua famiglia con una costante bontà, affinché essa, che si appoggia sull’unica speranza della grazia celeste, sia sempre munita della tua protezione.\n$Per Dominum"
+    }
+  ],
+  "epistle": {
+    "la": "@Tempora/Epi1-0",
+    "en": "Lesson from the letter of St. Paul the Apostle to the Colossians\n!Col 3:12-17\nBrethren: Put on, as God’s chosen ones, holy and beloved, a heart of mercy, kindness, humility, meekness, patience. Bear with one another and forgive one another, if anyone has a grievance against any other; even as the Lord has forgiven you, so also do you forgive. But above all these things have charity, which is the bond of perfection. And may the peace of Christ reign in your hearts; unto that peace, indeed, you were called in one body. Show yourselves thankful. Let the word of Christ dwell in you abundantly: in all wisdom teach and admonish one another by psalms, hymns and spiritual songs, singing in your hearts to God by His grace. Whatever you do in word or in work, do all in the name of the Lord Jesus Christ, giving thanks to God the Father through Jesus Christ our Lord.",
+    "es": "Lección de la carta del Apóstol San Pablo a los Colosenses\n!Col 3:12-17\nHermanos: Como elegidos de Dios, santos y amados, revestíos de compasión entrañable, bondad, humildad, mansedumbre, paciencia. Sobrellevaos mutuamente y perdonaos cuando alguno tenga quejas contra otro. El Señor os ha perdonado: haced vosotros lo mismo. Y por encima de todo esto, el amor, que es el vínculo de la unidad perfecta. Que la paz de Cristo reine en vuestro corazón: a ella habéis sido convocados en un solo cuerpo. Sed también agradecidos. La Palabra de Cristo habite entre vosotros en toda su riqueza; enseñaos unos a otros con toda sabiduría; exhortaos mutuamente. Cantad a Dios, dando gracias de corazón, con salmos, himnos y cánticos inspirados. Y todo lo que de palabra o de obra realicéis, sea todo en nombre de Jesús, dando gracias a Dios Padre por medio de Jesucristo, Señor nuestro.",
+    "de": "",
+    "fr": "Léctio Epístolæ beáti Pauli Apóstoli ad Colossénses\n!Col 3:12-17\nFrères, comme élus de Dieu, saints et bien-aimés, revêtez-vous d'entrailles de miséricorde, de bonté, d'humilité, de douceur, et patience, vous supportant les uns les autres et vous pardonnant réciproquement, si l'un a sujet de se plaindre de l'autre. Comme le Seigneur vous a pardonné, pardonnez-vous aussi. Mais surtout revêtez-vous de la charité, qui est le lien de la perfection. Et que la paix du Christ, à laquelle vous avez été appelés de manière à former un seul corps, règne dans vos cœurs ; soyez reconnaissants. Que la parole du Christ demeure en vous avec abondance, de telle sorte que vous vous instruisiez et vous avertissiez les uns les autres en toute sagesse : sous l'inspiration de la grâce que vos cœurs s'épanchent vers Dieu en chants, par des psaumes, par des hymnes, par des cantiques spirituels. Tout ce que vous faites, en parole ou en œuvre, faites tout au nom du Seigneur Jésus, en rendant par lui des actions de grâces à Dieu le Père.",
+    "it": "Lettura della Lettera del B. Paolo Ap. ai Colossesi,\n!Col 3:12-17\nFratelli: Rivestitevi come eletti di Dio, santi e amati, di sentimenti di misericordia, di bontà, di umiltà, di modestia e di pazienza, sopportandovi a vicenda e perdonandovi se qualcuno ha da dolersi di un altro. Come il Signore vi ha perdonato, così anche voi. Ma al di sopra di tutto questo, abbiate la carità, che è il vincolo della perfezione. E la pace di Cristo regni nei vostri cuori, perché siete stati chiamati a questa pace in modo da formare un solo corpo. Siate riconoscenti. La parola del Cristo àbiti in voi in tutta la sua ricchezza; istruitevi e avvisatevi gli uni gli altri con ogni sapienza, e, ispirati dalla grazia, levate canti a Dio nei vostri cuori con salmi, inni e càntici spirituali. E qualsiasi cosa facciate in parole o in opere, fate tutto nel nome del Signore Gesù Cristo, rendendo grazie a Dio Padre per mezzo di lui."
+  },
+  "gradual": {
+    "la": "!Ps 101:16-17\nTimébunt gentes nomen tuum, Dómine, et omnes reges terræ glóriam tuam.\nV. Quóniam ædificávit Dóminus Sion, et vidébitur in majestáte sua. Allelúja, allelúja.\n!Ps 96:1\nV. Dóminus regnávit, exsúltet terra: læténtur ínsulæ multæ. Allelúja.",
+    "en": "!Ps 101:16\nThe Gentiles shall fear Your name, O Lord, and all the kings of the earth Your glory.\nV. For the Lord has built up Sion, and He shall be seen in His glory. Alleluia, alleluia.\n!Ps 96:1\nV. The Lord has reigned, let the earth rejoice: let many islands be glad. Alleluia.",
+    "es": "!Ps 101:16\nTemerán las naciones tu nombre, oh Señor y todos los reyes de la tierra tu gloria.\nV. Porque el Señor edificó Sión, y allí será visto en su majestad. Aleluya, aleluya.\n!Ps 96:1\nV. El Señor reina, se regocija la tierra: llénense de júbilo todas las islas. Aleluya.",
+    "de": "",
+    "fr": "!Ps 101:16-17\nLes peuples craindront votre Nom, Seigneur, et tous les rois de la terre, votre gloire.\nV. Car le Seigneur a édifié Sion, et il sera vu dans sa majesté. Alléluia, alléluia.\n!Ps 96:1\nLe Seigneur règne, exulte la terre ; que se réjouissent les îles nombreuses. Alléluia.",
+    "it": "!Ps 101:16-17\nLe genti temeranno il tuo nome, o Signore, e tutti i re della terra la tua gloria.\nV. Perché il Signore ha edificata Sion e si è mostrato nella sua maestà. Allelúia, allelúia.\n!Ps 96:1\nV. Il Signore è Re: esulti la terra: si rallegrino le molte genti. Allelúia."
+  },
+  "gospel": {
+    "la": "Sequéntia ++ sancti Evangélii secúndum Matthǽum\n!Matt 13:24-30\nIn illo témpore: Dixit Jesus turbis parábolam hanc: Símile factum est regnum cœlórum hómini, qui seminávit bonum semen in agro suo. Cum autem dormírent hómines, venit inimícus ejus, et superseminávit zizánia in médio trítici, et ábiit. Cum autem crevísset herba et fructum fecísset, tunc apparuérunt et zizánia. Accedéntes autem servi patrisfamílias, dixérunt ei: Dómine, nonne bonum semen seminásti in agro tuo? Unde ergo habet zizánia? Et ait illis: Inimícus homo hoc fecit. Servi autem dixérunt ei: Vis, imus, et collígimus ea? Et ait: Non: ne forte colligéntes zizánia eradicétis simul cum eis et tríticum. Sínite utráque créscere usque ad messem, et in témpore messis dicam messóribus: Collígite primum zizánia, et alligáte ea in fascículos ad comburéndum, tríticum autem congregáte in hórreum meum.",
+    "en": "Continuation of the Holy Gospel according to St. Matthew\n!Matt 13:24-30\nAt that time, Jesus spoke this parable to the crowds: The kingdom of heaven is like a man who sowed good seed in his field; but while men were asleep, his enemy came and sowed weeds among the wheat, and went away. And when the blade sprang up and brought forth fruit, then the weeds appeared as well. And the servants of the householder came and said to him, ‘Sir, did you not sow good seed in your field? How then does it have weeds?’ He said to them, ‘An enemy has done this.’ And the servants said to him, ‘Will you have us go and gather them up?’ ‘No,’ he said, ‘lest in gathering the weeds you root up the wheat along with them. Let both grow together until the harvest; and at harvest time I will say to the reapers: Gather up the weeds first, and bind them in bundles to burn; but gather the wheat into my barns.’",
+    "es": "Continuación + del Santo Evangelio según San Mateo\n!Mt 13:24-30\nEn aquel tiempo: Jesús dijo esta parábola a la multitud: «El reino de los cielos se parece a un hombre que sembró buena semilla en su campo; pero, mientras los hombres dormían, un enemigo fue y sembró cizaña en medio del trigo y se marchó. Cuando empezaba a verdear y se formaba la espiga apareció también la cizaña. Entonces fueron los criados a decirle al amo: “Señor, ¿no sembraste buena semilla en tu campo? ¿De dónde sale la cizaña?”. Él les dijo: “Un enemigo lo ha hecho”. Los criados le preguntan: “¿Quieres que vayamos a arrancarla?”. Pero él les respondió: “No, que al recoger la cizaña podéis arrancar también el trigo. Dejadlos crecer juntos hasta la siega y cuando llegue la siega diré a los segadores: arrancad primero la cizaña y atadla en gavillas para quemarla, y el trigo almacenadlo en mi granero”».",
+    "de": "",
+    "fr": "Sequéntia ++ sancti Evangélii secúndum Matthaeum.\n!Matt 13:24-30\nEn ce temps-là, Jésus dit aux foules cette parabole : « Le royaume des cieux est semblable à un homme qui avait semé du bon grain dans son champ. Or, pendant que les hommes dormaient, son ennemi vint et sema de l'ivraie au milieu du froment par dessus, et il s'en alla. Quand l'herbe eut poussé et donné son fruit, alors apparut aussi l'ivraie. Et les serviteurs du maître de maison vinrent lui dire : « Maître, n'avez-vous pas semé du bon grain dans votre champ ? D'où vient donc qu'il s'y trouve de l'ivraie ? » Il leur dit : « C'est un ennemi qui a fait cela. » Les serviteurs lui disent : « Voulez-vous que nous allions la ramasser ? — Non, dit-il, de peur qu'en ramassant l'ivraie vous n'arrachiez aussi le froment. Laissez croître ensemble l'un et l'autre jusqu'à la moisson, et au temps de la moisson je dirai aux moissonneurs : Ramassez d'abord l'ivraie, et liez-la en bottes pour la brûler ; quant aufroment, amassez-le dans mon grenier. »",
+    "it": "Séguito ++ del S. Vangelo secondo Matteo.\n!Matt 13:24-30\nIn quel tempo: Gesù disse alle turbe questa parabola: Il regno dei cieli è simile a un uomo che seminò buon seme nel suo campo. Ma nel tempo che gli uomini dormivano, il suo nemico andò e seminò della zizzania in mezzo al grano, e partì. Cresciuta poi l’erba, e venuta a frutto, comparve anche la zizzania. E i servi del padre di famiglia, accostatisi, gli dissero: Signore, non hai seminato buon seme nel tuo campo? Donde dunque è venuta la zizzania? Ed egli rispose loro: Qualche nemico ha fatto questo. E i servi gli dissero: Vuoi che andiamo a coglierla? Ed egli rispose: No, perché cogliendo la zizzania non strappiate con essa anche il grano. Lasciate che l’uno e l’altra crescano sino alla messe, e al tempo della messe dirò ai mietitori: Strappate per prima la zizzania e legatela in fastelli per bruciarla, e il grano raccoglietelo nel mio granaio."
+  },
+  "offertory": {
+    "la": "!Ps 117:16; 117:17\nDéxtera Dómini fecit virtutem, déxtera Dómini exaltávit me: non móriar, sed vivam, et narrábo ópera Dómini.",
+    "en": "!Ps 117:16-17\nThe right hand of the lord has wrought strength; the right hand of the Lord has exalted me: I shall not die, but live, and shall declare the works of the Lord..",
+    "es": "!Ps 117:16-17\nLa diestra del Señor ha hecho maravillas: la diestra del Señor me ha ensalzado; ya no moriré, sino que viviré y publicaré las obras del Señor.",
+    "de": "",
+    "fr": "!Ps 117:16; 117:17\nLa droite du Seigneur a agi avec force, la droite du Seigneur m'a élevé ; je ne mourrai point, mais je vivrai, et je raconterai les œuvres du Seigneur.",
+    "it": "!Ps 117:16; 117:17\nLa destra del Signore ha fatto prodigi, la destra del Signore mi ha esaltato: non morirò, ma vivrò e narrerò le opere del Signore."
+  },
+  "secret": [
+    {
+      "la": "Hóstias tibi, Dómine, placatiónis offérimus: ut et delícta nostra miserátus absólvas, et nutántia corda tu dírigas.\n$Per Dominum",
+      "en": "We offer You, O Lord, this sacrifice of atonement, that You would mercifully absolve our sins and direct our faltering hearts.\n$Per Dominum",
+      "es": "Te ofrecemos, Señor, hostias de propiciación, para que perdones misericordioso nuestras culpas, y dirijas tú mismo nuestros vacilantes corazones.\n$Per Dominum",
+      "de": "",
+      "fr": "Nous vous offrons, Seigneur, ce sacrifice d'expiation, pour que vous nous pardonniez nos fautes avec bonté, et dirigiez vous-même nos cœurs vacillants.\n$Per Dominum",
+      "it": "Ti offriamo, o Signore, ostie di propiziazione, affinché, mosso a pietà, perdoni i nostri peccati e diriga i nostri incerti cuori.\n$Per Dominum"
+    }
+  ],
+  "communionAntiphon": {
+    "la": "@Tempora/Epi3-0:Communio",
+    "en": "!Luke 4:22\nThey all marveled at these things that came from the mouth of God.",
+    "es": "!Lc 4:22\nSe maravillaban todos de las palabras que salían de la boca de Dios.",
+    "de": "",
+    "fr": "!Luc 4:22\nTous s'extasiaient des paroles qui sortaient de la bouche de Dieu.",
+    "it": "!Luc 4:22\nSi meravigliavano tutti delle parole che uscivano dalla bocca di Dio."
+  },
+  "postcommunion": [
+    {
+      "la": "Quǽsumus, omnípotens Deus: ut illíus salutáris capiámus efféctum, cujus per hæc mystéria pignus accépimus.\n$Per Dominum",
+      "en": "We pray You, almighty God, that we may obtain that salvation whose pledge we have received in this divine sacrament.\n$Per Dominum",
+      "es": "Te rogamos, ¡oh Dios omnipotente!, nos concedas la gracia de conseguir el efecto de aquel don saludable, cuya prenda hemos recibido por estos misterios.\n$Per Dominum",
+      "de": "",
+      "fr": "Accordez à nos supplications, Dieu tout-puissant, le plein effet de ce salut dont nous avons, en ces mystères, reçu le gage.\n$Per Dominum",
+      "it": "Ti preghiamo, onnipotente Iddio: affinché otteniamo l’effetto di quella salvezza, della quale, per mezzo di questi misteri, abbiamo ricevuto il pegno.\n$Per Dominum"
+    }
+  ]
+}
