@@ -88,7 +88,14 @@ const translations: Record<string, Record<string, string>> = {
   "Priest's Communion": { es: "Comunión del Sacerdote", fr: "Communion du Prêtre", de: "Kommunion des Priesters", it: "Comunione del Sacerdote" },
   "Communion of the Faithful": { es: "Comunión de los Fieles", fr: "Communion des Fidèles", de: "Kommunion der Gläubigen", it: "Comunione dei Fedeli" },
   "Purification of the Chalice": { es: "Purificación del Cáliz", fr: "Purification du Calice", de: "Purifikation des Kelches", it: "Purificazione del Calice" },
-  "Last Gospel": { es: "Último Evangelio", fr: "Dernier Évangile", de: "Schlussevangelium", it: "Ultimo Vangelo" }
+  "Last Gospel": { es: "Último Evangelio", fr: "Dernier Évangile", de: "Schlussevangelium", it: "Ultimo Vangelo" },
+  "Prayers at the Foot of the Altar": { es: "Oraciones al pie del Altar", fr: "Prières au bas de l'autel", de: "Stufengebet", it: "Preghiere ai piedi dell'altare" },
+  "Kyrie Eleison": { es: "Kyrie Eleison", fr: "Kyrie Eleison", de: "Kyrie Eleison", it: "Kyrie Eleison" },
+  "Gloria in excelsis": { es: "Gloria in excelsis", fr: "Gloria in excelsis", de: "Ehre sei Gott in der Höhe", it: "Gloria in excelsis" },
+  "Sanctus": { es: "Sanctus", fr: "Sanctus", de: "Heilig", it: "Sanctus" },
+  "Canon Missae": { es: "Canon Missae", fr: "Canon Missae", de: "Messkanon", it: "Canone della Messa" },
+  "Pater Noster & Agnus Dei": { es: "Pater Noster y Agnus Dei", fr: "Pater Noster & Agnus Dei", de: "Vater unser & Lamm Gottes", it: "Padre Nostro e Agnus Dei" },
+  "Conclusion": { es: "Conclusión", fr: "Conclusion", de: "Schluss", it: "Conclusione" }
 };
 
 export function useTranslation() {
