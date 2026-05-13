@@ -53,9 +53,10 @@ export default function Rosary() {
   useEffect(() => {
     async function loadData() {
       try {
+        const base = import.meta.env.BASE_URL;
         const [rosaryRes, prayersRes] = await Promise.all([
-          fetch('/data/rosary/data.json'),
-          fetch('/data/prayers/index.json')
+          fetch(`${base}data/rosary/data.json`),
+          fetch(`${base}data/prayers/index.json`)
         ]);
         
         if (rosaryRes.ok && prayersRes.ok) {
