@@ -60,10 +60,11 @@ export default function Mass() {
         setLoading(true);
         const properId = litDay.properId.toLowerCase();
         
+        const base = import.meta.env.BASE_URL;
         const [properRes, ordoRes, medRes] = await Promise.all([
-          fetch(`/data/propers/${properId}.json`),
-          fetch(`/data/ordinary/ordo.json`),
-          fetch(`/data/meditations.json?v=${Date.now()}`).catch(() => null)
+          fetch(`${base}data/propers/${properId}.json`),
+          fetch(`${base}data/ordinary/ordo.json`),
+          fetch(`${base}data/meditations.json?v=${Date.now()}`).catch(() => null)
         ]);
 
         if (properRes.ok) setProper(await properRes.json());

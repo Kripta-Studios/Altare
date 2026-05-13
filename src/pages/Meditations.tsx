@@ -38,7 +38,8 @@ export default function Meditations() {
   useEffect(() => {
     async function loadData() {
       try {
-        const res = await fetch('/data/meditations.json');
+        const base = import.meta.env.BASE_URL;
+        const res = await fetch(`${base}data/meditations.json`);
         if (res.ok) {
           setData(await res.json());
         }

@@ -27,7 +27,8 @@ export default function Prayers() {
   useEffect(() => {
     async function loadPrayers() {
       try {
-        const res = await fetch('/data/prayers/index.json');
+        const base = import.meta.env.BASE_URL;
+        const res = await fetch(`${base}data/prayers/index.json`);
         if (res.ok) {
           const data = await res.json();
           setPrayers(data);
