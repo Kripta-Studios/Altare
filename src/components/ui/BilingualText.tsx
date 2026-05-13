@@ -15,20 +15,40 @@ export function BilingualText({ latin, vernacular, english, className = '', drop
 
   // Extract the localized string based on the preference, or fallback to English, or empty string.
   let vernacularText = '';
+  let isFallbackEnglish = false;
+
   if (typeof vernacular === 'object' && vernacular !== null) {
-      vernacularText = vernacular[vernacularLang] || vernacular['en'] || '';
+    const nativeText = vernacular[vernacularLang];
+    const enText = vernacular['en'] || '';
+    // Use native translation if it exists AND is different from English (real translation)
+    if (nativeText && nativeText !== enText) {
+      vernacularText = nativeText;
+    } else {
+      vernacularText = enText;
+      if (vernacularLang !== 'en' && enText) {
+        isFallbackEnglish = true;
+      }
+    }
   } else if (typeof vernacular === 'string') {
-      vernacularText = vernacular;
+    vernacularText = vernacular;
   } else if (english) {
-      vernacularText = english;
+    vernacularText = english;
+    if (vernacularLang !== 'en') {
+      isFallbackEnglish = true;
+    }
   }
-  
+
   const latinText = latin || '';
+
+  // When text is fallback English, mark it with lang="en" so the browser
+  // auto-translate correctly identifies it as needing translation.
+  // Latin text is always marked with translate="no" to protect it.
+  const vernacularLangAttr = isFallbackEnglish ? 'en' : vernacularLang;
 
   if (displayLang === 'la') {
     return (
       <div className={`${className} ${dropCap ? `drop-cap ${seasonColor ? `season-${seasonColor}` : ''}` : ''}`}>
-        <p lang="la">{latinText}</p>
+        <p lang="la" translate="no">{latinText}</p>
       </div>
     );
   }
@@ -36,7 +56,7 @@ export function BilingualText({ latin, vernacular, english, className = '', drop
   if (displayLang === 'vernacular') {
     return (
       <div className={`${className} ${dropCap ? 'drop-cap' : ''}`}>
-        <p>{vernacularText}</p>
+        <p lang={vernacularLangAttr}>{vernacularText}</p>
       </div>
     );
   }
@@ -45,10 +65,10 @@ export function BilingualText({ latin, vernacular, english, className = '', drop
   return (
     <div className={`bilingual-grid ${className}`}>
       <div className={`latin-col ${dropCap ? `drop-cap ${seasonColor ? `season-${seasonColor}` : ''}` : ''}`}>
-        <p lang="la">{latinText}</p>
+        <p lang="la" translate="no">{latinText}</p>
       </div>
-      <div className="english-col">
-        <p>{vernacularText}</p>
+      <div className="vernacular-col">
+        <p lang={vernacularLangAttr}>{vernacularText}</p>
       </div>
     </div>
   );

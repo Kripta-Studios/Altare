@@ -1,5 +1,6 @@
 import { useSettingsStore } from '../store/useSettingsStore';
 import type { ThemeName, TextSize, DisplayLang, VernacularLang } from '../store/useSettingsStore';
+import { useTranslation } from '../lib/i18n';
 
 export default function Settings() {
   const { 
@@ -8,19 +9,20 @@ export default function Settings() {
     displayLang, setDisplayLang,
     vernacularLang, setVernacularLang
   } = useSettingsStore();
+  const { t } = useTranslation();
 
   return (
     <div className="page">
       <div className="page-header animate-fade-in">
-        <h1 style={{ marginBottom: 4 }}>Settings</h1>
-        <p className="page-subtitle">Preferences & Configuration</p>
+        <h1 style={{ marginBottom: 4 }}>{t("Settings")}</h1>
+        <p className="page-subtitle">{t("Preferences & Configuration")}</p>
       </div>
       
       <div className="card animate-slide-up" style={{ marginBottom: 16 }}>
-        <h2 style={{ fontSize: '1.1rem', marginBottom: 12 }}>Appearance</h2>
+        <h2 style={{ fontSize: '1.1rem', marginBottom: 12 }}>{t("Appearance")}</h2>
         
         <div style={{ marginBottom: 16 }}>
-          <label style={{ display: 'block', fontFamily: 'var(--font-ui)', fontSize: '0.85rem', color: 'var(--text-secondary)', marginBottom: 8 }}>Theme</label>
+          <label style={{ display: 'block', fontFamily: 'var(--font-ui)', fontSize: '0.85rem', color: 'var(--text-secondary)', marginBottom: 8 }}>{t("Theme")}</label>
           <div style={{ display: 'flex', gap: 8 }}>
             {(['parchment', 'white', 'walnut'] as ThemeName[]).map(t => (
               <button 

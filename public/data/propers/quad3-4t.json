@@ -3,7 +3,7 @@
   "titleLatin": "Feria Quinta infra Hebdomadam III in Quadragesima",
   "titleVernacular": {
     "en": "Feria Quinta infra Hebdomadam III in Quadragesima",
-    "es": "",
+    "es": "Feria Quinta infra Hebdomadam III en Quadragesima",
     "de": "",
     "fr": "Feria Quinta infra Hebdomadam III in Quadragesima",
     "it": "Feria Quinta infra Hebdomadam III in Quadragesima"
@@ -15,7 +15,7 @@
   "introit": {
     "la": "!\nv. Salus pópuli ego sum, dicit Dóminus: de quacúmque tribulatióne clamáverint ad me, exáudiam eos: et ero illórum Dóminus in perpétuum\n!Ps 77:1\nAtténdite, pópule meus, legem meam: inclináte aurem vestram in verba oris mei.\n&Gloria\nv. Salus pópuli ego sum, dicit Dóminus: de quacúmque tribulatióne clamáverint ad me, exáudiam eos: et ero illórum Dóminus in perpétuum",
     "en": "v. I am the salvation of the people, says the Lord. From whatever tribulation they shall cry to Me, I will hear them; and I will be their Lord forever.\n!Ps 77:1\nHearken, My people, to My teaching; incline your ears to the words of My mouth.\n&Gloria\nv. I am the salvation of the people, says the Lord. From whatever tribulation they shall cry to Me, I will hear them; and I will be their Lord forever.",
-    "es": "",
+    "es": "v. Yo soy la salvación del pueblo, dice el Señor. Desde cualquier tribulación que clamen a mí, yo los oiré; y seré su Señor para siempre.\n!Sal 77:1\nEscuchen, pueblo Mío, Mi enseñanza; inclinad vuestros oídos a las palabras de mi boca.\n&Gloria\nv. Yo soy la salvación del pueblo, dice el Señor. Desde cualquier tribulación que clamen a mí, yo los oiré; y seré su Señor para siempre.",
     "de": "",
     "fr": "!\nv. Je suis le salut du peuple, dit le Seigneur, dans toutes leurs tribulations, s’ils m’invoquent, je les exaucerai et je serai leur Seigneur à jamais.\n!Ps 77:1\nMon peuple, écoutez ma loi ; prêtez l’oreille aux paroles de ma bouche.\n&Gloria\nv. Je suis le salut du peuple, dit le Seigneur, dans toutes leurs tribulations, s’ils m’invoquent, je les exaucerai et je serai leur Seigneur à jamais.",
     "it": "!Ps 77,1\nv. Così dice Iddio Signore: «Io sono la salvezza del popolo mio; in qualunque oppressione, se essi mi invocano, li ascolto, e loro Signore io sarò in eterno».\n!Ps 77:1\nAlla mia legge, popolo mio, sempre il tuo orecchio rivolgi: a quel che ti dice la mia bocca presta attento l'orecchio.\n&Gloria\nv. Così dice Iddio Signore: «Io sono la salvezza del popolo mio; in qualunque oppressione, se essi mi invocano, li ascolto, e loro Signore io sarò in eterno»."
@@ -24,7 +24,7 @@
     {
       "la": "Magníficet te, Dómine, sanctórum tuórum Cosmæ et Damiáni beáta sollémnitas: qua et illis glóriam sempitérnam, et opem nobis ineffábili providéntia contulísti.\n$Per Dominum",
       "en": "May the blessed feast of Your saints, Cosmas and Damian, glorify You, O Lord; for on this day in Your marvelous providence, You gave them glory everlasting, and gave us their help.\n$Per Dominum",
-      "es": "",
+      "es": "Que la bendita fiesta de tus santos, Cosme y Damián, te glorifique, oh Señor; porque en este día, en tu maravillosa providencia, les diste gloria eterna y a nosotros nos diste su ayuda.\n$Por Dominio",
       "de": "",
       "fr": "Qu’elle vous glorifie, Seigneur, la solennité de vos saints Côme et Damien, solennité bienheureuse où vous leur avez donné la gloire éternelle, et nous avez secourus par votre ineffable providence.\n$Per Dominum",
       "it": "O Signore, ti dia lode la solennità dei tuoi Santi Cosma e Damiano: per la quale a loro Tu attribuisci gloria eterna e a noi con ineffabile provvidenza dai soccorso.\n$Per Dominum"
@@ -33,7 +33,7 @@
   "epistle": {
     "la": "Léctio Jeremíæ Prophétæ.\n!Jer 7:1-7\nIn diébus illis: Factum est verbum Dómini ad me, dicens: Sta in porta domus Dómini: et prǽdica ibi verbum istud, et dic: Audíte verbum Dómini, omnis Juda, qui ingredímini per portas has, ut adorétis Dóminum. Hæc dicit Dóminus exercítuum, Deus Israël: Bonas fácite vias vestras et stúdia vestra: et habitábo vobíscum in loco isto. Nolíte confídere in verbis mendácii, dicéntes: Templum Dómini, templum Dómini, templum Dómini est. Quóniam si bene direxéritis vias vestras et stúdia vestra: si fecéritis judícium inter virum et próximum ejus, ádvenæ et pupíllo et víduæ non fecéritis calúmniam, nec sánguinem innocéntem effudéritis in loco hoc, et post deos aliénos non ambulavéritis in malum vobismetípsis: habitábo vobíscum in loco isto, in terra, quam dedi patribus vestris a sǽculo et usque in sǽculum: ait Dóminus omnípotens.",
     "en": "Lesson\n!Jer 7:1-7\nIn those days, the following message came to me from the Lord: Stand at the gate of the house of the Lord, and there proclaim this message: ‘Hear the word of the Lord, all you of Juda who enter these gates to worship the Lord! Thus says the Lord of Hosts, the God of Israel: Reform your ways and your deeds, so that I may remain with you in this place. Put not your trust in the deceitful words: This is the temple of the Lord! The temple of the Lord! The temple of the Lord! Only if you thoroughly reform your ways and your deeds; if each of you deals justly with his neighbor; if you no longer oppress the resident alien, the orphan, and the widow; if you no longer shed innocent blood in this place, or follow strange gods to your own harm, will I remain with you in this place, in the land which I gave your fathers long ago and forever,’ says the Lord almighty.",
-    "es": "",
+    "es": "Lección\n!Jeremías 7:1-7\nEn aquellos días, me llegó el siguiente mensaje de parte del Señor: Párate a la puerta de la casa del Señor y proclama allí este mensaje: “¡Oíd la palabra del Señor, todos los de Judá que entráis por estas puertas para adorar al Señor! Así dice el Señor de los ejércitos, el Dios de Israel: Cambiad vuestros caminos y vuestras obras, para que yo permanezca con vosotros en este lugar. No confiéis en palabras engañosas: ¡Éste es el templo del Señor! ¡El templo del Señor! ¡El templo del Señor! Sólo si reformas a fondo tus caminos y tus obras; si cada uno de vosotros trata con justicia a su prójimo; si ya no oprimís al extranjero residente, al huérfano y a la viuda; Si ya no derramáis sangre inocente en este lugar, ni seguís a dioses extraños para vuestro propio daño, yo permaneceré con vosotros en este lugar, en la tierra que di a vuestros padres desde hace mucho tiempo y para siempre, dice el Señor todopoderoso.",
     "de": "",
     "fr": "Léctio Jeremíæ Prophétæ.\n!Jer 7:1-7\nEn ces jours-là, la parole du Seigneur me fut adressée en ces termes : Tiens-toi à la porte de la maison du Seigneur, et là proclame cette parole, et dis : Écoutez la parole du Seigneur, vous tous, habitants de Juda, qui entrez par ces portes pour adorer le Seigneur. Voici ce que dit le Seigneur des armées, le Dieu d’Israël : Redressez vos voies et vos penchants, et j’habiterai avec vous dans ce lieu. Ne vous fiez pas à des paroles de mensonge, en disant : C’est ici le temple du Seigneur, le temple du Seigneur, le temple du Seigneur ! Car si vous dirigez bien vos voies et vos penchants, si vous rendez justice à l’un comme à l’autre, si vous ne faites pas violence à l’étranger, à l’orphelin et à la veuve, si vous ne répandez pas en ce lieu le sang innocent, et si vous n’allez pas après les dieux étrangers, pour votre malheur, je demeurerai avec vous de siècle en siècle dans ce lieu, sur cette terre que j’ai donnée à vos pères, d’âge en âge, dit le Seigneur tout-puissant.",
     "it": "Dal libro del profeta Geremia.\n!Jer 7:1-7\nLa parola del Signore fu rivolta a Geremia così: «Sta sulla porta del Tempio, ed ivi predica questa parola e di': Udite la parola del Signore, voi tutti di Giuda che entrate per questa porta ad adorare il Signore. Questo dice il Signore degli eserciti, il Dio d'Israele: Emendate i vostri costumi e i vostri affetti, e allora abiterò con voi in questo luogo. Non vi cullate nelle parole vane da voi ripetute: “È il tempio del Signore! il tempio del Signore! il tempio del Signore!” Perché se voi migliorerete i vostri costumi ed affetti, se renderete giustizia tra l'uomo e il suo prossimo, se non opprimerete lo straniero, l'orfano e la vedova; se non spargerete in questo luogo il sangue innocente, se non andrete, per vostra disgrazia, dietro a falsi idoli, allora io abiterò con voi in questo luogo, nella terra che io diedi ai vostri padri per secoli e secoli», dice il Signore onnipotente"
@@ -41,7 +41,7 @@
   "gradual": {
     "la": "!Ps 144:15-16\nOculi ómnium in te sperant, Dómine: et tu das illis escam in témpore opportúno,\nV. Aperis tu manum tuam: et imples omne ánimal benedictióne.",
     "en": "!Ps 144:15-16\nThe eyes of all look hopefully to You, O Lord, and You give them their food in due season.\nV. You open Your hand and satisfy the desire of every living thing.",
-    "es": "",
+    "es": "!Sal 144:15-16\nLos ojos de todos miran esperanzados hacia Ti, oh Señor, y les das su alimento a su debido tiempo.\nV. Abres Tu mano y satisfaces el deseo de todo ser viviente.",
     "de": "",
     "fr": "!Ps 144:15-16\nLes yeux de tous, Seigneur, attendent tournés vers vous, et vous leur donnez la nourriture en son temps.\nV. Vous ouvrez votre main et vous comblez de bénédiction tout ce qui a vie.",
     "it": "!Ps 144:15-16\nGli occhi di tutti ti aspettano, Signore, e tu dai loro da mangiare a suo tempo.\nV. Sei tu che apri la tua mano e sazi con larghezza ogni vivente."
@@ -49,7 +49,7 @@
   "gospel": {
     "la": "Sequéntia ++ sancti Evangélii secúndum Lucam.\n!Luc 4:38-44\nIn illo témpore: Surgens Jesus de synagóga, introívit in domum Simónis. Socrus autem Simónis tenebátur magnis  fébribus: et rogavérunt illum pro ea. Et stans super illam, imperávit febri: et dimísit illam. Et contínuo surgens, ministrábat illis. Cum autem sol occidísset, omnes, qui habébant infírmos váriis languóribus, ducébant illos ad eum. At ille síngulis manus impónens, curábat eos. Exíbant autem dæmónia a multis, clamántia et dicéntia: Quia tu es Fílius Dei; et íncrepans non sinébat ea loqui, quia sciébant ipsum esse Christum. Facta autem die egréssus ibat in desértum locum, et turbæ requirébant eum, et venérunt usque ad ipsum: et detinébant illum, ne discéderet ab eis. Quibus ille ait: Quia et áliis civitátibus opórtet me evangelizáre regnum Dei: quia ídeo missus sum. Et erat prǽdicans in synagógis Galilǽæ.",
     "en": "Continuation of the Holy Gospel according to\n!Lk. 4:38-44\nAt that time, Jesus rose from the synagogue and entered Simon’s house. Now Simon’s mother-in-law was suffering from a great fever, and they besought Him for her. And standing over her He rebuked the fever, and it left her; and she rose at once and began to wait on them. Now when the sun was setting, all who had persons sick with various diseases brought them to Him. And He laid His hands upon each of them and cured them. And devils also came forth from many, crying out and saying, You are the Son of God. And He rebuked them, and did not permit them to speak, because they knew that He was the Christ. Now when it was day, He went out and departed into a desert place. And the crowds were seeking after Him, and they came to Him, and tried to detain Him, that He might not depart from them. But He said to them, To the other towns also I must proclaim the kingdom of God, for this is why I have been sent. And He was preaching in the synagogues of Galilee.",
-    "es": "",
+    "es": "Continuación del Santo Evangelio según\n!Lc. 4:38-44\nEn aquel tiempo, Jesús se levantó de la sinagoga y entró en casa de Simón. La suegra de Simón tenía mucha fiebre y le rogaron por ella. Y poniéndose junto a ella, reprendió la fiebre, y ésta la abandonó; y ella se levantó en seguida y se puso a servirles. Cuando se ponía el sol, todos los que tenían enfermos de diversas enfermedades se los traían. Y puso sus manos sobre cada uno de ellos y los curó. Y también salían de muchos demonios, clamando y diciendo: Tú eres el Hijo de Dios. Y Él los reprendió y no les permitía hablar, porque sabían que él era el Cristo. Cuando ya era de día, salió y se fue a un lugar desierto. Y la gente le buscaba, y viniendo a él, intentaban detenerle para que no se alejara de ellos. Pero él les dijo: También a las demás ciudades debo proclamar el reino de Dios, porque para esto he sido enviado. Y estaba predicando en las sinagogas de Galilea.",
     "de": "",
     "fr": "Sequéntia ++ sancti Evangélii secúndum Lucam.\n!Luc 4:38-44\nEn ce temps-là, Jésus, étant sorti de la synagogue, entra dans la maison de Simon. Or la belle-mère de Simon était retenue par une forte fièvre ; et ils le prièrent pour elle. Alors, debout, auprès d’elle, il commanda à la fièvre, et la fièvre la quitta. Et se levant aussitôt, elle les servait. Lorsque le soleil fut couché, tous ceux qui avaient des malades atteints de diverses maladies les lui amenaient. Et lui, imposant les mains sur chacun d’eux, les guérissait. Et les démons sortaient d’un grand nombre, criant et disant : Vous êtes le Fils de Dieu. Mais il les menaçait, et il ne leur permettait pas de dire qu’ils savaient qu’il était le Christ. Lorsqu’il fut jour, il sortit, et alla dans un lieu désert ; et les foules le cherchaient ; et elles vinrent jusqu’à lui, et elles voulaient le retenir, de peur qu’il ne les quittât. Il leur dit : il faut que j’annonce aussi aux autres villes la bonne nouvelle du royaume de Dieu ; car c’est pour cela que j’ai été envoyé. Et il prêchait dans les synagogues de Galilée.",
     "it": "Seguito ++ del Santo Vangelo secondo Luca.\n!Luc 4:38-44\nIn quel tempo Gesù, uscito dalla sinagoga, entrò in casa di Simone. Or la suocera di Simone era presa da violenta febbre; e gliela raccomandarono. Egli chinatosi verso di lei, comandò alla febbre e ne fu liberata; e alzatasi sull'istante, si mise a servirli. Sul tramontar del sole, quanti avevan infermi di varie malattie li portavano a lui. Ed egli, imposte a ciascuno le mani, li risanava. Uscivano anche i demoni da molti, gridando e dicendo: «Tu sei il Figlio di Dio». Ma egli li sgridava e non lasciava dire loro di sapere che lui era il Cristo. Fattosi poi giorno, uscì per andare in luogo deserto; ma le turbe, andate a cercarlo, giunsero fino a lui e lo volevano trattenere, perché non partisse da loro. Ma egli disse: «Bisogna che annunzi anche alle altre città la buona novella del regno di Dio; ché per questo sono stato mandato». E predicava per le sinagoghe di Galilea."
@@ -57,7 +57,7 @@
   "offertory": {
     "la": "!Ps 137:7\nSi ambulávero in médio tribulatiónis, vivificábis me, Dómine: et super iram inimicórum meorum exténdes manum tuam, et salvum me fáciet déxtera tua.",
     "en": "!Ps 137:7\nThough I walk amid distress, You preserve me, O Lord; against the anger of my enemies You raise Your hand; Your right hand saves me.",
-    "es": "",
+    "es": "!Sal 137:7\nAunque camino en medio de la angustia, Tú me guardas, oh Señor; contra la ira de mis enemigos levantas tu mano; Tu diestra me salva.",
     "de": "",
     "fr": "!Ps 137:7\nSi je marche milieu de la tribulation, Seigneur, vous me rendrez la vie ; étendez votre main contre la fureur de mes ennemis et que votre droite me sauve.",
     "it": "!Ps 137:7\nAnche se procedo in mezzo alle angustie, tu mi fai vivere sempre, Signore: sull'ira del nemico tu stendi la mano e la tua destra mi porge salvezza."
@@ -66,7 +66,7 @@
     {
       "la": "In tuorum, Dómine, pretiósa morte justórum sacrifícium illud offérimus, de quo martýrium sumpsit omne princípium.\n$Per Dominum",
       "en": "We offer You, O Lord, in honor of the meritorious death of Your just ones, this sacrifice which is the source of martyrdom.\n$Per Dominum",
-      "es": "",
+      "es": "Te ofrecemos, oh Señor, en honor de la muerte meritoria de Tus justos, este sacrificio que es fuente del martirio.\n$Por Dominio",
       "de": "",
       "fr": "En mémoire de la mort précieuse de vos justes, nous vous offrons, Seigneur, ce sacrifice qui est le principe de tout martyre.\n$Per Dominum",
       "it": "O Signore, commemorando la preziosa morte dei tuoi santi, ti offriamo il Sacrificio, da cui ogni martirio trasse principio.\n$Per Dominum"
@@ -75,7 +75,7 @@
   "communionAntiphon": {
     "la": "!Ps 118:4-5\nTu mandásti, mandáta tua custodíri nimis: útinam dirigántur viæ meæ, ad custodiéndas justificatiónes tuas.",
     "en": "!Ps 118:4-5\nYou have commanded that Your precepts be diligently kept. Oh, that I might be firm in the ways of keeping Your statutes!",
-    "es": "",
+    "es": "!Sal 118:4-5\nTú has ordenado que tus preceptos se guarden diligentemente. ¡Oh, si pudiera ser firme en la manera de guardar tus estatutos!",
     "de": "",
     "fr": "!Ps 118:4-5\nVous avez ordonné que vos commandements soient très exactement gardés. Puissent mes voies être dirigées de telle sorte que je garde vos ordonnances.",
     "it": "!Ps 118:4-5\nTu hai ordinato i tuoi precetti perché si osservino molto. Che siano sicuri i miei passi nell'osservare i tuoi statuti."
@@ -84,7 +84,7 @@
     {
       "la": "Sit nobis, Dómine, sacraménti tui certa salvátio: quæ cum beatórum Mártyrum tuórum Cosmæ et Damiáni méritis implorátur.\n$Per Dominum",
       "en": "O Lord, we ask You through the merits of Your blessed martyrs, Cosmas and Damian, that Your holy sacrament will assure us of salvation.\n$Per Dominum",
-      "es": "",
+      "es": "Oh Señor, te pedimos por los méritos de tus benditos mártires Cosme y Damián, que tu santo sacramento nos asegure la salvación.\n$Por Dominio",
       "de": "",
       "fr": "Ô Seigneur, que le fruit salutaire de ce sacrement nous soit assuré, car il est imploré en évoquant le souvenir des mérites de vos bienheureux Martyrs Côme et Damien.\n$Per Dominum",
       "it": "O Signore, questo sacramento operi in noi per davvero quella salvezza, che imploriamo in grazia dei meriti dei tuoi martiri Cosma e Damiano.\n$Per Dominum"

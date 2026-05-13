@@ -4,17 +4,25 @@ import { BilingualText } from '../components/ui/BilingualText';
 interface Prayer {
   id: string;
   titleLatin: string;
-  titleEnglish: string;
+  titleEnglish?: string;
+  titleVernacular?: Record<string, string>;
   occasions: string[];
   latin: string;
-  english: string;
+  english?: string;
+  vernacular?: Record<string, string>;
 }
+
+import { useSettingsStore } from '../store/useSettingsStore';
+import { useTranslation } from '../lib/i18n';
 
 export default function Prayers() {
   const [prayers, setPrayers] = useState<Prayer[]>([]);
   const [loading, setLoading] = useState(true);
   const [filter, setFilter] = useState<string>('all');
   const [expandedId, setExpandedId] = useState<string | null>(null);
+  
+  const vernacularLang = useSettingsStore((s) => s.vernacularLang);
+  const { t } = useTranslation();
 
   useEffect(() => {
     async function loadPrayers() {
@@ -42,8 +50,8 @@ export default function Prayers() {
   return (
     <div className="page">
       <div className="page-header animate-fade-in">
-        <h1 style={{ marginBottom: 4 }}>Prayers</h1>
-        <p className="page-subtitle">Traditional Devotions</p>
+        <h1 style={{ marginBottom: 4 }}>{t("Prayers")}</h1>
+        <p className="page-subtitle">{t("Traditional Devotions")}</p>
       </div>
       
       <div className="chip-scroll animate-slide-up" style={{ marginBottom: 16 }}>
@@ -54,13 +62,13 @@ export default function Prayers() {
             onClick={() => setFilter(occ)}
             style={{ border: 'none', cursor: 'pointer' }}
           >
-            {occ.replace('-', ' ')}
+            {t(occ.replace('-', ' '))}
           </button>
         ))}
       </div>
 
       {loading ? (
-        <div style={{ textAlign: 'center', padding: '2rem', color: 'var(--text-muted)' }}>Loading...</div>
+        <div style={{ textAlign: 'center', padding: '2rem', color: 'var(--text-muted)' }}>{t("Loading...")}</div>
       ) : (
         <div style={{ display: 'grid', gap: 12 }}>
           {filtered.map((prayer) => {
@@ -73,7 +81,7 @@ export default function Prayers() {
                 >
                   <div>
                     <h3 style={{ margin: '0 0 4px', fontSize: '1.1rem', color: 'var(--accent)', fontFamily: 'var(--font-display)' }}>
-                      {prayer.titleEnglish}
+                      {prayer.titleVernacular?.[vernacularLang] || prayer.titleVernacular?.['en'] || prayer.titleEnglish}
                     </h3>
                     <p style={{ fontFamily: 'var(--font-body)', fontSize: '0.9rem', color: 'var(--text-secondary)', fontStyle: 'italic', margin: 0 }} lang="la">
                       {prayer.titleLatin}
@@ -88,6 +96,7 @@ export default function Prayers() {
                   <div style={{ marginTop: '1.5rem', borderTop: '1px solid var(--border)', paddingTop: '1rem' }} className="animate-fade-in">
                     <BilingualText 
                       latin={prayer.latin}
+                      vernacular={prayer.vernacular}
                       english={prayer.english}
                       dropCap={true}
                     />

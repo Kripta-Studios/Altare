@@ -80,6 +80,7 @@ export const useSettingsStore = create<SettingsState>((set) => ({
   },
 
   setVernacularLang: (vernacularLang) => {
+    document.documentElement.lang = vernacularLang;
     persist('vernacularLang', vernacularLang);
     set({ vernacularLang });
   },
@@ -112,6 +113,7 @@ export const useSettingsStore = create<SettingsState>((set) => ({
     document.documentElement.setAttribute('data-theme', theme);
     document.documentElement.setAttribute('data-text-size', textSize);
     document.documentElement.style.setProperty('--text-darkness', String(textDarkness));
+    document.documentElement.lang = vernacularLang;
 
     set({ theme, textSize, textDarkness, displayLang, vernacularLang, rubricYear, penanceDiscipline, patronSaint, loaded: true });
   },

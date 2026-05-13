@@ -1,4 +1,5 @@
 import { NavLink } from 'react-router-dom';
+import { useTranslation } from '../../lib/i18n';
 
 const navItems = [
   {
@@ -64,6 +65,7 @@ const navItems = [
 ];
 
 export function BottomNav() {
+  const { t } = useTranslation();
   return (
     <nav className="bottom-nav" role="navigation" aria-label="Main navigation">
       {navItems.map((item) => (
@@ -72,10 +74,10 @@ export function BottomNav() {
           to={item.to}
           end={item.to === '/'}
           className={({ isActive }) => `nav-item ${isActive ? 'active' : ''}`}
-          aria-label={item.label}
+          aria-label={t(item.label)}
         >
           {item.icon}
-          <span>{item.label}</span>
+          <span>{t(item.label)}</span>
         </NavLink>
       ))}
     </nav>

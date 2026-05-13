@@ -3,7 +3,7 @@
   "titleLatin": "Dominica in Palmis",
   "titleVernacular": {
     "en": "Dominica in Palmis",
-    "es": "Dominica in Palmis",
+    "es": "Dominica en Palmis",
     "de": "Palmsonntag",
     "fr": "Dominica in Palmis",
     "it": "Dominica in Palmis"
@@ -49,7 +49,7 @@
   "gospel": {
     "la": "@:Evangelium1\n@:Evangelium2\n@:Evangelium3\n@:Evangelium4",
     "en": "@:Evangelium1\n@:Evangelium2\n@:Evangelium3\n@:Evangelium4",
-    "es": "@:Evangelium1\n@:Evangelium2\n@:Evangelium3\n@:Evangelium4",
+    "es": "@:Evangelio1\n@:Evangelio2\n@:Evangelio3\n@:Evangelio4",
     "de": "",
     "fr": "@:Evangelium1\n@:Evangelium2\n@:Evangelium3\n@:Evangelium4",
     "it": "@:Evangelium1\n@:Evangelium2\n@:Evangelium3\n@:Evangelium4"

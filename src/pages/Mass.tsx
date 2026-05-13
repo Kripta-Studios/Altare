@@ -6,6 +6,8 @@ interface ProperData {
   id: string;
   titleLatin: string;
   titleVernacular: Record<string, string>;
+  hasGloria?: boolean;
+  hasCredo?: boolean;
   introit: { la: string } & Record<string, string>;
   collect: ({ la: string } & Record<string, string>)[];
   epistle: { la: string } & Record<string, string>;
@@ -17,16 +19,25 @@ interface ProperData {
   postcommunion: ({ la: string } & Record<string, string>)[];
 }
 
+interface OrdoData {
+  id: string;
+  [key: string]: any;
+}
+
 import { useSettingsStore } from '../store/useSettingsStore';
+import { useTranslation } from '../lib/i18n';
 
 export default function Mass() {
   const today = useMemo(() => getToday(), []);
   const litDay = useMemo(() => getLiturgicalDay(today), [today]);
   const vernacularLang = useSettingsStore((s) => s.vernacularLang);
+  const { t } = useTranslation();
   
   const [proper, setProper] = useState<ProperData | null>(null);
+  const [ordo, setOrdo] = useState<OrdoData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [showOrdinary, setShowOrdinary] = useState(true);
 
   useEffect(() => {
     async function loadMass() {
@@ -43,6 +54,12 @@ export default function Mass() {
         const properData = await properRes.json();
         setProper(properData);
 
+        const ordoRes = await fetch(`/data/ordinary/ordo.json`);
+        if (ordoRes.ok) {
+          const ordoData = await ordoRes.json();
+          setOrdo(ordoData);
+        }
+
       } catch (err: any) {
         setError(err.message);
       } finally {
@@ -56,7 +73,7 @@ export default function Mass() {
   if (loading) {
     return (
       <div className="page" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-        <p style={{ fontFamily: 'var(--font-ui)', color: 'var(--text-muted)' }}>Loading Missal...</p>
+        <p style={{ fontFamily: 'var(--font-ui)', color: 'var(--text-muted)' }}>{t("Loading Missal...")}</p>
       </div>
     );
   }
@@ -65,11 +82,11 @@ export default function Mass() {
     return (
       <div className="page">
         <div className="page-header">
-          <h1>Holy Mass</h1>
-          <p className="page-subtitle">Error loading texts</p>
+          <h1>{t("Holy Mass")}</h1>
+          <p className="page-subtitle">{t("Error loading texts")}</p>
         </div>
         <div className="card" style={{ color: 'var(--accent)' }}>
-          <p>{error || 'Proper not found for today.'}</p>
+          <p>{error || t("Proper not found for today.")}</p>
         </div>
       </div>
     );
@@ -94,17 +111,80 @@ export default function Mass() {
         </p>
       </div>
 
-      <div className="card animate-slide-up" style={{ marginBottom: 16 }}>
-        <h2 style={{ fontSize: '1.2rem', marginBottom: '1rem', color: 'var(--accent)', fontFamily: 'var(--font-display)' }}>
-          Introitus
-        </h2>
-        <BilingualText 
-          latin={formatDOText(proper.introit?.la)}
-          vernacular={proper.introit}
-          dropCap={true}
-          seasonColor={litDay.color}
-        />
-      </div>
+        <div style={{ display: 'flex', justifyContent: 'flex-end', marginBottom: '1rem' }}>
+          <button 
+            onClick={() => setShowOrdinary(!showOrdinary)}
+            className="chip active"
+            style={{ opacity: showOrdinary ? 1 : 0.6 }}
+          >
+            {showOrdinary ? t("Hide Ordinary") : t("Show Full Mass")}
+          </button>
+        </div>
+
+        {showOrdinary && ordo && (
+          <div className="card animate-slide-up" style={{ marginBottom: 16 }}>
+            <h2 style={{ fontSize: '1.2rem', marginBottom: '1rem', color: 'var(--accent)', fontFamily: 'var(--font-display)', textAlign: 'center' }}>
+              Oraciones al pie del Altar
+            </h2>
+            <BilingualText latin={ordo.signumCrucis?.la} vernacular={ordo.signumCrucis?.vernacular} />
+            <BilingualText latin={ordo.introibo?.la} vernacular={ordo.introibo?.vernacular} />
+            <BilingualText latin={ordo.adDeum?.la} vernacular={ordo.adDeum?.vernacular} />
+            
+            {/* Omit Ps 42 in Passiontide and Requiems. Simplified for now */}
+            <div className="rubric">{t("Psalm 42 (Omitted in Passiontide and Requiem)")}</div>
+            <BilingualText latin={ordo.judicaMe?.la} vernacular={ordo.judicaMe?.vernacular} />
+            
+            <BilingualText latin={ordo.adjutorium?.la} vernacular={ordo.adjutorium?.vernacular} />
+            <div className="rubric">{t("Priest's Confession")}</div>
+            <BilingualText latin={ordo.confiteorSacerdos?.la} vernacular={ordo.confiteorSacerdos?.vernacular} />
+            <BilingualText latin={ordo.misereaturSacerdos?.la} vernacular={ordo.misereaturSacerdos?.vernacular} />
+            
+            <div className="rubric">{t("Ministers' Confession")}</div>
+            <BilingualText latin={ordo.confiteorMinistri?.la} vernacular={ordo.confiteorMinistri?.vernacular} />
+            <BilingualText latin={ordo.misereaturMinistri?.la} vernacular={ordo.misereaturMinistri?.vernacular} />
+            <BilingualText latin={ordo.indulgentiam?.la} vernacular={ordo.indulgentiam?.vernacular} />
+            
+            <BilingualText latin={ordo.versicles1?.la} vernacular={ordo.versicles1?.vernacular} />
+            
+            <div className="rubric">{t("Ascending the Altar")}</div>
+            <BilingualText latin={ordo.auferANobis?.la} vernacular={ordo.auferANobis?.vernacular} />
+            <BilingualText latin={ordo.oramusTe?.la} vernacular={ordo.oramusTe?.vernacular} />
+          </div>
+        )}
+
+        <div className="card animate-slide-up" style={{ marginBottom: 16 }}>
+          <h2 style={{ fontSize: '1.2rem', marginBottom: '1rem', color: 'var(--accent)', fontFamily: 'var(--font-display)' }}>
+            Introitus
+          </h2>
+          <BilingualText 
+            latin={formatDOText(proper.introit?.la)}
+            vernacular={proper.introit}
+            dropCap={true}
+            seasonColor={litDay.color}
+          />
+        </div>
+
+        {showOrdinary && ordo && (
+          <div className="card animate-slide-up" style={{ marginBottom: 16 }}>
+            <h2 style={{ fontSize: '1.2rem', marginBottom: '1rem', color: 'var(--accent)', fontFamily: 'var(--font-display)' }}>
+              Kyrie Eleison
+            </h2>
+            <BilingualText latin={ordo.kyrie?.la} vernacular={ordo.kyrie?.vernacular} />
+            
+            {proper.hasGloria && (
+              <>
+                <h2 style={{ fontSize: '1.2rem', margin: '1.5rem 0 1rem', color: 'var(--accent)', fontFamily: 'var(--font-display)' }}>
+                  Glória in excélsis
+                </h2>
+                <BilingualText latin={ordo.gloria?.la} vernacular={ordo.gloria?.vernacular} dropCap={true} seasonColor={litDay.color} />
+              </>
+            )}
+            
+            <div style={{ marginTop: '1rem' }}>
+              <BilingualText latin={ordo.dominusVobiscum?.la} vernacular={ordo.dominusVobiscum?.vernacular} />
+            </div>
+          </div>
+        )}
 
       <div className="card animate-slide-up" style={{ marginBottom: 16 }}>
         <h2 style={{ fontSize: '1.2rem', marginBottom: '1rem', color: 'var(--accent)', fontFamily: 'var(--font-display)' }}>
@@ -134,7 +214,7 @@ export default function Mass() {
 
       <div className="card animate-slide-up" style={{ marginBottom: 16 }}>
         <h2 style={{ fontSize: '1.2rem', marginBottom: '1rem', color: 'var(--accent)', fontFamily: 'var(--font-display)' }}>
-          Graduale
+          Graduale & Alleluia
         </h2>
         <BilingualText 
           latin={formatDOText(proper.gradual?.la)}
@@ -142,6 +222,14 @@ export default function Mass() {
           dropCap={true}
         />
       </div>
+
+      {showOrdinary && ordo && (
+        <div className="card animate-slide-up" style={{ marginBottom: 16 }}>
+          <div className="rubric">{t("Before the Gospel")}</div>
+          <BilingualText latin={ordo.mundaCor?.la} vernacular={ordo.mundaCor?.vernacular} />
+          <BilingualText latin={ordo.evangeliumIntro?.la} vernacular={ordo.evangeliumIntro?.vernacular} />
+        </div>
+      )}
 
       <div className="card animate-slide-up" style={{ marginBottom: 16 }}>
         <h2 style={{ fontSize: '1.2rem', marginBottom: '1rem', color: 'var(--accent)', fontFamily: 'var(--font-display)' }}>
@@ -152,17 +240,59 @@ export default function Mass() {
           vernacular={proper.gospel}
           dropCap={true}
         />
+        {showOrdinary && ordo && (
+          <div style={{ marginTop: '1rem' }}>
+            <BilingualText latin={ordo.lausTibiChriste?.la} vernacular={ordo.lausTibiChriste?.vernacular} />
+          </div>
+        )}
       </div>
+
+      {showOrdinary && ordo && proper.hasCredo && (
+        <div className="card animate-slide-up" style={{ marginBottom: 16 }}>
+          <h2 style={{ fontSize: '1.2rem', marginBottom: '1rem', color: 'var(--accent)', fontFamily: 'var(--font-display)' }}>
+            Credo
+          </h2>
+          <BilingualText latin={ordo.credo?.la} vernacular={ordo.credo?.vernacular} dropCap={true} seasonColor={litDay.color} />
+          <div style={{ marginTop: '1rem' }}>
+            <BilingualText latin={ordo.dominusVobiscum?.la} vernacular={ordo.dominusVobiscum?.vernacular} />
+          </div>
+        </div>
+      )}
 
       <div className="card animate-slide-up" style={{ marginBottom: 16 }}>
         <h2 style={{ fontSize: '1.2rem', marginBottom: '1rem', color: 'var(--accent)', fontFamily: 'var(--font-display)' }}>
           Offertorium
         </h2>
+        
+        {showOrdinary && ordo && (
+          <div style={{ marginBottom: '1rem' }}>
+            <BilingualText latin={ordo.dominusVobiscum?.la} vernacular={ordo.dominusVobiscum?.vernacular} />
+          </div>
+        )}
+
         <BilingualText 
           latin={formatDOText(proper.offertory?.la)}
           vernacular={proper.offertory}
           dropCap={true}
         />
+
+        {showOrdinary && ordo && (
+          <div style={{ marginTop: '1rem' }}>
+            <div className="rubric">{t("Offering of the Bread")}</div>
+            <BilingualText latin={ordo.suscripeSanctePater?.la} vernacular={ordo.suscripeSanctePater?.vernacular} />
+            <div className="rubric">{t("Preparation of the Chalice")}</div>
+            <BilingualText latin={ordo.deusQuiHumanae?.la} vernacular={ordo.deusQuiHumanae?.vernacular} />
+            <div className="rubric">{t("Offering of the Chalice")}</div>
+            <BilingualText latin={ordo.offerimusTibi?.la} vernacular={ordo.offerimusTibi?.vernacular} />
+            <BilingualText latin={ordo.inSpirituHumilitatis?.la} vernacular={ordo.inSpirituHumilitatis?.vernacular} />
+            <div className="rubric">{t("Lavabo")}</div>
+            <BilingualText latin={ordo.lavabo?.la} vernacular={ordo.lavabo?.vernacular} />
+            <div className="rubric">{t("Prayer to the Holy Trinity")}</div>
+            <BilingualText latin={ordo.suscipeSanctaTrinitas?.la} vernacular={ordo.suscipeSanctaTrinitas?.vernacular} />
+            <div className="rubric">{t("Orate Fratres")}</div>
+            <BilingualText latin={ordo.orateFratres?.la} vernacular={ordo.orateFratres?.vernacular} />
+          </div>
+        )}
       </div>
 
       <div className="card animate-slide-up" style={{ marginBottom: 16 }}>
@@ -178,6 +308,81 @@ export default function Mass() {
             />
           </div>
         ))}
+
+        {showOrdinary && ordo && (
+          <div style={{ marginTop: '1rem' }}>
+            <h2 style={{ fontSize: '1.2rem', margin: '1.5rem 0 1rem', color: 'var(--accent)', fontFamily: 'var(--font-display)' }}>
+              Præfatio
+            </h2>
+            <BilingualText latin={ordo.sursumCorda?.la} vernacular={ordo.sursumCorda?.vernacular} />
+            <BilingualText 
+              latin={ordo.prefaceTrinitatis?.la} 
+              vernacular={ordo.prefaceTrinitatis?.vernacular} 
+              dropCap={true} 
+            />
+            
+            <h2 style={{ fontSize: '1.2rem', margin: '1.5rem 0 1rem', color: 'var(--accent)', fontFamily: 'var(--font-display)' }}>
+              Sanctus
+            </h2>
+            <BilingualText latin={ordo.sanctus?.la} vernacular={ordo.sanctus?.vernacular} dropCap={true} />
+            
+            <h2 style={{ fontSize: '1.2rem', margin: '1.5rem 0 1rem', color: 'var(--accent)', fontFamily: 'var(--font-display)' }}>
+              Canon Missæ
+            </h2>
+            <div className="rubric">{t("General Intercession")}</div>
+            <BilingualText latin={ordo.teIgitur?.la} vernacular={ordo.teIgitur?.vernacular} dropCap={true} />
+            <div className="rubric">{t("Commemoration of the Living")}</div>
+            <BilingualText latin={ordo.mementoVivi?.la} vernacular={ordo.mementoVivi?.vernacular} />
+            <BilingualText latin={ordo.communicantes?.la} vernacular={ordo.communicantes?.vernacular} />
+            
+            <div className="rubric">{t("Consecration")}</div>
+            <BilingualText latin={ordo.hancIgitur?.la} vernacular={ordo.hancIgitur?.vernacular} />
+            <BilingualText latin={ordo.quamOblationem?.la} vernacular={ordo.quamOblationem?.vernacular} />
+            <BilingualText latin={ordo.quiPridie?.la} vernacular={ordo.quiPridie?.vernacular} />
+            <BilingualText latin={ordo.similiModo?.la} vernacular={ordo.similiModo?.vernacular} />
+            
+            <div className="rubric">{t("Offering of the Sacrifice")}</div>
+            <BilingualText latin={ordo.undeEtMemores?.la} vernacular={ordo.undeEtMemores?.vernacular} />
+            <BilingualText latin={ordo.supraQuae?.la} vernacular={ordo.supraQuae?.vernacular} />
+            <BilingualText latin={ordo.supplicesTeRogamus?.la} vernacular={ordo.supplicesTeRogamus?.vernacular} />
+            
+            <div className="rubric">{t("Commemoration of the Dead")}</div>
+            <BilingualText latin={ordo.mementoDefuncti?.la} vernacular={ordo.mementoDefuncti?.vernacular} />
+            <BilingualText latin={ordo.nobisQuoque?.la} vernacular={ordo.nobisQuoque?.vernacular} />
+            <BilingualText latin={ordo.perQuem?.la} vernacular={ordo.perQuem?.vernacular} />
+            
+            <h2 style={{ fontSize: '1.2rem', margin: '1.5rem 0 1rem', color: 'var(--accent)', fontFamily: 'var(--font-display)' }}>
+              Pater Noster & Agnus Dei
+            </h2>
+            <BilingualText latin={ordo.paterNoster?.la} vernacular={ordo.paterNoster?.vernacular} dropCap={true} />
+            <BilingualText latin={ordo.liberaNos?.la} vernacular={ordo.liberaNos?.vernacular} />
+            <BilingualText latin={ordo.paxDomini?.la} vernacular={ordo.paxDomini?.vernacular} />
+            <BilingualText latin={ordo.haecCommixtio?.la} vernacular={ordo.haecCommixtio?.vernacular} />
+            
+            <div style={{ marginTop: '1rem' }}>
+              <BilingualText latin={ordo.agnusDei?.la} vernacular={ordo.agnusDei?.vernacular} />
+            </div>
+            
+            <div className="rubric" style={{ marginTop: '1rem' }}>{t("Prayers for Communion")}</div>
+            <BilingualText latin={ordo.domineJesuChristeQuiDixisti?.la} vernacular={ordo.domineJesuChristeQuiDixisti?.vernacular} />
+            <BilingualText latin={ordo.domineJesuChristeFiliDei?.la} vernacular={ordo.domineJesuChristeFiliDei?.vernacular} />
+            <BilingualText latin={ordo.perceptioCorporis?.la} vernacular={ordo.perceptioCorporis?.vernacular} />
+            
+            <div className="rubric" style={{ marginTop: '1rem' }}>{t("Priest's Communion")}</div>
+            <BilingualText latin={ordo.panemCaelestem?.la} vernacular={ordo.panemCaelestem?.vernacular} />
+            <BilingualText latin={ordo.corpusDomini?.la} vernacular={ordo.corpusDomini?.vernacular} />
+            <BilingualText latin={ordo.quidRetribuam?.la} vernacular={ordo.quidRetribuam?.vernacular} />
+            <BilingualText latin={ordo.sanguisDomini?.la} vernacular={ordo.sanguisDomini?.vernacular} />
+            
+            <div className="rubric" style={{ marginTop: '1rem' }}>{t("Communion of the Faithful")}</div>
+            <BilingualText latin={ordo.ecceAgnusDei?.la} vernacular={ordo.ecceAgnusDei?.vernacular} />
+            <BilingualText latin={ordo.corpusDominiPopulo?.la} vernacular={ordo.corpusDominiPopulo?.vernacular} />
+            
+            <div className="rubric" style={{ marginTop: '1rem' }}>{t("Purification of the Chalice")}</div>
+            <BilingualText latin={ordo.quodOre?.la} vernacular={ordo.quodOre?.vernacular} />
+            <BilingualText latin={ordo.corpusTuum?.la} vernacular={ordo.corpusTuum?.vernacular} />
+          </div>
+        )}
       </div>
 
       <div className="card animate-slide-up" style={{ marginBottom: 16 }}>
@@ -204,6 +409,22 @@ export default function Mass() {
             />
           </div>
         ))}
+        
+        {showOrdinary && ordo && (
+          <div style={{ marginTop: '1rem' }}>
+            <h2 style={{ fontSize: '1.2rem', margin: '1.5rem 0 1rem', color: 'var(--accent)', fontFamily: 'var(--font-display)' }}>
+              Conclusio
+            </h2>
+            <BilingualText latin={ordo.iteMissaEst?.la} vernacular={ordo.iteMissaEst?.vernacular} />
+            <BilingualText latin={ordo.placeatTibi?.la} vernacular={ordo.placeatTibi?.vernacular} />
+            <BilingualText latin={ordo.benedicatVos?.la} vernacular={ordo.benedicatVos?.vernacular} />
+            
+            <h2 style={{ fontSize: '1.2rem', margin: '1.5rem 0 1rem', color: 'var(--accent)', fontFamily: 'var(--font-display)' }}>
+              {t("Last Gospel")}
+            </h2>
+            <BilingualText latin={ordo.initiumEvangelii?.la} vernacular={ordo.initiumEvangelii?.vernacular} dropCap={true} />
+          </div>
+        )}
       </div>
       
       <div style={{ textAlign: 'center', padding: '2rem 1rem', color: 'var(--text-muted)' }}>

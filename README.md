@@ -10,6 +10,7 @@ Features offline-first capabilities, automated liturgical calendar resolution, d
 - **Routing:** HashRouter (Ensures flawless navigation in static/PWA environments)
 - **Storage:** Dexie.js (IndexedDB) for persistent settings and streaks
 - **Data Source:** Divinum Officium (Extracted to static JSON files)
+- **Liturgy Integration:** Full Ordo Missae and Daily Propers with local automatic translation scripts.
 
 ## Local Development & Installation
 
@@ -22,6 +23,10 @@ Features offline-first capabilities, automated liturgical calendar resolution, d
    ```bash
    node scripts/parse-divinum.js
    node scripts/generate-missing-data.js
+   node scripts/auto-translate.js
+   node scripts/build-ordo.js
+   node scripts/translate-ordo.js
+   node scripts/translate-prayers.js
    ```
 
 3. **Start the Development Server:**
@@ -33,41 +38,68 @@ Features offline-first capabilities, automated liturgical calendar resolution, d
 
 ## 🚀 Guía de Despliegue en VPS (Producción)
 
-Dado que **Altare** es una aplicación PWA *completamente estática* (no tiene backend ni base de datos externa), **NO necesitas crear un archivo `.service` de systemd**, ni necesitas mantener a Node.js corriendo con `npm run preview`. Caddy es un servidor web excelente y puede servir los archivos estáticos de forma nativa con un rendimiento máximo.
+Dado que **Altare** es una aplicación PWA *completamente estática* (no requiere base de datos ni backend en ejecución permanente), el despliegue es muy sencillo. No necesitas servicios de Systemd ni dejar Node.js corriendo.
 
-### Paso 1: Generar los archivos de Producción (En tu PC local o en el VPS)
-Abre la terminal en la carpeta del proyecto y ejecuta:
-```bash
-npm install
-node scripts/parse-divinum.js
-node scripts/generate-missing-data.js
-npm run build
+### Paso 1: Clonar y compilar la aplicación (En el VPS)
+1. Clona el repositorio en tu servidor:
+   ```bash
+   git clone https://github.com/tu-usuario/altare.git /opt/altare
+   cd /opt/altare
+   ```
+2. Instala las dependencias y genera los datos (incluyendo la traducción automática de textos faltantes):
+   ```bash
+   npm install
+   node scripts/parse-divinum.js
+   node scripts/generate-missing-data.js
+   node scripts/auto-translate.js
+   node scripts/build-ordo.js
+   node scripts/translate-ordo.js
+   node scripts/translate-prayers.js
+   ```
+3. Genera la versión final optimizada para producción:
+   ```bash
+   npm run build
+   ```
+   Esto generará la carpeta `dist/` con todos los archivos estáticos necesarios.
+
+### Paso 2: Configurar el Servidor Web
+
+Puedes usar cualquier servidor web. Al usar `HashRouter` (navegación con `#`), no necesitas reglas complejas de reescritura.
+
+#### Opción A: Usando Nginx (Recomendado)
+Crea un archivo de configuración para tu dominio en `/etc/nginx/sites-available/altare`:
+```nginx
+server {
+    listen 80;
+    server_name misal.midominio.com; # Cambia por tu dominio
+
+    root /opt/altare/dist;
+    index index.html;
+
+    location / {
+        try_files $uri $uri/ =404;
+    }
+}
 ```
-Esto generará una carpeta llamada **`dist/`**. Esta carpeta contiene TODA la aplicación (HTML, CSS, JS, JSONs y el Service Worker).
+Habilita el sitio y reinicia Nginx:
+```bash
+sudo ln -s /etc/nginx/sites-available/altare /etc/nginx/sites-enabled/
+sudo systemctl reload nginx
+```
 
-### Paso 2: Subir los archivos al VPS
-Crea una carpeta en tu servidor, por ejemplo en `/home/NexIA/Altare`, y copia el contenido de la carpeta `dist/` dentro. 
-*(Si hiciste el `npm run build` directamente dentro del servidor VPS, asegúrate de que Caddy apunte a esa carpeta `dist`).*
-
-### Paso 3: Configurar el Caddyfile
-Abre tu `/etc/caddy/Caddyfile` y añade una nueva ruta en la sección de "Webs Estáticas" que ya tienes. 
-Como hemos diseñado la aplicación usando `HashRouter`, la navegación funciona a la perfección sin necesidad de reglas complejas de reescritura de URL.
-
-Añade este bloque a tu `Caddyfile` actual:
-
+#### Opción B: Usando Caddy (Ideal para HTTPS automático)
+Si tienes un subdirectorio (ej. `misal.midominio.com/altare`), añade esto a tu `/etc/caddy/Caddyfile`:
 ```caddyfile
-    # Aplicación Altare (Traditional Latin Mass PWA)
+    # Aplicación Altare
     handle_path /altare/* {
-        root * /home/NexIA/Altare/dist
+        root * /opt/altare/dist
         file_server
     }
 ```
-
-### Paso 4: Recargar Caddy
-Una vez guardado el `Caddyfile`, aplica los cambios en el servidor:
+Recarga Caddy:
 ```bash
 sudo systemctl reload caddy
 ```
 
-¡Y listo! La aplicación estará disponible en `https://gex-dashboard.hopto.org/altare/`. 
-Cualquier usuario que entre con el móvil podrá darle a "Instalar aplicación" y se guardará en su teléfono para usarla 100% offline.
+### Paso 3: Disfrutar
+¡Listo! Cualquier usuario que entre desde su móvil verá la opción de "Instalar aplicación" (Añadir a la pantalla de inicio) para usar el Misal 100% offline.

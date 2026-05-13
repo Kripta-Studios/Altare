@@ -235,7 +235,7 @@ h3 { font-size: 1.1rem; line-height: 1.4; }
 }
 
 .bilingual-grid.latin-only,
-.bilingual-grid.english-only {
+.bilingual-grid.vernacular-only {
   grid-template-columns: 1fr;
 }
 
@@ -246,7 +246,7 @@ h3 { font-size: 1.1rem; line-height: 1.4; }
 }
 
 .bilingual-grid.latin-only .latin-col,
-.bilingual-grid.english-only .english-col {
+.bilingual-grid.vernacular-only .vernacular-col {
   border-right: none;
   padding-right: 0;
 }
