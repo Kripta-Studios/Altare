@@ -4,6 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
+  base: "/altare/",
   plugins: [
     react(),
     tailwindcss(),
@@ -40,6 +41,5 @@ export default defineConfig({
         ]
       }
     })
-  ],
-  base: '/'
+  ]
 })
