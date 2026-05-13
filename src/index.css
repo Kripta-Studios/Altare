@@ -123,13 +123,13 @@ html {
   scroll-behavior: smooth;
   -webkit-text-size-adjust: 100%;
   overscroll-behavior: none;
+  filter: brightness(var(--text-darkness));
 }
 
 body {
   font-family: var(--font-body);
   background-color: var(--bg-primary);
   color: var(--text-primary);
-  filter: brightness(var(--text-darkness));
   margin: 0;
   padding: 0;
   min-height: 100dvh;
